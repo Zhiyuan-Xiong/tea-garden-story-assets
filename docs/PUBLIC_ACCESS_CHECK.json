@@ -1,0 +1,62 @@
+{
+  "repository": "https://github.com/Zhiyuan-Xiong/tea-garden-story-assets",
+  "public": true,
+  "anonymousAssetChecks": [
+    {
+      "file": "assets/source/11_Godot项目/茶园物语/fonts/NotoSansSC-VF.ttf",
+      "anonymousStatus": 200,
+      "bytes": 17773244,
+      "sha256Matches": true
+    },
+    {
+      "file": "previews/game-home.webp",
+      "anonymousStatus": 200,
+      "bytes": 243760,
+      "sha256Matches": true
+    },
+    {
+      "file": "previews/village-current.webp",
+      "anonymousStatus": 200,
+      "bytes": 291460,
+      "sha256Matches": true
+    },
+    {
+      "file": "previews/garden-current.webp",
+      "anonymousStatus": 200,
+      "bytes": 289308,
+      "sha256Matches": true
+    },
+    {
+      "file": "previews/workshop-current.webp",
+      "anonymousStatus": 200,
+      "bytes": 319364,
+      "sha256Matches": true
+    },
+    {
+      "file": "previews/teashop-current.webp",
+      "anonymousStatus": 200,
+      "bytes": 292770,
+      "sha256Matches": true
+    },
+    {
+      "file": "previews/layout-current.webp",
+      "anonymousStatus": 200,
+      "bytes": 293304,
+      "sha256Matches": true
+    },
+    {
+      "file": "previews/summary.webp",
+      "anonymousStatus": 200,
+      "bytes": 148118,
+      "sha256Matches": true
+    }
+  ],
+  "largeZipAnonymousHeadStatus": 200,
+  "treeFiles": 2355,
+  "allManifestFilesPresent": true,
+  "oldFontsInPublicTree": false,
+  "privateArchiveAnonymousStatus": 404,
+  "oldPrivateCommitNotAvailableInPublicRepository": true,
+  "validatedContentCommit": "833856eaede6ce2d30ca1c1233b7a56d6321f37c",
+  "date": "2026-10-10"
+}

@@ -89,7 +89,7 @@ PNG、JPG、音视频、字体、GIF 和 ZIP 使用 Git LFS，避免把大二进
 
 ```sh
 git lfs install
-gh repo clone Zhiyuan-Xiong/tea-garden-story-assets
+git clone https://github.com/Zhiyuan-Xiong/tea-garden-story-assets.git
 cd tea-garden-story-assets
 git lfs pull
 python scripts/verify_repository.py
@@ -119,6 +119,6 @@ git push
 
 ## 本次整理范围
 
-原目录 3005 个文件中，保留 2272 个资料文件；排除 729 个缓存／快捷方式和 4 个旧字体／导入文件，另补充公开字体、字体配置和实机展示副本。未发现需要上传的密钥，未压缩或降低素材质量。所有发布文件均记录 SHA-256；2 份字体适配文件额外保留原文件校验值。公开前单独验证字体和工程启动，本次不代表重新执行全部历史游戏测试。
+原目录 3005 个文件中，保留 2272 个资料文件；排除 729 个缓存／快捷方式和 4 个旧字体／导入文件，另补充公开字体、字体配置和实机展示副本。未发现需要上传的密钥，未压缩或降低素材质量。清单所列素材均记录 SHA-256；2 份字体适配文件额外保留原文件校验值。公开前单独验证字体和工程启动，本次不代表重新执行全部历史游戏测试。
 
 Noto Sans SC 遵循随附 OFL 1.1，背景音乐沿用现有署名；项目素材保留各自来源。公开展示不自动授予项目素材的再发行或商业使用权限。公开项目介绍和工作流位于[求职总仓库](https://github.com/Zhiyuan-Xiong/xiongzhiyuan-portfolio)，公开网页使用已经整理的展示资源。

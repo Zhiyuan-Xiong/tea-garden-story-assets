@@ -3,7 +3,7 @@
   "sourceFiles": 3005,
   "sourceFilesCopied": 2272,
   "excludedFiles": 733,
-  "publicAdditions": 13,
+  "publicAdditions": 15,
   "sourceBytesCopied": 1793875818,
   "allCopiedHashesVerified": true,
   "largeFilesViaLFS": [
@@ -14,13 +14,18 @@
   ],
   "largeFilesOmitted": [],
   "noSourceFilesMovedModifiedOrDeleted": true,
-  "visibility": "public release prepared privately",
-  "gitHubPushVerified": false,
+  "visibility": "public",
+  "gitHubPushVerified": true,
   "fontPolicy": "Noto Sans SC / OFL 1.1; two original fonts and their import files excluded",
   "historyPolicy": "Fresh public repository; previous complete history retained in private archive",
   "sourceAdaptations": [
     "assets/source/11_Godot项目/茶园物语/scripts/ui/ui_kit.gd",
     "assets/source/PROJECT_HANDOFF.md"
   ],
-  "publicValidation": "PUBLIC_QA.json"
+  "publicValidation": "PUBLIC_QA.json",
+  "repository": "https://github.com/Zhiyuan-Xiong/tea-garden-story-assets",
+  "publishedContentCommit": "833856eaede6ce2d30ca1c1233b7a56d6321f37c",
+  "lfsObjectsUploaded": 724,
+  "privateArchivePreserved": true,
+  "anonymousAccessVerified": true
 }

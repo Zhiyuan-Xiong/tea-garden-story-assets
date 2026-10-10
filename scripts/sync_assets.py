@@ -108,7 +108,7 @@ def main():
     with (ROOT/'docs/ASSET_INDEX.csv').open('w',encoding='utf-8-sig',newline='') as stream:
         writer=csv.writer(stream);writer.writerow(['原始路径','仓库实际路径','格式','字节数','SHA256','说明'])
         for row in allrows:writer.writerow([row['source'],row['repository'],Path(row['source']).suffix,row['bytes'],row['sha256'],row.get('status','原始文件')])
-        for row in manifest.get('additions',[]):writer.writerow(['公开版新增',row['repository'],Path(row['repository']).suffix,row['bytes'],row['sha256'],'公开字体或实机展示副本'])
+        for row in manifest.get('additions',[]):writer.writerow(['公开版新增',row['repository'],Path(row['repository']).suffix,row['bytes'],row['sha256'],'公开版补充：字体、展示或工程导入配置'])
     with (ROOT/'docs/EXCLUDED_FILES.csv').open('w',encoding='utf-8-sig',newline='') as stream:
         writer=csv.writer(stream);writer.writerow(['原始路径','字节数','排除原因'])
         for row in excluded:writer.writerow([row['source'],row['bytes'],row['reason']])

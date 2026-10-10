@@ -17378,6 +17378,16 @@
       "repository": "assets/source/11_Godot项目/茶园物语/fonts/NotoSansSC-VF.ttf.import",
       "bytes": 770,
       "sha256": "0b10e78bf1a4cad31aec6dabe91d0a3ac8471e699ec0a3cd018939251c955458"
+    },
+    {
+      "repository": "assets/source/11_Godot项目/茶园物语/tests/test_music.gd.uid",
+      "bytes": 19,
+      "sha256": "1bcb7fd0909f88e089408c786406c3ae1e3cdd9c3b3bba7b41a076042fc8c36b"
+    },
+    {
+      "repository": "assets/source/07_工艺与手记/.gitkeep",
+      "bytes": 93,
+      "sha256": "d759c53c067a2683fa3f8497e2fd563cfdaeb93cbd3a8c543c5a11df6d6818ec"
     }
   ]
 }
