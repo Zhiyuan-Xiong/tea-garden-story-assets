@@ -1,0 +1,360 @@
+{
+  "video_quality_passed": true,
+  "source_is_original_Godot_render": true,
+  "videos": [
+    {
+      "room": "home",
+      "samples": [
+        {
+          "frame": 0,
+          "mean_absolute_rgb_error": 1.8476,
+          "psnr_db": 40.57,
+          "mean_rgb_bias": [
+            -1.020300030708313,
+            -1.4404000043869019,
+            -1.628999948501587
+          ]
+        },
+        {
+          "frame": 60,
+          "mean_absolute_rgb_error": 1.8546,
+          "psnr_db": 40.46,
+          "mean_rgb_bias": [
+            -1.013700008392334,
+            -1.4543999433517456,
+            -1.596500039100647
+          ]
+        },
+        {
+          "frame": 120,
+          "mean_absolute_rgb_error": 1.8593,
+          "psnr_db": 40.43,
+          "mean_rgb_bias": [
+            -1.0154000520706177,
+            -1.454800009727478,
+            -1.5986000299453735
+          ]
+        },
+        {
+          "frame": 180,
+          "mean_absolute_rgb_error": 1.8543,
+          "psnr_db": 40.48,
+          "mean_rgb_bias": [
+            -1.0127999782562256,
+            -1.4565999507904053,
+            -1.5999000072479248
+          ]
+        },
+        {
+          "frame": 239,
+          "mean_absolute_rgb_error": 1.8563,
+          "psnr_db": 40.45,
+          "mean_rgb_bias": [
+            -1.0096999406814575,
+            -1.4529999494552612,
+            -1.5920000076293945
+          ]
+        }
+      ]
+    },
+    {
+      "room": "loading",
+      "samples": [
+        {
+          "frame": 0,
+          "mean_absolute_rgb_error": 1.6102,
+          "psnr_db": 41.19,
+          "mean_rgb_bias": [
+            -0.8855999708175659,
+            -1.1780999898910522,
+            -1.5652999877929688
+          ]
+        },
+        {
+          "frame": 60,
+          "mean_absolute_rgb_error": 1.5945,
+          "psnr_db": 40.99,
+          "mean_rgb_bias": [
+            -0.8529000282287598,
+            -1.1485999822616577,
+            -1.5156999826431274
+          ]
+        },
+        {
+          "frame": 120,
+          "mean_absolute_rgb_error": 1.5991,
+          "psnr_db": 40.95,
+          "mean_rgb_bias": [
+            -0.8511999845504761,
+            -1.148800015449524,
+            -1.5124000310897827
+          ]
+        },
+        {
+          "frame": 180,
+          "mean_absolute_rgb_error": 1.6043,
+          "psnr_db": 40.95,
+          "mean_rgb_bias": [
+            -0.8597999811172485,
+            -1.1553000211715698,
+            -1.527500033378601
+          ]
+        },
+        {
+          "frame": 239,
+          "mean_absolute_rgb_error": 1.6128,
+          "psnr_db": 40.91,
+          "mean_rgb_bias": [
+            -0.8652999997138977,
+            -1.1657999753952026,
+            -1.5299999713897705
+          ]
+        }
+      ]
+    },
+    {
+      "room": "village",
+      "samples": [
+        {
+          "frame": 0,
+          "mean_absolute_rgb_error": 1.731,
+          "psnr_db": 40.88,
+          "mean_rgb_bias": [
+            -1.0372999906539917,
+            -1.2233999967575073,
+            -1.3984999656677246
+          ]
+        },
+        {
+          "frame": 60,
+          "mean_absolute_rgb_error": 1.7314,
+          "psnr_db": 40.78,
+          "mean_rgb_bias": [
+            -1.0099999904632568,
+            -1.2416000366210938,
+            -1.3438999652862549
+          ]
+        },
+        {
+          "frame": 120,
+          "mean_absolute_rgb_error": 1.735,
+          "psnr_db": 40.73,
+          "mean_rgb_bias": [
+            -1.007099986076355,
+            -1.2431000471115112,
+            -1.340999960899353
+          ]
+        },
+        {
+          "frame": 180,
+          "mean_absolute_rgb_error": 1.7308,
+          "psnr_db": 40.79,
+          "mean_rgb_bias": [
+            -1.016700029373169,
+            -1.2380000352859497,
+            -1.3492000102996826
+          ]
+        },
+        {
+          "frame": 239,
+          "mean_absolute_rgb_error": 1.7362,
+          "psnr_db": 40.74,
+          "mean_rgb_bias": [
+            -1.0077999830245972,
+            -1.2454999685287476,
+            -1.3444000482559204
+          ]
+        }
+      ]
+    },
+    {
+      "room": "garden",
+      "samples": [
+        {
+          "frame": 0,
+          "mean_absolute_rgb_error": 1.7104,
+          "psnr_db": 41.19,
+          "mean_rgb_bias": [
+            -1.0485999584197998,
+            -1.31850004196167,
+            -1.4847999811172485
+          ]
+        },
+        {
+          "frame": 60,
+          "mean_absolute_rgb_error": 1.7101,
+          "psnr_db": 41.13,
+          "mean_rgb_bias": [
+            -1.0282000303268433,
+            -1.337399959564209,
+            -1.448099970817566
+          ]
+        },
+        {
+          "frame": 120,
+          "mean_absolute_rgb_error": 1.7149,
+          "psnr_db": 41.08,
+          "mean_rgb_bias": [
+            -1.0250999927520752,
+            -1.3387999534606934,
+            -1.4416999816894531
+          ]
+        },
+        {
+          "frame": 180,
+          "mean_absolute_rgb_error": 1.7084,
+          "psnr_db": 41.15,
+          "mean_rgb_bias": [
+            -1.0283000469207764,
+            -1.3343000411987305,
+            -1.4467999935150146
+          ]
+        },
+        {
+          "frame": 239,
+          "mean_absolute_rgb_error": 1.7158,
+          "psnr_db": 41.08,
+          "mean_rgb_bias": [
+            -1.0288000106811523,
+            -1.3387000560760498,
+            -1.444700002670288
+          ]
+        }
+      ]
+    },
+    {
+      "room": "workshop",
+      "samples": [
+        {
+          "frame": 0,
+          "mean_absolute_rgb_error": 1.7412,
+          "psnr_db": 41.11,
+          "mean_rgb_bias": [
+            -1.0887000560760498,
+            -1.3315000534057617,
+            -1.5333000421524048
+          ]
+        },
+        {
+          "frame": 60,
+          "mean_absolute_rgb_error": 1.727,
+          "psnr_db": 41.12,
+          "mean_rgb_bias": [
+            -1.055299997329712,
+            -1.3359999656677246,
+            -1.4746999740600586
+          ]
+        },
+        {
+          "frame": 120,
+          "mean_absolute_rgb_error": 1.7315,
+          "psnr_db": 41.08,
+          "mean_rgb_bias": [
+            -1.056399941444397,
+            -1.3359999656677246,
+            -1.4735000133514404
+          ]
+        },
+        {
+          "frame": 180,
+          "mean_absolute_rgb_error": 1.7286,
+          "psnr_db": 41.11,
+          "mean_rgb_bias": [
+            -1.0616999864578247,
+            -1.3336999416351318,
+            -1.4859999418258667
+          ]
+        },
+        {
+          "frame": 239,
+          "mean_absolute_rgb_error": 1.7293,
+          "psnr_db": 41.09,
+          "mean_rgb_bias": [
+            -1.055799961090088,
+            -1.3353999853134155,
+            -1.4697999954223633
+          ]
+        }
+      ]
+    },
+    {
+      "room": "teashop",
+      "samples": [
+        {
+          "frame": 0,
+          "mean_absolute_rgb_error": 1.6587,
+          "psnr_db": 41.46,
+          "mean_rgb_bias": [
+            -0.9761000275611877,
+            -1.232200026512146,
+            -1.5269999504089355
+          ]
+        },
+        {
+          "frame": 60,
+          "mean_absolute_rgb_error": 1.6434,
+          "psnr_db": 41.49,
+          "mean_rgb_bias": [
+            -0.9448999762535095,
+            -1.2310999631881714,
+            -1.4930000305175781
+          ]
+        },
+        {
+          "frame": 120,
+          "mean_absolute_rgb_error": 1.6432,
+          "psnr_db": 41.49,
+          "mean_rgb_bias": [
+            -0.9449999928474426,
+            -1.2314000129699707,
+            -1.4917999505996704
+          ]
+        },
+        {
+          "frame": 180,
+          "mean_absolute_rgb_error": 1.6438,
+          "psnr_db": 41.49,
+          "mean_rgb_bias": [
+            -0.9452999830245972,
+            -1.2311999797821045,
+            -1.4936000108718872
+          ]
+        },
+        {
+          "frame": 239,
+          "mean_absolute_rgb_error": 1.6435,
+          "psnr_db": 41.49,
+          "mean_rgb_bias": [
+            -0.9445000290870667,
+            -1.231600046157837,
+            -1.4924999475479126
+          ]
+        }
+      ]
+    }
+  ],
+  "gif_previews": [
+    {
+      "room": "home",
+      "size": [
+        960,
+        540
+      ],
+      "frames": 240,
+      "loop": 0,
+      "duration_ms": 8000,
+      "bytes": 3274081
+    },
+    {
+      "room": "loading",
+      "size": [
+        960,
+        540
+      ],
+      "frames": 240,
+      "loop": 0,
+      "duration_ms": 8000,
+      "bytes": 2937140
+    }
+  ]
+}

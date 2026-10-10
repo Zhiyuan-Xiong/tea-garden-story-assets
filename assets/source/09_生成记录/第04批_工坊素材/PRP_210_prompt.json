@@ -1,0 +1,22 @@
+{
+  "id": "PRP_210",
+  "category": "06_道具与图标",
+  "functionArea": "制茶工坊",
+  "label": "木凳",
+  "plannedFile": "prp_workshop_stool_v001.png",
+  "batch": "04_工坊素材",
+  "targetSize": "1024×1024",
+  "status": "待生成",
+  "actualSize": "",
+  "relativePath": "",
+  "remarks": "单体家具",
+  "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-e231ee79-1609-4913-a267-16d31467400c.png",
+  "prompt": "Create one isolated production-ready 2D game sprite for 茶园物语. Chinese ink and pale watercolor hand-painted style, restrained thin warm-grey brush outlines, clean broad washes, very sparse material marks. Match the approved reference palette: ivory, muted bamboo beige, pale brown, sage/tea green, charcoal grey. No noise, no paper grain, no dense texture, no muddy wash, no photographic surface, no oversaturation. Parallel axonometric camera, elevated view; long horizontal ground axis slopes up-right about 26 degrees, perpendicular short axis down-right about 30 degrees; verticals remain vertical, no vanishing points. Soft material shading only, no ground/shadow plate. TRUE transparent alpha background; no background color, no checkerboard drawn in image. One complete centered object with generous transparent margin. No scene, people, text, labels, UI, decorations or unrelated objects. Figma image is only palette/brush and workshop object inspiration; never reproduce its whole room, baked UI or people. Basket reference is palette and controlled brushwork only. Requested canvas is 1024x1024 unless stated otherwise.\nSUBJECT: One simple small wooden workshop stool, rectangular flat seat made of two broad planks, four straight short square legs, simple low braces. Match worktable pale bamboo-brown wood palette and clean restrained outline exactly. Same elevated parallel axonometric camera; seat long edges rise right at26degrees, short edges fall right30degrees, legs vertical; no vanishing point, no fisheye. Entire stool visible centered on1024x1024 transparentcanvas, no items on it, no ground/shadow, no decoration, no extra stools.",
+  "mode": "built-in image_gen",
+  "references": [
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\06_道具与图标\\prp_rolling_table_v001.png",
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\02_地形与植物\\ter_path_stone_straight_v001.png"
+  ],
+  "savedPath": "06_道具与图标/prp_workshop_stool_v001.png",
+  "destination": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\06_道具与图标\\prp_workshop_stool_v001.png"
+}

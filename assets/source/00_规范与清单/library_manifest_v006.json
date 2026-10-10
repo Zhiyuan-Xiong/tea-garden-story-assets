@@ -1,0 +1,4211 @@
+{
+  "project": "茶园物语",
+  "updated": "2026-10-08",
+  "scope": "逐批生产独立透明PNG；已完成茶园、通用UI与工坊素材。保留历史修订版本，不搭建Godot。",
+  "figmaFileKey": "1cPCIaLhLXtaOPqhBSUQ67",
+  "sampleAssets": [
+    {
+      "id": "TER_101",
+      "name": "ter_soil_plot_empty_v001",
+      "relativePath": "02_地形与植物/ter_soil_plot_empty_v001.png",
+      "status": "风格已认可／保留样稿v001",
+      "label": "空土地底块",
+      "purpose": "独立土地层，茶树另行摆放",
+      "width": 1536,
+      "height": 1024,
+      "alphaCheck": {
+        "cornersTransparent": true,
+        "transparentPixels": 1065529,
+        "borderNonzeroPixels": 9
+      },
+      "sha256": "6FA4AE7B5A9D8F16E815E882A3D450E4D7D42F8AA59E7982927E4861B8DA8F88",
+      "reviewNotes": "风格已获用户认可；未完成 Godot 摆放/对位验收；部分外围有极低 alpha 像素，尚未做最终边缘精修。"
+    },
+    {
+      "id": "PLT_101",
+      "name": "plt_tea_bush_mature_v002",
+      "relativePath": "02_地形与植物/plt_tea_bush_mature_v002.png",
+      "status": "已修订v002",
+      "label": "成熟茶树",
+      "purpose": "独立植物层，不带土地",
+      "width": 1254,
+      "height": 1254,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 968429,
+        "borderNonzeroPixels": 7
+      },
+      "sha256": "57cfc5cb8d375de6a371ce4006b5998e19e835b9a1d6a2f35f54263c873d5227",
+      "reviewNotes": "高拱密实树冠，更多且更醒目的浅色一芽两叶。真实alpha透明PNG；原始尺寸与根部位置另存，未做Godot引擎摆放验收。",
+      "visibleBBoxAlpha16": [
+        28,
+        255,
+        1241,
+        1061
+      ],
+      "rootApprox": [
+        642,
+        1061
+      ],
+      "revision": "茶树状态v002",
+      "previousVersions": [
+        {
+          "relativePath": "02_地形与植物/plt_tea_bush_mature_v001.png",
+          "width": 1254,
+          "height": 1254,
+          "sha256": "48F32B751209860261CD942A84A919511C84A601159CF26C0B9DFDFED9EC8175"
+        }
+      ]
+    },
+    {
+      "id": "UI_001",
+      "name": "ui_popup_base_v001",
+      "relativePath": "04_UI组件/ui_popup_base_v001.png",
+      "status": "风格已认可／保留样稿v001",
+      "label": "通用弹窗底板",
+      "purpose": "无文字、无按钮的固定尺寸底板",
+      "width": 1536,
+      "height": 1024,
+      "alphaCheck": {
+        "cornersTransparent": true,
+        "transparentPixels": 456674,
+        "borderNonzeroPixels": 0
+      },
+      "sha256": "A9486DB109870A769EF3DC71E49AF6AA8B63D4575AF5B827DC3CCB41152FDB96",
+      "reviewNotes": "风格已获用户认可；未完成 Godot 摆放/对位验收；部分外围有极低 alpha 像素，尚未做最终边缘精修。"
+    },
+    {
+      "id": "CHR_001",
+      "name": "chr_protagonist_portrait_neutral_v001",
+      "relativePath": "05_人物/chr_protagonist_portrait_neutral_v001.png",
+      "status": "风格已认可／保留样稿v001",
+      "label": "主角对话立绘",
+      "purpose": "静态全身立绘，保留原角色识别特征",
+      "width": 1024,
+      "height": 1536,
+      "alphaCheck": {
+        "cornersTransparent": true,
+        "transparentPixels": 1040476,
+        "borderNonzeroPixels": 0
+      },
+      "sha256": "9C12E7054C9DF5AEA8981DEB107660CEE5DD3EC7276F3045A7F52CF669AE7911",
+      "reviewNotes": "风格已获用户认可；未完成 Godot 摆放/对位验收；部分外围有极低 alpha 像素，尚未做最终边缘精修。"
+    },
+    {
+      "id": "PRP_101",
+      "name": "prp_bamboo_basket_empty_v001",
+      "relativePath": "06_道具与图标/prp_bamboo_basket_empty_v001.png",
+      "status": "风格已认可／保留样稿v001",
+      "label": "空竹篓",
+      "purpose": "空道具，鲜叶后续单独叠加",
+      "width": 1254,
+      "height": 1254,
+      "alphaCheck": {
+        "cornersTransparent": true,
+        "transparentPixels": 936920,
+        "borderNonzeroPixels": 22
+      },
+      "sha256": "8FBDEC08719CC4838B205F1221A42BD848F7231EA0F384208E7433CD723F9D6B",
+      "reviewNotes": "风格已获用户认可；未完成 Godot 摆放/对位验收；部分外围有极低 alpha 像素，尚未做最终边缘精修。"
+    }
+  ],
+  "plan": [
+    {
+      "id": "TER_101",
+      "category": "02_地形与植物",
+      "functionArea": "茶园",
+      "label": "空土地底块",
+      "plannedFile": "ter_soil_plot_empty_v001.png",
+      "batch": "01_风格样稿",
+      "targetSize": "1536×1024",
+      "status": "风格已认可／保留样稿v001",
+      "actualSize": "1536×1024",
+      "relativePath": "02_地形与植物/ter_soil_plot_empty_v001.png",
+      "remarks": "独立土地层，茶树另行摆放；风格已认可，待最终引擎摆放验证"
+    },
+    {
+      "id": "PLT_101",
+      "category": "02_地形与植物",
+      "functionArea": "茶园",
+      "label": "成熟茶树",
+      "plannedFile": "plt_tea_bush_mature_v002.png",
+      "batch": "01_风格样稿",
+      "targetSize": "1254×1254",
+      "status": "已修订v002／透明检查通过",
+      "actualSize": "1254×1254",
+      "relativePath": "02_地形与植物/plt_tea_bush_mature_v002.png",
+      "remarks": "高拱密实树冠，更多且更醒目的浅色一芽两叶。画布与根部位置参考另存。"
+    },
+    {
+      "id": "UI_001",
+      "category": "04_UI组件",
+      "functionArea": "通用UI",
+      "label": "通用弹窗底板",
+      "plannedFile": "ui_popup_base_v001.png",
+      "batch": "01_风格样稿",
+      "targetSize": "1536×1024",
+      "status": "风格已认可／保留样稿v001",
+      "actualSize": "1536×1024",
+      "relativePath": "04_UI组件/ui_popup_base_v001.png",
+      "remarks": "无文字、无按钮的固定尺寸底板；风格已认可，待最终引擎摆放验证"
+    },
+    {
+      "id": "CHR_001",
+      "category": "05_人物",
+      "functionArea": "人物",
+      "label": "主角对话立绘",
+      "plannedFile": "chr_protagonist_portrait_neutral_v001.png",
+      "batch": "01_风格样稿",
+      "targetSize": "1024×1536",
+      "status": "风格已认可／保留样稿v001",
+      "actualSize": "1024×1536",
+      "relativePath": "05_人物/chr_protagonist_portrait_neutral_v001.png",
+      "remarks": "静态全身立绘，保留原角色识别特征；风格已认可，待最终引擎摆放验证"
+    },
+    {
+      "id": "PRP_101",
+      "category": "06_道具与图标",
+      "functionArea": "茶园工具",
+      "label": "空竹篓",
+      "plannedFile": "prp_bamboo_basket_empty_v001.png",
+      "batch": "01_风格样稿",
+      "targetSize": "1254×1254",
+      "status": "风格已认可／保留样稿v001",
+      "actualSize": "1254×1254",
+      "relativePath": "06_道具与图标/prp_bamboo_basket_empty_v001.png",
+      "remarks": "空道具，鲜叶后续单独叠加；风格已认可，待最终引擎摆放验证"
+    },
+    {
+      "id": "PLT_102",
+      "category": "02_地形与植物",
+      "functionArea": "茶园",
+      "label": "茶树幼苗",
+      "plannedFile": "plt_tea_bush_seedling_v002.png",
+      "batch": "02_茶园素材",
+      "targetSize": "1024×1024",
+      "status": "已修订v002／透明检查通过",
+      "actualSize": "1254×1254",
+      "relativePath": "02_地形与植物/plt_tea_bush_seedling_v002.png",
+      "remarks": "小株少叶，幼苗轮廓；与成年茶树拉开体量和叶片数量。画布与根部位置参考另存。"
+    },
+    {
+      "id": "PLT_103",
+      "category": "02_地形与植物",
+      "functionArea": "茶园",
+      "label": "茶树生长中",
+      "plannedFile": "plt_tea_bush_growing_v002.png",
+      "batch": "02_茶园素材",
+      "targetSize": "1024×1024",
+      "status": "已修订v002／透明检查通过",
+      "actualSize": "1349×1166",
+      "relativePath": "02_地形与植物/plt_tea_bush_growing_v002.png",
+      "remarks": "树冠分成疏朗叶簇，分枝与簇间空隙明显。画布与根部位置参考另存。"
+    },
+    {
+      "id": "PLT_104",
+      "category": "02_地形与植物",
+      "functionArea": "茶园",
+      "label": "茶树采摘后",
+      "plannedFile": "plt_tea_bush_harvested_v002.png",
+      "batch": "02_茶园素材",
+      "targetSize": "1024×1024",
+      "status": "已修订v002／透明检查通过",
+      "actualSize": "1254×1254",
+      "relativePath": "02_地形与植物/plt_tea_bush_harvested_v002.png",
+      "remarks": "低平树冠，去掉浅色嫩芽，上段分枝更明显，健康树体保留。画布与根部位置参考另存。"
+    },
+    {
+      "id": "TER_102",
+      "category": "02_地形与植物",
+      "functionArea": "茶园",
+      "label": "土路直段",
+      "plannedFile": "ter_path_earth_straight_v001.png",
+      "batch": "02_茶园素材",
+      "targetSize": "1536×1024",
+      "status": "已生成v001／透明检查通过",
+      "actualSize": "1536×1024",
+      "relativePath": "02_地形与植物/ter_path_earth_straight_v001.png",
+      "remarks": "独立道路，不带植物石墙；原始尺寸已记录"
+    },
+    {
+      "id": "TER_103",
+      "category": "02_地形与植物",
+      "functionArea": "茶园",
+      "label": "石路直段",
+      "plannedFile": "ter_path_stone_straight_v001.png",
+      "batch": "02_茶园素材",
+      "targetSize": "1536×1024",
+      "status": "已生成v001／透明检查通过",
+      "actualSize": "1536×1024",
+      "relativePath": "02_地形与植物/ter_path_stone_straight_v001.png",
+      "remarks": "单独地面路径，统一轴测方向；原始尺寸已记录"
+    },
+    {
+      "id": "TER_104",
+      "category": "02_地形与植物",
+      "functionArea": "茶园",
+      "label": "低矮挡土石墙",
+      "plannedFile": "ter_retaining_wall_v002.png",
+      "batch": "02_茶园素材",
+      "targetSize": "1536×1024",
+      "status": "已修订v002／透明检查通过",
+      "actualSize": "1536×1024",
+      "relativePath": "02_地形与植物/ter_retaining_wall_v002.png",
+      "remarks": "顶面两组方向已与石路接近；独立透明石墙，旧v001保留。"
+    },
+    {
+      "id": "TER_105",
+      "category": "02_地形与植物",
+      "functionArea": "茶园",
+      "label": "景观石",
+      "plannedFile": "ter_rock_sage_v001.png",
+      "batch": "02_茶园素材",
+      "targetSize": "1024×1024",
+      "status": "已生成v001／透明检查通过",
+      "actualSize": "1254×1254",
+      "relativePath": "02_地形与植物/ter_rock_sage_v001.png",
+      "remarks": "一个独立石头；原始尺寸已记录"
+    },
+    {
+      "id": "PLT_105",
+      "category": "02_地形与植物",
+      "functionArea": "茶园",
+      "label": "竹丛",
+      "plannedFile": "plt_bamboo_cluster_v001.png",
+      "batch": "02_茶园素材",
+      "targetSize": "1024×1536",
+      "status": "已生成v001／透明检查通过",
+      "actualSize": "1024×1536",
+      "relativePath": "02_地形与植物/plt_bamboo_cluster_v001.png",
+      "remarks": "植物单体，无土无盆；原始尺寸已记录"
+    },
+    {
+      "id": "PRP_102",
+      "category": "06_道具与图标",
+      "functionArea": "茶园",
+      "label": "种子布袋",
+      "plannedFile": "prp_seed_bag_v001.png",
+      "batch": "02_茶园素材",
+      "targetSize": "1024×1024",
+      "status": "已生成v001／透明检查通过",
+      "actualSize": "1254×1254",
+      "relativePath": "06_道具与图标/prp_seed_bag_v001.png",
+      "remarks": "基础茶树种植材料，不按红绿乌龙茶分类；原始尺寸已记录"
+    },
+    {
+      "id": "PRP_103",
+      "category": "06_道具与图标",
+      "functionArea": "茶园",
+      "label": "鲜叶",
+      "plannedFile": "prp_fresh_tea_leaves_v001.png",
+      "batch": "02_茶园素材",
+      "targetSize": "1024×1024",
+      "status": "已生成v001／透明检查通过",
+      "actualSize": "1254×1254",
+      "relativePath": "06_道具与图标/prp_fresh_tea_leaves_v001.png",
+      "remarks": "一份独立鲜叶资源，无容器；原始尺寸已记录"
+    },
+    {
+      "id": "PRP_104",
+      "category": "06_道具与图标",
+      "functionArea": "茶园",
+      "label": "肥料布袋",
+      "plannedFile": "prp_fertilizer_bag_v001.png",
+      "batch": "02_茶园素材",
+      "targetSize": "1024×1024",
+      "status": "已生成v001／透明检查通过",
+      "actualSize": "1254×1254",
+      "relativePath": "06_道具与图标/prp_fertilizer_bag_v001.png",
+      "remarks": "首版一类肥料，无文字；原始尺寸已记录"
+    },
+    {
+      "id": "PRP_105",
+      "category": "06_道具与图标",
+      "functionArea": "茶园",
+      "label": "采摘说明书",
+      "plannedFile": "prp_picking_manual_closed_v001.png",
+      "batch": "02_茶园素材",
+      "targetSize": "1024×1024",
+      "status": "已生成v001／透明检查通过",
+      "actualSize": "1254×1254",
+      "relativePath": "06_道具与图标/prp_picking_manual_closed_v001.png",
+      "remarks": "无嵌入标题文字；原始尺寸已记录"
+    },
+    {
+      "id": "PRP_106",
+      "category": "06_道具与图标",
+      "functionArea": "茶园",
+      "label": "背包道具",
+      "plannedFile": "prp_satchel_v001.png",
+      "batch": "02_茶园素材",
+      "targetSize": "1024×1024",
+      "status": "已生成v001／透明检查通过",
+      "actualSize": "1254×1254",
+      "relativePath": "06_道具与图标/prp_satchel_v001.png",
+      "remarks": "独立布包，与角色佩戴布包分用途；原始尺寸已记录"
+    },
+    {
+      "id": "ICO_101",
+      "category": "06_道具与图标",
+      "functionArea": "茶园",
+      "label": "种子入口图标",
+      "plannedFile": "ico_seeds_v001.png",
+      "batch": "02_茶园素材",
+      "targetSize": "512×512",
+      "status": "已生成v001／透明检查通过",
+      "actualSize": "1254×1254",
+      "relativePath": "06_道具与图标/ico_seeds_v001.png",
+      "remarks": "单独插画图标，不含圆底与标签；原始尺寸已记录"
+    },
+    {
+      "id": "ICO_102",
+      "category": "06_道具与图标",
+      "functionArea": "茶园",
+      "label": "背包入口图标",
+      "plannedFile": "ico_inventory_v001.png",
+      "batch": "02_茶园素材",
+      "targetSize": "512×512",
+      "status": "已生成v001／透明检查通过",
+      "actualSize": "1254×1254",
+      "relativePath": "06_道具与图标/ico_inventory_v001.png",
+      "remarks": "单独插画图标；原始尺寸已记录"
+    },
+    {
+      "id": "ICO_103",
+      "category": "06_道具与图标",
+      "functionArea": "茶园",
+      "label": "茶篓入口图标",
+      "plannedFile": "ico_basket_v001.png",
+      "batch": "02_茶园素材",
+      "targetSize": "512×512",
+      "status": "已生成v001／透明检查通过",
+      "actualSize": "1254×1254",
+      "relativePath": "06_道具与图标/ico_basket_v001.png",
+      "remarks": "少量简化竹编细节；原始尺寸已记录"
+    },
+    {
+      "id": "ICO_104",
+      "category": "06_道具与图标",
+      "functionArea": "茶园",
+      "label": "化肥入口图标",
+      "plannedFile": "ico_fertilizer_v001.png",
+      "batch": "02_茶园素材",
+      "targetSize": "512×512",
+      "status": "已生成v001／透明检查通过",
+      "actualSize": "1254×1254",
+      "relativePath": "06_道具与图标/ico_fertilizer_v001.png",
+      "remarks": "肥料内容区别种子袋；原始尺寸已记录"
+    },
+    {
+      "id": "ICO_105",
+      "category": "06_道具与图标",
+      "functionArea": "茶园",
+      "label": "说明书入口图标",
+      "plannedFile": "ico_picking_manual_v001.png",
+      "batch": "02_茶园素材",
+      "targetSize": "512×512",
+      "status": "已生成v001／透明检查通过",
+      "actualSize": "1254×1254",
+      "relativePath": "06_道具与图标/ico_picking_manual_v001.png",
+      "remarks": "无文字；原始尺寸已记录"
+    },
+    {
+      "id": "UI_002",
+      "category": "04_UI组件",
+      "functionArea": "通用UI",
+      "label": "标题题签底板",
+      "plannedFile": "ui_title_plaque_v001.png",
+      "batch": "03_UI组件",
+      "targetSize": "1024×512",
+      "status": "已生成v001／主体透明检查通过",
+      "actualSize": "1536×1024",
+      "relativePath": "04_UI组件/ui_title_plaque_v001.png",
+      "remarks": "无字，标题由引擎显示；保留原始尺寸，UI显示区域参考另存。"
+    },
+    {
+      "id": "UI_003",
+      "category": "04_UI组件",
+      "functionArea": "通用UI",
+      "label": "物品卡片底板",
+      "plannedFile": "ui_item_card_v001.png",
+      "batch": "03_UI组件",
+      "targetSize": "768×1024",
+      "status": "已生成v001／主体透明检查通过",
+      "actualSize": "1024×1536",
+      "relativePath": "04_UI组件/ui_item_card_v001.png",
+      "remarks": "不带物品、数量、品质；保留原始尺寸，UI显示区域参考另存。"
+    },
+    {
+      "id": "UI_004",
+      "category": "04_UI组件",
+      "functionArea": "通用UI",
+      "label": "卡片选择描边",
+      "plannedFile": "ui_item_selection_v001.png",
+      "batch": "03_UI组件",
+      "targetSize": "768×1024",
+      "status": "已生成v001／主体透明检查通过",
+      "actualSize": "1024×1536",
+      "relativePath": "04_UI组件/ui_item_selection_v001.png",
+      "remarks": "内心透明，叠加层；保留原始尺寸，UI显示区域参考另存。"
+    },
+    {
+      "id": "UI_005",
+      "category": "04_UI组件",
+      "functionArea": "通用UI",
+      "label": "工具栏底板",
+      "plannedFile": "ui_toolbar_base_v001.png",
+      "batch": "03_UI组件",
+      "targetSize": "1536×512",
+      "status": "已生成v001／主体透明检查通过",
+      "actualSize": "1536×1024",
+      "relativePath": "04_UI组件/ui_toolbar_base_v001.png",
+      "remarks": "无入口图标标签；保留原始尺寸，UI显示区域参考另存。"
+    },
+    {
+      "id": "UI_006",
+      "category": "04_UI组件",
+      "functionArea": "通用UI",
+      "label": "资源栏底板",
+      "plannedFile": "ui_resource_base_v001.png",
+      "batch": "03_UI组件",
+      "targetSize": "1024×512",
+      "status": "已生成v001／主体透明检查通过",
+      "actualSize": "1536×1024",
+      "relativePath": "04_UI组件/ui_resource_base_v001.png",
+      "remarks": "无铜钱日数数字；保留原始尺寸，UI显示区域参考另存。"
+    },
+    {
+      "id": "UI_007",
+      "category": "04_UI组件",
+      "functionArea": "通用UI",
+      "label": "小提示底板",
+      "plannedFile": "ui_tooltip_base_v001.png",
+      "batch": "03_UI组件",
+      "targetSize": "1024×512",
+      "status": "已生成v001／主体透明检查通过",
+      "actualSize": "1942×809",
+      "relativePath": "04_UI组件/ui_tooltip_base_v001.png",
+      "remarks": "无字；保留原始尺寸，UI显示区域参考另存。"
+    },
+    {
+      "id": "UI_008",
+      "category": "04_UI组件",
+      "functionArea": "通用UI",
+      "label": "对话底板",
+      "plannedFile": "ui_dialogue_base_v001.png",
+      "batch": "03_UI组件",
+      "targetSize": "1536×512",
+      "status": "已生成v001／主体透明检查通过",
+      "actualSize": "1536×1024",
+      "relativePath": "04_UI组件/ui_dialogue_base_v001.png",
+      "remarks": "头像、名字、文本分开；保留原始尺寸，UI显示区域参考另存。"
+    },
+    {
+      "id": "UI_009",
+      "category": "04_UI组件",
+      "functionArea": "通用UI",
+      "label": "数量选择底板",
+      "plannedFile": "ui_quantity_base_v001.png",
+      "batch": "03_UI组件",
+      "targetSize": "1024×512",
+      "status": "已生成v001／主体透明检查通过",
+      "actualSize": "2172×724",
+      "relativePath": "04_UI组件/ui_quantity_base_v001.png",
+      "remarks": "不带加减、数量；保留原始尺寸，UI显示区域参考另存。"
+    },
+    {
+      "id": "UI_010",
+      "category": "04_UI组件",
+      "functionArea": "通用UI",
+      "label": "操作按钮默认",
+      "plannedFile": "ui_button_normal_v001.png",
+      "batch": "03_UI组件",
+      "targetSize": "1024×512",
+      "status": "已生成v001／主体透明检查通过",
+      "actualSize": "1536×1024",
+      "relativePath": "04_UI组件/ui_button_normal_v001.png",
+      "remarks": "无字，与其余状态同外形同画布；保留原始尺寸，UI显示区域参考另存。"
+    },
+    {
+      "id": "UI_011",
+      "category": "04_UI组件",
+      "functionArea": "通用UI",
+      "label": "操作按钮悬停",
+      "plannedFile": "ui_button_hover_v001.png",
+      "batch": "03_UI组件",
+      "targetSize": "1024×512",
+      "status": "已生成v001／主体透明检查通过",
+      "actualSize": "1536×1024",
+      "relativePath": "04_UI组件/ui_button_hover_v001.png",
+      "remarks": "轻微提亮边框；保留原始尺寸，UI显示区域参考另存。"
+    },
+    {
+      "id": "UI_012",
+      "category": "04_UI组件",
+      "functionArea": "通用UI",
+      "label": "操作按钮按下",
+      "plannedFile": "ui_button_pressed_v001.png",
+      "batch": "03_UI组件",
+      "targetSize": "1024×512",
+      "status": "已生成v001／主体透明检查通过",
+      "actualSize": "1536×1024",
+      "relativePath": "04_UI组件/ui_button_pressed_v001.png",
+      "remarks": "克制压暗，无大幅位移；保留原始尺寸，UI显示区域参考另存。"
+    },
+    {
+      "id": "UI_013",
+      "category": "04_UI组件",
+      "functionArea": "通用UI",
+      "label": "操作按钮禁用",
+      "plannedFile": "ui_button_disabled_v001.png",
+      "batch": "03_UI组件",
+      "targetSize": "1024×512",
+      "status": "已生成v001／主体透明检查通过",
+      "actualSize": "1536×1024",
+      "relativePath": "04_UI组件/ui_button_disabled_v001.png",
+      "remarks": "低对比，文字仍由引擎显示；保留原始尺寸，UI显示区域参考另存。"
+    },
+    {
+      "id": "UI_014",
+      "category": "04_UI组件",
+      "functionArea": "通用UI",
+      "label": "圆形图标底板",
+      "plannedFile": "ui_icon_circle_base_v002.png",
+      "batch": "03_UI组件",
+      "targetSize": "512×512",
+      "status": "已修订v002／主体透明检查通过",
+      "actualSize": "1254×1254",
+      "relativePath": "04_UI组件/ui_icon_circle_base_v002.png",
+      "remarks": "独立圆形底板，不含功能图标；已清除中央灰斑，旧版本保留。"
+    },
+    {
+      "id": "UI_015",
+      "category": "04_UI组件",
+      "functionArea": "通用UI",
+      "label": "关闭图标",
+      "plannedFile": "ui_close_v001.png",
+      "batch": "03_UI组件",
+      "targetSize": "512×512",
+      "status": "已生成v001／主体透明检查通过",
+      "actualSize": "1254×1254",
+      "relativePath": "04_UI组件/ui_close_v001.png",
+      "remarks": "独立交叉图形；保留原始尺寸，UI显示区域参考另存。"
+    },
+    {
+      "id": "UI_016",
+      "category": "04_UI组件",
+      "functionArea": "通用UI",
+      "label": "返回图标",
+      "plannedFile": "ui_back_v001.png",
+      "batch": "03_UI组件",
+      "targetSize": "512×512",
+      "status": "已生成v001／主体透明检查通过",
+      "actualSize": "1254×1254",
+      "relativePath": "04_UI组件/ui_back_v001.png",
+      "remarks": "独立箭头；保留原始尺寸，UI显示区域参考另存。"
+    },
+    {
+      "id": "UI_017",
+      "category": "04_UI组件",
+      "functionArea": "通用UI",
+      "label": "确认图标",
+      "plannedFile": "ui_confirm_v001.png",
+      "batch": "03_UI组件",
+      "targetSize": "512×512",
+      "status": "已生成v001／主体透明检查通过",
+      "actualSize": "1254×1254",
+      "relativePath": "04_UI组件/ui_confirm_v001.png",
+      "remarks": "独立勾形；保留原始尺寸，UI显示区域参考另存。"
+    },
+    {
+      "id": "UI_018",
+      "category": "04_UI组件",
+      "functionArea": "通用UI",
+      "label": "数量增加图标",
+      "plannedFile": "ui_plus_v001.png",
+      "batch": "03_UI组件",
+      "targetSize": "512×512",
+      "status": "已生成v001／主体透明检查通过",
+      "actualSize": "1254×1254",
+      "relativePath": "04_UI组件/ui_plus_v001.png",
+      "remarks": "独立加号图形；保留原始尺寸，UI显示区域参考另存。"
+    },
+    {
+      "id": "UI_019",
+      "category": "04_UI组件",
+      "functionArea": "通用UI",
+      "label": "数量减少图标",
+      "plannedFile": "ui_minus_v001.png",
+      "batch": "03_UI组件",
+      "targetSize": "512×512",
+      "status": "已生成v001／主体透明检查通过",
+      "actualSize": "1254×1254",
+      "relativePath": "04_UI组件/ui_minus_v001.png",
+      "remarks": "独立减号图形；保留原始尺寸，UI显示区域参考另存。"
+    },
+    {
+      "id": "UI_020",
+      "category": "04_UI组件",
+      "functionArea": "通用UI",
+      "label": "页签默认底板",
+      "plannedFile": "ui_tab_inactive_v001.png",
+      "batch": "03_UI组件",
+      "targetSize": "768×512",
+      "status": "已生成v001／主体透明检查通过",
+      "actualSize": "1874×839",
+      "relativePath": "04_UI组件/ui_tab_inactive_v001.png",
+      "remarks": "不带文字；保留原始尺寸，UI显示区域参考另存。"
+    },
+    {
+      "id": "UI_021",
+      "category": "04_UI组件",
+      "functionArea": "通用UI",
+      "label": "页签选中底板",
+      "plannedFile": "ui_tab_active_v001.png",
+      "batch": "03_UI组件",
+      "targetSize": "768×512",
+      "status": "已生成v001／主体透明检查通过",
+      "actualSize": "1875×839",
+      "relativePath": "04_UI组件/ui_tab_active_v001.png",
+      "remarks": "同尺寸；保留原始尺寸，UI显示区域参考另存。"
+    },
+    {
+      "id": "UI_022",
+      "category": "04_UI组件",
+      "functionArea": "通用UI",
+      "label": "成长进度轨道",
+      "plannedFile": "ui_progress_track_v001.png",
+      "batch": "03_UI组件",
+      "targetSize": "1024×512",
+      "status": "已生成v001／主体透明检查通过",
+      "actualSize": "1536×1024",
+      "relativePath": "04_UI组件/ui_progress_track_v001.png",
+      "remarks": "填充单独图片；保留原始尺寸，UI显示区域参考另存。"
+    },
+    {
+      "id": "UI_023",
+      "category": "04_UI组件",
+      "functionArea": "通用UI",
+      "label": "成长进度填充",
+      "plannedFile": "ui_progress_fill_v001.png",
+      "batch": "03_UI组件",
+      "targetSize": "1024×512",
+      "status": "已生成v001／主体透明检查通过",
+      "actualSize": "1536×1024",
+      "relativePath": "04_UI组件/ui_progress_fill_v001.png",
+      "remarks": "后续裁切显示，未经引擎验收；保留原始尺寸，UI显示区域参考另存。"
+    },
+    {
+      "id": "UI_024",
+      "category": "04_UI组件",
+      "functionArea": "通用UI",
+      "label": "成熟提示标记",
+      "plannedFile": "ui_state_ready_v001.png",
+      "batch": "03_UI组件",
+      "targetSize": "512×768",
+      "status": "已生成v001／主体透明检查通过",
+      "actualSize": "1024×1536",
+      "relativePath": "04_UI组件/ui_state_ready_v001.png",
+      "remarks": "独立符号，配引擎文字说明；保留原始尺寸，UI显示区域参考另存。"
+    },
+    {
+      "id": "UI_025",
+      "category": "04_UI组件",
+      "functionArea": "通用UI",
+      "label": "加工完成提示标记",
+      "plannedFile": "ui_state_finished_v001.png",
+      "batch": "03_UI组件",
+      "targetSize": "512×768",
+      "status": "已生成v001／主体透明检查通过",
+      "actualSize": "1024×1536",
+      "relativePath": "04_UI组件/ui_state_finished_v001.png",
+      "remarks": "独立状态层；保留原始尺寸，UI显示区域参考另存。"
+    },
+    {
+      "id": "UI_026",
+      "category": "04_UI组件",
+      "functionArea": "通用UI",
+      "label": "顾客等待提示气泡",
+      "plannedFile": "ui_order_bubble_v001.png",
+      "batch": "03_UI组件",
+      "targetSize": "512×512",
+      "status": "已生成v001／主体透明检查通过",
+      "actualSize": "1254×1254",
+      "relativePath": "04_UI组件/ui_order_bubble_v001.png",
+      "remarks": "茶品图标另叠；保留原始尺寸，UI显示区域参考另存。"
+    },
+    {
+      "id": "UI_027",
+      "category": "04_UI组件",
+      "functionArea": "通用UI",
+      "label": "普通品质印记",
+      "plannedFile": "ui_quality_normal_v001.png",
+      "batch": "03_UI组件",
+      "targetSize": "512×512",
+      "status": "已生成v001／主体透明检查通过",
+      "actualSize": "1254×1254",
+      "relativePath": "04_UI组件/ui_quality_normal_v001.png",
+      "remarks": "无字，文字分离；保留原始尺寸，UI显示区域参考另存。"
+    },
+    {
+      "id": "UI_028",
+      "category": "04_UI组件",
+      "functionArea": "通用UI",
+      "label": "良好品质印记",
+      "plannedFile": "ui_quality_good_v001.png",
+      "batch": "03_UI组件",
+      "targetSize": "512×512",
+      "status": "已生成v001／主体透明检查通过",
+      "actualSize": "1254×1254",
+      "relativePath": "04_UI组件/ui_quality_good_v001.png",
+      "remarks": "不能仅靠颜色区分；保留原始尺寸，UI显示区域参考另存。"
+    },
+    {
+      "id": "UI_029",
+      "category": "04_UI组件",
+      "functionArea": "通用UI",
+      "label": "上佳品质印记",
+      "plannedFile": "ui_quality_best_v001.png",
+      "batch": "03_UI组件",
+      "targetSize": "512×512",
+      "status": "已生成v001／主体透明检查通过",
+      "actualSize": "1254×1254",
+      "relativePath": "04_UI组件/ui_quality_best_v001.png",
+      "remarks": "形状有差异；保留原始尺寸，UI显示区域参考另存。"
+    },
+    {
+      "id": "UI_030",
+      "category": "04_UI组件",
+      "functionArea": "通用UI",
+      "label": "可缩放无装饰面板",
+      "plannedFile": "ui_popup_plain_v001.png",
+      "batch": "03_UI组件",
+      "targetSize": "1536×1024",
+      "status": "已生成v001／主体透明检查通过",
+      "actualSize": "1536×1024",
+      "relativePath": "04_UI组件/ui_popup_plain_v001.png",
+      "remarks": "九宫格候选，后续单独验证；保留原始尺寸，UI显示区域参考另存。"
+    },
+    {
+      "id": "UI_031",
+      "category": "04_UI组件",
+      "functionArea": "通用UI",
+      "label": "竹叶角饰",
+      "plannedFile": "ui_ornament_bamboo_v001.png",
+      "batch": "03_UI组件",
+      "targetSize": "768×768",
+      "status": "已生成v001／主体透明检查通过",
+      "actualSize": "1254×1254",
+      "relativePath": "04_UI组件/ui_ornament_bamboo_v001.png",
+      "remarks": "独立装饰层；保留原始尺寸，UI显示区域参考另存。"
+    },
+    {
+      "id": "UI_032",
+      "category": "04_UI组件",
+      "functionArea": "通用UI",
+      "label": "水墨山角饰",
+      "plannedFile": "ui_ornament_mountain_v001.png",
+      "batch": "03_UI组件",
+      "targetSize": "1024×512",
+      "status": "已生成v001／主体透明检查通过",
+      "actualSize": "1536×1024",
+      "relativePath": "04_UI组件/ui_ornament_mountain_v001.png",
+      "remarks": "独立装饰层；保留原始尺寸，UI显示区域参考另存。"
+    },
+    {
+      "id": "ICO_106",
+      "category": "04_UI组件",
+      "functionArea": "通用UI",
+      "label": "制茶手记图标",
+      "plannedFile": "ico_journal_v001.png",
+      "batch": "03_UI组件",
+      "targetSize": "512×512",
+      "status": "已生成v001／主体透明检查通过",
+      "actualSize": "1254×1254",
+      "relativePath": "04_UI组件/ico_journal_v001.png",
+      "remarks": "无文字；保留原始尺寸，UI显示区域参考另存。"
+    },
+    {
+      "id": "ICO_107",
+      "category": "04_UI组件",
+      "functionArea": "通用UI",
+      "label": "设置图标",
+      "plannedFile": "ico_settings_v001.png",
+      "batch": "03_UI组件",
+      "targetSize": "512×512",
+      "status": "已生成v001／主体透明检查通过",
+      "actualSize": "1254×1254",
+      "relativePath": "04_UI组件/ico_settings_v001.png",
+      "remarks": "圆底分离；保留原始尺寸，UI显示区域参考另存。"
+    },
+    {
+      "id": "PRP_201",
+      "category": "06_道具与图标",
+      "functionArea": "制茶工坊",
+      "label": "空竹匾",
+      "plannedFile": "prp_bamboo_tray_empty_v001.png",
+      "batch": "04_工坊素材",
+      "targetSize": "1024×1024",
+      "status": "已生成v001／主体透明检查通过",
+      "actualSize": "1254×1254",
+      "relativePath": "06_道具与图标/prp_bamboo_tray_empty_v001.png",
+      "remarks": "叶片与竹匾分离；原始画布保留，叠放区域参考另存。"
+    },
+    {
+      "id": "PRP_202",
+      "category": "06_道具与图标",
+      "functionArea": "制茶工坊",
+      "label": "摊放鲜叶层",
+      "plannedFile": "prp_leaves_spread_v001.png",
+      "batch": "04_工坊素材",
+      "targetSize": "1024×1024",
+      "status": "已生成v001／主体透明检查通过",
+      "actualSize": "1254×1254",
+      "relativePath": "06_道具与图标/prp_leaves_spread_v001.png",
+      "remarks": "无容器，与竹匾坐标匹配；原始画布保留，叠放区域参考另存。"
+    },
+    {
+      "id": "PRP_203",
+      "category": "06_道具与图标",
+      "functionArea": "制茶工坊",
+      "label": "空炒锅",
+      "plannedFile": "prp_iron_wok_empty_v001.png",
+      "batch": "04_工坊素材",
+      "targetSize": "1024×1024",
+      "status": "已生成v001／主体透明检查通过",
+      "actualSize": "1254×1254",
+      "relativePath": "06_道具与图标/prp_iron_wok_empty_v001.png",
+      "remarks": "无火焰无炉台；原始画布保留，叠放区域参考另存。"
+    },
+    {
+      "id": "PRP_204",
+      "category": "06_道具与图标",
+      "functionArea": "制茶工坊",
+      "label": "炉台",
+      "plannedFile": "prp_stove_base_v001.png",
+      "batch": "04_工坊素材",
+      "targetSize": "1024×1024",
+      "status": "已生成v001／主体透明检查通过",
+      "actualSize": "1254×1254",
+      "relativePath": "06_道具与图标/prp_stove_base_v001.png",
+      "remarks": "无炒锅无火；原始画布保留，叠放区域参考另存。"
+    },
+    {
+      "id": "FX_201",
+      "category": "06_道具与图标",
+      "functionArea": "制茶工坊",
+      "label": "炉火低档",
+      "plannedFile": "fx_fire_low_v001.png",
+      "batch": "04_工坊素材",
+      "targetSize": "512×768",
+      "status": "已生成v001／主体透明检查通过",
+      "actualSize": "1024×1536",
+      "relativePath": "06_道具与图标/fx_fire_low_v001.png",
+      "remarks": "单独透明火焰，低亮度；原始画布保留，叠放区域参考另存。"
+    },
+    {
+      "id": "FX_202",
+      "category": "06_道具与图标",
+      "functionArea": "制茶工坊",
+      "label": "炉火中档",
+      "plannedFile": "fx_fire_medium_v001.png",
+      "batch": "04_工坊素材",
+      "targetSize": "512×768",
+      "status": "已生成v001／主体透明检查通过",
+      "actualSize": "1024×1536",
+      "relativePath": "06_道具与图标/fx_fire_medium_v001.png",
+      "remarks": "同画布同火源位置；原始画布保留，叠放区域参考另存。"
+    },
+    {
+      "id": "FX_203",
+      "category": "06_道具与图标",
+      "functionArea": "制茶工坊",
+      "label": "炉火高档",
+      "plannedFile": "fx_fire_high_v001.png",
+      "batch": "04_工坊素材",
+      "targetSize": "512×768",
+      "status": "已生成v001／主体透明检查通过",
+      "actualSize": "1024×1536",
+      "relativePath": "06_道具与图标/fx_fire_high_v001.png",
+      "remarks": "不使用大范围光晕；原始画布保留，叠放区域参考另存。"
+    },
+    {
+      "id": "PRP_205",
+      "category": "06_道具与图标",
+      "functionArea": "制茶工坊",
+      "label": "揉捻工作台",
+      "plannedFile": "prp_rolling_table_v001.png",
+      "batch": "04_工坊素材",
+      "targetSize": "1536×1024",
+      "status": "已生成v001／主体透明检查通过",
+      "actualSize": "1536×1024",
+      "relativePath": "06_道具与图标/prp_rolling_table_v001.png",
+      "remarks": "无茶叶无角色；原始画布保留，叠放区域参考另存。"
+    },
+    {
+      "id": "PRP_206",
+      "category": "06_道具与图标",
+      "functionArea": "制茶工坊",
+      "label": "揉捻叶层",
+      "plannedFile": "prp_leaves_rolled_v001.png",
+      "batch": "04_工坊素材",
+      "targetSize": "1024×1024",
+      "status": "已生成v001／主体透明检查通过",
+      "actualSize": "1254×1254",
+      "relativePath": "06_道具与图标/prp_leaves_rolled_v001.png",
+      "remarks": "独立原料变化；原始画布保留，叠放区域参考另存。"
+    },
+    {
+      "id": "PRP_207",
+      "category": "06_道具与图标",
+      "functionArea": "制茶工坊",
+      "label": "空晾架",
+      "plannedFile": "prp_drying_rack_empty_v001.png",
+      "batch": "04_工坊素材",
+      "targetSize": "1024×1536",
+      "status": "已生成v001／主体透明检查通过",
+      "actualSize": "1024×1536",
+      "relativePath": "06_道具与图标/prp_drying_rack_empty_v001.png",
+      "remarks": "无茶叶，架体一个独立道具；原始画布保留，叠放区域参考另存。"
+    },
+    {
+      "id": "PRP_208",
+      "category": "06_道具与图标",
+      "functionArea": "制茶工坊",
+      "label": "干茶叶层",
+      "plannedFile": "prp_leaves_dried_v001.png",
+      "batch": "04_工坊素材",
+      "targetSize": "1024×1024",
+      "status": "已生成v001／主体透明检查通过",
+      "actualSize": "1254×1254",
+      "relativePath": "06_道具与图标/prp_leaves_dried_v001.png",
+      "remarks": "不是以不同颜色种子表示茶类；原始画布保留，叠放区域参考另存。"
+    },
+    {
+      "id": "PRP_209",
+      "category": "06_道具与图标",
+      "functionArea": "制茶工坊",
+      "label": "成品茶罐",
+      "plannedFile": "prp_tea_jar_v001.png",
+      "batch": "04_工坊素材",
+      "targetSize": "1024×1024",
+      "status": "已生成v001／主体透明检查通过",
+      "actualSize": "1254×1254",
+      "relativePath": "06_道具与图标/prp_tea_jar_v001.png",
+      "remarks": "无字标签；品质独立；原始画布保留，叠放区域参考另存。"
+    },
+    {
+      "id": "PRP_210",
+      "category": "06_道具与图标",
+      "functionArea": "制茶工坊",
+      "label": "木凳",
+      "plannedFile": "prp_workshop_stool_v001.png",
+      "batch": "04_工坊素材",
+      "targetSize": "1024×1024",
+      "status": "已生成v001／主体透明检查通过",
+      "actualSize": "1254×1254",
+      "relativePath": "06_道具与图标/prp_workshop_stool_v001.png",
+      "remarks": "单体家具；原始画布保留，叠放区域参考另存。"
+    },
+    {
+      "id": "ICO_201",
+      "category": "06_道具与图标",
+      "functionArea": "制茶工坊",
+      "label": "器具入口图标",
+      "plannedFile": "ico_tools_v001.png",
+      "batch": "04_工坊素材",
+      "targetSize": "512×512",
+      "status": "已生成v001／主体透明检查通过",
+      "actualSize": "1254×1254",
+      "relativePath": "06_道具与图标/ico_tools_v001.png",
+      "remarks": "不包含标题；原始画布保留，叠放区域参考另存。"
+    },
+    {
+      "id": "PRP_301",
+      "category": "06_道具与图标",
+      "functionArea": "临水茶铺",
+      "label": "茶壶",
+      "plannedFile": "prp_teapot_celadon_v001.png",
+      "batch": "05_茶铺素材",
+      "targetSize": "1024×1024",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "",
+      "remarks": "一个独立器皿"
+    },
+    {
+      "id": "PRP_302",
+      "category": "06_道具与图标",
+      "functionArea": "临水茶铺",
+      "label": "空茶杯",
+      "plannedFile": "prp_teacup_empty_v001.png",
+      "batch": "05_茶铺素材",
+      "targetSize": "1024×1024",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "",
+      "remarks": "茶汤层另出"
+    },
+    {
+      "id": "PRP_303",
+      "category": "06_道具与图标",
+      "functionArea": "临水茶铺",
+      "label": "茶汤叠加层",
+      "plannedFile": "prp_tea_liquid_overlay_v001.png",
+      "batch": "05_茶铺素材",
+      "targetSize": "1024×1024",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "",
+      "remarks": "匹配杯口位置，透明外缘"
+    },
+    {
+      "id": "PRP_304",
+      "category": "06_道具与图标",
+      "functionArea": "临水茶铺",
+      "label": "空茶桌",
+      "plannedFile": "prp_tea_table_empty_v001.png",
+      "batch": "05_茶铺素材",
+      "targetSize": "1536×1024",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "",
+      "remarks": "无壶杯顾客"
+    },
+    {
+      "id": "PRP_305",
+      "category": "06_道具与图标",
+      "functionArea": "临水茶铺",
+      "label": "座椅",
+      "plannedFile": "prp_tea_chair_v001.png",
+      "batch": "05_茶铺素材",
+      "targetSize": "1024×1024",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "",
+      "remarks": "独立家具"
+    },
+    {
+      "id": "PRP_306",
+      "category": "06_道具与图标",
+      "functionArea": "临水茶铺",
+      "label": "柜台",
+      "plannedFile": "prp_shop_counter_empty_v001.png",
+      "batch": "05_茶铺素材",
+      "targetSize": "1536×1024",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "",
+      "remarks": "无器具角色"
+    },
+    {
+      "id": "PRP_307",
+      "category": "06_道具与图标",
+      "functionArea": "临水茶铺",
+      "label": "空茶柜",
+      "plannedFile": "prp_shop_cabinet_empty_v001.png",
+      "batch": "05_茶铺素材",
+      "targetSize": "1024×1536",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "",
+      "remarks": "罐子独立"
+    },
+    {
+      "id": "PRP_308",
+      "category": "06_道具与图标",
+      "functionArea": "临水茶铺",
+      "label": "铜钱",
+      "plannedFile": "prp_copper_coin_v001.png",
+      "batch": "05_茶铺素材",
+      "targetSize": "1024×1024",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "",
+      "remarks": "首版唯一经营货币"
+    },
+    {
+      "id": "PRP_309",
+      "category": "06_道具与图标",
+      "functionArea": "临水茶铺",
+      "label": "账本",
+      "plannedFile": "prp_account_book_v001.png",
+      "batch": "05_茶铺素材",
+      "targetSize": "1024×1024",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "",
+      "remarks": "不烘焙正文数字"
+    },
+    {
+      "id": "ICO_301",
+      "category": "06_道具与图标",
+      "functionArea": "临水茶铺",
+      "label": "茶铺管理图标",
+      "plannedFile": "ico_shop_manage_v001.png",
+      "batch": "05_茶铺素材",
+      "targetSize": "512×512",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "",
+      "remarks": "独立图标"
+    },
+    {
+      "id": "CHR_002",
+      "category": "05_人物",
+      "functionArea": "人物",
+      "label": "主角场景站姿",
+      "plannedFile": "chr_protagonist_scene_idle_v001.png",
+      "batch": "05_人物与茶铺",
+      "targetSize": "1024×1024",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "",
+      "remarks": "以已确认立绘为身份母图，脚底锚点"
+    },
+    {
+      "id": "CHR_003",
+      "category": "05_人物",
+      "functionArea": "人物",
+      "label": "主角采摘姿态",
+      "plannedFile": "chr_protagonist_scene_picking_v001.png",
+      "batch": "05_人物与茶铺",
+      "targetSize": "1024×1024",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "",
+      "remarks": "静态动作样稿，不宣称可播放动画"
+    },
+    {
+      "id": "CHR_004",
+      "category": "05_人物",
+      "functionArea": "人物",
+      "label": "主角制茶姿态",
+      "plannedFile": "chr_protagonist_scene_processing_v001.png",
+      "batch": "05_人物与茶铺",
+      "targetSize": "1024×1024",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "",
+      "remarks": "手持工具可另层；比例服装一致"
+    },
+    {
+      "id": "CHR_005",
+      "category": "05_人物",
+      "functionArea": "人物",
+      "label": "主角上茶姿态",
+      "plannedFile": "chr_protagonist_scene_serving_v001.png",
+      "batch": "05_人物与茶铺",
+      "targetSize": "1024×1024",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "",
+      "remarks": "杯具独立叠加"
+    },
+    {
+      "id": "CHR_101",
+      "category": "05_人物",
+      "functionArea": "人物",
+      "label": "教学同伴立绘",
+      "plannedFile": "chr_companion_portrait_v001.png",
+      "batch": "05_人物与茶铺",
+      "targetSize": "1024×1536",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "",
+      "remarks": "发型围裙工具袋与主角区分"
+    },
+    {
+      "id": "CHR_102",
+      "category": "05_人物",
+      "functionArea": "人物",
+      "label": "教学同伴场景小人",
+      "plannedFile": "chr_companion_scene_v001.png",
+      "batch": "05_人物与茶铺",
+      "targetSize": "1024×1024",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "",
+      "remarks": "以同伴立绘为身份参考"
+    },
+    {
+      "id": "CHR_201",
+      "category": "05_人物",
+      "functionArea": "人物",
+      "label": "村民客人立绘",
+      "plannedFile": "chr_customer_villager_portrait_v001.png",
+      "batch": "05_人物与茶铺",
+      "targetSize": "1024×1536",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "",
+      "remarks": "首版三位客人之一"
+    },
+    {
+      "id": "CHR_202",
+      "category": "05_人物",
+      "functionArea": "人物",
+      "label": "村民客人场景小人",
+      "plannedFile": "chr_customer_villager_scene_v001.png",
+      "batch": "05_人物与茶铺",
+      "targetSize": "1024×1024",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "",
+      "remarks": "轮廓一致"
+    },
+    {
+      "id": "CHR_203",
+      "category": "05_人物",
+      "functionArea": "人物",
+      "label": "旅人立绘",
+      "plannedFile": "chr_customer_traveler_portrait_v001.png",
+      "batch": "05_人物与茶铺",
+      "targetSize": "1024×1536",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "",
+      "remarks": "首版客人，服装简洁"
+    },
+    {
+      "id": "CHR_204",
+      "category": "05_人物",
+      "functionArea": "人物",
+      "label": "旅人场景小人",
+      "plannedFile": "chr_customer_traveler_scene_v001.png",
+      "batch": "05_人物与茶铺",
+      "targetSize": "1024×1024",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "",
+      "remarks": "以立绘为参考"
+    },
+    {
+      "id": "CHR_205",
+      "category": "05_人物",
+      "functionArea": "人物",
+      "label": "品茶熟客立绘",
+      "plannedFile": "chr_customer_regular_portrait_v001.png",
+      "batch": "05_人物与茶铺",
+      "targetSize": "1024×1536",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "",
+      "remarks": "通过姿态身份区分"
+    },
+    {
+      "id": "CHR_206",
+      "category": "05_人物",
+      "functionArea": "人物",
+      "label": "品茶熟客场景小人",
+      "plannedFile": "chr_customer_regular_scene_v001.png",
+      "batch": "05_人物与茶铺",
+      "targetSize": "1024×1024",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "",
+      "remarks": "以立绘为参考"
+    },
+    {
+      "id": "BG_101",
+      "category": "03_建筑与场景",
+      "functionArea": "场景分层",
+      "label": "远山透明层",
+      "plannedFile": "bg_mountains_layer_v001.png",
+      "batch": "06_场景与装饰",
+      "targetSize": "1920×1080",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "",
+      "remarks": "只有山体，不带 UI 建筑人物"
+    },
+    {
+      "id": "BG_102",
+      "category": "03_建筑与场景",
+      "functionArea": "场景分层",
+      "label": "水面透明层",
+      "plannedFile": "bg_water_layer_v001.png",
+      "batch": "06_场景与装饰",
+      "targetSize": "1920×1080",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "",
+      "remarks": "无舟桥建筑"
+    },
+    {
+      "id": "BG_103",
+      "category": "03_建筑与场景",
+      "functionArea": "场景分层",
+      "label": "云纹透明层",
+      "plannedFile": "bg_cloud_layer_v001.png",
+      "batch": "06_场景与装饰",
+      "targetSize": "1920×1080",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "",
+      "remarks": "克制留白，无全屏噪点"
+    },
+    {
+      "id": "BLD_101",
+      "category": "03_建筑与场景",
+      "functionArea": "场景分层",
+      "label": "主地图工坊建筑",
+      "plannedFile": "bld_workshop_exterior_v001.png",
+      "batch": "06_场景与装饰",
+      "targetSize": "1536×1024",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "",
+      "remarks": "独立建筑，无人物和导航文字"
+    },
+    {
+      "id": "BLD_102",
+      "category": "03_建筑与场景",
+      "functionArea": "场景分层",
+      "label": "主地图茶铺建筑",
+      "plannedFile": "bld_teashop_exterior_v001.png",
+      "batch": "06_场景与装饰",
+      "targetSize": "1536×1024",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "",
+      "remarks": "独立建筑"
+    },
+    {
+      "id": "BLD_103",
+      "category": "03_建筑与场景",
+      "functionArea": "场景分层",
+      "label": "休憩亭",
+      "plannedFile": "bld_pavilion_v001.png",
+      "batch": "06_场景与装饰",
+      "targetSize": "1536×1024",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "",
+      "remarks": "独立建筑"
+    },
+    {
+      "id": "BLD_104",
+      "category": "03_建筑与场景",
+      "functionArea": "场景分层",
+      "label": "木桥",
+      "plannedFile": "bld_bridge_v001.png",
+      "batch": "06_场景与装饰",
+      "targetSize": "1536×1024",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "",
+      "remarks": "无水背景"
+    },
+    {
+      "id": "BLD_105",
+      "category": "03_建筑与场景",
+      "functionArea": "场景分层",
+      "label": "工坊建筑壳",
+      "plannedFile": "bld_workshop_shell_v001.png",
+      "batch": "06_场景与装饰",
+      "targetSize": "1920×1080",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "",
+      "remarks": "屋顶/前遮挡分层另补，不烘焙器具"
+    },
+    {
+      "id": "BLD_106",
+      "category": "03_建筑与场景",
+      "functionArea": "场景分层",
+      "label": "茶铺建筑壳",
+      "plannedFile": "bld_teashop_shell_v001.png",
+      "batch": "06_场景与装饰",
+      "targetSize": "1920×1080",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "",
+      "remarks": "无人物柜台茶具"
+    },
+    {
+      "id": "DEC_101",
+      "category": "03_建筑与场景",
+      "functionArea": "场景分层",
+      "label": "灯笼",
+      "plannedFile": "dec_lantern_v001.png",
+      "batch": "06_场景与装饰",
+      "targetSize": "768×1024",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "",
+      "remarks": "透明装饰单体"
+    },
+    {
+      "id": "DEC_102",
+      "category": "03_建筑与场景",
+      "functionArea": "场景分层",
+      "label": "木栏杆段",
+      "plannedFile": "dec_fence_wood_v001.png",
+      "batch": "06_场景与装饰",
+      "targetSize": "1536×1024",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "",
+      "remarks": "同轴测"
+    },
+    {
+      "id": "DEC_103",
+      "category": "03_建筑与场景",
+      "functionArea": "场景分层",
+      "label": "临水荷花",
+      "plannedFile": "dec_lotus_v001.png",
+      "batch": "06_场景与装饰",
+      "targetSize": "1024×1024",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "",
+      "remarks": "无水面底"
+    },
+    {
+      "id": "PLT_106",
+      "category": "03_建筑与场景",
+      "functionArea": "场景分层",
+      "label": "景观松树",
+      "plannedFile": "plt_pine_tree_v001.png",
+      "batch": "06_场景与装饰",
+      "targetSize": "1024×1536",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "",
+      "remarks": "独立植物，无岩石"
+    },
+    {
+      "id": "PLT_107",
+      "category": "03_建筑与场景",
+      "functionArea": "场景分层",
+      "label": "淡红树",
+      "plannedFile": "plt_red_tree_v001.png",
+      "batch": "06_场景与装饰",
+      "targetSize": "1024×1536",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "",
+      "remarks": "少量朱红，不高饱和"
+    },
+    {
+      "id": "JRN_101",
+      "category": "07_工艺与手记",
+      "functionArea": "制茶手记",
+      "label": "嫩芽局部教学图",
+      "plannedFile": "jrn_tea_shoot_v001.png",
+      "batch": "07_手记插画",
+      "targetSize": "1024×1024",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "",
+      "remarks": "植物图与说明文字分离，资料后核实"
+    },
+    {
+      "id": "JRN_102",
+      "category": "07_工艺与手记",
+      "functionArea": "制茶手记",
+      "label": "采摘动作插画",
+      "plannedFile": "jrn_picking_gesture_v001.png",
+      "batch": "07_手记插画",
+      "targetSize": "1024×1024",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "",
+      "remarks": "一幅独立教学插画，标注由引擎显示"
+    },
+    {
+      "id": "JRN_103",
+      "category": "07_工艺与手记",
+      "functionArea": "制茶手记",
+      "label": "摊放工艺插画",
+      "plannedFile": "jrn_spreading_v001.png",
+      "batch": "07_手记插画",
+      "targetSize": "1024×1024",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "",
+      "remarks": "不烘焙工艺说明"
+    },
+    {
+      "id": "JRN_104",
+      "category": "07_工艺与手记",
+      "functionArea": "制茶手记",
+      "label": "杀青工艺插画",
+      "plannedFile": "jrn_fixation_v001.png",
+      "batch": "07_手记插画",
+      "targetSize": "1024×1024",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "",
+      "remarks": "游戏抽象，非具体名茶完整复原"
+    },
+    {
+      "id": "JRN_105",
+      "category": "07_工艺与手记",
+      "functionArea": "制茶手记",
+      "label": "揉捻工艺插画",
+      "plannedFile": "jrn_rolling_v001.png",
+      "batch": "07_手记插画",
+      "targetSize": "1024×1024",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "",
+      "remarks": "资料来源另存"
+    },
+    {
+      "id": "JRN_106",
+      "category": "07_工艺与手记",
+      "functionArea": "制茶手记",
+      "label": "干燥工艺插画",
+      "plannedFile": "jrn_drying_v001.png",
+      "batch": "07_手记插画",
+      "targetSize": "1024×1024",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "",
+      "remarks": "教学插画，不作为单体游戏道具"
+    }
+  ],
+  "counts": {
+    "generatedSamples": 5,
+    "generatedBatch02": 18,
+    "generatedTotal": 70,
+    "plannedTotal": 112,
+    "pendingItems": 42,
+    "revisedTeaStates": 4,
+    "activeAssetItems": 70,
+    "retainedPreviousPNGVersions": 6,
+    "physicalAssetPNGs": 76,
+    "revisedTerrainAssets": 1,
+    "revisedAssetItems": 6,
+    "generatedBatch03": 33,
+    "revisedUIAssets": 1,
+    "generatedBatch04": 14
+  },
+  "allGeneratedStatus": "当前70项素材已生成，第04批新增14项工坊素材；首版112项清单剩余42项。",
+  "styleApproval": {
+    "date": "2026-10-08",
+    "evidence": "用户明确表示目前的风格可以接受，并要求现在按批次开始生成素材。",
+    "referenceVersion": "01_风格样稿"
+  },
+  "generatedAssets": [
+    {
+      "id": "PLT_102",
+      "name": "plt_tea_bush_seedling_v002",
+      "label": "茶树幼苗",
+      "category": "02_地形与植物",
+      "batch": "02_茶园素材",
+      "relativePath": "02_地形与植物/plt_tea_bush_seedling_v002.png",
+      "status": "已修订v002",
+      "width": 1254,
+      "height": 1254,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1452322,
+        "borderNonzeroPixels": 0
+      },
+      "visibleBBoxAlpha16": [
+        366,
+        604,
+        954,
+        1130
+      ],
+      "rootApprox": [
+        654,
+        1130
+      ],
+      "sha256": "8c836b10b84927a73d9ebac32b2fbba2c08519767fe544c3c4ffda32f315d2a9",
+      "reviewNotes": "小株少叶，幼苗轮廓；与成年茶树拉开体量和叶片数量。真实alpha透明PNG；原始尺寸与根部位置另存，未做Godot引擎摆放验收。",
+      "revision": "茶树状态v002",
+      "previousVersions": [
+        {
+          "relativePath": "02_地形与植物/plt_tea_bush_seedling_v001.png",
+          "width": 1254,
+          "height": 1254,
+          "sha256": "7eead7325ab81223ba8cfbc59cced7fc47d3a06790ce968be2927c60774d7cd5"
+        }
+      ]
+    },
+    {
+      "id": "PLT_103",
+      "name": "plt_tea_bush_growing_v002",
+      "label": "茶树生长中",
+      "category": "02_地形与植物",
+      "batch": "02_茶园素材",
+      "relativePath": "02_地形与植物/plt_tea_bush_growing_v002.png",
+      "status": "已修订v002",
+      "width": 1349,
+      "height": 1166,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1182102,
+        "borderNonzeroPixels": 2
+      },
+      "visibleBBoxAlpha16": [
+        107,
+        260,
+        1270,
+        1032
+      ],
+      "rootApprox": [
+        720,
+        1032
+      ],
+      "sha256": "13cc2b4da354e1785a6a5200df23aa1d79b3cf3fd2816fd128a587a76ca6d02f",
+      "reviewNotes": "树冠分成疏朗叶簇，分枝与簇间空隙明显。真实alpha透明PNG；原始尺寸与根部位置另存，未做Godot引擎摆放验收。",
+      "revision": "茶树状态v002",
+      "previousVersions": [
+        {
+          "relativePath": "02_地形与植物/plt_tea_bush_growing_v001.png",
+          "width": 1254,
+          "height": 1254,
+          "sha256": "ddac8ce4ca6ca25aa99a21ffd665c26f18197455449185213eff7f1692271ef2"
+        }
+      ]
+    },
+    {
+      "id": "PLT_104",
+      "name": "plt_tea_bush_harvested_v002",
+      "label": "茶树采摘后",
+      "category": "02_地形与植物",
+      "batch": "02_茶园素材",
+      "relativePath": "02_地形与植物/plt_tea_bush_harvested_v002.png",
+      "status": "已修订v002",
+      "width": 1254,
+      "height": 1254,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1129766,
+        "borderNonzeroPixels": 7
+      },
+      "visibleBBoxAlpha16": [
+        19,
+        471,
+        1235,
+        1062
+      ],
+      "rootApprox": [
+        643,
+        1062
+      ],
+      "sha256": "9dbcf3569d5cbab14a527a988043af83e409b1f37542fef6075ea1c3d0fbca90",
+      "reviewNotes": "低平树冠，去掉浅色嫩芽，上段分枝更明显，健康树体保留。真实alpha透明PNG；原始尺寸与根部位置另存，未做Godot引擎摆放验收。",
+      "revision": "茶树状态v002",
+      "previousVersions": [
+        {
+          "relativePath": "02_地形与植物/plt_tea_bush_harvested_v001.png",
+          "width": 1254,
+          "height": 1254,
+          "sha256": "92b37589499eee1cd5b295f443b2a1fcf1a2abab475dd3797268d08103e76a45"
+        }
+      ]
+    },
+    {
+      "id": "TER_102",
+      "name": "ter_path_earth_straight_v001",
+      "label": "土路直段",
+      "category": "02_地形与植物",
+      "batch": "02_茶园素材",
+      "relativePath": "02_地形与植物/ter_path_earth_straight_v001.png",
+      "status": "已生成v001",
+      "width": 1536,
+      "height": 1024,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1206033,
+        "borderNonzeroPixels": 10
+      },
+      "visibleBBoxAlpha16": [
+        84,
+        204,
+        1452,
+        887
+      ],
+      "rootApprox": null,
+      "sha256": "3a82395916c142ef7eb01ccfb62b20afbf225b689dce186301f4297233637104",
+      "reviewNotes": "已逐图检查主体与风格，透明通道通过；保留生成原始尺寸和alpha。少量极低alpha外围像素保留；尚未进行Godot引擎摆放验收。"
+    },
+    {
+      "id": "TER_103",
+      "name": "ter_path_stone_straight_v001",
+      "label": "石路直段",
+      "category": "02_地形与植物",
+      "batch": "02_茶园素材",
+      "relativePath": "02_地形与植物/ter_path_stone_straight_v001.png",
+      "status": "已生成v001",
+      "width": 1536,
+      "height": 1024,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1133444,
+        "borderNonzeroPixels": 2
+      },
+      "visibleBBoxAlpha16": [
+        24,
+        158,
+        1514,
+        940
+      ],
+      "rootApprox": null,
+      "sha256": "2f134c6a0c25f5a81439341b10bc731dc3866d2cc0b5e0082890b50de17921f9",
+      "reviewNotes": "已逐图检查主体与风格，透明通道通过；保留生成原始尺寸和alpha。少量极低alpha外围像素保留；尚未进行Godot引擎摆放验收。"
+    },
+    {
+      "id": "TER_104",
+      "name": "ter_retaining_wall_v002",
+      "label": "低矮挡土石墙",
+      "category": "02_地形与植物",
+      "batch": "02_茶园素材",
+      "relativePath": "02_地形与植物/ter_retaining_wall_v002.png",
+      "status": "已修订v002",
+      "width": 1536,
+      "height": 1024,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1129704,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0
+      },
+      "visibleBBoxAlpha16": [
+        188,
+        111,
+        1423,
+        940
+      ],
+      "rootApprox": null,
+      "sha256": "0677be3ff37113c6cddb35a0553dbabd6b77039bac2c0211713fe07b0ac823ca",
+      "reviewNotes": "按石路的长边、短边方向重新生成，保留三层低矮石墙及水墨淡彩；边缘角度近似拟合差分别约0.7°与0.2°。真实alpha透明，未进行Godot摆放验收。",
+      "revision": "挡土墙 v002 修订",
+      "previousVersions": [
+        {
+          "relativePath": "02_地形与植物/ter_retaining_wall_v001.png",
+          "width": 1536,
+          "height": 1024,
+          "sha256": "0e00cdf3b5a60656b34637ebd25a64e93ceaee5f99c6a1c92bac482eb7b9a712"
+        }
+      ],
+      "projectionCheck": "09_生成记录/retaining_wall_v002_projection_check.json"
+    },
+    {
+      "id": "TER_105",
+      "name": "ter_rock_sage_v001",
+      "label": "景观石",
+      "category": "02_地形与植物",
+      "batch": "02_茶园素材",
+      "relativePath": "02_地形与植物/ter_rock_sage_v001.png",
+      "status": "已生成v001",
+      "width": 1254,
+      "height": 1254,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1136018,
+        "borderNonzeroPixels": 0
+      },
+      "visibleBBoxAlpha16": [
+        84,
+        368,
+        1192,
+        954
+      ],
+      "rootApprox": null,
+      "sha256": "5b864f63eafa9023808f0a1fdfb04a92d413a1e894105cc773a33eb8a0f01544",
+      "reviewNotes": "已逐图检查主体与风格，透明通道通过；保留生成原始尺寸和alpha。少量极低alpha外围像素保留；尚未进行Godot引擎摆放验收。"
+    },
+    {
+      "id": "PLT_105",
+      "name": "plt_bamboo_cluster_v001",
+      "label": "竹丛",
+      "category": "02_地形与植物",
+      "batch": "02_茶园素材",
+      "relativePath": "02_地形与植物/plt_bamboo_cluster_v001.png",
+      "status": "已生成v001",
+      "width": 1024,
+      "height": 1536,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1115019,
+        "borderNonzeroPixels": 3
+      },
+      "visibleBBoxAlpha16": [
+        60,
+        59,
+        985,
+        1434
+      ],
+      "rootApprox": null,
+      "sha256": "d8483e8a00d68b2871301a59a89e853f955b8500d3dc23271b4ac2ce901ecb90",
+      "reviewNotes": "已逐图检查主体与风格，透明通道通过；保留生成原始尺寸和alpha。少量极低alpha外围像素保留；尚未进行Godot引擎摆放验收。"
+    },
+    {
+      "id": "PRP_102",
+      "name": "prp_seed_bag_v001",
+      "label": "种子布袋",
+      "category": "06_道具与图标",
+      "batch": "02_茶园素材",
+      "relativePath": "06_道具与图标/prp_seed_bag_v001.png",
+      "status": "已生成v001",
+      "width": 1254,
+      "height": 1254,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 946907,
+        "borderNonzeroPixels": 72
+      },
+      "visibleBBoxAlpha16": [
+        219,
+        179,
+        1052,
+        1101
+      ],
+      "rootApprox": null,
+      "sha256": "4f7518215a86143d0316cfcdadf1041326a23f914ea06ee048527e7e554e42e9",
+      "reviewNotes": "已逐图检查主体与风格，透明通道通过；保留生成原始尺寸和alpha。少量极低alpha外围像素保留；尚未进行Godot引擎摆放验收。"
+    },
+    {
+      "id": "PRP_103",
+      "name": "prp_fresh_tea_leaves_v001",
+      "label": "鲜叶",
+      "category": "06_道具与图标",
+      "batch": "02_茶园素材",
+      "relativePath": "06_道具与图标/prp_fresh_tea_leaves_v001.png",
+      "status": "已生成v001",
+      "width": 1254,
+      "height": 1254,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1192381,
+        "borderNonzeroPixels": 0
+      },
+      "visibleBBoxAlpha16": [
+        33,
+        150,
+        1221,
+        1103
+      ],
+      "rootApprox": null,
+      "sha256": "0c1110257e3d8c1906da15be2bbfef3be2ddf5aa069dcb0d1c9d1572de34ab5e",
+      "reviewNotes": "已逐图检查主体与风格，透明通道通过；保留生成原始尺寸和alpha。少量极低alpha外围像素保留；尚未进行Godot引擎摆放验收。"
+    },
+    {
+      "id": "PRP_104",
+      "name": "prp_fertilizer_bag_v001",
+      "label": "肥料布袋",
+      "category": "06_道具与图标",
+      "batch": "02_茶园素材",
+      "relativePath": "06_道具与图标/prp_fertilizer_bag_v001.png",
+      "status": "已生成v001",
+      "width": 1254,
+      "height": 1254,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 936988,
+        "borderNonzeroPixels": 9
+      },
+      "visibleBBoxAlpha16": [
+        119,
+        169,
+        1136,
+        1118
+      ],
+      "rootApprox": null,
+      "sha256": "9c0baef919d2bb52d243d38873b1fb1085ad630b6c18750a782c0ae9ca8afb3d",
+      "reviewNotes": "已逐图检查主体与风格，透明通道通过；保留生成原始尺寸和alpha。少量极低alpha外围像素保留；尚未进行Godot引擎摆放验收。"
+    },
+    {
+      "id": "PRP_105",
+      "name": "prp_picking_manual_closed_v001",
+      "label": "采摘说明书",
+      "category": "06_道具与图标",
+      "batch": "02_茶园素材",
+      "relativePath": "06_道具与图标/prp_picking_manual_closed_v001.png",
+      "status": "已生成v001",
+      "width": 1254,
+      "height": 1254,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1079820,
+        "borderNonzeroPixels": 27
+      },
+      "visibleBBoxAlpha16": [
+        157,
+        201,
+        1110,
+        1060
+      ],
+      "rootApprox": null,
+      "sha256": "814db969d9bec4f65df58874503266aa3b9e9f6908b5c5ee00dc36a62406081b",
+      "reviewNotes": "已逐图检查主体与风格，透明通道通过；保留生成原始尺寸和alpha。少量极低alpha外围像素保留；尚未进行Godot引擎摆放验收。"
+    },
+    {
+      "id": "PRP_106",
+      "name": "prp_satchel_v001",
+      "label": "背包道具",
+      "category": "06_道具与图标",
+      "batch": "02_茶园素材",
+      "relativePath": "06_道具与图标/prp_satchel_v001.png",
+      "status": "已生成v001",
+      "width": 1254,
+      "height": 1254,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 994617,
+        "borderNonzeroPixels": 5
+      },
+      "visibleBBoxAlpha16": [
+        243,
+        72,
+        1115,
+        1184
+      ],
+      "rootApprox": null,
+      "sha256": "336f0b904301738449a35f2be433805c952a4825c46a10ad1e32d1dac5f14212",
+      "reviewNotes": "已逐图检查主体与风格，透明通道通过；保留生成原始尺寸和alpha。少量极低alpha外围像素保留；尚未进行Godot引擎摆放验收。"
+    },
+    {
+      "id": "ICO_101",
+      "name": "ico_seeds_v001",
+      "label": "种子入口图标",
+      "category": "06_道具与图标",
+      "batch": "02_茶园素材",
+      "relativePath": "06_道具与图标/ico_seeds_v001.png",
+      "status": "已生成v001",
+      "width": 1254,
+      "height": 1254,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1179091,
+        "borderNonzeroPixels": 0
+      },
+      "visibleBBoxAlpha16": [
+        269,
+        306,
+        1013,
+        1008
+      ],
+      "rootApprox": null,
+      "sha256": "c2236c6c4d26e2839cc993e8d3412ef4f324663c19d7116753c2dc12eb4b2bd4",
+      "reviewNotes": "已逐图检查主体与风格，透明通道通过；保留生成原始尺寸和alpha。少量极低alpha外围像素保留；尚未进行Godot引擎摆放验收。"
+    },
+    {
+      "id": "ICO_102",
+      "name": "ico_inventory_v001",
+      "label": "背包入口图标",
+      "category": "06_道具与图标",
+      "batch": "02_茶园素材",
+      "relativePath": "06_道具与图标/ico_inventory_v001.png",
+      "status": "已生成v001",
+      "width": 1254,
+      "height": 1254,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1080335,
+        "borderNonzeroPixels": 1
+      },
+      "visibleBBoxAlpha16": [
+        260,
+        163,
+        1055,
+        1141
+      ],
+      "rootApprox": null,
+      "sha256": "d0a8f32520c568b9d73d2562bbc61efc4c9e98f1348dac55a0e52efef30ddd13",
+      "reviewNotes": "已逐图检查主体与风格，透明通道通过；保留生成原始尺寸和alpha。少量极低alpha外围像素保留；尚未进行Godot引擎摆放验收。"
+    },
+    {
+      "id": "ICO_103",
+      "name": "ico_basket_v001",
+      "label": "茶篓入口图标",
+      "category": "06_道具与图标",
+      "batch": "02_茶园素材",
+      "relativePath": "06_道具与图标/ico_basket_v001.png",
+      "status": "已生成v001",
+      "width": 1254,
+      "height": 1254,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 963030,
+        "borderNonzeroPixels": 22
+      },
+      "visibleBBoxAlpha16": [
+        138,
+        255,
+        1120,
+        1067
+      ],
+      "rootApprox": null,
+      "sha256": "03461542c805bcc0a28d27d69d64e1779e9498dab42854e104ad8379d4b1591e",
+      "reviewNotes": "已逐图检查主体与风格，透明通道通过；保留生成原始尺寸和alpha。少量极低alpha外围像素保留；尚未进行Godot引擎摆放验收。"
+    },
+    {
+      "id": "ICO_104",
+      "name": "ico_fertilizer_v001",
+      "label": "化肥入口图标",
+      "category": "06_道具与图标",
+      "batch": "02_茶园素材",
+      "relativePath": "06_道具与图标/ico_fertilizer_v001.png",
+      "status": "已生成v001",
+      "width": 1254,
+      "height": 1254,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 934135,
+        "borderNonzeroPixels": 15
+      },
+      "visibleBBoxAlpha16": [
+        129,
+        175,
+        1124,
+        1132
+      ],
+      "rootApprox": null,
+      "sha256": "dc06efc65a566693c6127d558c892d9b1f03c93c17e5adbf6a3a347ed4a4f284",
+      "reviewNotes": "已逐图检查主体与风格，透明通道通过；保留生成原始尺寸和alpha。少量极低alpha外围像素保留；尚未进行Godot引擎摆放验收。"
+    },
+    {
+      "id": "ICO_105",
+      "name": "ico_picking_manual_v001",
+      "label": "说明书入口图标",
+      "category": "06_道具与图标",
+      "batch": "02_茶园素材",
+      "relativePath": "06_道具与图标/ico_picking_manual_v001.png",
+      "status": "已生成v001",
+      "width": 1254,
+      "height": 1254,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1193009,
+        "borderNonzeroPixels": 0
+      },
+      "visibleBBoxAlpha16": [
+        233,
+        269,
+        1061,
+        1020
+      ],
+      "rootApprox": null,
+      "sha256": "b0bbeae9933e302e14b79c153f415859aa3e36fd119402e75f9df7392372e6aa",
+      "reviewNotes": "已逐图检查主体与风格，透明通道通过；保留生成原始尺寸和alpha。少量极低alpha外围像素保留；尚未进行Godot引擎摆放验收。"
+    },
+    {
+      "id": "ICO_106",
+      "name": "ico_journal_v001",
+      "label": "制茶手记图标",
+      "category": "04_UI组件",
+      "batch": "03_UI组件",
+      "relativePath": "04_UI组件/ico_journal_v001.png",
+      "status": "已生成v001",
+      "width": 1254,
+      "height": 1254,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 757350,
+        "borderNonzeroPixels": 21,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 253,
+        "centralNonzeroPixels": 251001,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        49,
+        240,
+        1204,
+        1015
+      ],
+      "solidBBoxAlpha128": [
+        50,
+        241,
+        1204,
+        1014
+      ],
+      "sha256": "52ce2b512d922a2af74a997bd78bc2b37fabc8ec017346626e39e66a41ca2db7",
+      "reviewNotes": "已逐项检查主体与画风；保留原始PNG和透明alpha。UI文字、按钮图标、面板角饰分别生成；状态对位及引擎拉伸尚待后续验收。",
+      "positionReference": "00_规范与清单/UI组件位置与对位参考_v001.json"
+    },
+    {
+      "id": "ICO_107",
+      "name": "ico_settings_v001",
+      "label": "设置图标",
+      "category": "04_UI组件",
+      "batch": "03_UI组件",
+      "relativePath": "04_UI组件/ico_settings_v001.png",
+      "status": "已生成v001",
+      "width": 1254,
+      "height": 1254,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1086738,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 0,
+        "centralNonzeroPixels": 153841,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        160,
+        177,
+        1091,
+        1081
+      ],
+      "solidBBoxAlpha128": [
+        161,
+        178,
+        1090,
+        1081
+      ],
+      "sha256": "e965096aa1ef4269cd91466fa835ba8b43e73af14aa63d71e115aace66174f24",
+      "reviewNotes": "已逐项检查主体与画风；保留原始PNG和透明alpha。UI文字、按钮图标、面板角饰分别生成；状态对位及引擎拉伸尚待后续验收。",
+      "positionReference": "00_规范与清单/UI组件位置与对位参考_v001.json"
+    },
+    {
+      "id": "UI_002",
+      "name": "ui_title_plaque_v001",
+      "label": "标题题签底板",
+      "category": "04_UI组件",
+      "batch": "03_UI组件",
+      "relativePath": "04_UI组件/ui_title_plaque_v001.png",
+      "status": "已生成v001",
+      "width": 1536,
+      "height": 1024,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1206132,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 254,
+        "centralNonzeroPixels": 179061,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        85,
+        365,
+        1450,
+        651
+      ],
+      "solidBBoxAlpha128": [
+        85,
+        366,
+        1450,
+        651
+      ],
+      "sha256": "61c481183e855b4755d3610c01400f6253a92df8866f588d29b786023b531c91",
+      "reviewNotes": "已逐项检查主体与画风；保留原始PNG和透明alpha。UI文字、按钮图标、面板角饰分别生成；状态对位及引擎拉伸尚待后续验收。",
+      "positionReference": "00_规范与清单/UI组件位置与对位参考_v001.json"
+    },
+    {
+      "id": "UI_003",
+      "name": "ui_item_card_v001",
+      "label": "物品卡片底板",
+      "category": "04_UI组件",
+      "batch": "03_UI组件",
+      "relativePath": "04_UI组件/ui_item_card_v001.png",
+      "status": "已生成v001",
+      "width": 1024,
+      "height": 1536,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 328338,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 253,
+        "centralNonzeroPixels": 251535,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        64,
+        67,
+        959,
+        1467
+      ],
+      "solidBBoxAlpha128": [
+        64,
+        68,
+        959,
+        1467
+      ],
+      "sha256": "a892ef57eafa2a37e1de4c28b0cdfa33be568c471ef26dcd23067512a45e45d5",
+      "reviewNotes": "已逐项检查主体与画风；保留原始PNG和透明alpha。UI文字、按钮图标、面板角饰分别生成；状态对位及引擎拉伸尚待后续验收。",
+      "positionReference": "00_规范与清单/UI组件位置与对位参考_v001.json"
+    },
+    {
+      "id": "UI_004",
+      "name": "ui_item_selection_v001",
+      "label": "卡片选择描边",
+      "category": "04_UI组件",
+      "batch": "03_UI组件",
+      "relativePath": "04_UI组件/ui_item_selection_v001.png",
+      "status": "已生成v001",
+      "width": 1024,
+      "height": 1536,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          1,
+          0
+        ],
+        "transparentPixels": 1484127,
+        "borderNonzeroPixels": 2,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 0,
+        "centralNonzeroPixels": 0,
+        "warning": "角落存在alpha=1的极低透明度像素，保留原始生成文件。"
+      },
+      "visibleBBoxAlpha16": [
+        65,
+        67,
+        958,
+        1467
+      ],
+      "solidBBoxAlpha128": [
+        66,
+        68,
+        958,
+        1467
+      ],
+      "sha256": "8be487fc4531d4d9e13412bdfb8d4997ec3f6b5fa8c642f2ab4ce7565c0016f1",
+      "reviewNotes": "已逐项检查主体与画风；保留原始PNG和透明alpha。UI文字、按钮图标、面板角饰分别生成；状态对位及引擎拉伸尚待后续验收。角落存在alpha=1的极低透明度像素，保留原始生成文件。",
+      "positionReference": "00_规范与清单/UI组件位置与对位参考_v001.json"
+    },
+    {
+      "id": "UI_005",
+      "name": "ui_toolbar_base_v001",
+      "label": "工具栏底板",
+      "category": "04_UI组件",
+      "batch": "03_UI组件",
+      "relativePath": "04_UI组件/ui_toolbar_base_v001.png",
+      "status": "已生成v001",
+      "width": 1536,
+      "height": 1024,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1256707,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 254,
+        "centralNonzeroPixels": 139925,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        68,
+        391,
+        1468,
+        613
+      ],
+      "solidBBoxAlpha128": [
+        69,
+        392,
+        1467,
+        613
+      ],
+      "sha256": "ae5f7b0a2374d2fc37a50b0417403f4a26dafe1ff8ba3c4291b11a22736b73dd",
+      "reviewNotes": "已逐项检查主体与画风；保留原始PNG和透明alpha。UI文字、按钮图标、面板角饰分别生成；状态对位及引擎拉伸尚待后续验收。",
+      "positionReference": "00_规范与清单/UI组件位置与对位参考_v001.json"
+    },
+    {
+      "id": "UI_006",
+      "name": "ui_resource_base_v001",
+      "label": "资源栏底板",
+      "category": "04_UI组件",
+      "batch": "03_UI组件",
+      "relativePath": "04_UI组件/ui_resource_base_v001.png",
+      "status": "已生成v001",
+      "width": 1536,
+      "height": 1024,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1256544,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 254,
+        "centralNonzeroPixels": 140042,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        68,
+        392,
+        1468,
+        614
+      ],
+      "solidBBoxAlpha128": [
+        69,
+        392,
+        1467,
+        613
+      ],
+      "sha256": "18e6a71c330ea256b6d0ef4d824dc36cb7374fa166bb4fbc1c786de2c71687c6",
+      "reviewNotes": "已逐项检查主体与画风；保留原始PNG和透明alpha。UI文字、按钮图标、面板角饰分别生成；状态对位及引擎拉伸尚待后续验收。",
+      "positionReference": "00_规范与清单/UI组件位置与对位参考_v001.json"
+    },
+    {
+      "id": "UI_007",
+      "name": "ui_tooltip_base_v001",
+      "label": "小提示底板",
+      "category": "04_UI组件",
+      "batch": "03_UI组件",
+      "relativePath": "04_UI组件/ui_tooltip_base_v001.png",
+      "status": "已生成v001",
+      "width": 1942,
+      "height": 809,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 957164,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 254,
+        "centralNonzeroPixels": 251748,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        203,
+        176,
+        1738,
+        632
+      ],
+      "solidBBoxAlpha128": [
+        204,
+        176,
+        1737,
+        631
+      ],
+      "sha256": "087430b4947edfcafae966359b1aaf02beaebb1b254e12efebf23ee0ccd98c76",
+      "reviewNotes": "已逐项检查主体与画风；保留原始PNG和透明alpha。UI文字、按钮图标、面板角饰分别生成；状态对位及引擎拉伸尚待后续验收。",
+      "positionReference": "00_规范与清单/UI组件位置与对位参考_v001.json"
+    },
+    {
+      "id": "UI_008",
+      "name": "ui_dialogue_base_v001",
+      "label": "对话底板",
+      "category": "04_UI组件",
+      "batch": "03_UI组件",
+      "relativePath": "04_UI组件/ui_dialogue_base_v001.png",
+      "status": "已生成v001",
+      "width": 1536,
+      "height": 1024,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1258418,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 254,
+        "centralNonzeroPixels": 139120,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        69,
+        392,
+        1467,
+        614
+      ],
+      "solidBBoxAlpha128": [
+        69,
+        393,
+        1466,
+        613
+      ],
+      "sha256": "d0e1ea0087805c57e7ff268a624dbc06cfb095644ee7047d072f7c2e6ff2e46e",
+      "reviewNotes": "已逐项检查主体与画风；保留原始PNG和透明alpha。UI文字、按钮图标、面板角饰分别生成；状态对位及引擎拉伸尚待后续验收。",
+      "positionReference": "00_规范与清单/UI组件位置与对位参考_v001.json"
+    },
+    {
+      "id": "UI_009",
+      "name": "ui_quantity_base_v001",
+      "label": "数量选择底板",
+      "category": "04_UI组件",
+      "batch": "03_UI组件",
+      "relativePath": "04_UI组件/ui_quantity_base_v001.png",
+      "status": "已生成v001",
+      "width": 2172,
+      "height": 724,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1013216,
+        "borderNonzeroPixels": 473,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 254,
+        "centralNonzeroPixels": 250709,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        119,
+        219,
+        2053,
+        503
+      ],
+      "solidBBoxAlpha128": [
+        119,
+        220,
+        2052,
+        502
+      ],
+      "sha256": "ef28f0a82b6cb4ef6845fcb25bea79388f7228898cdd48218a739ddc377eeb9b",
+      "reviewNotes": "已逐项检查主体与画风；保留原始PNG和透明alpha。UI文字、按钮图标、面板角饰分别生成；状态对位及引擎拉伸尚待后续验收。",
+      "positionReference": "00_规范与清单/UI组件位置与对位参考_v001.json"
+    },
+    {
+      "id": "UI_010",
+      "name": "ui_button_normal_v001",
+      "label": "操作按钮默认",
+      "category": "04_UI组件",
+      "batch": "03_UI组件",
+      "relativePath": "04_UI组件/ui_button_normal_v001.png",
+      "status": "已生成v001",
+      "width": 1536,
+      "height": 1024,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1291032,
+        "borderNonzeroPixels": 6,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 253,
+        "centralNonzeroPixels": 151460,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        162,
+        388,
+        1372,
+        627
+      ],
+      "solidBBoxAlpha128": [
+        163,
+        389,
+        1372,
+        627
+      ],
+      "sha256": "84388a08e87d0433b981e963da65ec8af10ace26d2102758e50be0ab2e0ca36f",
+      "reviewNotes": "已逐项检查主体与画风；保留原始PNG和透明alpha。UI文字、按钮图标、面板角饰分别生成；状态对位及引擎拉伸尚待后续验收。",
+      "positionReference": "00_规范与清单/UI组件位置与对位参考_v001.json"
+    },
+    {
+      "id": "UI_011",
+      "name": "ui_button_hover_v001",
+      "label": "操作按钮悬停",
+      "category": "04_UI组件",
+      "batch": "03_UI组件",
+      "relativePath": "04_UI组件/ui_button_hover_v001.png",
+      "status": "已生成v001",
+      "width": 1536,
+      "height": 1024,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1268936,
+        "borderNonzeroPixels": 4,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 253,
+        "centralNonzeroPixels": 150205,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        112,
+        388,
+        1423,
+        627
+      ],
+      "solidBBoxAlpha128": [
+        113,
+        389,
+        1422,
+        627
+      ],
+      "sha256": "ebda47663db54cca891fe94f3cecd19f9ec7d67c20a5d1e606fba48f1622959f",
+      "reviewNotes": "已逐项检查主体与画风；保留原始PNG和透明alpha。UI文字、按钮图标、面板角饰分别生成；状态对位及引擎拉伸尚待后续验收。",
+      "positionReference": "00_规范与清单/UI组件位置与对位参考_v001.json"
+    },
+    {
+      "id": "UI_012",
+      "name": "ui_button_pressed_v001",
+      "label": "操作按钮按下",
+      "category": "04_UI组件",
+      "batch": "03_UI组件",
+      "relativePath": "04_UI组件/ui_button_pressed_v001.png",
+      "status": "已生成v001",
+      "width": 1536,
+      "height": 1024,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1289188,
+        "borderNonzeroPixels": 10,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 253,
+        "centralNonzeroPixels": 152541,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        163,
+        388,
+        1372,
+        628
+      ],
+      "solidBBoxAlpha128": [
+        164,
+        389,
+        1371,
+        627
+      ],
+      "sha256": "8dac93f447533f1a9768fd632452e42708db708613b96b8d6563545e151d8693",
+      "reviewNotes": "已逐项检查主体与画风；保留原始PNG和透明alpha。UI文字、按钮图标、面板角饰分别生成；状态对位及引擎拉伸尚待后续验收。",
+      "positionReference": "00_规范与清单/UI组件位置与对位参考_v001.json"
+    },
+    {
+      "id": "UI_013",
+      "name": "ui_button_disabled_v001",
+      "label": "操作按钮禁用",
+      "category": "04_UI组件",
+      "batch": "03_UI组件",
+      "relativePath": "04_UI组件/ui_button_disabled_v001.png",
+      "status": "已生成v001",
+      "width": 1536,
+      "height": 1024,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1277415,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 254,
+        "centralNonzeroPixels": 151476,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        134,
+        386,
+        1401,
+        627
+      ],
+      "solidBBoxAlpha128": [
+        135,
+        387,
+        1401,
+        626
+      ],
+      "sha256": "d718dd7b603aab78dbccc6dfc0fbf43ae8a19cd50db2c35ce4cfae6cb6e58b7c",
+      "reviewNotes": "已逐项检查主体与画风；保留原始PNG和透明alpha。UI文字、按钮图标、面板角饰分别生成；状态对位及引擎拉伸尚待后续验收。",
+      "positionReference": "00_规范与清单/UI组件位置与对位参考_v001.json"
+    },
+    {
+      "id": "UI_014",
+      "name": "ui_icon_circle_base_v002",
+      "label": "圆形图标底板",
+      "category": "04_UI组件",
+      "batch": "03_UI组件",
+      "relativePath": "04_UI组件/ui_icon_circle_base_v002.png",
+      "status": "已修订v002",
+      "width": 1254,
+      "height": 1254,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 693975,
+        "borderNonzeroPixels": 9,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 254,
+        "centerRGBA": [
+          244,
+          236,
+          219,
+          254
+        ],
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        96,
+        97,
+        1156,
+        1147
+      ],
+      "solidBBoxAlpha128": [
+        96,
+        98,
+        1156,
+        1146
+      ],
+      "sha256": "95c077959dcf1da313a92866ebe4f5055eb6ca2b8495bef987bf148810acb08d",
+      "reviewNotes": "已逐项检查主体与画风；保留原始PNG和透明alpha。UI文字、按钮图标、面板角饰分别生成；状态对位及引擎拉伸尚待后续验收。",
+      "positionReference": "00_规范与清单/UI组件位置与对位参考_v001.json",
+      "revision": "圆形底板 v002 修订",
+      "previousVersions": [
+        {
+          "relativePath": "04_UI组件/ui_icon_circle_base_v001.png",
+          "width": 1254,
+          "height": 1254,
+          "sha256": "516d377b57ef477cc072cec25f9412337d12db9651e125a4e4258a912664e9a9",
+          "reason": "圆形底板中央灰斑已在v002中修正。"
+        }
+      ]
+    },
+    {
+      "id": "UI_015",
+      "name": "ui_close_v001",
+      "label": "关闭图标",
+      "category": "04_UI组件",
+      "batch": "03_UI组件",
+      "relativePath": "04_UI组件/ui_close_v001.png",
+      "status": "已生成v001",
+      "width": 1254,
+      "height": 1254,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          1,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1436873,
+        "borderNonzeroPixels": 1,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 254,
+        "centralNonzeroPixels": 112278,
+        "warning": "角落存在alpha=1的极低透明度像素，保留原始生成文件。"
+      },
+      "visibleBBoxAlpha16": [
+        330,
+        345,
+        924,
+        912
+      ],
+      "solidBBoxAlpha128": [
+        331,
+        346,
+        923,
+        911
+      ],
+      "sha256": "f9491ee6c23e246d2c959abf793fad8df47428cc415506c35bb4b9ee876c13ae",
+      "reviewNotes": "已逐项检查主体与画风；保留原始PNG和透明alpha。UI文字、按钮图标、面板角饰分别生成；状态对位及引擎拉伸尚待后续验收。角落存在alpha=1的极低透明度像素，保留原始生成文件。",
+      "positionReference": "00_规范与清单/UI组件位置与对位参考_v001.json"
+    },
+    {
+      "id": "UI_016",
+      "name": "ui_back_v001",
+      "label": "返回图标",
+      "category": "04_UI组件",
+      "batch": "03_UI组件",
+      "relativePath": "04_UI组件/ui_back_v001.png",
+      "status": "已生成v001",
+      "width": 1254,
+      "height": 1254,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1483257,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 253,
+        "centralNonzeroPixels": 68996,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        263,
+        389,
+        990,
+        890
+      ],
+      "solidBBoxAlpha128": [
+        264,
+        390,
+        989,
+        890
+      ],
+      "sha256": "00cbac22f3a53bac7248d39949409ba1bb68015682052984a9c7ce18f999df7b",
+      "reviewNotes": "已逐项检查主体与画风；保留原始PNG和透明alpha。UI文字、按钮图标、面板角饰分别生成；状态对位及引擎拉伸尚待后续验收。",
+      "positionReference": "00_规范与清单/UI组件位置与对位参考_v001.json"
+    },
+    {
+      "id": "UI_017",
+      "name": "ui_confirm_v001",
+      "label": "确认图标",
+      "category": "04_UI组件",
+      "batch": "03_UI组件",
+      "relativePath": "04_UI组件/ui_confirm_v001.png",
+      "status": "已生成v001",
+      "width": 1254,
+      "height": 1254,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1474848,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 0,
+        "centralNonzeroPixels": 78354,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        321,
+        386,
+        993,
+        918
+      ],
+      "solidBBoxAlpha128": [
+        322,
+        386,
+        993,
+        917
+      ],
+      "sha256": "bb11bfbc437ddfd552f295a51fe11b7e82249c3213fe4099fd39876f5b8ad10e",
+      "reviewNotes": "已逐项检查主体与画风；保留原始PNG和透明alpha。UI文字、按钮图标、面板角饰分别生成；状态对位及引擎拉伸尚待后续验收。",
+      "positionReference": "00_规范与清单/UI组件位置与对位参考_v001.json"
+    },
+    {
+      "id": "UI_018",
+      "name": "ui_plus_v001",
+      "label": "数量增加图标",
+      "category": "04_UI组件",
+      "batch": "03_UI组件",
+      "relativePath": "04_UI组件/ui_plus_v001.png",
+      "status": "已生成v001",
+      "width": 1254,
+      "height": 1254,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1493936,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 254,
+        "centralNonzeroPixels": 76512,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        361,
+        371,
+        893,
+        882
+      ],
+      "solidBBoxAlpha128": [
+        362,
+        372,
+        892,
+        881
+      ],
+      "sha256": "c6f81d2a04952c3a775de4372a90ced575e7d300800e1f7ff810e928db0130a9",
+      "reviewNotes": "已逐项检查主体与画风；保留原始PNG和透明alpha。UI文字、按钮图标、面板角饰分别生成；状态对位及引擎拉伸尚待后续验收。",
+      "positionReference": "00_规范与清单/UI组件位置与对位参考_v001.json"
+    },
+    {
+      "id": "UI_019",
+      "name": "ui_minus_v001",
+      "label": "数量减少图标",
+      "category": "04_UI组件",
+      "batch": "03_UI组件",
+      "relativePath": "04_UI组件/ui_minus_v001.png",
+      "status": "已生成v001",
+      "width": 1254,
+      "height": 1254,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1529433,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 253,
+        "centralNonzeroPixels": 40955,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        356,
+        578,
+        897,
+        666
+      ],
+      "solidBBoxAlpha128": [
+        357,
+        579,
+        896,
+        665
+      ],
+      "sha256": "0653ee9903b71d47311127f8b18761dff85feb89f5f9496ca161d71ea4379ddc",
+      "reviewNotes": "已逐项检查主体与画风；保留原始PNG和透明alpha。UI文字、按钮图标、面板角饰分别生成；状态对位及引擎拉伸尚待后续验收。",
+      "positionReference": "00_规范与清单/UI组件位置与对位参考_v001.json"
+    },
+    {
+      "id": "UI_020",
+      "name": "ui_tab_inactive_v001",
+      "label": "页签默认底板",
+      "category": "04_UI组件",
+      "batch": "03_UI组件",
+      "relativePath": "04_UI组件/ui_tab_inactive_v001.png",
+      "status": "已生成v001",
+      "width": 1874,
+      "height": 839,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 975694,
+        "borderNonzeroPixels": 29,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 254,
+        "centralNonzeroPixels": 251664,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        204,
+        211,
+        1670,
+        620
+      ],
+      "solidBBoxAlpha128": [
+        205,
+        212,
+        1669,
+        619
+      ],
+      "sha256": "b08f7c36dc61f615bab693880d105430fbcb9ff7f28f4dbe2fd7bdca5a8940cb",
+      "reviewNotes": "已逐项检查主体与画风；保留原始PNG和透明alpha。UI文字、按钮图标、面板角饰分别生成；状态对位及引擎拉伸尚待后续验收。",
+      "positionReference": "00_规范与清单/UI组件位置与对位参考_v001.json"
+    },
+    {
+      "id": "UI_021",
+      "name": "ui_tab_active_v001",
+      "label": "页签选中底板",
+      "category": "04_UI组件",
+      "batch": "03_UI组件",
+      "relativePath": "04_UI组件/ui_tab_active_v001.png",
+      "status": "已生成v001",
+      "width": 1875,
+      "height": 839,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 981001,
+        "borderNonzeroPixels": 18,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 254,
+        "centralNonzeroPixels": 252000,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        203,
+        207,
+        1672,
+        613
+      ],
+      "solidBBoxAlpha128": [
+        203,
+        208,
+        1672,
+        612
+      ],
+      "sha256": "d158d388736779b68d5e183c9149565c8d3bba38298961db1de136c9ec3023d0",
+      "reviewNotes": "已逐项检查主体与画风；保留原始PNG和透明alpha。UI文字、按钮图标、面板角饰分别生成；状态对位及引擎拉伸尚待后续验收。",
+      "positionReference": "00_规范与清单/UI组件位置与对位参考_v001.json"
+    },
+    {
+      "id": "UI_022",
+      "name": "ui_progress_track_v001",
+      "label": "成长进度轨道",
+      "category": "04_UI组件",
+      "batch": "03_UI组件",
+      "relativePath": "04_UI组件/ui_progress_track_v001.png",
+      "status": "已生成v001",
+      "width": 1536,
+      "height": 1024,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1448682,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 254,
+        "centralNonzeroPixels": 58583,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        109,
+        465,
+        1427,
+        557
+      ],
+      "solidBBoxAlpha128": [
+        109,
+        466,
+        1426,
+        556
+      ],
+      "sha256": "46f0f94ea37d9d6ce3c27b06171a8605f62c187461f95aed68f90da1b52aef5e",
+      "reviewNotes": "已逐项检查主体与画风；保留原始PNG和透明alpha。UI文字、按钮图标、面板角饰分别生成；状态对位及引擎拉伸尚待后续验收。",
+      "positionReference": "00_规范与清单/UI组件位置与对位参考_v001.json"
+    },
+    {
+      "id": "UI_023",
+      "name": "ui_progress_fill_v001",
+      "label": "成长进度填充",
+      "category": "04_UI组件",
+      "batch": "03_UI组件",
+      "relativePath": "04_UI组件/ui_progress_fill_v001.png",
+      "status": "已生成v001",
+      "width": 1536,
+      "height": 1024,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1455024,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 254,
+        "centralNonzeroPixels": 55836,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        111,
+        468,
+        1424,
+        554
+      ],
+      "solidBBoxAlpha128": [
+        112,
+        469,
+        1423,
+        554
+      ],
+      "sha256": "a5c07c93bb13a22091ba8a5d678c1c3daa9ec34ab238560833b69a011269cde6",
+      "reviewNotes": "已逐项检查主体与画风；保留原始PNG和透明alpha。UI文字、按钮图标、面板角饰分别生成；状态对位及引擎拉伸尚待后续验收。",
+      "positionReference": "00_规范与清单/UI组件位置与对位参考_v001.json"
+    },
+    {
+      "id": "UI_024",
+      "name": "ui_state_ready_v001",
+      "label": "成熟提示标记",
+      "category": "04_UI组件",
+      "batch": "03_UI组件",
+      "relativePath": "04_UI组件/ui_state_ready_v001.png",
+      "status": "已生成v001",
+      "width": 1024,
+      "height": 1536,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1211771,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 253,
+        "centralNonzeroPixels": 155686,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        36,
+        133,
+        987,
+        1341
+      ],
+      "solidBBoxAlpha128": [
+        37,
+        134,
+        986,
+        1340
+      ],
+      "sha256": "a729a7b4f11ffe19d5ffa2e6e239c8ae297c1a7d331c16a3ca09ae4763451ac0",
+      "reviewNotes": "已逐项检查主体与画风；保留原始PNG和透明alpha。UI文字、按钮图标、面板角饰分别生成；状态对位及引擎拉伸尚待后续验收。",
+      "positionReference": "00_规范与清单/UI组件位置与对位参考_v001.json"
+    },
+    {
+      "id": "UI_025",
+      "name": "ui_state_finished_v001",
+      "label": "加工完成提示标记",
+      "category": "04_UI组件",
+      "batch": "03_UI组件",
+      "relativePath": "04_UI组件/ui_state_finished_v001.png",
+      "status": "已生成v001",
+      "width": 1024,
+      "height": 1536,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1178528,
+        "borderNonzeroPixels": 5,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 253,
+        "centralNonzeroPixels": 245461,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        171,
+        393,
+        853,
+        1161
+      ],
+      "solidBBoxAlpha128": [
+        171,
+        394,
+        852,
+        1160
+      ],
+      "sha256": "9ec53a5f4ea2bc76441a2b2dc13fed60e1f5cc8e8cd33b5157606336282d7265",
+      "reviewNotes": "已逐项检查主体与画风；保留原始PNG和透明alpha。UI文字、按钮图标、面板角饰分别生成；状态对位及引擎拉伸尚待后续验收。",
+      "positionReference": "00_规范与清单/UI组件位置与对位参考_v001.json"
+    },
+    {
+      "id": "UI_026",
+      "name": "ui_order_bubble_v001",
+      "label": "顾客等待提示气泡",
+      "category": "04_UI组件",
+      "batch": "03_UI组件",
+      "relativePath": "04_UI组件/ui_order_bubble_v001.png",
+      "status": "已生成v001",
+      "width": 1254,
+      "height": 1254,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 599536,
+        "borderNonzeroPixels": 23,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 253,
+        "centralNonzeroPixels": 251001,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        76,
+        132,
+        1177,
+        1121
+      ],
+      "solidBBoxAlpha128": [
+        77,
+        133,
+        1176,
+        1120
+      ],
+      "sha256": "f870a3e984d8004ed7f28e20b3d6da785ed8d0967f06d06604027a483463c7ff",
+      "reviewNotes": "已逐项检查主体与画风；保留原始PNG和透明alpha。UI文字、按钮图标、面板角饰分别生成；状态对位及引擎拉伸尚待后续验收。",
+      "positionReference": "00_规范与清单/UI组件位置与对位参考_v001.json"
+    },
+    {
+      "id": "UI_027",
+      "name": "ui_quality_normal_v001",
+      "label": "普通品质印记",
+      "category": "04_UI组件",
+      "batch": "03_UI组件",
+      "relativePath": "04_UI组件/ui_quality_normal_v001.png",
+      "status": "已生成v001",
+      "width": 1254,
+      "height": 1254,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 841511,
+        "borderNonzeroPixels": 50,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 253,
+        "centralNonzeroPixels": 251001,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        147,
+        145,
+        1107,
+        1102
+      ],
+      "solidBBoxAlpha128": [
+        148,
+        146,
+        1106,
+        1101
+      ],
+      "sha256": "500c0fd8b18114900c824435d077d6d5b50bed0fc7cf295e50cd0e93b9f12fda",
+      "reviewNotes": "已逐项检查主体与画风；保留原始PNG和透明alpha。UI文字、按钮图标、面板角饰分别生成；状态对位及引擎拉伸尚待后续验收。",
+      "positionReference": "00_规范与清单/UI组件位置与对位参考_v001.json"
+    },
+    {
+      "id": "UI_028",
+      "name": "ui_quality_good_v001",
+      "label": "良好品质印记",
+      "category": "04_UI组件",
+      "batch": "03_UI组件",
+      "relativePath": "04_UI组件/ui_quality_good_v001.png",
+      "status": "已生成v001",
+      "width": 1254,
+      "height": 1254,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          1,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 765490,
+        "borderNonzeroPixels": 7,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 253,
+        "centralNonzeroPixels": 251001,
+        "warning": "角落存在alpha=1的极低透明度像素，保留原始生成文件。"
+      },
+      "visibleBBoxAlpha16": [
+        35,
+        48,
+        1215,
+        1207
+      ],
+      "solidBBoxAlpha128": [
+        36,
+        48,
+        1214,
+        1206
+      ],
+      "sha256": "ee2cb03f1cca6756699f5a3d009d711d8c6def6232ecc567157135330b1b69b8",
+      "reviewNotes": "已逐项检查主体与画风；保留原始PNG和透明alpha。UI文字、按钮图标、面板角饰分别生成；状态对位及引擎拉伸尚待后续验收。角落存在alpha=1的极低透明度像素，保留原始生成文件。",
+      "positionReference": "00_规范与清单/UI组件位置与对位参考_v001.json"
+    },
+    {
+      "id": "UI_029",
+      "name": "ui_quality_best_v001",
+      "label": "上佳品质印记",
+      "category": "04_UI组件",
+      "batch": "03_UI组件",
+      "relativePath": "04_UI组件/ui_quality_best_v001.png",
+      "status": "已生成v001",
+      "width": 1254,
+      "height": 1254,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 757025,
+        "borderNonzeroPixels": 1,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 253,
+        "centralNonzeroPixels": 251001,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        89,
+        96,
+        1164,
+        1140
+      ],
+      "solidBBoxAlpha128": [
+        89,
+        97,
+        1163,
+        1139
+      ],
+      "sha256": "fd02228b5377538ad80c72edd197bd0c6c87bf091ec6b269409e786dcee6117d",
+      "reviewNotes": "已逐项检查主体与画风；保留原始PNG和透明alpha。UI文字、按钮图标、面板角饰分别生成；状态对位及引擎拉伸尚待后续验收。",
+      "positionReference": "00_规范与清单/UI组件位置与对位参考_v001.json"
+    },
+    {
+      "id": "UI_030",
+      "name": "ui_popup_plain_v001",
+      "label": "可缩放无装饰面板",
+      "category": "04_UI组件",
+      "batch": "03_UI组件",
+      "relativePath": "04_UI组件/ui_popup_plain_v001.png",
+      "status": "已生成v001",
+      "width": 1536,
+      "height": 1024,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 424494,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 254,
+        "centralNonzeroPixels": 251535,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        74,
+        99,
+        1461,
+        920
+      ],
+      "solidBBoxAlpha128": [
+        75,
+        100,
+        1461,
+        919
+      ],
+      "sha256": "53a2bb8a20b32f50c2c34e4dbaf79e835bff1ef971e6355724ff5f2836a10041",
+      "reviewNotes": "已逐项检查主体与画风；保留原始PNG和透明alpha。UI文字、按钮图标、面板角饰分别生成；状态对位及引擎拉伸尚待后续验收。",
+      "positionReference": "00_规范与清单/UI组件位置与对位参考_v001.json"
+    },
+    {
+      "id": "UI_031",
+      "name": "ui_ornament_bamboo_v001",
+      "label": "竹叶角饰",
+      "category": "04_UI组件",
+      "batch": "03_UI组件",
+      "relativePath": "04_UI组件/ui_ornament_bamboo_v001.png",
+      "status": "已生成v001",
+      "width": 1254,
+      "height": 1254,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1357554,
+        "borderNonzeroPixels": 7,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 3,
+        "centralNonzeroPixels": 63770,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        41,
+        17,
+        1237,
+        1196
+      ],
+      "solidBBoxAlpha128": [
+        44,
+        17,
+        1237,
+        1189
+      ],
+      "sha256": "b4fc44074ddb2a7f4c945d708003b9578bbed01de5698ebe591dbf8c53edfe81",
+      "reviewNotes": "已逐项检查主体与画风；保留原始PNG和透明alpha。UI文字、按钮图标、面板角饰分别生成；状态对位及引擎拉伸尚待后续验收。",
+      "positionReference": "00_规范与清单/UI组件位置与对位参考_v001.json"
+    },
+    {
+      "id": "UI_032",
+      "name": "ui_ornament_mountain_v001",
+      "label": "水墨山角饰",
+      "category": "04_UI组件",
+      "batch": "03_UI组件",
+      "relativePath": "04_UI组件/ui_ornament_mountain_v001.png",
+      "status": "已生成v001",
+      "width": 1536,
+      "height": 1024,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1197772,
+        "borderNonzeroPixels": 6,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 253,
+        "centralNonzeroPixels": 177254,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        33,
+        211,
+        1508,
+        726
+      ],
+      "solidBBoxAlpha128": [
+        44,
+        212,
+        1490,
+        713
+      ],
+      "sha256": "e5ae4c8a889f31748bfddef8bdd19351da442daac7db6af4b394ca0cef50d72b",
+      "reviewNotes": "已逐项检查主体与画风；保留原始PNG和透明alpha。UI文字、按钮图标、面板角饰分别生成；状态对位及引擎拉伸尚待后续验收。",
+      "positionReference": "00_规范与清单/UI组件位置与对位参考_v001.json"
+    },
+    {
+      "id": "PRP_201",
+      "name": "prp_bamboo_tray_empty_v001",
+      "label": "空竹匾",
+      "category": "06_道具与图标",
+      "batch": "04_工坊素材",
+      "relativePath": "06_道具与图标/prp_bamboo_tray_empty_v001.png",
+      "status": "已生成v001",
+      "width": 1254,
+      "height": 1254,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1129894,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        120,
+        363,
+        1143,
+        903
+      ],
+      "solidBBoxAlpha128": [
+        121,
+        364,
+        1142,
+        902
+      ],
+      "sha256": "2851407060748ee14f0e5cfdea5a6f9696ea0440a2de31d5d2296bb240bcda03",
+      "reviewNotes": "独立透明PNG；空器具、原料层与火焰分别保存。已检查浏览器透明预览；主体位置参考另存，尚未进入Godot。",
+      "positionReference": "00_规范与清单/工坊素材叠放与锚点参考_v001.json"
+    },
+    {
+      "id": "PRP_202",
+      "name": "prp_leaves_spread_v001",
+      "label": "摊放鲜叶层",
+      "category": "06_道具与图标",
+      "batch": "04_工坊素材",
+      "relativePath": "06_道具与图标/prp_leaves_spread_v001.png",
+      "status": "已生成v001",
+      "width": 1254,
+      "height": 1254,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1346424,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        116,
+        371,
+        1157,
+        886
+      ],
+      "solidBBoxAlpha128": [
+        117,
+        372,
+        1156,
+        885
+      ],
+      "sha256": "a20ec9e91920ea9590dbe090880d44f5a5b5e2e9858237d6f217a517f2c761b6",
+      "reviewNotes": "独立透明PNG；空器具、原料层与火焰分别保存。已检查浏览器透明预览；主体位置参考另存，尚未进入Godot。",
+      "positionReference": "00_规范与清单/工坊素材叠放与锚点参考_v001.json"
+    },
+    {
+      "id": "PRP_203",
+      "name": "prp_iron_wok_empty_v001",
+      "label": "空炒锅",
+      "category": "06_道具与图标",
+      "batch": "04_工坊素材",
+      "relativePath": "06_道具与图标/prp_iron_wok_empty_v001.png",
+      "status": "已生成v001",
+      "width": 1254,
+      "height": 1254,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1049345,
+        "borderNonzeroPixels": 2,
+        "borderPixelsAlpha16": 0,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        57,
+        355,
+        1203,
+        983
+      ],
+      "solidBBoxAlpha128": [
+        57,
+        355,
+        1202,
+        983
+      ],
+      "sha256": "78ca388014d64a930b4b9571b86605048749889e38112666b68d6351095d4c36",
+      "reviewNotes": "独立透明PNG；空器具、原料层与火焰分别保存。已检查浏览器透明预览；主体位置参考另存，尚未进入Godot。",
+      "positionReference": "00_规范与清单/工坊素材叠放与锚点参考_v001.json"
+    },
+    {
+      "id": "PRP_204",
+      "name": "prp_stove_base_v001",
+      "label": "炉台",
+      "category": "06_道具与图标",
+      "batch": "04_工坊素材",
+      "relativePath": "06_道具与图标/prp_stove_base_v001.png",
+      "status": "已生成v001",
+      "width": 1254,
+      "height": 1254,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 929683,
+        "borderNonzeroPixels": 15,
+        "borderPixelsAlpha16": 0,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        88,
+        266,
+        1183,
+        1126
+      ],
+      "solidBBoxAlpha128": [
+        88,
+        267,
+        1183,
+        1125
+      ],
+      "sha256": "2922ef73ee0011add4ed389e4ad745df0249ca3956f1703c8da4d80852537fa0",
+      "reviewNotes": "独立透明PNG；空器具、原料层与火焰分别保存。已检查浏览器透明预览；主体位置参考另存，尚未进入Godot。",
+      "positionReference": "00_规范与清单/工坊素材叠放与锚点参考_v001.json"
+    },
+    {
+      "id": "PRP_205",
+      "name": "prp_rolling_table_v001",
+      "label": "揉捻工作台",
+      "category": "06_道具与图标",
+      "batch": "04_工坊素材",
+      "relativePath": "06_道具与图标/prp_rolling_table_v001.png",
+      "status": "已生成v001",
+      "width": 1536,
+      "height": 1024,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 931196,
+        "borderNonzeroPixels": 5,
+        "borderPixelsAlpha16": 0,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        74,
+        82,
+        1489,
+        975
+      ],
+      "solidBBoxAlpha128": [
+        75,
+        83,
+        1489,
+        974
+      ],
+      "sha256": "21d8ea0695a0046872c56f14a9ac4e3ec07883c6fcfd287f709a04f3b97b93dd",
+      "reviewNotes": "独立透明PNG；空器具、原料层与火焰分别保存。已检查浏览器透明预览；主体位置参考另存，尚未进入Godot。",
+      "positionReference": "00_规范与清单/工坊素材叠放与锚点参考_v001.json"
+    },
+    {
+      "id": "PRP_206",
+      "name": "prp_leaves_rolled_v001",
+      "label": "揉捻叶层",
+      "category": "06_道具与图标",
+      "batch": "04_工坊素材",
+      "relativePath": "06_道具与图标/prp_leaves_rolled_v001.png",
+      "status": "已生成v001",
+      "width": 1254,
+      "height": 1254,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1237025,
+        "borderNonzeroPixels": 4,
+        "borderPixelsAlpha16": 0,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        100,
+        415,
+        1156,
+        873
+      ],
+      "solidBBoxAlpha128": [
+        101,
+        416,
+        1155,
+        872
+      ],
+      "sha256": "dd3823756544f370e8c1cb6b45d804e81e24d5503b20c82a81d607c97e068aeb",
+      "reviewNotes": "独立透明PNG；空器具、原料层与火焰分别保存。已检查浏览器透明预览；主体位置参考另存，尚未进入Godot。",
+      "positionReference": "00_规范与清单/工坊素材叠放与锚点参考_v001.json"
+    },
+    {
+      "id": "PRP_207",
+      "name": "prp_drying_rack_empty_v001",
+      "label": "空晾架",
+      "category": "06_道具与图标",
+      "batch": "04_工坊素材",
+      "relativePath": "06_道具与图标/prp_drying_rack_empty_v001.png",
+      "status": "已生成v001",
+      "width": 1024,
+      "height": 1536,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 778636,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        120,
+        120,
+        916,
+        1431
+      ],
+      "solidBBoxAlpha128": [
+        120,
+        121,
+        916,
+        1431
+      ],
+      "sha256": "5e89964cb1b75b4062debffa4ff013d69860ee9b788276cdcbc6781e21ca80fc",
+      "reviewNotes": "独立透明PNG；空器具、原料层与火焰分别保存。已检查浏览器透明预览；主体位置参考另存，尚未进入Godot。",
+      "positionReference": "00_规范与清单/工坊素材叠放与锚点参考_v001.json"
+    },
+    {
+      "id": "PRP_208",
+      "name": "prp_leaves_dried_v001",
+      "label": "干茶叶层",
+      "category": "06_道具与图标",
+      "batch": "04_工坊素材",
+      "relativePath": "06_道具与图标/prp_leaves_dried_v001.png",
+      "status": "已生成v001",
+      "width": 1254,
+      "height": 1254,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1254025,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        71,
+        444,
+        1187,
+        858
+      ],
+      "solidBBoxAlpha128": [
+        72,
+        445,
+        1186,
+        857
+      ],
+      "sha256": "2e8804114ef943cae147c969f6089d6338a20586352e8217d7eeaaff8850a682",
+      "reviewNotes": "独立透明PNG；空器具、原料层与火焰分别保存。已检查浏览器透明预览；主体位置参考另存，尚未进入Godot。",
+      "positionReference": "00_规范与清单/工坊素材叠放与锚点参考_v001.json"
+    },
+    {
+      "id": "PRP_209",
+      "name": "prp_tea_jar_v001",
+      "label": "成品茶罐",
+      "category": "06_道具与图标",
+      "batch": "04_工坊素材",
+      "relativePath": "06_道具与图标/prp_tea_jar_v001.png",
+      "status": "已生成v001",
+      "width": 1254,
+      "height": 1254,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1237704,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        307,
+        294,
+        945,
+        964
+      ],
+      "solidBBoxAlpha128": [
+        308,
+        295,
+        945,
+        963
+      ],
+      "sha256": "b896ccef28adb10fad4b32e15bfd8168530418897dd5e4a5a810db6de66e2ff1",
+      "reviewNotes": "独立透明PNG；空器具、原料层与火焰分别保存。已检查浏览器透明预览；主体位置参考另存，尚未进入Godot。",
+      "positionReference": "00_规范与清单/工坊素材叠放与锚点参考_v001.json"
+    },
+    {
+      "id": "PRP_210",
+      "name": "prp_workshop_stool_v001",
+      "label": "木凳",
+      "category": "06_道具与图标",
+      "batch": "04_工坊素材",
+      "relativePath": "06_道具与图标/prp_workshop_stool_v001.png",
+      "status": "已生成v001",
+      "width": 1254,
+      "height": 1254,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1160907,
+        "borderNonzeroPixels": 38,
+        "borderPixelsAlpha16": 0,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        209,
+        223,
+        1071,
+        1073
+      ],
+      "solidBBoxAlpha128": [
+        209,
+        223,
+        1070,
+        1073
+      ],
+      "sha256": "e2614eaf56eec0d5e11a623afcb149b5347a6ca6319a6c50982b5798482bdc82",
+      "reviewNotes": "独立透明PNG；空器具、原料层与火焰分别保存。已检查浏览器透明预览；主体位置参考另存，尚未进入Godot。",
+      "positionReference": "00_规范与清单/工坊素材叠放与锚点参考_v001.json"
+    },
+    {
+      "id": "ICO_201",
+      "name": "ico_tools_v001",
+      "label": "器具入口图标",
+      "category": "06_道具与图标",
+      "batch": "04_工坊素材",
+      "relativePath": "06_道具与图标/ico_tools_v001.png",
+      "status": "已生成v001",
+      "width": 1254,
+      "height": 1254,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1278921,
+        "borderNonzeroPixels": 4,
+        "borderPixelsAlpha16": 0,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        240,
+        274,
+        1058,
+        1019
+      ],
+      "solidBBoxAlpha128": [
+        241,
+        275,
+        1057,
+        1019
+      ],
+      "sha256": "f2cfb374dad155378b19c9d41798c154e6b5bab4b54a95ac4b0ed88f81c338bc",
+      "reviewNotes": "独立透明PNG；空器具、原料层与火焰分别保存。已检查浏览器透明预览；主体位置参考另存，尚未进入Godot。",
+      "positionReference": "00_规范与清单/工坊素材叠放与锚点参考_v001.json"
+    },
+    {
+      "id": "FX_201",
+      "name": "fx_fire_low_v001",
+      "label": "炉火低档",
+      "category": "06_道具与图标",
+      "batch": "04_工坊素材",
+      "relativePath": "06_道具与图标/fx_fire_low_v001.png",
+      "status": "已生成v001",
+      "width": 1024,
+      "height": 1536,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1471321,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        309,
+        876,
+        755,
+        1302
+      ],
+      "solidBBoxAlpha128": [
+        310,
+        877,
+        754,
+        1301
+      ],
+      "sha256": "fc9ac386e3feca8320f9d64ef63c40b95788dced80e7358e0767ea369512308b",
+      "reviewNotes": "独立透明PNG；空器具、原料层与火焰分别保存。已检查浏览器透明预览；主体位置参考另存，尚未进入Godot。",
+      "positionReference": "00_规范与清单/工坊素材叠放与锚点参考_v001.json"
+    },
+    {
+      "id": "FX_202",
+      "name": "fx_fire_medium_v001",
+      "label": "炉火中档",
+      "category": "06_道具与图标",
+      "batch": "04_工坊素材",
+      "relativePath": "06_道具与图标/fx_fire_medium_v001.png",
+      "status": "已生成v001",
+      "width": 1024,
+      "height": 1536,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1175086,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        122,
+        325,
+        938,
+        1335
+      ],
+      "solidBBoxAlpha128": [
+        122,
+        325,
+        937,
+        1335
+      ],
+      "sha256": "2d97ce6a6a3f46f81b1a380aeb2d51f240b8e0745d21052b65a6f01b7af853bc",
+      "reviewNotes": "独立透明PNG；空器具、原料层与火焰分别保存。已检查浏览器透明预览；主体位置参考另存，尚未进入Godot。",
+      "positionReference": "00_规范与清单/工坊素材叠放与锚点参考_v001.json"
+    },
+    {
+      "id": "FX_203",
+      "name": "fx_fire_high_v001",
+      "label": "炉火高档",
+      "category": "06_道具与图标",
+      "batch": "04_工坊素材",
+      "relativePath": "06_道具与图标/fx_fire_high_v001.png",
+      "status": "已生成v001",
+      "width": 1024,
+      "height": 1536,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "transparentPixels": 966463,
+        "borderNonzeroPixels": 7,
+        "borderPixelsAlpha16": 0,
+        "warning": "保留原始alpha；角落存在极低透明度像素。"
+      },
+      "visibleBBoxAlpha16": [
+        107,
+        42,
+        954,
+        1461
+      ],
+      "solidBBoxAlpha128": [
+        108,
+        42,
+        954,
+        1461
+      ],
+      "sha256": "f441c06e8668eeba1a5a58106122a64464bbcb479799c621d1540017537f3949",
+      "reviewNotes": "独立透明PNG；空器具、原料层与火焰分别保存。已检查浏览器透明预览；主体位置参考另存，尚未进入Godot。",
+      "positionReference": "00_规范与清单/工坊素材叠放与锚点参考_v001.json"
+    }
+  ],
+  "revisionHistory": [
+    {
+      "date": "2026-10-08",
+      "request": "用户希望植物状态差异更大，旧版茶树各状态差距不大。",
+      "ids": [
+        "PLT_102",
+        "PLT_103",
+        "PLT_101",
+        "PLT_104"
+      ],
+      "prompts": "09_生成记录/tea_states_v002_prompts.json",
+      "qa": "09_生成记录/tea_states_v002_alpha_check.json"
+    },
+    {
+      "date": "2026-10-08",
+      "request": "用户指出挡土墙透视与土路、石路不一致。",
+      "ids": [
+        "TER_104"
+      ],
+      "prompts": "09_生成记录/retaining_wall_v002_prompts.json",
+      "qa": "09_生成记录/retaining_wall_v002_alpha_check.json",
+      "projectionCheck": "09_生成记录/retaining_wall_v002_projection_check.json",
+      "comparison": "08_预览/挡土墙透视修订_v002/01_挡土墙透视新旧对照_v002.png"
+    },
+    {
+      "date": "2026-10-08",
+      "request": "继续生成下一批素材。",
+      "batch": "03_UI组件",
+      "ids": [
+        "ICO_106",
+        "ICO_107",
+        "UI_002",
+        "UI_003",
+        "UI_004",
+        "UI_005",
+        "UI_006",
+        "UI_007",
+        "UI_008",
+        "UI_009",
+        "UI_010",
+        "UI_011",
+        "UI_012",
+        "UI_013",
+        "UI_014",
+        "UI_015",
+        "UI_016",
+        "UI_017",
+        "UI_018",
+        "UI_019",
+        "UI_020",
+        "UI_021",
+        "UI_022",
+        "UI_023",
+        "UI_024",
+        "UI_025",
+        "UI_026",
+        "UI_027",
+        "UI_028",
+        "UI_029",
+        "UI_030",
+        "UI_031",
+        "UI_032"
+      ],
+      "prompts": "09_生成记录/batch03_prompts_v001.json",
+      "qa": "09_生成记录/batch03_alpha_check_v001.json",
+      "positions": "00_规范与清单/UI组件位置与对位参考_v001.json"
+    },
+    {
+      "date": "2026-10-08",
+      "request": "继续生成下一批素材。",
+      "batch": "04_工坊素材",
+      "ids": [
+        "PRP_201",
+        "PRP_202",
+        "PRP_203",
+        "PRP_204",
+        "PRP_205",
+        "PRP_206",
+        "PRP_207",
+        "PRP_208",
+        "PRP_209",
+        "PRP_210",
+        "ICO_201",
+        "FX_201",
+        "FX_202",
+        "FX_203"
+      ],
+      "prompts": "09_生成记录/batch04_prompts_v001.json",
+      "qa": "09_生成记录/batch04_alpha_check_v001.json",
+      "positions": "00_规范与清单/工坊素材叠放与锚点参考_v001.json"
+    }
+  ]
+}

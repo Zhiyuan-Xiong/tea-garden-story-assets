@@ -1,0 +1,21 @@
+{
+  "id": "PRP_206",
+  "category": "06_道具与图标",
+  "functionArea": "制茶工坊",
+  "label": "揉捻叶层",
+  "plannedFile": "prp_leaves_rolled_v001.png",
+  "batch": "04_工坊素材",
+  "targetSize": "1024×1024",
+  "status": "待生成",
+  "actualSize": "",
+  "relativePath": "",
+  "remarks": "独立原料变化",
+  "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-3c675b82-8383-4b3e-9491-06edd32eee0c.png",
+  "prompt": "Create one isolated production-ready 2D game sprite for 茶园物语. Chinese ink and pale watercolor hand-painted style, restrained thin warm-grey brush outlines, clean broad washes, very sparse material marks. Match the approved reference palette: ivory, muted bamboo beige, pale brown, sage/tea green, charcoal grey. No noise, no paper grain, no dense texture, no muddy wash, no photographic surface, no oversaturation. Parallel axonometric camera, elevated view; long horizontal ground axis slopes up-right about 26 degrees, perpendicular short axis down-right about 30 degrees; verticals remain vertical, no vanishing points. Soft material shading only, no ground/shadow plate. TRUE transparent alpha background; no background color, no checkerboard drawn in image. One complete centered object with generous transparent margin. No scene, people, text, labels, UI, decorations or unrelated objects. Figma image is only palette/brush and workshop object inspiration; never reproduce its whole room, baked UI or people. Basket reference is palette and controlled brushwork only. Requested canvas is 1024x1024 unless stated otherwise.\nSUBJECT: Generate ONLY an isolated layer of ROLLED GREEN TEA leaves after揉捻. No tray, basket, bowl, table or container. One low compact irregular oval pile made from about40 visibly twisted and curled tea leaves, each narrow curled green strip with a few wider folded leaves; visually much more curled and narrower than fresh flat shoots. Muted olive tea green, slightly deeper than fresh leaves, not black, no red/brown tea. Soft pale watercolor washes, simple readable distinct shapes with transparent gaps, no noisy dense tiny fragments. Flat elevated parallel camera. Center on square1024x1024canvas, low oval about700x340; no cast shadow.",
+  "mode": "built-in image_gen",
+  "references": [
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\06_道具与图标\\prp_bamboo_tray_empty_v001.png"
+  ],
+  "savedPath": "06_道具与图标/prp_leaves_rolled_v001.png",
+  "destination": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\06_道具与图标\\prp_leaves_rolled_v001.png"
+}

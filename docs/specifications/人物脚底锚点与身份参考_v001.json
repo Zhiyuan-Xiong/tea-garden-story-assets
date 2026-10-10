@@ -1,0 +1,343 @@
+{
+  "project": "茶园物语",
+  "note": "每个角色立绘与场景小人独立保存。人物为静态姿态素材，不是可播放动画或全方向图集；PNG原始留白不同。脚底锚点仅按主体下部估计，建议结合实际鞋底接地在Godot中复核。此批未搭建Godot。",
+  "units": "原始PNG像素",
+  "regions": [
+    {
+      "id": "CHR_002",
+      "file": "05_人物/chr_protagonist_scene_idle_v001.png",
+      "canvas": [
+        1254,
+        1254
+      ],
+      "visibleBBoxAlpha16": [
+        396,
+        40,
+        835,
+        1216
+      ],
+      "footSourceRegion": [
+        494,
+        1074,
+        758,
+        1215
+      ],
+      "footApproxAnchor": [
+        626,
+        1215
+      ]
+    },
+    {
+      "id": "CHR_003",
+      "file": "05_人物/chr_protagonist_scene_picking_v001.png",
+      "canvas": [
+        1254,
+        1254
+      ],
+      "visibleBBoxAlpha16": [
+        287,
+        61,
+        964,
+        1202
+      ],
+      "footSourceRegion": [
+        532,
+        1064,
+        827,
+        1201
+      ],
+      "footApproxAnchor": [
+        679.5,
+        1201
+      ]
+    },
+    {
+      "id": "CHR_004",
+      "file": "05_人物/chr_protagonist_scene_processing_v001.png",
+      "canvas": [
+        1254,
+        1254
+      ],
+      "visibleBBoxAlpha16": [
+        321,
+        34,
+        908,
+        1230
+      ],
+      "footSourceRegion": [
+        418,
+        1086,
+        883,
+        1230
+      ],
+      "footApproxAnchor": [
+        650.5,
+        1230
+      ]
+    },
+    {
+      "id": "CHR_005",
+      "file": "05_人物/chr_protagonist_scene_serving_v001.png",
+      "canvas": [
+        1254,
+        1254
+      ],
+      "visibleBBoxAlpha16": [
+        397,
+        40,
+        837,
+        1207
+      ],
+      "footSourceRegion": [
+        490,
+        1066,
+        761,
+        1206
+      ],
+      "footApproxAnchor": [
+        625.5,
+        1206
+      ]
+    },
+    {
+      "id": "CHR_101",
+      "file": "05_人物/chr_companion_portrait_v001.png",
+      "canvas": [
+        1024,
+        1536
+      ],
+      "visibleBBoxAlpha16": [
+        141,
+        11,
+        812,
+        1524
+      ],
+      "footSourceRegion": [
+        405,
+        1342,
+        657,
+        1523
+      ],
+      "footApproxAnchor": [
+        531,
+        1523
+      ]
+    },
+    {
+      "id": "CHR_102",
+      "file": "05_人物/chr_companion_scene_v001.png",
+      "canvas": [
+        1254,
+        1254
+      ],
+      "visibleBBoxAlpha16": [
+        452,
+        79,
+        826,
+        1201
+      ],
+      "footSourceRegion": [
+        522,
+        1065,
+        751,
+        1200
+      ],
+      "footApproxAnchor": [
+        636.5,
+        1200
+      ]
+    },
+    {
+      "id": "CHR_201",
+      "file": "05_人物/chr_customer_villager_portrait_v001.png",
+      "canvas": [
+        1024,
+        1536
+      ],
+      "visibleBBoxAlpha16": [
+        242,
+        51,
+        806,
+        1500
+      ],
+      "footSourceRegion": [
+        363,
+        1326,
+        678,
+        1500
+      ],
+      "footApproxAnchor": [
+        520.5,
+        1500
+      ]
+    },
+    {
+      "id": "CHR_202",
+      "file": "05_人物/chr_customer_villager_scene_v001.png",
+      "canvas": [
+        1254,
+        1254
+      ],
+      "visibleBBoxAlpha16": [
+        424,
+        80,
+        868,
+        1202
+      ],
+      "footSourceRegion": [
+        497,
+        1066,
+        773,
+        1201
+      ],
+      "footApproxAnchor": [
+        635,
+        1201
+      ]
+    },
+    {
+      "id": "CHR_203",
+      "file": "05_人物/chr_customer_traveler_portrait_v001.png",
+      "canvas": [
+        1024,
+        1536
+      ],
+      "visibleBBoxAlpha16": [
+        267,
+        23,
+        764,
+        1504
+      ],
+      "footSourceRegion": [
+        389,
+        1325,
+        742,
+        1503
+      ],
+      "footApproxAnchor": [
+        565.5,
+        1503
+      ]
+    },
+    {
+      "id": "CHR_204",
+      "file": "05_人物/chr_customer_traveler_scene_v001.png",
+      "canvas": [
+        1254,
+        1254
+      ],
+      "visibleBBoxAlpha16": [
+        388,
+        46,
+        849,
+        1210
+      ],
+      "footSourceRegion": [
+        505,
+        1070,
+        798,
+        1210
+      ],
+      "footApproxAnchor": [
+        651.5,
+        1210
+      ]
+    },
+    {
+      "id": "CHR_205",
+      "file": "05_人物/chr_customer_regular_portrait_v001.png",
+      "canvas": [
+        1024,
+        1536
+      ],
+      "visibleBBoxAlpha16": [
+        272,
+        12,
+        790,
+        1526
+      ],
+      "footSourceRegion": [
+        352,
+        1343,
+        721,
+        1525
+      ],
+      "footApproxAnchor": [
+        536.5,
+        1525
+      ]
+    },
+    {
+      "id": "CHR_206",
+      "file": "05_人物/chr_customer_regular_scene_v001.png",
+      "canvas": [
+        1254,
+        1254
+      ],
+      "visibleBBoxAlpha16": [
+        425,
+        60,
+        817,
+        1216
+      ],
+      "footSourceRegion": [
+        474,
+        1076,
+        752,
+        1215
+      ],
+      "footApproxAnchor": [
+        613,
+        1215
+      ]
+    }
+  ],
+  "identityPairs": [
+    {
+      "name": "主角",
+      "portrait": "CHR_001",
+      "scene": "CHR_002",
+      "poses": [
+        "CHR_002",
+        "CHR_003",
+        "CHR_004",
+        "CHR_005"
+      ],
+      "features": "青绿短发与卷起发梢、圆形挂饰、灰绿外衫、米白领口、灰褐宽裤、浅褐布包。"
+    },
+    {
+      "name": "教学同伴",
+      "portrait": "CHR_101",
+      "scene": "CHR_102",
+      "features": "棕色束髻与米白发带、灰绿短衫、米白围裙、浅褐腰袋。"
+    },
+    {
+      "name": "村民客人",
+      "portrait": "CHR_201",
+      "scene": "CHR_202",
+      "features": "灰发低髻与灰绿头巾、暖褐衣色、较圆轮廓。"
+    },
+    {
+      "name": "旅人",
+      "portrait": "CHR_203",
+      "scene": "CHR_204",
+      "features": "浅竹色草帽、灰蓝短衣、斜挎行囊。"
+    },
+    {
+      "name": "品茶熟客",
+      "portrait": "CHR_205",
+      "scene": "CHR_206",
+      "features": "灰发束髻、小胡须、深灰绿长衫、拢袖站姿。"
+    }
+  ],
+  "protagonistSceneDisplay": {
+    "heightSuggestion": 150,
+    "unit": "显示像素",
+    "note": "四姿态采用同一原图缩放比例，再将脚底锚点落到统一地面位置；弯腰姿态保留自然高度变化，不拉伸到相同高度。"
+  },
+  "heldProps": {
+    "CHR_003": "茶芽与茶树独立；当前手部为空。",
+    "CHR_004": "茶叶、工作台与工具独立；当前手部为空。",
+    "CHR_005": "茶杯与茶汤独立；按托举手势另行定位杯具。"
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "policy": "No geometric transformations. No added furniture. Source noise attenuated, texture preserved at reduced strength. Foreground and background share one colour pipeline.",
+  "parts": [
+    {
+      "id": "FGW_01",
+      "sourceSHA256": "f1b7efa86d2bf0c45539207ac9e26236ec29071a89aebee06356b199f50c4e17",
+      "outputSHA256": "efc73c326bd7213fe604e28c8932658aebe50fc2e7c26d000d7bbe364c3b47b1",
+      "geometry": "unchanged silhouette and registration; uniform 2x resolution",
+      "medianBlend": 0.3,
+      "saturation": 0.87,
+      "ivoryMix": 0.025
+    },
+    {
+      "id": "FGW_02",
+      "sourceSHA256": "112e6af7778797d0fe8fbb4933b717fbfdf604092234bcfb3bb772b37937236a",
+      "outputSHA256": "be2c87eb7316b71dbc8e69492cbc7dc4a5dcb50bdaa3554a842a1f706fc1f7e8",
+      "geometry": "unchanged silhouette and registration; uniform 2x resolution",
+      "medianBlend": 0.3,
+      "saturation": 0.87,
+      "ivoryMix": 0.025
+    },
+    {
+      "id": "FGW_03",
+      "sourceSHA256": "8ca0a77302492667a13c7899f466f643fbca3e57f8ae39b944b450d2bad184c7",
+      "outputSHA256": "4780c9d7c190e36573b6a8c5d3f71576a39ab39780e62ee82189d431c9f45663",
+      "geometry": "unchanged silhouette and registration; uniform 2x resolution",
+      "medianBlend": 0.3,
+      "saturation": 0.87,
+      "ivoryMix": 0.025
+    },
+    {
+      "id": "FGW_04",
+      "sourceSHA256": "93b6ce1a281d406e4f52bc1a36a5ba41b871e22998b4a21fbbd6fa5701fa2399",
+      "outputSHA256": "e27c8f4490aa5abe31b1257cb250e8f7aede1350f8fd1e57fbe72ad3061ea192",
+      "geometry": "unchanged silhouette and registration; uniform 2x resolution",
+      "medianBlend": 0.3,
+      "saturation": 0.87,
+      "ivoryMix": 0.025
+    },
+    {
+      "id": "FGW_05",
+      "sourceSHA256": "51d31347cffd59589b7c36a04ae4f59690b2a81148fbc7e6fb14c3e46fb47218",
+      "outputSHA256": "39452e843d63f92346e27077b43357278cc6b520a36d2c1f10aee1c109a87547",
+      "geometry": "unchanged silhouette and registration; uniform 2x resolution",
+      "medianBlend": 0.3,
+      "saturation": 0.87,
+      "ivoryMix": 0.025
+    },
+    {
+      "id": "FGW_06",
+      "sourceSHA256": "b2b6fb79c855c48a9d1b1473641cb549b04169b06412ac7d03e5618dd3853db0",
+      "outputSHA256": "f379cbf046ca5b0e72d656547030c1839a627de5e106e9b057dab8c6fcac2ea5",
+      "geometry": "unchanged silhouette and registration; uniform 2x resolution",
+      "medianBlend": 0.3,
+      "saturation": 0.87,
+      "ivoryMix": 0.025
+    },
+    {
+      "id": "FGW_07",
+      "sourceSHA256": "4afbc343853c6f106b494139ec6c405fe9d7896ad957c1abaf00ee793ec51ca0",
+      "outputSHA256": "996aa7cae6214e6b77df9518e8c0e5f2af424c2c2ba3e7dcb41cf6435df2e5b0",
+      "geometry": "unchanged silhouette and registration; uniform 2x resolution",
+      "medianBlend": 0.3,
+      "saturation": 0.87,
+      "ivoryMix": 0.025
+    },
+    {
+      "id": "FGW_08",
+      "sourceSHA256": "912945f33371efa6c3fcd9d272e352d542f39132fb4a0b48b00be5ce5a2a734b",
+      "outputSHA256": "c1e451886e020a8605e3c037b02b24ff453d893d607121cb4e5be541a760028f",
+      "geometry": "unchanged silhouette and registration; uniform 2x resolution",
+      "medianBlend": 0.3,
+      "saturation": 0.87,
+      "ivoryMix": 0.025
+    },
+    {
+      "id": "FGW_09",
+      "sourceSHA256": "ee3fe693a80c538749b43a9e5896129a52c8f3cfa1564f678c22f93d3ff5f1f1",
+      "outputSHA256": "a757d889798356780506ead469ebf2d5562c6af30a86afc065c322f1ddebfc6b",
+      "geometry": "unchanged silhouette and registration; uniform 2x resolution",
+      "medianBlend": 0.3,
+      "saturation": 0.87,
+      "ivoryMix": 0.025
+    },
+    {
+      "id": "FGW_10",
+      "sourceSHA256": "cd2f44132e669be8404c3efd5eb9a7db0ae88c2ec013897989f5b62427d7f63c",
+      "outputSHA256": "862e51f1e52392660409a71dbed47d7800394f4e00895de29cbe79f6ddfc611b",
+      "geometry": "unchanged silhouette and registration; uniform 2x resolution",
+      "medianBlend": 0.3,
+      "saturation": 0.87,
+      "ivoryMix": 0.025
+    },
+    {
+      "id": "FGW_11",
+      "sourceSHA256": "a22eb23b57d1e55178ec6e434e18787e7b39c06ecefd6c844a3b2bb9606a7b2c",
+      "outputSHA256": "d1de9d7e4f465c57179fe8a9017d92664517b6f4546f50d5eabc49ab468b5917",
+      "geometry": "unchanged silhouette and registration; uniform 2x resolution",
+      "medianBlend": 0.3,
+      "saturation": 0.87,
+      "ivoryMix": 0.025
+    },
+    {
+      "id": "FGW_12",
+      "sourceSHA256": "c66613cba522f8e72de63032ee66a4027c55344c7258496a64642e4fe4bdb904",
+      "outputSHA256": "1f6f03acca9909f87463b46eb2766fc853795b0321c6afde2e53262e3f72b536",
+      "geometry": "unchanged silhouette and registration; uniform 2x resolution",
+      "medianBlend": 0.3,
+      "saturation": 0.87,
+      "ivoryMix": 0.025
+    },
+    {
+      "id": "FGW_13",
+      "sourceSHA256": "7a7fbfdaf197d9dcea42523be5be6940a2a765cfa3b0b9f272e5b80484db8b07",
+      "outputSHA256": "6b2e0273e47ceb12560e1e88c2909330c0544ca60673b4ce894fc322f9efc18d",
+      "geometry": "unchanged silhouette and registration; uniform 2x resolution",
+      "medianBlend": 0.3,
+      "saturation": 0.87,
+      "ivoryMix": 0.025
+    },
+    {
+      "id": "FGW_14",
+      "sourceSHA256": "2882a13c0728a159ffad7b951879552339f8f3e075b1742da0e29cb5da99f766",
+      "outputSHA256": "b56b71ce3e07c4baff9d8230930ccec4698f1772b4864416c02abbd0e924b93b",
+      "geometry": "unchanged silhouette and registration; uniform 2x resolution",
+      "medianBlend": 0.3,
+      "saturation": 0.87,
+      "ivoryMix": 0.025
+    },
+    {
+      "id": "FGW_15",
+      "sourceSHA256": "0bfe1b86cf0d9bce5de3c96a2dfc48fb0b0835d824a6241025e1fca8615ab35a",
+      "outputSHA256": "49aa1ea119dd7bd0008875fe363a72bd2288550b502c2f8f8fc4f3ce51b9299e",
+      "geometry": "unchanged silhouette and registration; uniform 2x resolution",
+      "medianBlend": 0.3,
+      "saturation": 0.87,
+      "ivoryMix": 0.025
+    },
+    {
+      "id": "FGT_01",
+      "sourceSHA256": "1e4ff5a10700b8992abf01e365cdce186db047e045596ade9f527fe50a473ee0",
+      "outputSHA256": "17439001ae8027e68326a3ac17f98fc4942e33373d5397dec97aecb69091579e",
+      "geometry": "unchanged silhouette and registration; uniform 2x resolution",
+      "medianBlend": 0.3,
+      "saturation": 0.87,
+      "ivoryMix": 0.025
+    },
+    {
+      "id": "FGT_02",
+      "sourceSHA256": "92118f1e1d8c6ee8a1c41f417ee8a9ba8d3214b038f10e8818420ec2cc9da3b1",
+      "outputSHA256": "f5b8eca9cdbc190f361c36e28168e81231a4fefd4574e88d667c936985a6f675",
+      "geometry": "unchanged silhouette and registration; uniform 2x resolution",
+      "medianBlend": 0.3,
+      "saturation": 0.87,
+      "ivoryMix": 0.025
+    },
+    {
+      "id": "FGT_03",
+      "sourceSHA256": "c8cbd3327f08fb30d0b59d95740fb476846c7a630348703099a62cf2d758af4f",
+      "outputSHA256": "051d6ab69b466034567fccacecdbd6f322f1e918ac07cdcf816442e0c79a3a13",
+      "geometry": "unchanged silhouette and registration; uniform 2x resolution",
+      "medianBlend": 0.3,
+      "saturation": 0.87,
+      "ivoryMix": 0.025
+    },
+    {
+      "id": "FGT_04",
+      "sourceSHA256": "8c748118e8a3a0b4100b676889d79e0df5c41296456830aa6bfff457341470cc",
+      "outputSHA256": "0a9b9906c23b2d449f6e54c23767bae50fce11de15e79c4e024fb4253ff3b341",
+      "geometry": "unchanged silhouette and registration; uniform 2x resolution",
+      "medianBlend": 0.3,
+      "saturation": 0.87,
+      "ivoryMix": 0.025
+    },
+    {
+      "id": "FGT_05",
+      "sourceSHA256": "616bf6eec1ed876e65cb6a3c55b6bbab74afd8eda748c25b5902660d1b3afc10",
+      "outputSHA256": "a260d63733352c582740e2648b79dc9a2aec2da59becbb90d69dafb16e73bda8",
+      "geometry": "unchanged silhouette and registration; uniform 2x resolution",
+      "medianBlend": 0.3,
+      "saturation": 0.87,
+      "ivoryMix": 0.025
+    },
+    {
+      "id": "FGT_06",
+      "sourceSHA256": "f3d9bee98ff4870bd45a0f78917cc710f08ec3cb4624b9bec8733dd87276b718",
+      "outputSHA256": "a4bb78497ce900e0a8a0327bb1159128556d71ad6a7af322c89731a5ad141ef5",
+      "geometry": "unchanged silhouette and registration; uniform 2x resolution",
+      "medianBlend": 0.3,
+      "saturation": 0.87,
+      "ivoryMix": 0.025
+    },
+    {
+      "id": "FGT_07",
+      "sourceSHA256": "4d361e997869692f000c15a6dd0cdb3f75a88c6dc868b0311b8448615b710ab9",
+      "outputSHA256": "66c225bbe58b8e4c94fd3745dc03c1dc8d30a1cd10840ab205d636af2489fb88",
+      "geometry": "unchanged silhouette and registration; uniform 2x resolution",
+      "medianBlend": 0.3,
+      "saturation": 0.87,
+      "ivoryMix": 0.025
+    },
+    {
+      "id": "FGT_08",
+      "sourceSHA256": "8605e0f95ca58ee85f3146ec6035c9688ab8f0bb78a4278307943f9a21e3c142",
+      "outputSHA256": "248cfa47686755fcefeccfb9fdc36328cec87e3ad36716f17f59e2466ea62daf",
+      "geometry": "unchanged silhouette and registration; uniform 2x resolution",
+      "medianBlend": 0.3,
+      "saturation": 0.87,
+      "ivoryMix": 0.025
+    }
+  ]
+}

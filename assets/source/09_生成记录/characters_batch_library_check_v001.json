@@ -1,0 +1,73 @@
+{
+  "date": "2026-10-08",
+  "galleryVersion": "v008",
+  "snapshots": [
+    {
+      "label": "全部素材",
+      "expected": 92,
+      "count": 92,
+      "text": "显示 92 / 92 张",
+      "overflow": false,
+      "imageFailures": [],
+      "pass": true
+    },
+    {
+      "label": "人物批筛选",
+      "expected": 12,
+      "count": 12,
+      "text": "显示 12 / 92 张",
+      "overflow": false,
+      "imageFailures": [],
+      "pass": true
+    },
+    {
+      "label": "茶铺批筛选",
+      "expected": 10,
+      "count": 10,
+      "text": "显示 10 / 92 张",
+      "overflow": false,
+      "imageFailures": [],
+      "pass": true
+    },
+    {
+      "label": "工坊批筛选",
+      "expected": 14,
+      "count": 14,
+      "text": "显示 14 / 92 张",
+      "overflow": false,
+      "imageFailures": [],
+      "pass": true
+    },
+    {
+      "label": "搜索主角",
+      "expected": 5,
+      "count": 5,
+      "text": "显示 5 / 92 张",
+      "overflow": false,
+      "imageFailures": [],
+      "pass": true
+    },
+    {
+      "label": "搜索旅人",
+      "expected": 2,
+      "count": 2,
+      "text": "显示 2 / 92 张",
+      "overflow": false,
+      "imageFailures": [],
+      "pass": true
+    },
+    {
+      "label": "空搜索状态",
+      "expected": 0,
+      "count": 0,
+      "text": "显示 0 / 92 张",
+      "overflow": false,
+      "imageFailures": [],
+      "pass": true
+    }
+  ],
+  "linkCount": 29,
+  "missingLinks": [],
+  "errors": [],
+  "pass": true
+}

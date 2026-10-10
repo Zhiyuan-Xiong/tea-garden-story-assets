@@ -1,0 +1,616 @@
+{
+  "date": "2026-10-09",
+  "canvasIntent": [
+    1920,
+    1080
+  ],
+  "notes": [
+    "正式PNG保持原始尺寸，不裁切或重采样。6张完整背景为不透明图；18个新增组件为透明图。",
+    "原Logo直接提取Figma源PNG，部分笔画或云纹贴近边缘属于原构图。",
+    "UI状态图留白范围略有差异；建议依据visibleBBoxAlpha16设AtlasTexture区域，统一控件尺寸，必要时设置9-slice边缘。",
+    "加载条用独立轨道与满幅填充，在引擎中裁显填充比例。选中边框和缩略图框的中心保持透明。",
+    "锚点与可见边界只用于摆放参考，场景遮挡、点击区域、导入与存档逻辑尚未实现。"
+  ],
+  "assets": [
+    {
+      "id": "BG_301",
+      "file": "03_建筑与场景/bg_home_panorama_rich_v004.png",
+      "canvas": [
+        1672,
+        941
+      ],
+      "visibleBBoxAlpha16": [
+        0,
+        0,
+        1671,
+        940
+      ],
+      "solidBBoxAlpha128": [
+        0,
+        0,
+        1671,
+        940
+      ],
+      "approxAnchor": [
+        836,
+        470.5
+      ],
+      "anchorMeaning": "可见范围中心；透明道具与场景在引擎中另定落地点"
+    },
+    {
+      "id": "BG_302",
+      "file": "03_建筑与场景/bg_loading_landscape_rich_v004.png",
+      "canvas": [
+        1672,
+        941
+      ],
+      "visibleBBoxAlpha16": [
+        0,
+        0,
+        1671,
+        940
+      ],
+      "solidBBoxAlpha128": [
+        0,
+        0,
+        1671,
+        940
+      ],
+      "approxAnchor": [
+        836,
+        470.5
+      ],
+      "anchorMeaning": "可见范围中心；透明道具与场景在引擎中另定落地点"
+    },
+    {
+      "id": "BG_303",
+      "file": "03_建筑与场景/bg_village_map_rich_empty_v004.png",
+      "canvas": [
+        1672,
+        941
+      ],
+      "visibleBBoxAlpha16": [
+        0,
+        0,
+        1671,
+        940
+      ],
+      "solidBBoxAlpha128": [
+        0,
+        0,
+        1671,
+        940
+      ],
+      "approxAnchor": [
+        836,
+        470.5
+      ],
+      "anchorMeaning": "可见范围中心；透明道具与场景在引擎中另定落地点"
+    },
+    {
+      "id": "BG_304",
+      "file": "03_建筑与场景/bg_garden_rich_empty_v004.png",
+      "canvas": [
+        1672,
+        941
+      ],
+      "visibleBBoxAlpha16": [
+        0,
+        0,
+        1671,
+        940
+      ],
+      "solidBBoxAlpha128": [
+        0,
+        0,
+        1671,
+        940
+      ],
+      "approxAnchor": [
+        836,
+        470.5
+      ],
+      "anchorMeaning": "可见范围中心；透明道具与场景在引擎中另定落地点"
+    },
+    {
+      "id": "BG_305",
+      "file": "03_建筑与场景/bg_workshop_rich_empty_v004.png",
+      "canvas": [
+        1672,
+        941
+      ],
+      "visibleBBoxAlpha16": [
+        0,
+        0,
+        1671,
+        940
+      ],
+      "solidBBoxAlpha128": [
+        0,
+        0,
+        1671,
+        940
+      ],
+      "approxAnchor": [
+        836,
+        470.5
+      ],
+      "anchorMeaning": "可见范围中心；透明道具与场景在引擎中另定落地点"
+    },
+    {
+      "id": "BG_306",
+      "file": "03_建筑与场景/bg_teashop_rich_empty_v004.png",
+      "canvas": [
+        1672,
+        941
+      ],
+      "visibleBBoxAlpha16": [
+        0,
+        0,
+        1671,
+        940
+      ],
+      "solidBBoxAlpha128": [
+        0,
+        0,
+        1671,
+        940
+      ],
+      "approxAnchor": [
+        836,
+        470.5
+      ],
+      "anchorMeaning": "可见范围中心；透明道具与场景在引擎中另定落地点"
+    },
+    {
+      "id": "ICO_401",
+      "file": "04_UI组件/ico_tea_sprout_menu_v001.png",
+      "canvas": [
+        1536,
+        1024
+      ],
+      "visibleBBoxAlpha16": [
+        349,
+        191,
+        1218,
+        841
+      ],
+      "solidBBoxAlpha128": [
+        349,
+        192,
+        1217,
+        841
+      ],
+      "approxAnchor": [
+        783.5,
+        516
+      ],
+      "anchorMeaning": "可见范围中心；透明道具与场景在引擎中另定落地点"
+    },
+    {
+      "id": "ICO_402",
+      "file": "04_UI组件/ico_save_scroll_v001.png",
+      "canvas": [
+        1536,
+        1024
+      ],
+      "visibleBBoxAlpha16": [
+        316,
+        162,
+        1219,
+        827
+      ],
+      "solidBBoxAlpha128": [
+        316,
+        163,
+        1219,
+        827
+      ],
+      "approxAnchor": [
+        767.5,
+        494.5
+      ],
+      "anchorMeaning": "可见范围中心；透明道具与场景在引擎中另定落地点"
+    },
+    {
+      "id": "ICO_403",
+      "file": "04_UI组件/ico_load_scroll_v001.png",
+      "canvas": [
+        1536,
+        1024
+      ],
+      "visibleBBoxAlpha16": [
+        276,
+        121,
+        1259,
+        861
+      ],
+      "solidBBoxAlpha128": [
+        277,
+        122,
+        1259,
+        861
+      ],
+      "approxAnchor": [
+        767.5,
+        491
+      ],
+      "anchorMeaning": "可见范围中心；透明道具与场景在引擎中另定落地点"
+    },
+    {
+      "id": "ICO_404",
+      "file": "04_UI组件/ico_home_pavilion_v001.png",
+      "canvas": [
+        1536,
+        1024
+      ],
+      "visibleBBoxAlpha16": [
+        304,
+        193,
+        1231,
+        815
+      ],
+      "solidBBoxAlpha128": [
+        304,
+        193,
+        1231,
+        815
+      ],
+      "approxAnchor": [
+        767.5,
+        504
+      ],
+      "anchorMeaning": "可见范围中心；透明道具与场景在引擎中另定落地点"
+    },
+    {
+      "id": "LOG_301",
+      "file": "04_UI组件/logo_teagarden_original_clear_v001.png",
+      "canvas": [
+        843,
+        614
+      ],
+      "visibleBBoxAlpha16": [
+        0,
+        0,
+        842,
+        613
+      ],
+      "solidBBoxAlpha128": [
+        0,
+        0,
+        842,
+        613
+      ],
+      "approxAnchor": [
+        421,
+        306.5
+      ],
+      "anchorMeaning": "可见范围中心；透明道具与场景在引擎中另定落地点"
+    },
+    {
+      "id": "PRP_401",
+      "file": "06_道具与图标/prp_loading_gaiwan_v001.png",
+      "canvas": [
+        1254,
+        1254
+      ],
+      "visibleBBoxAlpha16": [
+        154,
+        220,
+        1100,
+        1074
+      ],
+      "solidBBoxAlpha128": [
+        154,
+        220,
+        1099,
+        1073
+      ],
+      "approxAnchor": [
+        627,
+        647
+      ],
+      "anchorMeaning": "可见范围中心；透明道具与场景在引擎中另定落地点"
+    },
+    {
+      "id": "PRP_402",
+      "file": "06_道具与图标/prp_loading_bamboo_tray_v001.png",
+      "canvas": [
+        1774,
+        887
+      ],
+      "visibleBBoxAlpha16": [
+        105,
+        152,
+        1710,
+        818
+      ],
+      "solidBBoxAlpha128": [
+        106,
+        153,
+        1709,
+        817
+      ],
+      "approxAnchor": [
+        907.5,
+        485
+      ],
+      "anchorMeaning": "可见范围中心；透明道具与场景在引擎中另定落地点"
+    },
+    {
+      "id": "PRP_403",
+      "file": "06_道具与图标/prp_tea_flower_branch_v001.png",
+      "canvas": [
+        1254,
+        1254
+      ],
+      "visibleBBoxAlpha16": [
+        113,
+        201,
+        1202,
+        1102
+      ],
+      "solidBBoxAlpha128": [
+        114,
+        202,
+        1201,
+        1101
+      ],
+      "approxAnchor": [
+        657.5,
+        651.5
+      ],
+      "anchorMeaning": "可见范围中心；透明道具与场景在引擎中另定落地点"
+    },
+    {
+      "id": "UI_036",
+      "file": "04_UI组件/ui_loading_track_v001.png",
+      "canvas": [
+        2172,
+        724
+      ],
+      "visibleBBoxAlpha16": [
+        109,
+        300,
+        2063,
+        421
+      ],
+      "solidBBoxAlpha128": [
+        110,
+        301,
+        2062,
+        421
+      ],
+      "approxAnchor": [
+        1086,
+        360.5
+      ],
+      "anchorMeaning": "可见范围中心；透明道具与场景在引擎中另定落地点"
+    },
+    {
+      "id": "UI_037",
+      "file": "04_UI组件/ui_loading_fill_v001.png",
+      "canvas": [
+        2172,
+        724
+      ],
+      "visibleBBoxAlpha16": [
+        112,
+        303,
+        2059,
+        419
+      ],
+      "solidBBoxAlpha128": [
+        113,
+        304,
+        2058,
+        418
+      ],
+      "approxAnchor": [
+        1085.5,
+        361
+      ],
+      "anchorMeaning": "可见范围中心；透明道具与场景在引擎中另定落地点"
+    },
+    {
+      "id": "UI_038",
+      "file": "04_UI组件/ui_loading_divider_v001.png",
+      "canvas": [
+        2172,
+        724
+      ],
+      "visibleBBoxAlpha16": [
+        97,
+        322,
+        2074,
+        401
+      ],
+      "solidBBoxAlpha128": [
+        98,
+        323,
+        2073,
+        400
+      ],
+      "approxAnchor": [
+        1085.5,
+        361.5
+      ],
+      "anchorMeaning": "可见范围中心；透明道具与场景在引擎中另定落地点"
+    },
+    {
+      "id": "UI_040",
+      "file": "04_UI组件/ui_home_button_normal_v001.png",
+      "canvas": [
+        2112,
+        744
+      ],
+      "visibleBBoxAlpha16": [
+        312,
+        226,
+        1799,
+        517
+      ],
+      "solidBBoxAlpha128": [
+        313,
+        227,
+        1798,
+        516
+      ],
+      "approxAnchor": [
+        1055.5,
+        371.5
+      ],
+      "anchorMeaning": "可见范围中心；透明道具与场景在引擎中另定落地点"
+    },
+    {
+      "id": "UI_041",
+      "file": "04_UI组件/ui_home_button_hover_v001.png",
+      "canvas": [
+        2112,
+        744
+      ],
+      "visibleBBoxAlpha16": [
+        313,
+        221,
+        1796,
+        513
+      ],
+      "solidBBoxAlpha128": [
+        313,
+        222,
+        1796,
+        512
+      ],
+      "approxAnchor": [
+        1054.5,
+        367
+      ],
+      "anchorMeaning": "可见范围中心；透明道具与场景在引擎中另定落地点"
+    },
+    {
+      "id": "UI_042",
+      "file": "04_UI组件/ui_home_button_pressed_v001.png",
+      "canvas": [
+        2112,
+        744
+      ],
+      "visibleBBoxAlpha16": [
+        304,
+        220,
+        1788,
+        511
+      ],
+      "solidBBoxAlpha128": [
+        305,
+        221,
+        1788,
+        510
+      ],
+      "approxAnchor": [
+        1046,
+        365.5
+      ],
+      "anchorMeaning": "可见范围中心；透明道具与场景在引擎中另定落地点"
+    },
+    {
+      "id": "UI_043",
+      "file": "04_UI组件/ui_home_button_disabled_v001.png",
+      "canvas": [
+        2112,
+        745
+      ],
+      "visibleBBoxAlpha16": [
+        310,
+        221,
+        1798,
+        516
+      ],
+      "solidBBoxAlpha128": [
+        311,
+        222,
+        1798,
+        515
+      ],
+      "approxAnchor": [
+        1054,
+        368.5
+      ],
+      "anchorMeaning": "可见范围中心；透明道具与场景在引擎中另定落地点"
+    },
+    {
+      "id": "UI_044",
+      "file": "04_UI组件/ui_save_slot_base_v001.png",
+      "canvas": [
+        2109,
+        745
+      ],
+      "visibleBBoxAlpha16": [
+        228,
+        219,
+        1880,
+        531
+      ],
+      "solidBBoxAlpha128": [
+        229,
+        220,
+        1879,
+        530
+      ],
+      "approxAnchor": [
+        1054,
+        375
+      ],
+      "anchorMeaning": "可见范围中心；透明道具与场景在引擎中另定落地点"
+    },
+    {
+      "id": "UI_045",
+      "file": "04_UI组件/ui_save_slot_selection_v001.png",
+      "canvas": [
+        2111,
+        745
+      ],
+      "visibleBBoxAlpha16": [
+        168,
+        202,
+        1942,
+        541
+      ],
+      "solidBBoxAlpha128": [
+        169,
+        203,
+        1942,
+        541
+      ],
+      "approxAnchor": [
+        1055,
+        371.5
+      ],
+      "anchorMeaning": "可见范围中心；透明道具与场景在引擎中另定落地点"
+    },
+    {
+      "id": "UI_046",
+      "file": "04_UI组件/ui_save_thumbnail_frame_v001.png",
+      "canvas": [
+        1448,
+        1086
+      ],
+      "visibleBBoxAlpha16": [
+        145,
+        191,
+        1303,
+        880
+      ],
+      "solidBBoxAlpha128": [
+        146,
+        192,
+        1302,
+        879
+      ],
+      "approxAnchor": [
+        724,
+        535.5
+      ],
+      "anchorMeaning": "可见范围中心；透明道具与场景在引擎中另定落地点"
+    }
+  ]
+}

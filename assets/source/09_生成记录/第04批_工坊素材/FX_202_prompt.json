@@ -1,0 +1,21 @@
+{
+  "id": "FX_202",
+  "category": "06_道具与图标",
+  "functionArea": "制茶工坊",
+  "label": "炉火中档",
+  "plannedFile": "fx_fire_medium_v001.png",
+  "batch": "04_工坊素材",
+  "targetSize": "512×768",
+  "status": "待生成",
+  "actualSize": "",
+  "relativePath": "",
+  "remarks": "同画布同火源位置",
+  "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-6f522aa7-d842-4248-83d8-777dfe08aa27.png",
+  "prompt": "Create one isolated production-ready 2D game sprite for 茶园物语. Chinese ink and pale watercolor hand-painted style, restrained thin warm-grey brush outlines, clean broad washes, very sparse material marks. Match the approved reference palette: ivory, muted bamboo beige, pale brown, sage/tea green, charcoal grey. No noise, no paper grain, no dense texture, no muddy wash, no photographic surface, no oversaturation. Parallel axonometric camera, elevated view; long horizontal ground axis slopes up-right about 26 degrees, perpendicular short axis down-right about 30 degrees; verticals remain vertical, no vanishing points. Soft material shading only, no ground/shadow plate. TRUE transparent alpha background; no background color, no checkerboard drawn in image. One complete centered object with generous transparent margin. No scene, people, text, labels, UI, decorations or unrelated objects. Figma image is only palette/brush and workshop object inspiration; never reproduce its whole room, baked UI or people. Basket reference is palette and controlled brushwork only. Requested canvas is 1024x1024 unless stated otherwise.\nSUBJECT: Edit the supplied LOW flame sprite into MEDIUM heat. Preserve EXACT input portrait canvas1024x1536 and the flame source anchor at(512,1300). ONLY change actual flame silhouette: grow one connected cluster to height650pixels, top abouty650, widthabout540pixels, still bottomy1300. Four medium elongated tongues, middle one tallest; muted amber and ivory inner flame, same clean Chinese pale watercolor brushwork. Larger and taller than low, but still generous transparent margin. No detached sparks, smoke, firewood, stove, embers, black base, glow or haze outside flame contours. All outside actual flame shapes must alpha0.",
+  "mode": "built-in image_gen",
+  "references": [
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\06_道具与图标\\fx_fire_low_v001.png"
+  ],
+  "savedPath": "06_道具与图标/fx_fire_medium_v001.png",
+  "destination": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\06_道具与图标\\fx_fire_medium_v001.png"
+}

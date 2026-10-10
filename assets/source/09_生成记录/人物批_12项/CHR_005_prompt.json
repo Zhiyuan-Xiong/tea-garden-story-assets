@@ -1,0 +1,22 @@
+{
+  "id": "CHR_005",
+  "category": "05_人物",
+  "functionArea": "人物",
+  "label": "主角上茶姿态",
+  "plannedFile": "chr_protagonist_scene_serving_v001.png",
+  "batch": "05_人物与茶铺",
+  "targetSize": "1024×1024",
+  "status": "待生成",
+  "actualSize": "",
+  "relativePath": "",
+  "remarks": "杯具独立叠加",
+  "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-6a9e345c-7ffa-4de3-b627-0e488f39f1f2.png",
+  "prompt": "Use case: stylized-concept. One isolated hand-painted 2D character asset for 茶园物语, a gentle traditional Chinese tea-village game. Chinese ink outlines and pale watercolor wash matching approved protagonist art. Thin warm-grey/brown outlines, simple clean broad washes, minimal clothing folds, no grain/no noisy mottling/no dense texture/no muddy haze/no oversaturation/no hard black outline/no glossy render. Palette muted sage/tea greens, ivory, pale brown, oatmeal, charcoal-grey, restrained clay rose. Skin soft natural peach, no strong blush or shiny highlight. Complete SINGLE character, full body including hair and both feet, generous true transparent alpha margin on all sides. Transparent gaps between limbs, no background color, no drawn checkerboard, no ground/shadow plate or halo. No environment, furniture, tea plants, handheld cups, trays, tools, weapons, writing, numbers, labels or watermarks. Fixed clothing accessories such as pendant and cloth bag belong to the character. Calm friendly expressions. Keep hand anatomy simple and natural. Character family stylized about3.5heads tall for full-body dialogue portraits, about3heads for scene sprites; never photorealistic. Scene sprites use a consistent elevated parallel-axonometric camera and three-quarter front-left facing, head top slightly visible, feet on the same implied horizontal plane, no converging perspective. Portraits use near frontal three-quarter pose. No animation sheet or multiple copies.\nUse case for this variant: identity-preserve.\nSUBJECT: Image1 approved scene IDENTITY/SCALE sprite, Image2 original portrait. Change ONLY to SERVING pose. Exact same teal short bob curl, brown eyes, pendant, sage outer jacket, ivory inner collar, grey-beige tied loose pants, tan right-hip cloth bag, green cloth shoes. Elevated three-quarter FRONT-LEFT view, gentle welcoming small smile, stable neutral standing with both feet planted. BOTH elbows bent; two EMPTY hands held forward together at upper waist height, palms UP in a natural careful supporting gesture, leaving room above hands for a future separately layered tea cup. Do not bake any cup, plate, tray, teapot, steam, flower, table or ground into sprite. Keep same scene proportions and readable face as Image1; one whole-body static sprite,1254x1254transparentcanvas.",
+  "mode": "built-in image_gen",
+  "references": [
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\05_人物\\chr_protagonist_scene_idle_v001.png",
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\05_人物\\chr_protagonist_portrait_neutral_v001.png"
+  ],
+  "savedPath": "05_人物/chr_protagonist_scene_serving_v001.png",
+  "destination": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\05_人物\\chr_protagonist_scene_serving_v001.png"
+}

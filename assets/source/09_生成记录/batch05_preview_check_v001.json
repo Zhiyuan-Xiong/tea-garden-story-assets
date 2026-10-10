@@ -1,0 +1,20 @@
+{
+  "checks": [
+    {
+      "file": "00_第05批素材总览_v001",
+      "images": 10
+    },
+    {
+      "file": "01_茶铺分层组合预览_v001",
+      "images": 12
+    }
+  ],
+  "library": {
+    "all": 80,
+    "batch05": 10,
+    "batch03": 33,
+    "teaSearch": 1
+  },
+  "errors": [],
+  "pass": true
+}

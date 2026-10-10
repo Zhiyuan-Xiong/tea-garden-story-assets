@@ -1,0 +1,27 @@
+{
+  "indexed": 80,
+  "uniqueIds": 80,
+  "physical": 86,
+  "missing": [],
+  "duplicateIds": [],
+  "batch04": 14,
+  "batch05": 10,
+  "remaining": 32,
+  "counts": {
+    "generatedSamples": 5,
+    "generatedBatch02": 18,
+    "generatedTotal": 80,
+    "plannedTotal": 112,
+    "pendingItems": 32,
+    "revisedTeaStates": 4,
+    "activeAssetItems": 80,
+    "retainedPreviousPNGVersions": 6,
+    "physicalAssetPNGs": 86,
+    "revisedTerrainAssets": 1,
+    "revisedAssetItems": 6,
+    "generatedBatch03": 33,
+    "revisedUIAssets": 1,
+    "generatedBatch04": 14,
+    "generatedBatch05": 10
+  }
+}

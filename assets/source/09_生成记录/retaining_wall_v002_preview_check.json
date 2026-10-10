@@ -1,0 +1,15 @@
+{
+  "comparison": {
+    "images": 4,
+    "overflow": false,
+    "height": 1479
+  },
+  "library": {
+    "all": 23,
+    "batch02": 18,
+    "wallSearch": 1,
+    "wallLink": "02_地形与植物/ter_retaining_wall_v002.png"
+  },
+  "errors": [],
+  "pass": true
+}

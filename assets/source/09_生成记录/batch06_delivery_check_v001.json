@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-08",
+  "builtInMode": "image_gen",
+  "batch": "06_场景与装饰",
+  "newAssets": 14,
+  "activeAssets": 106,
+  "uniqueIds": 106,
+  "planTotal": 112,
+  "pendingTotal": 6,
+  "pendingByBatch": {
+    "07_手记插画": 6
+  },
+  "physicalAssetPNGs": 112,
+  "retainedPreviousPNGVersions": 6,
+  "missingActiveFiles": [],
+  "allNewAlphaPassed": true,
+  "rejectedDraftsOutsideAssetCategories": 4,
+  "godotBuilt": false,
+  "pass": true
+}

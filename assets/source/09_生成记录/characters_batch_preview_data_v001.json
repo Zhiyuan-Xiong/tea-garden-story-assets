@@ -1,0 +1,683 @@
+{
+  "added": [
+    {
+      "id": "CHR_002",
+      "name": "chr_protagonist_scene_idle_v001",
+      "label": "主角场景站姿",
+      "category": "05_人物",
+      "batch": "05_人物与茶铺",
+      "relativePath": "05_人物/chr_protagonist_scene_idle_v001.png",
+      "status": "已生成v001",
+      "width": 1254,
+      "height": 1254,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1242917,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        396,
+        40,
+        835,
+        1216
+      ],
+      "solidBBoxAlpha128": [
+        397,
+        40,
+        835,
+        1215
+      ],
+      "footApproxAnchor": [
+        626,
+        1215
+      ],
+      "footSourceRegion": [
+        494,
+        1074,
+        758,
+        1215
+      ],
+      "sha256": "358d6c37efda86f8c97ada474b877b21b34df0f90bee13a12336f40fafe589b2",
+      "assetKind": "场景静态人物",
+      "staticPose": true,
+      "identityReference": "D:/AAA找到工作/素材们/项目3-中国传统制茶技艺数字展示策略研究/茶园物语-制作素材/05_人物/chr_protagonist_portrait_neutral_v001.png",
+      "reviewNotes": "独立单人透明PNG；依据身份母图保留发型、服装和身份特征。静态姿态，未制作为动画；近似脚底锚点另存，待Godot中对位验收。",
+      "positionReference": "00_规范与清单/人物脚底锚点与身份参考_v001.json"
+    },
+    {
+      "id": "CHR_003",
+      "name": "chr_protagonist_scene_picking_v001",
+      "label": "主角采摘姿态",
+      "category": "05_人物",
+      "batch": "05_人物与茶铺",
+      "relativePath": "05_人物/chr_protagonist_scene_picking_v001.png",
+      "status": "已生成v001",
+      "width": 1254,
+      "height": 1254,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1187892,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        287,
+        61,
+        964,
+        1202
+      ],
+      "solidBBoxAlpha128": [
+        288,
+        62,
+        963,
+        1201
+      ],
+      "footApproxAnchor": [
+        679.5,
+        1201
+      ],
+      "footSourceRegion": [
+        532,
+        1064,
+        827,
+        1201
+      ],
+      "sha256": "69f2be21d44caf13f3a2caf00b5059136c7a4ba1541be8def07ce5a1b20cc668",
+      "assetKind": "场景静态人物",
+      "staticPose": true,
+      "identityReference": "D:/AAA找到工作/素材们/项目3-中国传统制茶技艺数字展示策略研究/茶园物语-制作素材/05_人物/chr_protagonist_scene_idle_v001.png",
+      "reviewNotes": "独立单人透明PNG；依据身份母图保留发型、服装和身份特征。静态姿态，未制作为动画；近似脚底锚点另存，待Godot中对位验收。",
+      "positionReference": "00_规范与清单/人物脚底锚点与身份参考_v001.json"
+    },
+    {
+      "id": "CHR_004",
+      "name": "chr_protagonist_scene_processing_v001",
+      "label": "主角制茶姿态",
+      "category": "05_人物",
+      "batch": "05_人物与茶铺",
+      "relativePath": "05_人物/chr_protagonist_scene_processing_v001.png",
+      "status": "已生成v001",
+      "width": 1254,
+      "height": 1254,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1192992,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        321,
+        34,
+        908,
+        1230
+      ],
+      "solidBBoxAlpha128": [
+        322,
+        35,
+        907,
+        1230
+      ],
+      "footApproxAnchor": [
+        650.5,
+        1230
+      ],
+      "footSourceRegion": [
+        418,
+        1086,
+        883,
+        1230
+      ],
+      "sha256": "21889ebb4bc3f745808ffae0a5ff019b2c0a77c49efa0e97080fb31eae44efa2",
+      "assetKind": "场景静态人物",
+      "staticPose": true,
+      "identityReference": "D:/AAA找到工作/素材们/项目3-中国传统制茶技艺数字展示策略研究/茶园物语-制作素材/05_人物/chr_protagonist_scene_idle_v001.png",
+      "reviewNotes": "独立单人透明PNG；依据身份母图保留发型、服装和身份特征。静态姿态，未制作为动画；近似脚底锚点另存，待Godot中对位验收。",
+      "positionReference": "00_规范与清单/人物脚底锚点与身份参考_v001.json"
+    },
+    {
+      "id": "CHR_005",
+      "name": "chr_protagonist_scene_serving_v001",
+      "label": "主角上茶姿态",
+      "category": "05_人物",
+      "batch": "05_人物与茶铺",
+      "relativePath": "05_人物/chr_protagonist_scene_serving_v001.png",
+      "status": "已生成v001",
+      "width": 1254,
+      "height": 1254,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          1,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1245073,
+        "borderNonzeroPixels": 1,
+        "borderPixelsAlpha16": 0,
+        "warning": "保留原始alpha，角落存在极低透明度像素。"
+      },
+      "visibleBBoxAlpha16": [
+        397,
+        40,
+        837,
+        1207
+      ],
+      "solidBBoxAlpha128": [
+        398,
+        41,
+        837,
+        1206
+      ],
+      "footApproxAnchor": [
+        625.5,
+        1206
+      ],
+      "footSourceRegion": [
+        490,
+        1066,
+        761,
+        1206
+      ],
+      "sha256": "d453f3bb22ef76fe9f4ddab1d3830bcc6bccdb1462d99029a76582662b824624",
+      "assetKind": "场景静态人物",
+      "staticPose": true,
+      "identityReference": "D:/AAA找到工作/素材们/项目3-中国传统制茶技艺数字展示策略研究/茶园物语-制作素材/05_人物/chr_protagonist_scene_idle_v001.png",
+      "reviewNotes": "独立单人透明PNG；依据身份母图保留发型、服装和身份特征。静态姿态，未制作为动画；近似脚底锚点另存，待Godot中对位验收。",
+      "positionReference": "00_规范与清单/人物脚底锚点与身份参考_v001.json"
+    },
+    {
+      "id": "CHR_101",
+      "name": "chr_companion_portrait_v001",
+      "label": "教学同伴立绘",
+      "category": "05_人物",
+      "batch": "05_人物与茶铺",
+      "relativePath": "05_人物/chr_companion_portrait_v001.png",
+      "status": "已生成v001",
+      "width": 1024,
+      "height": 1536,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1113067,
+        "borderNonzeroPixels": 35,
+        "borderPixelsAlpha16": 0,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        141,
+        11,
+        812,
+        1524
+      ],
+      "solidBBoxAlpha128": [
+        141,
+        12,
+        811,
+        1523
+      ],
+      "footApproxAnchor": [
+        531,
+        1523
+      ],
+      "footSourceRegion": [
+        405,
+        1342,
+        657,
+        1523
+      ],
+      "sha256": "077ca0d5c891fd08dae7a54bef20415e4e527bf3822a9439b7bdd7bc513be7a4",
+      "assetKind": "对话立绘",
+      "staticPose": true,
+      "identityReference": "D:/AAA找到工作/素材们/项目3-中国传统制茶技艺数字展示策略研究/茶园物语-制作素材/05_人物/chr_protagonist_portrait_neutral_v001.png",
+      "reviewNotes": "独立单人透明PNG；依据身份母图保留发型、服装和身份特征。静态姿态，未制作为动画；近似脚底锚点另存，待Godot中对位验收。",
+      "positionReference": "00_规范与清单/人物脚底锚点与身份参考_v001.json"
+    },
+    {
+      "id": "CHR_102",
+      "name": "chr_companion_scene_v001",
+      "label": "教学同伴场景小人",
+      "category": "05_人物",
+      "batch": "05_人物与茶铺",
+      "relativePath": "05_人物/chr_companion_scene_v001.png",
+      "status": "已生成v001",
+      "width": 1254,
+      "height": 1254,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1301451,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        452,
+        79,
+        826,
+        1201
+      ],
+      "solidBBoxAlpha128": [
+        453,
+        80,
+        826,
+        1200
+      ],
+      "footApproxAnchor": [
+        636.5,
+        1200
+      ],
+      "footSourceRegion": [
+        522,
+        1065,
+        751,
+        1200
+      ],
+      "sha256": "67756fe7d2bdc1162c279e30148420554ea64bf99a1d22de3cb71f29059e022a",
+      "assetKind": "场景静态人物",
+      "staticPose": true,
+      "identityReference": "D:/AAA找到工作/素材们/项目3-中国传统制茶技艺数字展示策略研究/茶园物语-制作素材/05_人物/chr_companion_portrait_v001.png",
+      "reviewNotes": "独立单人透明PNG；依据身份母图保留发型、服装和身份特征。静态姿态，未制作为动画；近似脚底锚点另存，待Godot中对位验收。",
+      "positionReference": "00_规范与清单/人物脚底锚点与身份参考_v001.json"
+    },
+    {
+      "id": "CHR_201",
+      "name": "chr_customer_villager_portrait_v001",
+      "label": "村民客人立绘",
+      "category": "05_人物",
+      "batch": "05_人物与茶铺",
+      "relativePath": "05_人物/chr_customer_villager_portrait_v001.png",
+      "status": "已生成v001",
+      "width": 1024,
+      "height": 1536,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1015820,
+        "borderNonzeroPixels": 5,
+        "borderPixelsAlpha16": 0,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        242,
+        51,
+        806,
+        1500
+      ],
+      "solidBBoxAlpha128": [
+        242,
+        52,
+        805,
+        1500
+      ],
+      "footApproxAnchor": [
+        520.5,
+        1500
+      ],
+      "footSourceRegion": [
+        363,
+        1326,
+        678,
+        1500
+      ],
+      "sha256": "bb0a7309454474e06968a343c7e6001008ef294b7740762ec694425c1d9884af",
+      "assetKind": "对话立绘",
+      "staticPose": true,
+      "identityReference": "D:/AAA找到工作/素材们/项目3-中国传统制茶技艺数字展示策略研究/茶园物语-制作素材/05_人物/chr_protagonist_portrait_neutral_v001.png",
+      "reviewNotes": "独立单人透明PNG；依据身份母图保留发型、服装和身份特征。静态姿态，未制作为动画；近似脚底锚点另存，待Godot中对位验收。",
+      "positionReference": "00_规范与清单/人物脚底锚点与身份参考_v001.json"
+    },
+    {
+      "id": "CHR_202",
+      "name": "chr_customer_villager_scene_v001",
+      "label": "村民客人场景小人",
+      "category": "05_人物",
+      "batch": "05_人物与茶铺",
+      "relativePath": "05_人物/chr_customer_villager_scene_v001.png",
+      "status": "已生成v001",
+      "width": 1254,
+      "height": 1254,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1216092,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        424,
+        80,
+        868,
+        1202
+      ],
+      "solidBBoxAlpha128": [
+        424,
+        80,
+        867,
+        1201
+      ],
+      "footApproxAnchor": [
+        635,
+        1201
+      ],
+      "footSourceRegion": [
+        497,
+        1066,
+        773,
+        1201
+      ],
+      "sha256": "0076e6bb5c71b453de5399f4409441387ebf571aae8e91eba08e71143ace4743",
+      "assetKind": "场景静态人物",
+      "staticPose": true,
+      "identityReference": "D:/AAA找到工作/素材们/项目3-中国传统制茶技艺数字展示策略研究/茶园物语-制作素材/05_人物/chr_customer_villager_portrait_v001.png",
+      "reviewNotes": "独立单人透明PNG；依据身份母图保留发型、服装和身份特征。静态姿态，未制作为动画；近似脚底锚点另存，待Godot中对位验收。",
+      "positionReference": "00_规范与清单/人物脚底锚点与身份参考_v001.json"
+    },
+    {
+      "id": "CHR_203",
+      "name": "chr_customer_traveler_portrait_v001",
+      "label": "旅人立绘",
+      "category": "05_人物",
+      "batch": "05_人物与茶铺",
+      "relativePath": "05_人物/chr_customer_traveler_portrait_v001.png",
+      "status": "已生成v001",
+      "width": 1024,
+      "height": 1536,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1114141,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        267,
+        23,
+        764,
+        1504
+      ],
+      "solidBBoxAlpha128": [
+        267,
+        24,
+        764,
+        1503
+      ],
+      "footApproxAnchor": [
+        565.5,
+        1503
+      ],
+      "footSourceRegion": [
+        389,
+        1325,
+        742,
+        1503
+      ],
+      "sha256": "efce803bad546d9c5f9e582255f4c08bc532485e6a41b02de08f7c954dd3cb33",
+      "assetKind": "对话立绘",
+      "staticPose": true,
+      "identityReference": "D:/AAA找到工作/素材们/项目3-中国传统制茶技艺数字展示策略研究/茶园物语-制作素材/05_人物/chr_protagonist_portrait_neutral_v001.png",
+      "reviewNotes": "独立单人透明PNG；依据身份母图保留发型、服装和身份特征。静态姿态，未制作为动画；近似脚底锚点另存，待Godot中对位验收。",
+      "positionReference": "00_规范与清单/人物脚底锚点与身份参考_v001.json"
+    },
+    {
+      "id": "CHR_204",
+      "name": "chr_customer_traveler_scene_v001",
+      "label": "旅人场景小人",
+      "category": "05_人物",
+      "batch": "05_人物与茶铺",
+      "relativePath": "05_人物/chr_customer_traveler_scene_v001.png",
+      "status": "已生成v001",
+      "width": 1254,
+      "height": 1254,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1250808,
+        "borderNonzeroPixels": 2,
+        "borderPixelsAlpha16": 0,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        388,
+        46,
+        849,
+        1210
+      ],
+      "solidBBoxAlpha128": [
+        389,
+        47,
+        848,
+        1210
+      ],
+      "footApproxAnchor": [
+        651.5,
+        1210
+      ],
+      "footSourceRegion": [
+        505,
+        1070,
+        798,
+        1210
+      ],
+      "sha256": "1841779795bb91269567bbfeffde6e2fbba8eaf99e3aeba4d8a1804bea54726e",
+      "assetKind": "场景静态人物",
+      "staticPose": true,
+      "identityReference": "D:/AAA找到工作/素材们/项目3-中国传统制茶技艺数字展示策略研究/茶园物语-制作素材/05_人物/chr_customer_traveler_portrait_v001.png",
+      "reviewNotes": "独立单人透明PNG；依据身份母图保留发型、服装和身份特征。静态姿态，未制作为动画；近似脚底锚点另存，待Godot中对位验收。",
+      "positionReference": "00_规范与清单/人物脚底锚点与身份参考_v001.json"
+    },
+    {
+      "id": "CHR_205",
+      "name": "chr_customer_regular_portrait_v001",
+      "label": "品茶熟客立绘",
+      "category": "05_人物",
+      "batch": "05_人物与茶铺",
+      "relativePath": "05_人物/chr_customer_regular_portrait_v001.png",
+      "status": "已生成v001",
+      "width": 1024,
+      "height": 1536,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1055346,
+        "borderNonzeroPixels": 33,
+        "borderPixelsAlpha16": 0,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        272,
+        12,
+        790,
+        1526
+      ],
+      "solidBBoxAlpha128": [
+        273,
+        12,
+        789,
+        1525
+      ],
+      "footApproxAnchor": [
+        536.5,
+        1525
+      ],
+      "footSourceRegion": [
+        352,
+        1343,
+        721,
+        1525
+      ],
+      "sha256": "124df9b2c6b86c108a62f4d335d4d5c6d40691431fad5b6e33a4c74722c50419",
+      "assetKind": "对话立绘",
+      "staticPose": true,
+      "identityReference": "D:/AAA找到工作/素材们/项目3-中国传统制茶技艺数字展示策略研究/茶园物语-制作素材/05_人物/chr_protagonist_portrait_neutral_v001.png",
+      "reviewNotes": "独立单人透明PNG；依据身份母图保留发型、服装和身份特征。静态姿态，未制作为动画；近似脚底锚点另存，待Godot中对位验收。",
+      "positionReference": "00_规范与清单/人物脚底锚点与身份参考_v001.json"
+    },
+    {
+      "id": "CHR_206",
+      "name": "chr_customer_regular_scene_v001",
+      "label": "品茶熟客场景小人",
+      "category": "05_人物",
+      "batch": "05_人物与茶铺",
+      "relativePath": "05_人物/chr_customer_regular_scene_v001.png",
+      "status": "已生成v001",
+      "width": 1254,
+      "height": 1254,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1263247,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        425,
+        60,
+        817,
+        1216
+      ],
+      "solidBBoxAlpha128": [
+        425,
+        60,
+        816,
+        1215
+      ],
+      "footApproxAnchor": [
+        613,
+        1215
+      ],
+      "footSourceRegion": [
+        474,
+        1076,
+        752,
+        1215
+      ],
+      "sha256": "1b1c5f654df10659e2442437b565e4da4d8933f36376f8a23b5ce4625e6cc342",
+      "assetKind": "场景静态人物",
+      "staticPose": true,
+      "identityReference": "D:/AAA找到工作/素材们/项目3-中国传统制茶技艺数字展示策略研究/茶园物语-制作素材/05_人物/chr_customer_regular_portrait_v001.png",
+      "reviewNotes": "独立单人透明PNG；依据身份母图保留发型、服装和身份特征。静态姿态，未制作为动画；近似脚底锚点另存，待Godot中对位验收。",
+      "positionReference": "00_规范与清单/人物脚底锚点与身份参考_v001.json"
+    }
+  ],
+  "existingReference": {
+    "id": "CHR_001",
+    "name": "chr_protagonist_portrait_neutral_v001",
+    "relativePath": "05_人物/chr_protagonist_portrait_neutral_v001.png",
+    "status": "风格已认可／保留样稿v001",
+    "label": "主角对话立绘",
+    "purpose": "静态全身立绘，保留原角色识别特征",
+    "width": 1024,
+    "height": 1536,
+    "alphaCheck": {
+      "cornersTransparent": true,
+      "transparentPixels": 1040476,
+      "borderNonzeroPixels": 0
+    },
+    "sha256": "9C12E7054C9DF5AEA8981DEB107660CEE5DD3EC7276F3045A7F52CF669AE7911",
+    "reviewNotes": "风格已获用户认可；未完成 Godot 摆放/对位验收；部分外围有极低 alpha 像素，尚未做最终边缘精修。",
+    "visibleBBoxAlpha16": [
+      261,
+      16,
+      781,
+      1513
+    ]
+  },
+  "pairs": [
+    {
+      "name": "主角",
+      "portrait": "CHR_001",
+      "scene": "CHR_002",
+      "features": "青绿短发 · 圆形挂饰 · 布包"
+    },
+    {
+      "name": "教学同伴",
+      "portrait": "CHR_101",
+      "scene": "CHR_102",
+      "features": "束髻发带 · 围裙 · 腰袋"
+    },
+    {
+      "name": "村民客人",
+      "portrait": "CHR_201",
+      "scene": "CHR_202",
+      "features": "灰发头巾 · 暖褐衣色"
+    },
+    {
+      "name": "旅人",
+      "portrait": "CHR_203",
+      "scene": "CHR_204",
+      "features": "草帽 · 灰蓝短衫 · 行囊"
+    },
+    {
+      "name": "品茶熟客",
+      "portrait": "CHR_205",
+      "scene": "CHR_206",
+      "features": "灰发小髻 · 长衫 · 拢袖姿态"
+    }
+  ]
+}

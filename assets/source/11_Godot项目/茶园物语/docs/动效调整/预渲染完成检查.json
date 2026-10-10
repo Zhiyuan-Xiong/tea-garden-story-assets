@@ -1,0 +1,49 @@
+{
+  "completed": true,
+  "backgrounds": [
+    "home",
+    "loading",
+    "village",
+    "garden",
+    "workshop",
+    "teashop"
+  ],
+  "runtime_format": "OGV/Theora",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "encoded_fps": 30,
+  "loop_seconds": 8,
+  "browser_observed_fps": 30,
+  "native_checks_passed": 199,
+  "native_failed": [],
+  "quality_passed": true,
+  "native_decoded_color_verified": true,
+  "gif_previews": [
+    "14_循环动效/home_loop.gif",
+    "14_循环动效/loading_loop.gif"
+  ],
+  "gif_frames": 240,
+  "gif_resolution": [
+    960,
+    540
+  ],
+  "original_raster_art_unchanged": true,
+  "realtime_background_shader_disabled_during_video_playback": true,
+  "text_and_buttons_remain_native": true,
+  "furniture_and_characters_remain_separate": true,
+  "hidden_or_covered_video_pauses": true,
+  "reduced_motion_uses_prepared_static_background": true,
+  "invideo_calls": 0,
+  "ogv_total_bytes": 9880066,
+  "reports": [
+    "预渲染播放检查.json",
+    "动效交互检查.json",
+    "预渲染画质检查.json",
+    "游戏内视频色彩检查.json",
+    "连续视频预览检查.json",
+    "预渲染视频清单.json"
+  ],
+  "note": "Existing already-running game instances need a restart to load changed scripts and video assets."
+}

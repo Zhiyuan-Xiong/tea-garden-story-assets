@@ -1,0 +1,530 @@
+{
+  "project": "茶园物语",
+  "note": "记录原始画布和主体范围；正式PNG不裁切。按钮各状态及页签的透明留白与外缘略有差异，尚非像素级自动对齐。后续使用主体区域映射到统一显示矩形，并在Godot中验收。此处未创建Godot工程。",
+  "coordinateUnit": "source pixels",
+  "regions": [
+    {
+      "id": "ICO_106",
+      "file": "04_UI组件/ico_journal_v001.png",
+      "canvas": [
+        1254,
+        1254
+      ],
+      "sourceRegion": {
+        "x": 50,
+        "y": 241,
+        "width": 1155,
+        "height": 774
+      }
+    },
+    {
+      "id": "ICO_107",
+      "file": "04_UI组件/ico_settings_v001.png",
+      "canvas": [
+        1254,
+        1254
+      ],
+      "sourceRegion": {
+        "x": 161,
+        "y": 178,
+        "width": 930,
+        "height": 904
+      }
+    },
+    {
+      "id": "UI_002",
+      "file": "04_UI组件/ui_title_plaque_v001.png",
+      "canvas": [
+        1536,
+        1024
+      ],
+      "sourceRegion": {
+        "x": 85,
+        "y": 366,
+        "width": 1366,
+        "height": 286
+      }
+    },
+    {
+      "id": "UI_003",
+      "file": "04_UI组件/ui_item_card_v001.png",
+      "canvas": [
+        1024,
+        1536
+      ],
+      "sourceRegion": {
+        "x": 64,
+        "y": 68,
+        "width": 896,
+        "height": 1400
+      }
+    },
+    {
+      "id": "UI_004",
+      "file": "04_UI组件/ui_item_selection_v001.png",
+      "canvas": [
+        1024,
+        1536
+      ],
+      "sourceRegion": {
+        "x": 66,
+        "y": 68,
+        "width": 893,
+        "height": 1400
+      }
+    },
+    {
+      "id": "UI_005",
+      "file": "04_UI组件/ui_toolbar_base_v001.png",
+      "canvas": [
+        1536,
+        1024
+      ],
+      "sourceRegion": {
+        "x": 69,
+        "y": 392,
+        "width": 1399,
+        "height": 222
+      }
+    },
+    {
+      "id": "UI_006",
+      "file": "04_UI组件/ui_resource_base_v001.png",
+      "canvas": [
+        1536,
+        1024
+      ],
+      "sourceRegion": {
+        "x": 69,
+        "y": 392,
+        "width": 1399,
+        "height": 222
+      }
+    },
+    {
+      "id": "UI_007",
+      "file": "04_UI组件/ui_tooltip_base_v001.png",
+      "canvas": [
+        1942,
+        809
+      ],
+      "sourceRegion": {
+        "x": 204,
+        "y": 176,
+        "width": 1534,
+        "height": 456
+      }
+    },
+    {
+      "id": "UI_008",
+      "file": "04_UI组件/ui_dialogue_base_v001.png",
+      "canvas": [
+        1536,
+        1024
+      ],
+      "sourceRegion": {
+        "x": 69,
+        "y": 393,
+        "width": 1398,
+        "height": 221
+      }
+    },
+    {
+      "id": "UI_009",
+      "file": "04_UI组件/ui_quantity_base_v001.png",
+      "canvas": [
+        2172,
+        724
+      ],
+      "sourceRegion": {
+        "x": 119,
+        "y": 220,
+        "width": 1934,
+        "height": 283
+      }
+    },
+    {
+      "id": "UI_010",
+      "file": "04_UI组件/ui_button_normal_v001.png",
+      "canvas": [
+        1536,
+        1024
+      ],
+      "sourceRegion": {
+        "x": 163,
+        "y": 389,
+        "width": 1210,
+        "height": 239
+      }
+    },
+    {
+      "id": "UI_011",
+      "file": "04_UI组件/ui_button_hover_v001.png",
+      "canvas": [
+        1536,
+        1024
+      ],
+      "sourceRegion": {
+        "x": 113,
+        "y": 389,
+        "width": 1310,
+        "height": 239
+      }
+    },
+    {
+      "id": "UI_012",
+      "file": "04_UI组件/ui_button_pressed_v001.png",
+      "canvas": [
+        1536,
+        1024
+      ],
+      "sourceRegion": {
+        "x": 164,
+        "y": 389,
+        "width": 1208,
+        "height": 239
+      }
+    },
+    {
+      "id": "UI_013",
+      "file": "04_UI组件/ui_button_disabled_v001.png",
+      "canvas": [
+        1536,
+        1024
+      ],
+      "sourceRegion": {
+        "x": 135,
+        "y": 387,
+        "width": 1267,
+        "height": 240
+      }
+    },
+    {
+      "id": "UI_014",
+      "file": "04_UI组件/ui_icon_circle_base_v002.png",
+      "canvas": [
+        1254,
+        1254
+      ],
+      "sourceRegion": {
+        "x": 96,
+        "y": 98,
+        "width": 1061,
+        "height": 1049
+      }
+    },
+    {
+      "id": "UI_015",
+      "file": "04_UI组件/ui_close_v001.png",
+      "canvas": [
+        1254,
+        1254
+      ],
+      "sourceRegion": {
+        "x": 331,
+        "y": 346,
+        "width": 593,
+        "height": 566
+      }
+    },
+    {
+      "id": "UI_016",
+      "file": "04_UI组件/ui_back_v001.png",
+      "canvas": [
+        1254,
+        1254
+      ],
+      "sourceRegion": {
+        "x": 264,
+        "y": 390,
+        "width": 726,
+        "height": 501
+      }
+    },
+    {
+      "id": "UI_017",
+      "file": "04_UI组件/ui_confirm_v001.png",
+      "canvas": [
+        1254,
+        1254
+      ],
+      "sourceRegion": {
+        "x": 322,
+        "y": 386,
+        "width": 672,
+        "height": 532
+      }
+    },
+    {
+      "id": "UI_018",
+      "file": "04_UI组件/ui_plus_v001.png",
+      "canvas": [
+        1254,
+        1254
+      ],
+      "sourceRegion": {
+        "x": 362,
+        "y": 372,
+        "width": 531,
+        "height": 510
+      }
+    },
+    {
+      "id": "UI_019",
+      "file": "04_UI组件/ui_minus_v001.png",
+      "canvas": [
+        1254,
+        1254
+      ],
+      "sourceRegion": {
+        "x": 357,
+        "y": 579,
+        "width": 540,
+        "height": 87
+      }
+    },
+    {
+      "id": "UI_020",
+      "file": "04_UI组件/ui_tab_inactive_v001.png",
+      "canvas": [
+        1874,
+        839
+      ],
+      "sourceRegion": {
+        "x": 205,
+        "y": 212,
+        "width": 1465,
+        "height": 408
+      }
+    },
+    {
+      "id": "UI_021",
+      "file": "04_UI组件/ui_tab_active_v001.png",
+      "canvas": [
+        1875,
+        839
+      ],
+      "sourceRegion": {
+        "x": 203,
+        "y": 208,
+        "width": 1470,
+        "height": 405
+      }
+    },
+    {
+      "id": "UI_022",
+      "file": "04_UI组件/ui_progress_track_v001.png",
+      "canvas": [
+        1536,
+        1024
+      ],
+      "sourceRegion": {
+        "x": 109,
+        "y": 466,
+        "width": 1318,
+        "height": 91
+      }
+    },
+    {
+      "id": "UI_023",
+      "file": "04_UI组件/ui_progress_fill_v001.png",
+      "canvas": [
+        1536,
+        1024
+      ],
+      "sourceRegion": {
+        "x": 112,
+        "y": 469,
+        "width": 1312,
+        "height": 86
+      }
+    },
+    {
+      "id": "UI_024",
+      "file": "04_UI组件/ui_state_ready_v001.png",
+      "canvas": [
+        1024,
+        1536
+      ],
+      "sourceRegion": {
+        "x": 37,
+        "y": 134,
+        "width": 950,
+        "height": 1207
+      }
+    },
+    {
+      "id": "UI_025",
+      "file": "04_UI组件/ui_state_finished_v001.png",
+      "canvas": [
+        1024,
+        1536
+      ],
+      "sourceRegion": {
+        "x": 171,
+        "y": 394,
+        "width": 682,
+        "height": 767
+      }
+    },
+    {
+      "id": "UI_026",
+      "file": "04_UI组件/ui_order_bubble_v001.png",
+      "canvas": [
+        1254,
+        1254
+      ],
+      "sourceRegion": {
+        "x": 77,
+        "y": 133,
+        "width": 1100,
+        "height": 988
+      }
+    },
+    {
+      "id": "UI_027",
+      "file": "04_UI组件/ui_quality_normal_v001.png",
+      "canvas": [
+        1254,
+        1254
+      ],
+      "sourceRegion": {
+        "x": 148,
+        "y": 146,
+        "width": 959,
+        "height": 956
+      }
+    },
+    {
+      "id": "UI_028",
+      "file": "04_UI组件/ui_quality_good_v001.png",
+      "canvas": [
+        1254,
+        1254
+      ],
+      "sourceRegion": {
+        "x": 36,
+        "y": 48,
+        "width": 1179,
+        "height": 1159
+      }
+    },
+    {
+      "id": "UI_029",
+      "file": "04_UI组件/ui_quality_best_v001.png",
+      "canvas": [
+        1254,
+        1254
+      ],
+      "sourceRegion": {
+        "x": 89,
+        "y": 97,
+        "width": 1075,
+        "height": 1043
+      }
+    },
+    {
+      "id": "UI_030",
+      "file": "04_UI组件/ui_popup_plain_v001.png",
+      "canvas": [
+        1536,
+        1024
+      ],
+      "sourceRegion": {
+        "x": 75,
+        "y": 100,
+        "width": 1387,
+        "height": 820
+      }
+    },
+    {
+      "id": "UI_031",
+      "file": "04_UI组件/ui_ornament_bamboo_v001.png",
+      "canvas": [
+        1254,
+        1254
+      ],
+      "sourceRegion": {
+        "x": 44,
+        "y": 17,
+        "width": 1194,
+        "height": 1173
+      }
+    },
+    {
+      "id": "UI_032",
+      "file": "04_UI组件/ui_ornament_mountain_v001.png",
+      "canvas": [
+        1536,
+        1024
+      ],
+      "sourceRegion": {
+        "x": 44,
+        "y": 212,
+        "width": 1447,
+        "height": 502
+      }
+    }
+  ],
+  "groups": [
+    {
+      "name": "操作按钮四状态",
+      "ids": [
+        "UI_010",
+        "UI_011",
+        "UI_012",
+        "UI_013"
+      ],
+      "suggestedDisplaySize": [
+        300,
+        60
+      ]
+    },
+    {
+      "name": "页签两状态",
+      "ids": [
+        "UI_020",
+        "UI_021"
+      ],
+      "suggestedDisplaySize": [
+        180,
+        50
+      ]
+    },
+    {
+      "name": "物品卡片与选中描边",
+      "ids": [
+        "UI_003",
+        "UI_004"
+      ],
+      "suggestedDisplaySize": [
+        180,
+        280
+      ]
+    },
+    {
+      "name": "进度条",
+      "ids": [
+        "UI_022",
+        "UI_023"
+      ],
+      "suggestedTrackSize": [
+        320,
+        22
+      ],
+      "suggestedFillSize": [
+        314,
+        17
+      ],
+      "suggestedFillOffset": [
+        3,
+        2.5
+      ],
+      "note": "填充只映射到轨道内侧，避免盖住边框。"
+    }
+  ],
+  "nineSliceCandidate": {
+    "id": "UI_030",
+    "status": "仅面板候选，未完成拉伸与角部验收。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "CHR_102",
+  "category": "05_人物",
+  "functionArea": "人物",
+  "label": "教学同伴场景小人",
+  "plannedFile": "chr_companion_scene_v001.png",
+  "batch": "05_人物与茶铺",
+  "targetSize": "1024×1024",
+  "status": "待生成",
+  "actualSize": "",
+  "relativePath": "",
+  "remarks": "以同伴立绘为身份参考",
+  "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-2436f410-0a3b-4497-add3-dcf5ce4f2768.png",
+  "prompt": "Use case: stylized-concept. One isolated hand-painted 2D character asset for 茶园物语, a gentle traditional Chinese tea-village game. Chinese ink outlines and pale watercolor wash matching approved protagonist art. Thin warm-grey/brown outlines, simple clean broad washes, minimal clothing folds, no grain/no noisy mottling/no dense texture/no muddy haze/no oversaturation/no hard black outline/no glossy render. Palette muted sage/tea greens, ivory, pale brown, oatmeal, charcoal-grey, restrained clay rose. Skin soft natural peach, no strong blush or shiny highlight. Complete SINGLE character, full body including hair and both feet, generous true transparent alpha margin on all sides. Transparent gaps between limbs, no background color, no drawn checkerboard, no ground/shadow plate or halo. No environment, furniture, tea plants, handheld cups, trays, tools, weapons, writing, numbers, labels or watermarks. Fixed clothing accessories such as pendant and cloth bag belong to the character. Calm friendly expressions. Keep hand anatomy simple and natural. Character family stylized about3.5heads tall for full-body dialogue portraits, about3heads for scene sprites; never photorealistic. Scene sprites use a consistent elevated parallel-axonometric camera and three-quarter front-left facing, head top slightly visible, feet on the same implied horizontal plane, no converging perspective. Portraits use near frontal three-quarter pose. No animation sheet or multiple copies.\nSUBJECT: Image1 is teaching companion IDENTITY mother portrait; Image2 defines the SCENE SPRITE camera, simplified proportions and brushwork. Convert SAME teaching companion into a small full-body scene sprite about3heads high: brown hair high bun with ivory cloth bow/band, kind brown eyes, same sage work tunic, ivory apron, oatmeal trousers, tan right-hip waist pouch and brown shoes. Simplify folds and hair, preserve adult identity clues. Three-quarter FRONT-LEFT elevated parallel camera exactly like Image2, both feet grounded, calm neutral standing, EMPTY hands relaxed together in front. No handheld tool, cup, extra bag, table, plant, floor or shadow. Single complete scene character centered on1024x1024alpha canvas, generous margin.",
+  "mode": "built-in image_gen",
+  "references": [
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\05_人物\\chr_companion_portrait_v001.png",
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\05_人物\\chr_protagonist_scene_idle_v001.png"
+  ],
+  "savedPath": "05_人物/chr_companion_scene_v001.png",
+  "destination": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\05_人物\\chr_companion_scene_v001.png"
+}

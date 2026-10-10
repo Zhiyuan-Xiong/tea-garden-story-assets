@@ -1,0 +1,23 @@
+{
+  "id": "BLD_103",
+  "category": "03_建筑与场景",
+  "functionArea": "场景分层",
+  "label": "休憩亭",
+  "plannedFile": "bld_pavilion_v001.png",
+  "batch": "06_场景与装饰",
+  "targetSize": "1536×1024",
+  "status": "待生成",
+  "actualSize": "",
+  "relativePath": "03_建筑与场景/bld_pavilion_v001.png",
+  "remarks": "独立建筑",
+  "prompt": "Use case: stylized-concept. Asset type: one independent transparent PNG for the 2D/2.5D Chinese tea-village game 茶园物语.\nStyle: clean Chinese ink outline with pale hand-painted watercolor fills, harmonizing with the approved references. Simple large clear shapes, controlled sparse brush marks, thin charcoal/brown linework; avoid dense texture or paper grain. Restrained ivory #EEE5D5, sage #83957E, tea green #526C62, charcoal #5C6261, pale timber #967653, bamboo #C5A36F, occasional dusty coral #B76651.\nFor constructed objects use elevated parallel dimetric 2:1 ground axes, diagonal edges slope about ±26.565 degrees, verticals remain vertical, near and far edges stay parallel, no lens perspective. Soft even light, modest internal shading, no cast ground shadow.\nOutput actual RGBA transparency outside the subject. Full silhouette, visible generous transparent margin on ALL four sides; never crop. No background fill, checkerboard, paper sheet, black background, white background, vignette, glow, halo, text, calligraphy, numerals, UI, labels, borders, watermark. No extra props, people, scenery, repeated objects or decorative clutter. Avoid oversaturation, muddy gradients, noise, excessive fiber or woodgrain, photorealism, heavy black outline and strong reflections. Preserve clear edges at small gameplay sizes.\nPrimary request: ONLY one small open Jiangnan tea-village resting pavilion, inspired by the pavilion architecture in Input1 but isolated with far fewer details. Input2 defines local charcoal tiles and pale timber; Input3 defines the 2:1 elevated parallel camera.\nSubject: simple four-post square open pavilion, muted charcoal-grey hip roof with slight upward eaves, pale timber posts, low basic timber rail on two rear sides, empty floor on thin pale-stone square plinth with two modest integral steps at front. Roof and all columns fully visible. No chairs, table, benches, tea cups, lanterns, signs, people, flowers, trees, rocks, land or water. One complete structural pavilion only.\nSquare ground footprint in 2:1 dimetric axes, floor front/back parallel, vertical columns upright. Match existing architecture brush and color. Roof rows clean and simplified rather than densely textured. Entire pavilion centered in landscape1536×1024 with enough transparent space at roof tip and step ends, occupies less than80% width/height. Internal shading low contrast, no ground shadow or halo.",
+  "references": [
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\01_Figma参考\\figma_map_20261008.png",
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\03_建筑与场景\\bld_workshop_exterior_v001.png",
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\06_道具与图标\\prp_tea_table_empty_v001.png"
+  ],
+  "mode": "built-in image_gen",
+  "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-ae925ede-63ff-4c16-9f0e-b078b99a513b.png",
+  "savedPath": "03_建筑与场景/bld_pavilion_v001.png",
+  "destination": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\03_建筑与场景\\bld_pavilion_v001.png"
+}

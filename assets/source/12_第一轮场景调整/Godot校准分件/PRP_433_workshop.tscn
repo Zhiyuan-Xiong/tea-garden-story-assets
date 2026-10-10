@@ -1,0 +1,20 @@
+[gd_scene load_steps=3 format=3]
+[ext_resource type="Texture2D" path="res://assets/12_第一轮场景调整/prp_drying_rack_dimetric_v002.png" id="1"]
+[sub_resource type="AtlasTexture" id="Atlas"]
+atlas = ExtResource("1")
+region = Rect2(263,132,703,1026)
+filter_clip = true
+[node name="PRP_433_GroundCenter" type="Node2D"]
+transform = Transform2D(1,0,0,1,0,0)
+metadata/asset_id = "PRP_433"
+metadata/reference_room = "workshop"
+[node name="Image" type="TextureRect" parent="."]
+offset_left = -131.3684211
+offset_top = -330.5604552
+offset_right = 124.6315789
+offset_bottom = 43.0611664
+mouse_filter = 2
+texture_filter = 4
+texture = SubResource("Atlas")
+expand_mode = 1
+stretch_mode = 0

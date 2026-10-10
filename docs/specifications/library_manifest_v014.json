@@ -1,0 +1,1879 @@
+{
+  "version": "v014",
+  "date": "2026-10-09",
+  "source": "Godot catalog plus six independently generated transparent placement plants",
+  "assets": [
+    {
+      "id": "DEC_461",
+      "label": "圆叶矮灌木",
+      "width": 1672,
+      "height": 941,
+      "path": "11_Godot项目/茶园物语/assets/16_茶村自由布置植物/DEC_461_圆叶矮灌木_v001.png",
+      "batch": "16_茶村自由布置植物",
+      "opaque": false
+    },
+    {
+      "id": "DEC_462",
+      "label": "舒展蕨草",
+      "width": 1774,
+      "height": 887,
+      "path": "11_Godot项目/茶园物语/assets/16_茶村自由布置植物/DEC_462_舒展蕨草_v001.png",
+      "batch": "16_茶村自由布置植物",
+      "opaque": false
+    },
+    {
+      "id": "DEC_463",
+      "label": "临水圆叶",
+      "width": 1586,
+      "height": 992,
+      "path": "11_Godot项目/茶园物语/assets/16_茶村自由布置植物/DEC_463_临水圆叶_v001.png",
+      "batch": "16_茶村自由布置植物",
+      "opaque": false
+    },
+    {
+      "id": "DEC_464",
+      "label": "淡墨疏竹",
+      "width": 1024,
+      "height": 1536,
+      "path": "11_Godot项目/茶园物语/assets/16_茶村自由布置植物/DEC_464_淡墨疏竹_v001.png",
+      "batch": "16_茶村自由布置植物",
+      "opaque": false
+    },
+    {
+      "id": "DEC_465",
+      "label": "白花叶团",
+      "width": 1942,
+      "height": 809,
+      "path": "11_Godot项目/茶园物语/assets/16_茶村自由布置植物/DEC_465_白花叶团_v001.png",
+      "batch": "16_茶村自由布置植物",
+      "opaque": false
+    },
+    {
+      "id": "DEC_466",
+      "label": "柔叶草丛",
+      "width": 1774,
+      "height": 887,
+      "path": "11_Godot项目/茶园物语/assets/16_茶村自由布置植物/DEC_466_柔叶草丛_v001.png",
+      "batch": "16_茶村自由布置植物",
+      "opaque": false
+    },
+    {
+      "id": "DEC_455",
+      "label": "连贯低矮叶团 · 放大配景",
+      "width": 2095,
+      "height": 751,
+      "path": "11_Godot项目/茶园物语/assets/15_茶村配景与入口/DEC_455_连贯低矮叶团_v002.png",
+      "batch": "15_茶村树木与连贯植物",
+      "opaque": false
+    },
+    {
+      "id": "DEC_452",
+      "label": "淡彩水墨杂树",
+      "width": 1024,
+      "height": 1536,
+      "path": "11_Godot项目/茶园物语/assets/15_茶村配景与入口/DEC_452_淡彩水墨杂树_v001.png",
+      "batch": "15_茶村树木与连贯植物",
+      "opaque": false
+    },
+    {
+      "id": "DEC_451",
+      "label": "淡彩水墨松树",
+      "width": 1024,
+      "height": 1536,
+      "path": "11_Godot项目/茶园物语/assets/15_茶村配景与入口/DEC_451_淡彩水墨松树_v001.png",
+      "batch": "15_茶村树木与连贯植物",
+      "opaque": false
+    },
+    {
+      "id": "BG_321",
+      "label": "制茶工坊 · 完整空场景",
+      "width": 3344,
+      "height": 1882,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/BG_321_完整空场景_v003.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": true
+    },
+    {
+      "id": "BG_322",
+      "label": "临水茶铺 · 完整空场景",
+      "width": 3344,
+      "height": 1882,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/BG_322_完整空场景_v003.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": true
+    },
+    {
+      "id": "BG_323",
+      "label": "Figma载入原背景",
+      "width": 1672,
+      "height": 941,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/bg_loading_figma_original_v001.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": true
+    },
+    {
+      "id": "BG_324",
+      "label": "首页Figma原图淡彩背景",
+      "width": 3344,
+      "height": 1882,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/bg_home_figma_fade_v002.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": true
+    },
+    {
+      "id": "FGT_01",
+      "label": "原图售茶柜台",
+      "width": 840,
+      "height": 476,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/FGT_01_image2透明重制_v003.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "FGT_02",
+      "label": "原图茶柜和储茶罐",
+      "width": 556,
+      "height": 590,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/FGT_02_image2透明重制_v003.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "FGT_03",
+      "label": "原图左侧雅座桌椅",
+      "width": 404,
+      "height": 258,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/FGT_03_image2透明重制_v003.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "FGT_04",
+      "label": "原图前侧雅座桌椅",
+      "width": 468,
+      "height": 310,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/FGT_04_image2透明重制_v003.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "FGT_05",
+      "label": "原图遮阳伞",
+      "width": 346,
+      "height": 226,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/FGT_05_image2透明重制_v003.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "FGT_06",
+      "label": "原图前侧盆栽",
+      "width": 158,
+      "height": 214,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/FGT_06_image2透明重制_v003.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "FGT_07",
+      "label": "原图柱旁盆栽",
+      "width": 116,
+      "height": 234,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/FGT_07_image2透明重制_v003.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "FGT_08",
+      "label": "原图柜后盆栽",
+      "width": 126,
+      "height": 184,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/FGT_08_image2透明重制_v003.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "FGW_01",
+      "label": "摊青长桌与原有叶盘",
+      "width": 706,
+      "height": 358,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/FGW_01_image2透明重制_v003.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "FGW_02",
+      "label": "原图竹制晾架",
+      "width": 418,
+      "height": 468,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/FGW_02_image2透明重制_v003.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "FGW_03",
+      "label": "杀青炉",
+      "width": 336,
+      "height": 314,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/FGW_03_image2透明重制_v003.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "FGW_04",
+      "label": "揉捻台",
+      "width": 594,
+      "height": 408,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/FGW_04_image2透明重制_v003.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "FGW_05",
+      "label": "原图筛分筒",
+      "width": 358,
+      "height": 462,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/FGW_05_image2透明重制_v003.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "FGW_06",
+      "label": "原图秤盘与支架",
+      "width": 292,
+      "height": 396,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/FGW_06_image2透明重制_v003.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "FGW_07",
+      "label": "原图三张后墙小工作台",
+      "width": 648,
+      "height": 436,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/FGW_07_image2透明重制_v003.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "FGW_08",
+      "label": "原图左侧辅助桌与竹筐",
+      "width": 234,
+      "height": 190,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/FGW_08_image2透明重制_v003.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "FGW_09",
+      "label": "原图长桌前竹筐",
+      "width": 158,
+      "height": 134,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/FGW_09_image2透明重制_v003.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "FGW_10",
+      "label": "原图独立小凳",
+      "width": 96,
+      "height": 134,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/FGW_10_image2透明重制_v003.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "FGW_11",
+      "label": "原图炉前鲜叶竹篓",
+      "width": 132,
+      "height": 152,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/FGW_11_image2透明重制_v003.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "FGW_12",
+      "label": "原图揉捻台旁茶篓与小篮",
+      "width": 336,
+      "height": 244,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/FGW_12_image2透明重制_v003.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "FGW_13",
+      "label": "原图后墙挂筛与茶字挂画",
+      "width": 150,
+      "height": 332,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/FGW_13_image2透明重制_v003.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "FGW_14",
+      "label": "原图两只墙面竹筛",
+      "width": 178,
+      "height": 246,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/FGW_14_image2透明重制_v003.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "FGW_15",
+      "label": "原图右墙竹筛",
+      "width": 174,
+      "height": 206,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/FGW_15_image2透明重制_v003.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "ICO_101",
+      "label": "种子",
+      "width": 512,
+      "height": 512,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/ICO_101_image2图标_v003.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "ICO_102",
+      "label": "背包",
+      "width": 512,
+      "height": 512,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/ICO_102_image2图标_v003.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "ICO_103",
+      "label": "茶篓",
+      "width": 512,
+      "height": 512,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/ICO_103_image2图标_v003.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "ICO_104",
+      "label": "化肥",
+      "width": 512,
+      "height": 512,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/ICO_104_image2图标_v003.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "ICO_105",
+      "label": "说明书",
+      "width": 512,
+      "height": 512,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/ICO_105_image2图标_v003.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "ICO_106",
+      "label": "制茶手记",
+      "width": 512,
+      "height": 512,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/ICO_106_image2图标_v003.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "ICO_107",
+      "label": "设置",
+      "width": 512,
+      "height": 512,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/ICO_107_image2图标_v003.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "ICO_108",
+      "label": "日历",
+      "width": 512,
+      "height": 512,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/ICO_108_image2图标_v003.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "ICO_201",
+      "label": "器具",
+      "width": 512,
+      "height": 512,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/ICO_201_image2图标_v003.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "ICO_301",
+      "label": "茶铺管理",
+      "width": 512,
+      "height": 512,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/ICO_301_image2图标_v003.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "ICO_401",
+      "label": "鲜叶",
+      "width": 512,
+      "height": 512,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/ICO_401_image2图标_v003.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "ICO_402",
+      "label": "存档",
+      "width": 512,
+      "height": 512,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/ICO_402_image2图标_v003.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "ICO_403",
+      "label": "读档",
+      "width": 512,
+      "height": 512,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/ICO_403_image2图标_v003.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "ICO_404",
+      "label": "主页",
+      "width": 512,
+      "height": 512,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/ICO_404_image2图标_v003.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "ICO_451",
+      "label": "摊青",
+      "width": 512,
+      "height": 512,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/ICO_451_image2图标_v003.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "ICO_452",
+      "label": "干燥",
+      "width": 512,
+      "height": 512,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/ICO_452_image2图标_v003.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "ICO_453",
+      "label": "杀青",
+      "width": 512,
+      "height": 512,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/ICO_453_image2图标_v003.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "ICO_454",
+      "label": "揉捻",
+      "width": 512,
+      "height": 512,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/ICO_454_image2图标_v003.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "ICO_455",
+      "label": "筛分",
+      "width": 512,
+      "height": 512,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/ICO_455_image2图标_v003.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "ICO_456",
+      "label": "雅座",
+      "width": 512,
+      "height": 512,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/ICO_456_image2图标_v003.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "ICO_457",
+      "label": "售卖区",
+      "width": 512,
+      "height": 512,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/ICO_457_image2图标_v003.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "ICO_458",
+      "label": "茶柜",
+      "width": 512,
+      "height": 512,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/ICO_458_image2图标_v003.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "PRP_441",
+      "label": "明净青瓷载入茶具",
+      "width": 1448,
+      "height": 1086,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/prp_loading_tea_celadon_clean_v002.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "UI_001",
+      "label": "通用文字面板空底",
+      "width": 1448,
+      "height": 835,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/UI_001_image2空白底板_v003.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "UI_002",
+      "label": "棕色按钮空底",
+      "width": 2106,
+      "height": 482,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/UI_002_image2按钮_v003.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "UI_005",
+      "label": "底部工具栏空底",
+      "width": 2148,
+      "height": 236,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/UI_005_image2空白底板_v003.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "UI_006",
+      "label": "资源栏空底",
+      "width": 2148,
+      "height": 236,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/UI_006_image2空白底板_v003.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "UI_010",
+      "label": "棕色按钮 · 默认",
+      "width": 2106,
+      "height": 482,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/UI_010_image2按钮_v003.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "UI_011",
+      "label": "棕色按钮 · 悬停",
+      "width": 2106,
+      "height": 482,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/UI_011_image2按钮_v003.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "UI_012",
+      "label": "棕色按钮 · 按下",
+      "width": 2106,
+      "height": 482,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/UI_012_image2按钮_v003.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "UI_013",
+      "label": "棕色按钮 · 禁用",
+      "width": 2106,
+      "height": 482,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/UI_013_image2按钮_v003.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "UI_014",
+      "label": "圆形图标空底",
+      "width": 1254,
+      "height": 1229,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/UI_014_image2空白底板_v003.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "UI_030",
+      "label": "弹窗空白底板",
+      "width": 1448,
+      "height": 835,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/UI_030_image2空白底板_v003.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "UI_040",
+      "label": "绿色按钮 · 默认",
+      "width": 2068,
+      "height": 434,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/UI_040_image2按钮_v003.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "UI_041",
+      "label": "绿色按钮 · 悬停",
+      "width": 2068,
+      "height": 434,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/UI_041_image2按钮_v003.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "UI_042",
+      "label": "绿色按钮 · 按下",
+      "width": 2068,
+      "height": 434,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/UI_042_image2按钮_v003.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "UI_043",
+      "label": "绿色按钮 · 禁用",
+      "width": 2068,
+      "height": 434,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/UI_043_image2按钮_v003.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "UI_044",
+      "label": "存档与提示空底",
+      "width": 2119,
+      "height": 490,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/UI_044_image2空白底板_v003.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "UI_451",
+      "label": "无字工艺题签",
+      "width": 256,
+      "height": 720,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/UI_451_image2无字题签_v003.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "UI_452",
+      "label": "载入左侧祥云线透明",
+      "width": 604,
+      "height": 124,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/ui_loading_rule_left_clear_v002.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "UI_453",
+      "label": "载入右侧祥云线透明",
+      "width": 608,
+      "height": 124,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/ui_loading_rule_right_clear_v002.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "UI_454",
+      "label": "原LOGO背后的明亮祥云",
+      "width": 1586,
+      "height": 992,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/ui_logo_ivory_cloud_v001.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "UI_455",
+      "label": "文字与气泡完整底板",
+      "width": 320,
+      "height": 80,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/UI_455_image2规则切片_v004.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "UI_456",
+      "label": "圆形图标下方短标签底板",
+      "width": 120,
+      "height": 30,
+      "path": "11_Godot项目/茶园物语/assets/13_Figma原图拆分/UI_456_image2短标签完整底板_v005.png",
+      "batch": "13_本轮透明家具与UI",
+      "opaque": false
+    },
+    {
+      "id": "BG_101",
+      "label": "远山透明层",
+      "width": 1672,
+      "height": 941,
+      "path": "11_Godot项目/茶园物语/assets/03_建筑与场景/bg_mountains_layer_v001.png",
+      "batch": "06_场景与装饰",
+      "opaque": false
+    },
+    {
+      "id": "BG_102",
+      "label": "水面透明层",
+      "width": 1672,
+      "height": 941,
+      "path": "11_Godot项目/茶园物语/assets/03_建筑与场景/bg_water_layer_v001.png",
+      "batch": "06_场景与装饰",
+      "opaque": false
+    },
+    {
+      "id": "BG_103",
+      "label": "云纹透明层",
+      "width": 1672,
+      "height": 941,
+      "path": "11_Godot项目/茶园物语/assets/03_建筑与场景/bg_cloud_layer_v001.png",
+      "batch": "06_场景与装饰",
+      "opaque": false
+    },
+    {
+      "id": "BG_201",
+      "label": "标题页山水背景画层",
+      "width": 1672,
+      "height": 941,
+      "path": "11_Godot项目/茶园物语/assets/03_建筑与场景/bg_title_landscape_layer_v001.png",
+      "batch": "08_背景场景与UI补充",
+      "opaque": false
+    },
+    {
+      "id": "BG_202",
+      "label": "主地图地面底层",
+      "width": 1672,
+      "height": 941,
+      "path": "11_Godot项目/茶园物语/assets/03_建筑与场景/bg_village_ground_base_v001.png",
+      "batch": "08_背景场景与UI补充",
+      "opaque": false
+    },
+    {
+      "id": "BG_203",
+      "label": "茶园台地底层",
+      "width": 1672,
+      "height": 941,
+      "path": "11_Godot项目/茶园物语/assets/03_建筑与场景/bg_garden_terraces_base_v001.png",
+      "batch": "08_背景场景与UI补充",
+      "opaque": false
+    },
+    {
+      "id": "BG_301",
+      "label": "主页茶村全景空背景",
+      "width": 1672,
+      "height": 941,
+      "path": "11_Godot项目/茶园物语/assets/03_建筑与场景/bg_home_panorama_rich_v004.png",
+      "batch": "09_完整背景主页与存档UI",
+      "opaque": true
+    },
+    {
+      "id": "BG_302",
+      "label": "载入山水空背景",
+      "width": 1672,
+      "height": 941,
+      "path": "11_Godot项目/茶园物语/assets/03_建筑与场景/bg_loading_landscape_rich_v004.png",
+      "batch": "09_完整背景主页与存档UI",
+      "opaque": true
+    },
+    {
+      "id": "BG_303",
+      "label": "茶村主地图空背景",
+      "width": 1672,
+      "height": 941,
+      "path": "11_Godot项目/茶园物语/assets/03_建筑与场景/bg_village_map_rich_empty_v004.png",
+      "batch": "09_完整背景主页与存档UI",
+      "opaque": true
+    },
+    {
+      "id": "BG_304",
+      "label": "云岫茶园空背景",
+      "width": 1672,
+      "height": 941,
+      "path": "11_Godot项目/茶园物语/assets/03_建筑与场景/bg_garden_rich_empty_v004.png",
+      "batch": "09_完整背景主页与存档UI",
+      "opaque": true
+    },
+    {
+      "id": "BG_305",
+      "label": "制茶工坊空背景",
+      "width": 1672,
+      "height": 941,
+      "path": "11_Godot项目/茶园物语/assets/03_建筑与场景/bg_workshop_rich_empty_v004.png",
+      "batch": "09_完整背景主页与存档UI",
+      "opaque": true
+    },
+    {
+      "id": "BG_306",
+      "label": "临水茶铺空背景",
+      "width": 1672,
+      "height": 941,
+      "path": "11_Godot项目/茶园物语/assets/03_建筑与场景/bg_teashop_rich_empty_v004.png",
+      "batch": "09_完整背景主页与存档UI",
+      "opaque": true
+    },
+    {
+      "id": "BG_311",
+      "label": "BG_311",
+      "width": 1672,
+      "height": 941,
+      "path": "11_Godot项目/茶园物语/assets/12_第一轮场景调整/bg_home_soft_bright_v005.png",
+      "batch": "项目其他登记素材",
+      "opaque": true
+    },
+    {
+      "id": "BG_312",
+      "label": "BG_312",
+      "width": 1672,
+      "height": 941,
+      "path": "11_Godot项目/茶园物语/assets/12_第一轮场景调整/bg_loading_soft_bright_v005.png",
+      "batch": "项目其他登记素材",
+      "opaque": true
+    },
+    {
+      "id": "BLD_101",
+      "label": "主地图工坊建筑",
+      "width": 1536,
+      "height": 1024,
+      "path": "11_Godot项目/茶园物语/assets/03_建筑与场景/bld_workshop_exterior_v001.png",
+      "batch": "06_场景与装饰",
+      "opaque": false
+    },
+    {
+      "id": "BLD_102",
+      "label": "主地图茶铺建筑",
+      "width": 1536,
+      "height": 1024,
+      "path": "11_Godot项目/茶园物语/assets/03_建筑与场景/bld_teashop_exterior_v001.png",
+      "batch": "06_场景与装饰",
+      "opaque": false
+    },
+    {
+      "id": "BLD_103",
+      "label": "休憩亭",
+      "width": 1536,
+      "height": 1024,
+      "path": "11_Godot项目/茶园物语/assets/03_建筑与场景/bld_pavilion_v001.png",
+      "batch": "06_场景与装饰",
+      "opaque": false
+    },
+    {
+      "id": "BLD_104",
+      "label": "木桥",
+      "width": 1536,
+      "height": 1024,
+      "path": "11_Godot项目/茶园物语/assets/03_建筑与场景/bld_bridge_v001.png",
+      "batch": "06_场景与装饰",
+      "opaque": false
+    },
+    {
+      "id": "BLD_105",
+      "label": "工坊建筑壳",
+      "width": 1672,
+      "height": 941,
+      "path": "11_Godot项目/茶园物语/assets/03_建筑与场景/bld_workshop_shell_v001.png",
+      "batch": "06_场景与装饰",
+      "opaque": false
+    },
+    {
+      "id": "BLD_106",
+      "label": "茶铺建筑壳",
+      "width": 1672,
+      "height": 941,
+      "path": "11_Godot项目/茶园物语/assets/03_建筑与场景/bld_teashop_shell_v001.png",
+      "batch": "06_场景与装饰",
+      "opaque": false
+    },
+    {
+      "id": "BLD_111",
+      "label": "BLD_111",
+      "width": 1672,
+      "height": 941,
+      "path": "11_Godot项目/茶园物语/assets/12_第一轮场景调整/bld_map_workshop_soft_perspective_v002.png",
+      "batch": "项目其他登记素材",
+      "opaque": false
+    },
+    {
+      "id": "BLD_112",
+      "label": "BLD_112",
+      "width": 1536,
+      "height": 1024,
+      "path": "11_Godot项目/茶园物语/assets/12_第一轮场景调整/bld_map_teashop_soft_perspective_v002.png",
+      "batch": "项目其他登记素材",
+      "opaque": false
+    },
+    {
+      "id": "BLD_201",
+      "label": "工坊后侧屋檐分件",
+      "width": 1672,
+      "height": 941,
+      "path": "11_Godot项目/茶园物语/assets/03_建筑与场景/bld_workshop_rear_eaves_v001.png",
+      "batch": "08_背景场景与UI补充",
+      "opaque": false
+    },
+    {
+      "id": "BLD_202",
+      "label": "茶铺后侧屋檐分件",
+      "width": 1671,
+      "height": 941,
+      "path": "11_Godot项目/茶园物语/assets/03_建筑与场景/bld_teashop_rear_eaves_v001.png",
+      "batch": "08_背景场景与UI补充",
+      "opaque": false
+    },
+    {
+      "id": "BLD_203",
+      "label": "茶园入口木门",
+      "width": 1536,
+      "height": 1024,
+      "path": "11_Godot项目/茶园物语/assets/03_建筑与场景/bld_garden_gate_v001.png",
+      "batch": "08_背景场景与UI补充",
+      "opaque": false
+    },
+    {
+      "id": "CHR_001",
+      "label": "主角对话立绘",
+      "width": 1024,
+      "height": 1536,
+      "path": "11_Godot项目/茶园物语/assets/05_人物/chr_protagonist_portrait_neutral_v001.png",
+      "batch": "01_风格样稿",
+      "opaque": false
+    },
+    {
+      "id": "CHR_002",
+      "label": "主角场景站姿",
+      "width": 1254,
+      "height": 1254,
+      "path": "11_Godot项目/茶园物语/assets/05_人物/chr_protagonist_scene_idle_v001.png",
+      "batch": "05_人物与茶铺",
+      "opaque": false
+    },
+    {
+      "id": "CHR_003",
+      "label": "主角采摘姿态",
+      "width": 1254,
+      "height": 1254,
+      "path": "11_Godot项目/茶园物语/assets/05_人物/chr_protagonist_scene_picking_v001.png",
+      "batch": "05_人物与茶铺",
+      "opaque": false
+    },
+    {
+      "id": "CHR_004",
+      "label": "主角制茶姿态",
+      "width": 1254,
+      "height": 1254,
+      "path": "11_Godot项目/茶园物语/assets/05_人物/chr_protagonist_scene_processing_v001.png",
+      "batch": "05_人物与茶铺",
+      "opaque": false
+    },
+    {
+      "id": "CHR_005",
+      "label": "主角上茶姿态",
+      "width": 1254,
+      "height": 1254,
+      "path": "11_Godot项目/茶园物语/assets/05_人物/chr_protagonist_scene_serving_v001.png",
+      "batch": "05_人物与茶铺",
+      "opaque": false
+    },
+    {
+      "id": "CHR_101",
+      "label": "教学同伴立绘",
+      "width": 1024,
+      "height": 1536,
+      "path": "11_Godot项目/茶园物语/assets/05_人物/chr_companion_portrait_v001.png",
+      "batch": "05_人物与茶铺",
+      "opaque": false
+    },
+    {
+      "id": "CHR_102",
+      "label": "教学同伴场景小人",
+      "width": 1254,
+      "height": 1254,
+      "path": "11_Godot项目/茶园物语/assets/05_人物/chr_companion_scene_v001.png",
+      "batch": "05_人物与茶铺",
+      "opaque": false
+    },
+    {
+      "id": "CHR_201",
+      "label": "村民客人立绘",
+      "width": 1024,
+      "height": 1536,
+      "path": "11_Godot项目/茶园物语/assets/05_人物/chr_customer_villager_portrait_v001.png",
+      "batch": "05_人物与茶铺",
+      "opaque": false
+    },
+    {
+      "id": "CHR_202",
+      "label": "村民客人场景小人",
+      "width": 1254,
+      "height": 1254,
+      "path": "11_Godot项目/茶园物语/assets/05_人物/chr_customer_villager_scene_v001.png",
+      "batch": "05_人物与茶铺",
+      "opaque": false
+    },
+    {
+      "id": "CHR_203",
+      "label": "旅人立绘",
+      "width": 1024,
+      "height": 1536,
+      "path": "11_Godot项目/茶园物语/assets/05_人物/chr_customer_traveler_portrait_v001.png",
+      "batch": "05_人物与茶铺",
+      "opaque": false
+    },
+    {
+      "id": "CHR_204",
+      "label": "旅人场景小人",
+      "width": 1254,
+      "height": 1254,
+      "path": "11_Godot项目/茶园物语/assets/05_人物/chr_customer_traveler_scene_v001.png",
+      "batch": "05_人物与茶铺",
+      "opaque": false
+    },
+    {
+      "id": "CHR_205",
+      "label": "品茶熟客立绘",
+      "width": 1024,
+      "height": 1536,
+      "path": "11_Godot项目/茶园物语/assets/05_人物/chr_customer_regular_portrait_v001.png",
+      "batch": "05_人物与茶铺",
+      "opaque": false
+    },
+    {
+      "id": "CHR_206",
+      "label": "品茶熟客场景小人",
+      "width": 1254,
+      "height": 1254,
+      "path": "11_Godot项目/茶园物语/assets/05_人物/chr_customer_regular_scene_v001.png",
+      "batch": "05_人物与茶铺",
+      "opaque": false
+    },
+    {
+      "id": "DEC_101",
+      "label": "灯笼",
+      "width": 1086,
+      "height": 1448,
+      "path": "11_Godot项目/茶园物语/assets/03_建筑与场景/dec_lantern_v001.png",
+      "batch": "06_场景与装饰",
+      "opaque": false
+    },
+    {
+      "id": "DEC_102",
+      "label": "木栏杆段",
+      "width": 1536,
+      "height": 1024,
+      "path": "11_Godot项目/茶园物语/assets/03_建筑与场景/dec_fence_wood_v001.png",
+      "batch": "06_场景与装饰",
+      "opaque": false
+    },
+    {
+      "id": "DEC_103",
+      "label": "临水荷花",
+      "width": 1254,
+      "height": 1254,
+      "path": "11_Godot项目/茶园物语/assets/03_建筑与场景/dec_lotus_v001.png",
+      "batch": "06_场景与装饰",
+      "opaque": false
+    },
+    {
+      "id": "DEC_201",
+      "label": "木栏杆另一轴向",
+      "width": 1536,
+      "height": 1024,
+      "path": "11_Godot项目/茶园物语/assets/03_建筑与场景/dec_fence_wood_axis_b_v001.png",
+      "batch": "08_背景场景与UI补充",
+      "opaque": false
+    },
+    {
+      "id": "FX_201",
+      "label": "炉火低档",
+      "width": 1024,
+      "height": 1536,
+      "path": "11_Godot项目/茶园物语/assets/06_道具与图标/fx_fire_low_v001.png",
+      "batch": "04_工坊素材",
+      "opaque": false
+    },
+    {
+      "id": "FX_202",
+      "label": "炉火中档",
+      "width": 1024,
+      "height": 1536,
+      "path": "11_Godot项目/茶园物语/assets/06_道具与图标/fx_fire_medium_v001.png",
+      "batch": "04_工坊素材",
+      "opaque": false
+    },
+    {
+      "id": "FX_203",
+      "label": "炉火高档",
+      "width": 1024,
+      "height": 1536,
+      "path": "11_Godot项目/茶园物语/assets/06_道具与图标/fx_fire_high_v001.png",
+      "batch": "04_工坊素材",
+      "opaque": false
+    },
+    {
+      "id": "LOG_301",
+      "label": "原版茶园物语高清Logo",
+      "width": 843,
+      "height": 614,
+      "path": "11_Godot项目/茶园物语/assets/04_UI组件/logo_teagarden_original_clear_v001.png",
+      "batch": "09_完整背景主页与存档UI",
+      "opaque": false
+    },
+    {
+      "id": "PLT_101",
+      "label": "成熟茶树",
+      "width": 1254,
+      "height": 1254,
+      "path": "11_Godot项目/茶园物语/assets/02_地形与植物/plt_tea_bush_mature_v002.png",
+      "batch": "01_风格样稿",
+      "opaque": false
+    },
+    {
+      "id": "PLT_102",
+      "label": "茶树幼苗",
+      "width": 1254,
+      "height": 1254,
+      "path": "11_Godot项目/茶园物语/assets/02_地形与植物/plt_tea_bush_seedling_v002.png",
+      "batch": "02_茶园素材",
+      "opaque": false
+    },
+    {
+      "id": "PLT_103",
+      "label": "茶树生长中",
+      "width": 1349,
+      "height": 1166,
+      "path": "11_Godot项目/茶园物语/assets/02_地形与植物/plt_tea_bush_growing_v002.png",
+      "batch": "02_茶园素材",
+      "opaque": false
+    },
+    {
+      "id": "PLT_104",
+      "label": "茶树采摘后",
+      "width": 1254,
+      "height": 1254,
+      "path": "11_Godot项目/茶园物语/assets/02_地形与植物/plt_tea_bush_harvested_v002.png",
+      "batch": "02_茶园素材",
+      "opaque": false
+    },
+    {
+      "id": "PLT_105",
+      "label": "竹丛",
+      "width": 1024,
+      "height": 1536,
+      "path": "11_Godot项目/茶园物语/assets/02_地形与植物/plt_bamboo_cluster_v001.png",
+      "batch": "02_茶园素材",
+      "opaque": false
+    },
+    {
+      "id": "PLT_106",
+      "label": "景观松树",
+      "width": 1024,
+      "height": 1536,
+      "path": "11_Godot项目/茶园物语/assets/03_建筑与场景/plt_pine_tree_v001.png",
+      "batch": "06_场景与装饰",
+      "opaque": false
+    },
+    {
+      "id": "PLT_107",
+      "label": "淡红树",
+      "width": 1024,
+      "height": 1536,
+      "path": "11_Godot项目/茶园物语/assets/03_建筑与场景/plt_red_tree_v001.png",
+      "batch": "06_场景与装饰",
+      "opaque": false
+    },
+    {
+      "id": "PRP_101",
+      "label": "空竹篓",
+      "width": 1254,
+      "height": 1254,
+      "path": "11_Godot项目/茶园物语/assets/06_道具与图标/prp_bamboo_basket_empty_v001.png",
+      "batch": "01_风格样稿",
+      "opaque": false
+    },
+    {
+      "id": "PRP_102",
+      "label": "种子布袋",
+      "width": 1254,
+      "height": 1254,
+      "path": "11_Godot项目/茶园物语/assets/06_道具与图标/prp_seed_bag_v001.png",
+      "batch": "02_茶园素材",
+      "opaque": false
+    },
+    {
+      "id": "PRP_103",
+      "label": "鲜叶",
+      "width": 1254,
+      "height": 1254,
+      "path": "11_Godot项目/茶园物语/assets/06_道具与图标/prp_fresh_tea_leaves_v001.png",
+      "batch": "02_茶园素材",
+      "opaque": false
+    },
+    {
+      "id": "PRP_104",
+      "label": "肥料布袋",
+      "width": 1254,
+      "height": 1254,
+      "path": "11_Godot项目/茶园物语/assets/06_道具与图标/prp_fertilizer_bag_v001.png",
+      "batch": "02_茶园素材",
+      "opaque": false
+    },
+    {
+      "id": "PRP_105",
+      "label": "采摘说明书",
+      "width": 1254,
+      "height": 1254,
+      "path": "11_Godot项目/茶园物语/assets/06_道具与图标/prp_picking_manual_closed_v001.png",
+      "batch": "02_茶园素材",
+      "opaque": false
+    },
+    {
+      "id": "PRP_106",
+      "label": "背包道具",
+      "width": 1254,
+      "height": 1254,
+      "path": "11_Godot项目/茶园物语/assets/06_道具与图标/prp_satchel_v001.png",
+      "batch": "02_茶园素材",
+      "opaque": false
+    },
+    {
+      "id": "PRP_201",
+      "label": "空竹匾",
+      "width": 1254,
+      "height": 1254,
+      "path": "11_Godot项目/茶园物语/assets/06_道具与图标/prp_bamboo_tray_empty_v001.png",
+      "batch": "04_工坊素材",
+      "opaque": false
+    },
+    {
+      "id": "PRP_202",
+      "label": "摊放鲜叶层",
+      "width": 1254,
+      "height": 1254,
+      "path": "11_Godot项目/茶园物语/assets/06_道具与图标/prp_leaves_spread_v001.png",
+      "batch": "04_工坊素材",
+      "opaque": false
+    },
+    {
+      "id": "PRP_203",
+      "label": "空炒锅",
+      "width": 1254,
+      "height": 1254,
+      "path": "11_Godot项目/茶园物语/assets/06_道具与图标/prp_iron_wok_empty_v001.png",
+      "batch": "04_工坊素材",
+      "opaque": false
+    },
+    {
+      "id": "PRP_204",
+      "label": "炉台",
+      "width": 1254,
+      "height": 1254,
+      "path": "11_Godot项目/茶园物语/assets/06_道具与图标/prp_stove_base_v001.png",
+      "batch": "04_工坊素材",
+      "opaque": false
+    },
+    {
+      "id": "PRP_205",
+      "label": "揉捻工作台",
+      "width": 1536,
+      "height": 1024,
+      "path": "11_Godot项目/茶园物语/assets/06_道具与图标/prp_rolling_table_v001.png",
+      "batch": "04_工坊素材",
+      "opaque": false
+    },
+    {
+      "id": "PRP_206",
+      "label": "揉捻叶层",
+      "width": 1254,
+      "height": 1254,
+      "path": "11_Godot项目/茶园物语/assets/06_道具与图标/prp_leaves_rolled_v001.png",
+      "batch": "04_工坊素材",
+      "opaque": false
+    },
+    {
+      "id": "PRP_207",
+      "label": "空晾架",
+      "width": 1024,
+      "height": 1536,
+      "path": "11_Godot项目/茶园物语/assets/06_道具与图标/prp_drying_rack_empty_v001.png",
+      "batch": "04_工坊素材",
+      "opaque": false
+    },
+    {
+      "id": "PRP_208",
+      "label": "干茶叶层",
+      "width": 1254,
+      "height": 1254,
+      "path": "11_Godot项目/茶园物语/assets/06_道具与图标/prp_leaves_dried_v001.png",
+      "batch": "04_工坊素材",
+      "opaque": false
+    },
+    {
+      "id": "PRP_209",
+      "label": "成品茶罐",
+      "width": 1254,
+      "height": 1254,
+      "path": "11_Godot项目/茶园物语/assets/06_道具与图标/prp_tea_jar_v001.png",
+      "batch": "04_工坊素材",
+      "opaque": false
+    },
+    {
+      "id": "PRP_210",
+      "label": "木凳",
+      "width": 1254,
+      "height": 1254,
+      "path": "11_Godot项目/茶园物语/assets/06_道具与图标/prp_workshop_stool_v001.png",
+      "batch": "04_工坊素材",
+      "opaque": false
+    },
+    {
+      "id": "PRP_301",
+      "label": "茶壶",
+      "width": 1254,
+      "height": 1254,
+      "path": "11_Godot项目/茶园物语/assets/06_道具与图标/prp_teapot_celadon_v001.png",
+      "batch": "05_茶铺素材",
+      "opaque": false
+    },
+    {
+      "id": "PRP_302",
+      "label": "空茶杯",
+      "width": 1254,
+      "height": 1254,
+      "path": "11_Godot项目/茶园物语/assets/06_道具与图标/prp_teacup_empty_v001.png",
+      "batch": "05_茶铺素材",
+      "opaque": false
+    },
+    {
+      "id": "PRP_303",
+      "label": "茶汤叠加层",
+      "width": 1254,
+      "height": 1254,
+      "path": "11_Godot项目/茶园物语/assets/06_道具与图标/prp_tea_liquid_overlay_v001.png",
+      "batch": "05_茶铺素材",
+      "opaque": false
+    },
+    {
+      "id": "PRP_304",
+      "label": "空茶桌",
+      "width": 1536,
+      "height": 1024,
+      "path": "11_Godot项目/茶园物语/assets/06_道具与图标/prp_tea_table_empty_v001.png",
+      "batch": "05_茶铺素材",
+      "opaque": false
+    },
+    {
+      "id": "PRP_305",
+      "label": "座椅",
+      "width": 1254,
+      "height": 1254,
+      "path": "11_Godot项目/茶园物语/assets/06_道具与图标/prp_tea_chair_v001.png",
+      "batch": "05_茶铺素材",
+      "opaque": false
+    },
+    {
+      "id": "PRP_306",
+      "label": "柜台",
+      "width": 1536,
+      "height": 1024,
+      "path": "11_Godot项目/茶园物语/assets/06_道具与图标/prp_shop_counter_empty_v001.png",
+      "batch": "05_茶铺素材",
+      "opaque": false
+    },
+    {
+      "id": "PRP_307",
+      "label": "空茶柜",
+      "width": 1024,
+      "height": 1536,
+      "path": "11_Godot项目/茶园物语/assets/06_道具与图标/prp_shop_cabinet_empty_v001.png",
+      "batch": "05_茶铺素材",
+      "opaque": false
+    },
+    {
+      "id": "PRP_308",
+      "label": "铜钱",
+      "width": 1254,
+      "height": 1254,
+      "path": "11_Godot项目/茶园物语/assets/06_道具与图标/prp_copper_coin_v001.png",
+      "batch": "05_茶铺素材",
+      "opaque": false
+    },
+    {
+      "id": "PRP_309",
+      "label": "账本",
+      "width": 1254,
+      "height": 1254,
+      "path": "11_Godot项目/茶园物语/assets/06_道具与图标/prp_account_book_v001.png",
+      "batch": "05_茶铺素材",
+      "opaque": false
+    },
+    {
+      "id": "PRP_401",
+      "label": "载入盖碗",
+      "width": 1254,
+      "height": 1254,
+      "path": "11_Godot项目/茶园物语/assets/06_道具与图标/prp_loading_gaiwan_v001.png",
+      "batch": "09_完整背景主页与存档UI",
+      "opaque": false
+    },
+    {
+      "id": "PRP_402",
+      "label": "载入长竹托盘",
+      "width": 1774,
+      "height": 887,
+      "path": "11_Godot项目/茶园物语/assets/06_道具与图标/prp_loading_bamboo_tray_v001.png",
+      "batch": "09_完整背景主页与存档UI",
+      "opaque": false
+    },
+    {
+      "id": "PRP_403",
+      "label": "茶花枝装饰",
+      "width": 1254,
+      "height": 1254,
+      "path": "11_Godot项目/茶园物语/assets/06_道具与图标/prp_tea_flower_branch_v001.png",
+      "batch": "09_完整背景主页与存档UI",
+      "opaque": false
+    },
+    {
+      "id": "PRP_411",
+      "label": "PRP_411",
+      "width": 1435,
+      "height": 1096,
+      "path": "11_Godot项目/茶园物语/assets/12_第一轮场景调整/prp_loading_reference_still_life_v001.png",
+      "batch": "项目其他登记素材",
+      "opaque": false
+    },
+    {
+      "id": "PRP_421",
+      "label": "PRP_421",
+      "width": 1536,
+      "height": 1024,
+      "path": "11_Godot项目/茶园物语/assets/12_第一轮场景调整/prp_shop_counter_dimetric_v002.png",
+      "batch": "项目其他登记素材",
+      "opaque": false
+    },
+    {
+      "id": "PRP_422",
+      "label": "PRP_422",
+      "width": 1200,
+      "height": 1311,
+      "path": "11_Godot项目/茶园物语/assets/12_第一轮场景调整/prp_shop_shelf_dimetric_v002.png",
+      "batch": "项目其他登记素材",
+      "opaque": false
+    },
+    {
+      "id": "PRP_423",
+      "label": "PRP_423",
+      "width": 1536,
+      "height": 1024,
+      "path": "11_Godot项目/茶园物语/assets/12_第一轮场景调整/prp_tea_table_dimetric_v002.png",
+      "batch": "项目其他登记素材",
+      "opaque": false
+    },
+    {
+      "id": "PRP_424",
+      "label": "PRP_424",
+      "width": 1536,
+      "height": 1024,
+      "path": "11_Godot项目/茶园物语/assets/12_第一轮场景调整/prp_tea_chair_front_dimetric_v002.png",
+      "batch": "项目其他登记素材",
+      "opaque": false
+    },
+    {
+      "id": "PRP_425",
+      "label": "PRP_425",
+      "width": 1536,
+      "height": 1024,
+      "path": "11_Godot项目/茶园物语/assets/12_第一轮场景调整/prp_tea_chair_back_dimetric_v003.png",
+      "batch": "项目其他登记素材",
+      "opaque": false
+    },
+    {
+      "id": "PRP_431",
+      "label": "PRP_431",
+      "width": 1536,
+      "height": 1024,
+      "path": "11_Godot项目/茶园物语/assets/12_第一轮场景调整/prp_rolling_table_dimetric_v002.png",
+      "batch": "项目其他登记素材",
+      "opaque": false
+    },
+    {
+      "id": "PRP_432",
+      "label": "PRP_432",
+      "width": 1376,
+      "height": 1143,
+      "path": "11_Godot项目/茶园物语/assets/12_第一轮场景调整/prp_killgreen_stove_wok_dimetric_v002.png",
+      "batch": "项目其他登记素材",
+      "opaque": false
+    },
+    {
+      "id": "PRP_433",
+      "label": "PRP_433",
+      "width": 1230,
+      "height": 1278,
+      "path": "11_Godot项目/茶园物语/assets/12_第一轮场景调整/prp_drying_rack_dimetric_v002.png",
+      "batch": "项目其他登记素材",
+      "opaque": false
+    },
+    {
+      "id": "PRP_434",
+      "label": "PRP_434",
+      "width": 1374,
+      "height": 1145,
+      "path": "11_Godot项目/茶园物语/assets/12_第一轮场景调整/prp_work_stool_dimetric_v002.png",
+      "batch": "项目其他登记素材",
+      "opaque": false
+    },
+    {
+      "id": "PRP_435",
+      "label": "PRP_435",
+      "width": 1536,
+      "height": 1024,
+      "path": "11_Godot项目/茶园物语/assets/12_第一轮场景调整/prp_fresh_leaf_tray_dimetric_v002.png",
+      "batch": "项目其他登记素材",
+      "opaque": false
+    },
+    {
+      "id": "TER_101",
+      "label": "空土地底块",
+      "width": 1536,
+      "height": 1024,
+      "path": "11_Godot项目/茶园物语/assets/02_地形与植物/ter_soil_plot_empty_v001.png",
+      "batch": "01_风格样稿",
+      "opaque": false
+    },
+    {
+      "id": "TER_102",
+      "label": "土路直段",
+      "width": 1536,
+      "height": 1024,
+      "path": "11_Godot项目/茶园物语/assets/02_地形与植物/ter_path_earth_straight_v001.png",
+      "batch": "02_茶园素材",
+      "opaque": false
+    },
+    {
+      "id": "TER_103",
+      "label": "石路直段",
+      "width": 1536,
+      "height": 1024,
+      "path": "11_Godot项目/茶园物语/assets/02_地形与植物/ter_path_stone_straight_v001.png",
+      "batch": "02_茶园素材",
+      "opaque": false
+    },
+    {
+      "id": "TER_104",
+      "label": "低矮挡土石墙",
+      "width": 1536,
+      "height": 1024,
+      "path": "11_Godot项目/茶园物语/assets/02_地形与植物/ter_retaining_wall_v002.png",
+      "batch": "02_茶园素材",
+      "opaque": false
+    },
+    {
+      "id": "TER_105",
+      "label": "景观石",
+      "width": 1254,
+      "height": 1254,
+      "path": "11_Godot项目/茶园物语/assets/02_地形与植物/ter_rock_sage_v001.png",
+      "batch": "02_茶园素材",
+      "opaque": false
+    },
+    {
+      "id": "TER_201",
+      "label": "石阶单体",
+      "width": 1536,
+      "height": 1024,
+      "path": "11_Godot项目/茶园物语/assets/02_地形与植物/ter_steps_stone_v001.png",
+      "batch": "08_背景场景与UI补充",
+      "opaque": false
+    },
+    {
+      "id": "UI_003",
+      "label": "物品卡片底板",
+      "width": 1024,
+      "height": 1536,
+      "path": "11_Godot项目/茶园物语/assets/04_UI组件/ui_item_card_v001.png",
+      "batch": "03_UI组件",
+      "opaque": false
+    },
+    {
+      "id": "UI_004",
+      "label": "卡片选择描边",
+      "width": 1024,
+      "height": 1536,
+      "path": "11_Godot项目/茶园物语/assets/04_UI组件/ui_item_selection_v001.png",
+      "batch": "03_UI组件",
+      "opaque": false
+    },
+    {
+      "id": "UI_007",
+      "label": "小提示底板",
+      "width": 1942,
+      "height": 809,
+      "path": "11_Godot项目/茶园物语/assets/04_UI组件/ui_tooltip_base_v001.png",
+      "batch": "03_UI组件",
+      "opaque": false
+    },
+    {
+      "id": "UI_008",
+      "label": "对话底板",
+      "width": 1536,
+      "height": 1024,
+      "path": "11_Godot项目/茶园物语/assets/04_UI组件/ui_dialogue_base_v001.png",
+      "batch": "03_UI组件",
+      "opaque": false
+    },
+    {
+      "id": "UI_009",
+      "label": "数量选择底板",
+      "width": 2172,
+      "height": 724,
+      "path": "11_Godot项目/茶园物语/assets/04_UI组件/ui_quantity_base_v001.png",
+      "batch": "03_UI组件",
+      "opaque": false
+    },
+    {
+      "id": "UI_015",
+      "label": "关闭图标",
+      "width": 1254,
+      "height": 1254,
+      "path": "11_Godot项目/茶园物语/assets/04_UI组件/ui_close_v001.png",
+      "batch": "03_UI组件",
+      "opaque": false
+    },
+    {
+      "id": "UI_016",
+      "label": "返回图标",
+      "width": 1254,
+      "height": 1254,
+      "path": "11_Godot项目/茶园物语/assets/04_UI组件/ui_back_v001.png",
+      "batch": "03_UI组件",
+      "opaque": false
+    },
+    {
+      "id": "UI_017",
+      "label": "确认图标",
+      "width": 1254,
+      "height": 1254,
+      "path": "11_Godot项目/茶园物语/assets/04_UI组件/ui_confirm_v001.png",
+      "batch": "03_UI组件",
+      "opaque": false
+    },
+    {
+      "id": "UI_018",
+      "label": "数量增加图标",
+      "width": 1254,
+      "height": 1254,
+      "path": "11_Godot项目/茶园物语/assets/04_UI组件/ui_plus_v001.png",
+      "batch": "03_UI组件",
+      "opaque": false
+    },
+    {
+      "id": "UI_019",
+      "label": "数量减少图标",
+      "width": 1254,
+      "height": 1254,
+      "path": "11_Godot项目/茶园物语/assets/04_UI组件/ui_minus_v001.png",
+      "batch": "03_UI组件",
+      "opaque": false
+    },
+    {
+      "id": "UI_020",
+      "label": "页签默认底板",
+      "width": 1874,
+      "height": 839,
+      "path": "11_Godot项目/茶园物语/assets/04_UI组件/ui_tab_inactive_v001.png",
+      "batch": "03_UI组件",
+      "opaque": false
+    },
+    {
+      "id": "UI_021",
+      "label": "页签选中底板",
+      "width": 1875,
+      "height": 839,
+      "path": "11_Godot项目/茶园物语/assets/04_UI组件/ui_tab_active_v001.png",
+      "batch": "03_UI组件",
+      "opaque": false
+    },
+    {
+      "id": "UI_022",
+      "label": "成长进度轨道",
+      "width": 1536,
+      "height": 1024,
+      "path": "11_Godot项目/茶园物语/assets/04_UI组件/ui_progress_track_v001.png",
+      "batch": "03_UI组件",
+      "opaque": false
+    },
+    {
+      "id": "UI_023",
+      "label": "成长进度填充",
+      "width": 1536,
+      "height": 1024,
+      "path": "11_Godot项目/茶园物语/assets/04_UI组件/ui_progress_fill_v001.png",
+      "batch": "03_UI组件",
+      "opaque": false
+    },
+    {
+      "id": "UI_024",
+      "label": "成熟提示标记",
+      "width": 1024,
+      "height": 1536,
+      "path": "11_Godot项目/茶园物语/assets/04_UI组件/ui_state_ready_v001.png",
+      "batch": "03_UI组件",
+      "opaque": false
+    },
+    {
+      "id": "UI_025",
+      "label": "加工完成提示标记",
+      "width": 1024,
+      "height": 1536,
+      "path": "11_Godot项目/茶园物语/assets/04_UI组件/ui_state_finished_v001.png",
+      "batch": "03_UI组件",
+      "opaque": false
+    },
+    {
+      "id": "UI_026",
+      "label": "顾客等待提示气泡",
+      "width": 1254,
+      "height": 1254,
+      "path": "11_Godot项目/茶园物语/assets/04_UI组件/ui_order_bubble_v001.png",
+      "batch": "03_UI组件",
+      "opaque": false
+    },
+    {
+      "id": "UI_027",
+      "label": "普通品质印记",
+      "width": 1254,
+      "height": 1254,
+      "path": "11_Godot项目/茶园物语/assets/04_UI组件/ui_quality_normal_v001.png",
+      "batch": "03_UI组件",
+      "opaque": false
+    },
+    {
+      "id": "UI_028",
+      "label": "良好品质印记",
+      "width": 1254,
+      "height": 1254,
+      "path": "11_Godot项目/茶园物语/assets/04_UI组件/ui_quality_good_v001.png",
+      "batch": "03_UI组件",
+      "opaque": false
+    },
+    {
+      "id": "UI_029",
+      "label": "上佳品质印记",
+      "width": 1254,
+      "height": 1254,
+      "path": "11_Godot项目/茶园物语/assets/04_UI组件/ui_quality_best_v001.png",
+      "batch": "03_UI组件",
+      "opaque": false
+    },
+    {
+      "id": "UI_031",
+      "label": "竹叶角饰",
+      "width": 1254,
+      "height": 1254,
+      "path": "11_Godot项目/茶园物语/assets/04_UI组件/ui_ornament_bamboo_v001.png",
+      "batch": "03_UI组件",
+      "opaque": false
+    },
+    {
+      "id": "UI_032",
+      "label": "水墨山角饰",
+      "width": 1536,
+      "height": 1024,
+      "path": "11_Godot项目/茶园物语/assets/04_UI组件/ui_ornament_mountain_v001.png",
+      "batch": "03_UI组件",
+      "opaque": false
+    },
+    {
+      "id": "UI_033",
+      "label": "设置滑块手柄",
+      "width": 1254,
+      "height": 1254,
+      "path": "11_Godot项目/茶园物语/assets/04_UI组件/ui_slider_thumb_v001.png",
+      "batch": "08_背景场景与UI补充",
+      "opaque": false
+    },
+    {
+      "id": "UI_034",
+      "label": "复选框空底板",
+      "width": 1254,
+      "height": 1254,
+      "path": "11_Godot项目/茶园物语/assets/04_UI组件/ui_checkbox_base_v001.png",
+      "batch": "08_背景场景与UI补充",
+      "opaque": false
+    },
+    {
+      "id": "UI_035",
+      "label": "复选框选中勾",
+      "width": 1254,
+      "height": 1254,
+      "path": "11_Godot项目/茶园物语/assets/04_UI组件/ui_checkbox_check_v001.png",
+      "batch": "08_背景场景与UI补充",
+      "opaque": false
+    },
+    {
+      "id": "UI_036",
+      "label": "加载条空轨道",
+      "width": 2172,
+      "height": 724,
+      "path": "11_Godot项目/茶园物语/assets/04_UI组件/ui_loading_track_v001.png",
+      "batch": "09_完整背景主页与存档UI",
+      "opaque": false
+    },
+    {
+      "id": "UI_037",
+      "label": "加载条填充",
+      "width": 2172,
+      "height": 724,
+      "path": "11_Godot项目/茶园物语/assets/04_UI组件/ui_loading_fill_v001.png",
+      "batch": "09_完整背景主页与存档UI",
+      "opaque": false
+    },
+    {
+      "id": "UI_038",
+      "label": "载入题字装饰横线",
+      "width": 2172,
+      "height": 724,
+      "path": "11_Godot项目/茶园物语/assets/04_UI组件/ui_loading_divider_v001.png",
+      "batch": "09_完整背景主页与存档UI",
+      "opaque": false
+    },
+    {
+      "id": "UI_045",
+      "label": "存档槽选中描边",
+      "width": 2111,
+      "height": 745,
+      "path": "11_Godot项目/茶园物语/assets/04_UI组件/ui_save_slot_selection_v001.png",
+      "batch": "09_完整背景主页与存档UI",
+      "opaque": false
+    },
+    {
+      "id": "UI_046",
+      "label": "存档缩略图空框",
+      "width": 1448,
+      "height": 1086,
+      "path": "11_Godot项目/茶园物语/assets/04_UI组件/ui_save_thumbnail_frame_v001.png",
+      "batch": "09_完整背景主页与存档UI",
+      "opaque": false
+    }
+  ]
+}

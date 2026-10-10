@@ -1,0 +1,18 @@
+{
+  "id": "UI_025",
+  "category": "04_UI组件",
+  "functionArea": "通用UI",
+  "label": "加工完成提示标记",
+  "plannedFile": "ui_state_finished_v001.png",
+  "batch": "03_UI组件",
+  "targetSize": "512×768",
+  "status": "待生成",
+  "actualSize": "",
+  "relativePath": "",
+  "remarks": "独立状态层",
+  "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-c56d80b3-5d44-46f1-8a90-63e45590ebc6.png",
+  "prompt": "Use case: ui-mockup. ONE independent PROCESSING-FINISHED status marker for Chinese ink-light-watercolor game. A small ivory octagonal plaque with thin muted bamboo-brown frame, containing ONE large clear sage-green check mark. An integrated tiny downward pointed tip makes it a floating status tag. Complete marker only. Flat frontview2D, clean smooth paper and sparse gentle brushwork, no grain, texture clutter, gloss, saturation, text, letters, numbers, words or extraneous decoration. Portrait1024x1536transparentcanvas, compact emblem centered with safe margins. True alpha outside, no castshadow orglow.",
+  "mode": "built-in image_gen",
+  "refs": [],
+  "savedPath": "04_UI组件/ui_state_finished_v001.png"
+}

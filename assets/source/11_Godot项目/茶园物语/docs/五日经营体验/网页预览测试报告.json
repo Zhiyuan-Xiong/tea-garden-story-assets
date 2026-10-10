@@ -1,0 +1,36 @@
+{
+  "assets": 213,
+  "pages": [
+    {
+      "name": "茶田种植分区调整预览.html",
+      "controls": 31,
+      "broken_images": 0,
+      "page_errors": 0
+    },
+    {
+      "name": "素材库预览.html",
+      "controls": 0,
+      "broken_images": 0,
+      "page_errors": 0
+    },
+    {
+      "name": "游戏内调整预览.html",
+      "controls": 0,
+      "broken_images": 0,
+      "page_errors": 0
+    },
+    {
+      "name": "茶树生长阶段调整预览.html",
+      "controls": 0,
+      "broken_images": 0,
+      "page_errors": 0
+    },
+    {
+      "name": "茶村自由布置预览.html",
+      "controls": 0,
+      "broken_images": 0,
+      "page_errors": 0
+    }
+  ],
+  "passed": true
+}

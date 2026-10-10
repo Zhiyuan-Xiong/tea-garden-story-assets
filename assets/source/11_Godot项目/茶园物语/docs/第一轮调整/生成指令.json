@@ -1,0 +1,149 @@
+[
+  {
+    "id": "BG_311",
+    "name": "bg_home_soft_bright_v005.png",
+    "prompt": "Use case: lighting-weather. Edit target: supplied original game home background, a 16:9 Chinese hand-painted tea village panorama. 整体保留国风水墨淡彩、明亮灰绿、灰青、浅米白和温润木褐。干净细腻，低饱和但并非死灰；无颗粒噪点、无过重纹理、无浑浊脏色，无新增人物、文字、按钮、logo、水印。 用户第一轮修正：保持山体、茶田、茶坊、茶铺、桥梁、水面在原位置，严格保留原布局与建筑身份。整体提亮约10%，用薄薄的暖米白雾气减少对比。降低远山、树叶、屋瓦、水纹的高频细节；柔和轻微景深虚化，仅远景明显柔化，主体建筑仍可辨认。视觉层次从前景到后景逐渐变淡。画面中心偏下预留柔和安静区域给原Logo和按钮，不画任何UI。不要画新的建筑，不要压暗，不要改变长宽比。输出正式全幅背景。",
+    "reference": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\11_Godot项目\\茶园物语\\assets\\03_建筑与场景\\bg_home_panorama_rich_v004.png",
+    "mode": "built-in imagegen edit"
+  },
+  {
+    "id": "BG_312",
+    "name": "bg_loading_soft_bright_v005.png",
+    "prompt": "Use case: lighting-weather. Edit target: supplied original 16:9 loading landscape. 整体保留国风水墨淡彩、明亮灰绿、灰青、浅米白和温润木褐。干净细腻，低饱和但并非死灰；无颗粒噪点、无过重纹理、无浑浊脏色，无新增人物、文字、按钮、logo、水印。 保留四周山水、左上枝叶、右上浅杏日轮和右侧瀑布；提升整体亮度约10%，加入明亮浅米白雾气、轻微柔焦，降低四周树叶和山体纹理细节，灰青绿山体如淡水墨洗染。中央和中下部是大片均匀浅纸色留白，供茶器插画和进度条覆盖。不可把中心塞入新物体。没有任何茶杯、竹盘、叶片或UI；只输出完整的柔化山水空背景，横屏16:9。",
+    "reference": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\11_Godot项目\\茶园物语\\assets\\03_建筑与场景\\bg_loading_landscape_rich_v004.png",
+    "mode": "built-in imagegen edit"
+  },
+  {
+    "id": "PRP_411",
+    "name": "prp_loading_reference_still_life_v001.png",
+    "prompt": "Use case: background-extraction. Edit target: supplied user's preferred tea still life illustration. Extract the EXACT central cohesive tea still life as ONE reusable transparent PNG: keep the rectangular bamboo tray, the gray-celadon floral gaiwan with its saucer resting firmly on the LEFT part of the tray, the round bamboo sieve filled with dried tea on the RIGHT part, and the white tea-flower branch leaning across the left tray corner. Keep their original relative position, original shapes, brushwork, colors, floral motif, sizes, view angle and physical contacts. Keep a few original floating tea leaves above/right/below the tray. Remove all ivory paper background, faint landscape background, the two decorative horizontal dividers near the bottom, and all three pagination dots. Do not invent, redesign, relocate or add props. Nothing floating between saucer and tray; preserve coherent original frontal oblique perspective. Actual alpha transparency around and between objects, no white matte, no opaque backdrop, no shadow plate, no text or UI. 4% clear margin; sharp clean illustrated edges. Output only this one cohesive still-life asset.",
+    "reference": "C:\\Users\\24586\\AppData\\Local\\Temp\\codex-clipboard-8c46f57e-f66a-469d-adde-0e2d8cdf792e.png",
+    "mode": "built-in imagegen edit"
+  },
+  {
+    "id": "PRP_421",
+    "name": "prp_shop_counter_dimetric_v002.png",
+    "prompt": "Use case: stylized-concept. Reference image: camera, linework and material palette ONLY, do not reproduce the room. Generate ONE freestanding long low wooden tea-shop service counter. Match the supplied room's floor exactly: orthographic DIMETRIC camera, elevation about 22 degrees, rectangular furniture parallel to room axes. One ground axis runs DOWN-RIGHT at +25 degrees from horizontal, the other runs UP-RIGHT at -17 degrees. Upright edges truly vertical. No exaggerated 45-degree isometric perspective, no convergence, no skewed legs.  Long counter top and long facade run along the +25-degree down-right axis, short top-depth edges along -17-degree up-right. Plain warm timber top, modest panelled front, a slim wooden foot plinth. Rough real dimensions 1.8m long, 0.55m deep, 0.9m tall. Completely empty top, no books or tea ware. 中国风水墨淡彩手绘，精细但克制的灰褐线条；浅暖木褐、竹黄、灰青与米白，颜色低饱和且明亮。No noisy grain, heavy woodgrain, dirty wash, photorealistic CGI, overly detailed carved motifs, hard black outlines, strong specular highlights or heavy black shadows. Genuinely transparent alpha background; ONE isolated complete asset with 6% transparent margin. No architecture, environment, people, ground platform, text, icon, frame, white matte or extra props.",
+    "reference": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\11_Godot项目\\茶园物语\\assets\\03_建筑与场景\\bg_teashop_rich_empty_v004.png",
+    "mode": "built-in imagegen generate with reference"
+  },
+  {
+    "id": "PRP_422",
+    "name": "prp_shop_shelf_dimetric_v002.png",
+    "prompt": "Use case: stylized-concept. Reference is camera and art style ONLY. Generate ONE wooden tea cupboard with three open shelves, modest height 1.6m, width0.95m, shallow depth0.3m. Match the supplied room's floor exactly: orthographic DIMETRIC camera, elevation about 22 degrees, rectangular furniture parallel to room axes. One ground axis runs DOWN-RIGHT at +25 degrees from horizontal, the other runs UP-RIGHT at -17 degrees. Upright edges truly vertical. No exaggerated 45-degree isometric perspective, no convergence, no skewed legs.  The long face runs down-right at +25 degrees, short side edges run up-right -17 degrees, same orientation as the room's right rear wall. Shelf boards and feet follow those exact axes. Empty shelves. Plain light timber, soft thin gray-brown linework. 中国风水墨淡彩手绘，精细但克制的灰褐线条；浅暖木褐、竹黄、灰青与米白，颜色低饱和且明亮。No noisy grain, heavy woodgrain, dirty wash, photorealistic CGI, overly detailed carved motifs, hard black outlines, strong specular highlights or heavy black shadows. Genuinely transparent alpha background; ONE isolated complete asset with 6% transparent margin. No architecture, environment, people, ground platform, text, icon, frame, white matte or extra props.",
+    "reference": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\11_Godot项目\\茶园物语\\assets\\03_建筑与场景\\bg_teashop_rich_empty_v004.png",
+    "mode": "built-in imagegen generate with reference"
+  },
+  {
+    "id": "PRP_423",
+    "name": "prp_tea_table_dimetric_v002.png",
+    "prompt": "Use case: stylized-concept. Reference is camera and art palette ONLY. Generate ONE empty small Chinese wooden tea table, 1.0m long by0.65m deep by0.72m high, four vertical legs and restrained lower stretchers. Match the supplied room's floor exactly: orthographic DIMETRIC camera, elevation about 22 degrees, rectangular furniture parallel to room axes. One ground axis runs DOWN-RIGHT at +25 degrees from horizontal, the other runs UP-RIGHT at -17 degrees. Upright edges truly vertical. No exaggerated 45-degree isometric perspective, no convergence, no skewed legs.  Long tabletop edges follow +25-degree down-right direction, short edges follow -17-degree up-right. Uniform solid wood tabletop, simple rectangular footprint, no tray, tea pot, cup or ornaments. Soft watercolor tint with clear contact structure. 中国风水墨淡彩手绘，精细但克制的灰褐线条；浅暖木褐、竹黄、灰青与米白，颜色低饱和且明亮。No noisy grain, heavy woodgrain, dirty wash, photorealistic CGI, overly detailed carved motifs, hard black outlines, strong specular highlights or heavy black shadows. Genuinely transparent alpha background; ONE isolated complete asset with 6% transparent margin. No architecture, environment, people, ground platform, text, icon, frame, white matte or extra props.",
+    "reference": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\11_Godot项目\\茶园物语\\assets\\03_建筑与场景\\bg_teashop_rich_empty_v004.png",
+    "mode": "built-in imagegen generate with reference"
+  },
+  {
+    "id": "PRP_424",
+    "name": "prp_tea_chair_front_dimetric_v002.png",
+    "prompt": "Use case: stylized-concept. Reference is camera and style ONLY. Generate ONE simple Chinese wooden chair, upright rectangular low backrest, square seat and four legs. Match the supplied room's floor exactly: orthographic DIMETRIC camera, elevation about 22 degrees, rectangular furniture parallel to room axes. One ground axis runs DOWN-RIGHT at +25 degrees from horizontal, the other runs UP-RIGHT at -17 degrees. Upright edges truly vertical. No exaggerated 45-degree isometric perspective, no convergence, no skewed legs.  The chair's seated occupant would face DOWN-RIGHT along the +25-degree axis, so the viewer sees the FRONT inner face of the backrest, the seat and both near legs. Chair seat side edges follow +25 and -17 exactly. Modest unobtrusive light brown wood. No occupant or cushion. 中国风水墨淡彩手绘，精细但克制的灰褐线条；浅暖木褐、竹黄、灰青与米白，颜色低饱和且明亮。No noisy grain, heavy woodgrain, dirty wash, photorealistic CGI, overly detailed carved motifs, hard black outlines, strong specular highlights or heavy black shadows. Genuinely transparent alpha background; ONE isolated complete asset with 6% transparent margin. No architecture, environment, people, ground platform, text, icon, frame, white matte or extra props.",
+    "reference": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\11_Godot项目\\茶园物语\\assets\\03_建筑与场景\\bg_teashop_rich_empty_v004.png",
+    "mode": "built-in imagegen generate with reference"
+  },
+  {
+    "id": "PRP_425",
+    "name": "prp_tea_chair_back_dimetric_v002.png",
+    "prompt": "Use case: stylized-concept. Reference is camera and style ONLY. Generate ONE simple Chinese wooden chair, upright rectangular low backrest, square seat and four legs. Match the supplied room's floor exactly: orthographic DIMETRIC camera, elevation about 22 degrees, rectangular furniture parallel to room axes. One ground axis runs DOWN-RIGHT at +25 degrees from horizontal, the other runs UP-RIGHT at -17 degrees. Upright edges truly vertical. No exaggerated 45-degree isometric perspective, no convergence, no skewed legs.  Same simple construction as a basic light wooden tea chair. Chair's seated occupant would face UP-LEFT (opposite +25-degree axis), so viewer sees BACK exterior of its backrest and rear legs; part of seat remains visible above. Do not mirror a front-facing chair: render correct opposite orientation with seat and backrest in proper contact. Seat side edges follow +25 and -17 exactly. No occupant or cushion. 中国风水墨淡彩手绘，精细但克制的灰褐线条；浅暖木褐、竹黄、灰青与米白，颜色低饱和且明亮。No noisy grain, heavy woodgrain, dirty wash, photorealistic CGI, overly detailed carved motifs, hard black outlines, strong specular highlights or heavy black shadows. Genuinely transparent alpha background; ONE isolated complete asset with 6% transparent margin. No architecture, environment, people, ground platform, text, icon, frame, white matte or extra props.",
+    "reference": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\11_Godot项目\\茶园物语\\assets\\03_建筑与场景\\bg_teashop_rich_empty_v004.png",
+    "mode": "built-in imagegen generate with reference"
+  },
+  {
+    "id": "PRP_431",
+    "name": "prp_rolling_table_dimetric_v002.png",
+    "prompt": "Use case: stylized-concept. Reference is room perspective and watercolor palette ONLY. Generate ONE hand-work wooden tea kneading bench, empty, 1.6m long by0.7m deep by0.75m tall. Match the supplied room's floor exactly: orthographic DIMETRIC camera, elevation about 22 degrees, rectangular furniture parallel to room axes. One ground axis runs DOWN-RIGHT at +25 degrees from horizontal, the other runs UP-RIGHT at -17 degrees. Upright edges truly vertical. No exaggerated 45-degree isometric perspective, no convergence, no skewed legs.  Long edges along +25-degree down-right axis, depth edges -17-degree up-right; a shallow tray-like rim on rear and side edges, four vertical legs with one low supporting stretcher. Pale beige wood, very subtle plank divisions, NO leaves on the table, no equipment or bowls. 中国风水墨淡彩手绘，精细但克制的灰褐线条；浅暖木褐、竹黄、灰青与米白，颜色低饱和且明亮。No noisy grain, heavy woodgrain, dirty wash, photorealistic CGI, overly detailed carved motifs, hard black outlines, strong specular highlights or heavy black shadows. Genuinely transparent alpha background; ONE isolated complete asset with 6% transparent margin. No architecture, environment, people, ground platform, text, icon, frame, white matte or extra props.",
+    "reference": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\11_Godot项目\\茶园物语\\assets\\03_建筑与场景\\bg_workshop_rich_empty_v004.png",
+    "mode": "built-in imagegen generate with reference"
+  },
+  {
+    "id": "PRP_432",
+    "name": "prp_killgreen_stove_wok_dimetric_v002.png",
+    "prompt": "Use case: stylized-concept. Reference is camera and watercolor style ONLY. Generate ONE complete traditional tea-processing stove assembly: compact pale warm-gray masonry block with inset dark-gray shallow round wok seated firmly IN its top circular opening. Treat pot and stove as one correctly connected instrument. Match the supplied room's floor exactly: orthographic DIMETRIC camera, elevation about 22 degrees, rectangular furniture parallel to room axes. One ground axis runs DOWN-RIGHT at +25 degrees from horizontal, the other runs UP-RIGHT at -17 degrees. Upright edges truly vertical. No exaggerated 45-degree isometric perspective, no convergence, no skewed legs.  Rectangular stove top ground edges parallel +25 and -17 axes. Round wok rim ellipse h/w about 0.37, symmetric centered on the top, dark graphite muted handpainting, simple two small handles. A tiny restrained warm ember glow INSIDE a small front fire opening, no flame protruding outside. No chimneys, cookware lids, tools or piles of wood. Complete structural contacts, gentle faint ambient shadow confined under the feet. 中国风水墨淡彩手绘，精细但克制的灰褐线条；浅暖木褐、竹黄、灰青与米白，颜色低饱和且明亮。No noisy grain, heavy woodgrain, dirty wash, photorealistic CGI, overly detailed carved motifs, hard black outlines, strong specular highlights or heavy black shadows. Genuinely transparent alpha background; ONE isolated complete asset with 6% transparent margin. No architecture, environment, people, ground platform, text, icon, frame, white matte or extra props.",
+    "reference": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\11_Godot项目\\茶园物语\\assets\\03_建筑与场景\\bg_workshop_rich_empty_v004.png",
+    "mode": "built-in imagegen generate with reference"
+  },
+  {
+    "id": "PRP_433",
+    "name": "prp_drying_rack_dimetric_v002.png",
+    "prompt": "Use case: stylized-concept. Reference is room camera and brushwork ONLY. Generate ONE three-level bamboo tea drying rack: three horizontal round shallow bamboo trays mounted evenly within four slender vertical bamboo posts. Match the supplied room's floor exactly: orthographic DIMETRIC camera, elevation about 22 degrees, rectangular furniture parallel to room axes. One ground axis runs DOWN-RIGHT at +25 degrees from horizontal, the other runs UP-RIGHT at -17 degrees. Upright edges truly vertical. No exaggerated 45-degree isometric perspective, no convergence, no skewed legs.  Tray rims elliptic with height/width about0.37, NOT steep top-down circles. All three trays exact same orientation and diameter; parallel shelves and evenly spaced bamboo posts, empty trays. Clean pale bamboo and a few restrained woven lines, no fussy texture, no piled leaves. 中国风水墨淡彩手绘，精细但克制的灰褐线条；浅暖木褐、竹黄、灰青与米白，颜色低饱和且明亮。No noisy grain, heavy woodgrain, dirty wash, photorealistic CGI, overly detailed carved motifs, hard black outlines, strong specular highlights or heavy black shadows. Genuinely transparent alpha background; ONE isolated complete asset with 6% transparent margin. No architecture, environment, people, ground platform, text, icon, frame, white matte or extra props.",
+    "reference": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\11_Godot项目\\茶园物语\\assets\\03_建筑与场景\\bg_workshop_rich_empty_v004.png",
+    "mode": "built-in imagegen generate with reference"
+  },
+  {
+    "id": "PRP_434",
+    "name": "prp_work_stool_dimetric_v002.png",
+    "prompt": "Use case: stylized-concept. Reference is camera and style ONLY. Generate ONE small simple rectangular wooden working stool, four legs and lower stretcher. Match the supplied room's floor exactly: orthographic DIMETRIC camera, elevation about 22 degrees, rectangular furniture parallel to room axes. One ground axis runs DOWN-RIGHT at +25 degrees from horizontal, the other runs UP-RIGHT at -17 degrees. Upright edges truly vertical. No exaggerated 45-degree isometric perspective, no convergence, no skewed legs.  Long seat edges follow +25-degree axis, short edges -17. About 0.45m wide and0.38m high. Pale clean wood without carving. Empty stool. 中国风水墨淡彩手绘，精细但克制的灰褐线条；浅暖木褐、竹黄、灰青与米白，颜色低饱和且明亮。No noisy grain, heavy woodgrain, dirty wash, photorealistic CGI, overly detailed carved motifs, hard black outlines, strong specular highlights or heavy black shadows. Genuinely transparent alpha background; ONE isolated complete asset with 6% transparent margin. No architecture, environment, people, ground platform, text, icon, frame, white matte or extra props.",
+    "reference": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\11_Godot项目\\茶园物语\\assets\\03_建筑与场景\\bg_workshop_rich_empty_v004.png",
+    "mode": "built-in imagegen generate with reference"
+  },
+  {
+    "id": "PRP_435",
+    "name": "prp_fresh_leaf_tray_dimetric_v002.png",
+    "prompt": "Use case: stylized-concept. Reference is camera and palette ONLY. Generate ONE shallow ROUND bamboo tea-leaf spreading sieve containing a modest thin layer of fresh sage-green tea leaves. Match the supplied room's floor exactly: orthographic DIMETRIC camera, elevation about 22 degrees, rectangular furniture parallel to room axes. One ground axis runs DOWN-RIGHT at +25 degrees from horizontal, the other runs UP-RIGHT at -17 degrees. Upright edges truly vertical. No exaggerated 45-degree isometric perspective, no convergence, no skewed legs.  Rim elliptical h/w about0.37 and horizontal across the screen, seen at22-degree elevation. No legs or stand. This sieve is to rest on an existing working table, not to float above ground. Clean restrained weave and few clearly drawn leaves, low detail. No extra baskets or separate piles. 中国风水墨淡彩手绘，精细但克制的灰褐线条；浅暖木褐、竹黄、灰青与米白，颜色低饱和且明亮。No noisy grain, heavy woodgrain, dirty wash, photorealistic CGI, overly detailed carved motifs, hard black outlines, strong specular highlights or heavy black shadows. Genuinely transparent alpha background; ONE isolated complete asset with 6% transparent margin. No architecture, environment, people, ground platform, text, icon, frame, white matte or extra props.",
+    "reference": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\11_Godot项目\\茶园物语\\assets\\03_建筑与场景\\bg_workshop_rich_empty_v004.png",
+    "mode": "built-in imagegen generate with reference"
+  },
+  {
+    "id": "BLD_111",
+    "name": "bld_map_workshop_soft_perspective_v002.png",
+    "prompt": "Use case: stylized-concept. Image1 is the empty village map (match its gentle low-angle ground-plane perspective); Image2 is the tea-village home panorama (match its building illustration style and tea-workshop identity). Generate ONLY ONE standalone traditional Jiangnan tea-processing workshop exterior as a transparent game sprite. Broad open wooden pavilion, elegant low charcoal-gray tiled pitched roof, fine warm wooden posts, modest plaster sidewall. The view MUST match the small tea building in Image2 upper-right, with broad front facade nearly horizontal, front-base line only about +8 degrees down-right, right side receding up-right about -27 degrees, camera elevation18–22 degrees. No steep isometric block, no dramatic roof top view, no exaggerated foreshortening. The building will stand on the upper-right oval flat stone terrace in Image1. Complete single building with a very low simple foundation and no attached deck, plants, landscape, instruments or people. Chinese pale watercolor, light warm beige timber, desaturated slate roof, soft restrained edges, subtle detail, no CG look, no grain, no heavy texture. Actual alpha transparency with clear 6% margin, no text/signage/UI.",
+    "reference": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\11_Godot项目\\茶园物语\\assets\\03_建筑与场景\\bg_village_map_rich_empty_v004.png",
+    "mode": "built-in imagegen generate with reference"
+  },
+  {
+    "id": "BLD_112",
+    "name": "bld_map_teashop_soft_perspective_v002.png",
+    "prompt": "Use case: stylized-concept. Image1 is empty village map (camera reference); Image2 is tea-village panorama (architectural identity/style reference). Generate ONLY ONE traditional Jiangnan riverside tea-house exterior on true alpha transparency, derived from Image2 lower-right tea-house. Broad mostly open front facade and simple right plaster side, gray gently curved tiled roof, soft warm wooden posts, no text on sign. Match Image1 lower-right terrace's camera: broad facade almost horizontal, base-front line tilted only +8 degrees down-right, right side recedes up-right about -27 degrees, low elevated view18–22 degrees. Do not make a chunky diagonal isometric toy. Single complete building with thin simple foot plinth, NO veranda extension, stilts, water, ground tile, railings, plants, furniture or people. Soft Chinese watercolor wash and fine restrained gray-brown edges, bright elegant muted slate/sage/wood/beige palette, no CGI, gritty texture, saturated brown or strong shadows. 6% transparent margin, no frame, labels or UI.",
+    "reference": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\11_Godot项目\\茶园物语\\assets\\03_建筑与场景\\bg_village_map_rich_empty_v004.png",
+    "mode": "built-in imagegen generate with reference"
+  },
+  {
+    "id": "PRP_421",
+    "prompt": "Use case: background-extraction. Edit ONLY the supplied isolated game asset. Remove the broad blurry beige/grey ambient matte or glow around and BETWEEN the object's pieces. All air and empty space including gaps between legs must have exactly transparent alpha. Preserve the object's actual shapes, proportions, thin outlines, colors and arrangement pixel-aligned. Fully opaque material interiors, clean antialiased silhouette only. Do not change viewpoint. No shadow, halo, floor, background, extra objects, or redesign. Output the same complete single asset on genuine transparent background.",
+    "reference": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-7807631f-187f-4baa-8334-d545c2b91580.png",
+    "mode": "built-in imagegen background-extraction",
+    "selection": "未选用，材质配色变化较大，已核实初始版本的画外区域具有透明 alpha"
+  },
+  {
+    "id": "PRP_423",
+    "prompt": "Use case: background-extraction. Edit ONLY the supplied isolated game asset. Remove the broad blurry beige/grey ambient matte or glow around and BETWEEN the object's pieces. All air and empty space including gaps between legs must have exactly transparent alpha. Preserve the object's actual shapes, proportions, thin outlines, colors and arrangement pixel-aligned. Fully opaque material interiors, clean antialiased silhouette only. Do not change viewpoint. No shadow, halo, floor, background, extra objects, or redesign. Output the same complete single asset on genuine transparent background.",
+    "reference": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-a45cc8d5-f2b8-41dc-9389-0c057dc69bbd.png",
+    "mode": "built-in imagegen background-extraction",
+    "selection": "未选用，材质配色变化较大，已核实初始版本的画外区域具有透明 alpha"
+  },
+  {
+    "id": "PRP_431",
+    "prompt": "Use case: background-extraction. Edit ONLY the supplied isolated game asset. Remove the broad blurry beige/grey ambient matte or glow around and BETWEEN the object's pieces. All air and empty space including gaps between legs must have exactly transparent alpha. Preserve the object's actual shapes, proportions, thin outlines, colors and arrangement pixel-aligned. Fully opaque material interiors, clean antialiased silhouette only. Do not change viewpoint. No shadow, halo, floor, background, extra objects, or redesign. Output the same complete single asset on genuine transparent background.",
+    "reference": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-49858b5c-3fe5-43c7-b8c8-1c185bc66853.png",
+    "mode": "built-in imagegen background-extraction",
+    "selection": "未选用，材质配色变化较大，已核实初始版本的画外区域具有透明 alpha"
+  },
+  {
+    "id": "PRP_435",
+    "prompt": "Use case: background-extraction. Edit ONLY the supplied isolated game asset. Remove the broad blurry beige/grey ambient matte or glow around and BETWEEN the object's pieces. All air and empty space including gaps between legs must have exactly transparent alpha. Preserve the object's actual shapes, proportions, thin outlines, colors and arrangement pixel-aligned. Fully opaque material interiors, clean antialiased silhouette only. Do not change viewpoint. No shadow, halo, floor, background, extra objects, or redesign. Output the same complete single asset on genuine transparent background.",
+    "reference": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-17f03922-13cf-422c-a7fa-3e971aff3f7f.png",
+    "mode": "built-in imagegen background-extraction",
+    "selection": "未选用，材质配色变化较大，已核实初始版本的画外区域具有透明 alpha"
+  },
+  {
+    "id": "BLD_112",
+    "prompt": "Use case: background-extraction. Edit ONLY the supplied isolated game asset. Remove the broad blurry beige/grey ambient matte or glow around and BETWEEN the object's pieces. All air and empty space including gaps between legs must have exactly transparent alpha. Preserve the object's actual shapes, proportions, thin outlines, colors and arrangement pixel-aligned. Fully opaque material interiors, clean antialiased silhouette only. Do not change viewpoint. No shadow, halo, floor, background, extra objects, or redesign. Output the same complete single asset on genuine transparent background.",
+    "reference": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-13a0927e-daab-4d2a-b3c9-da718fb01bac.png",
+    "mode": "built-in imagegen background-extraction",
+    "selection": "未选用，材质配色变化较大，已核实初始版本的画外区域具有透明 alpha"
+  },
+  {
+    "id": "PRP_425",
+    "prompt": "Use case: stylized-concept. Reference is the exact FRONT chair. Make a BACK-facing view of this same simple tea chair by rotating the physical chair 180 degrees around its upright vertical axis; keep camera and projection fixed. The broad backrest must appear across the NEAR foreground and obscure the seat. Its horizontal top and bottom rails run UP-RIGHT at minus 25 degrees (same backrest direction as the reference), not down-right. The seat extends diagonally UP-LEFT away from this near backrest and remains barely visible behind it. Preserve wood palette, proportions, linework, four straight vertical legs and clean ink watercolor style. This is the opposite seat to face the reference across a tea table. One chair, genuinely transparent alpha all outside and between legs, no floor or shadow or extra objects.",
+    "reference": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-e2526f33-a720-4b39-8089-dfc936e33453.png",
+    "mode": "built-in imagegen edit",
+    "selection": "采用 v003 背向椅子"
+  }
+]

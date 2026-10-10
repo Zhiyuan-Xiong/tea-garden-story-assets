@@ -1,0 +1,168 @@
+extends Control
+var area_root: Control
+var loading_layer: Control
+var loading_fill: Control
+var loading_leaf: TextureRect
+var loading_percent: Label
+var loading_motion: Node
+var modals: Control
+var toast: Label
+var toast_time: float = 0.0
+
+func _ready() -> void:
+	get_tree().auto_accept_quit = false
+	theme = UiKit.game_theme
+	area_root = Control.new()
+	area_root.name = "CurrentArea"
+	add_child(area_root)
+	UiKit.place(area_root, Rect2(0, 0, 1920, 1080))
+	_make_loading()
+	modals = Control.new()
+	modals.set_script(preload("res://scripts/ui/modal_manager.gd"))
+	modals.name = "Modals"
+	add_child(modals)
+	UiKit.place(modals, Rect2(0, 0, 1920, 1080))
+	var toast_panel = UiKit.flat_card(self, Rect2(555, 182, 810, 69), Color(0.97, 0.97, 0.89, 0.97))
+	toast_panel.name = "ToastPanel"
+	toast_panel.mouse_filter = Control.MOUSE_FILTER_IGNORE
+	toast = UiKit.label("", toast_panel, Rect2(20, 5, 770, 59), 24)
+	toast_panel.visible = false
+	SceneRouter.requested.connect(_route)
+	GameState.notice.connect(_notice)
+	GameState.action_completed.connect(_autosave)
+	_route("home", false)
+
+func _make_loading() -> void:
+	loading_layer = Control.new()
+	loading_layer.name = "Loading"
+	loading_layer.mouse_filter = Control.MOUSE_FILTER_STOP
+	loading_layer.z_index = 100
+	add_child(loading_layer)
+	UiKit.place(loading_layer,Rect2(0,0,1920,1080))
+	var background := UiKit.art("BG_323",loading_layer,Rect2(0,0,1920,1080),false)
+	UiKit.background_depth(background,"loading")
+	var tea := UiKit.prop("PRP_441",loading_layer,Vector2(655,390),550)
+	tea.name = "FigmaLoadingTea"
+	UiKit.art("UI_452",loading_layer,Rect2(735,720,139,29),false)
+	UiKit.art("UI_453",loading_layer,Rect2(1046,720,139,29),false)
+	var loading_title := UiKit.label("茶香正在路上",loading_layer,Rect2(862,708,196,53),27,true)
+	loading_title.name = "LoadingTitle"
+	UiKit.art("UI_036",loading_layer,Rect2(735,797,450,26))
+	loading_fill = Control.new()
+	loading_fill.name = "LoadingProgressFill"
+	loading_fill.clip_contents = true
+	loading_fill.mouse_filter = Control.MOUSE_FILTER_IGNORE
+	loading_layer.add_child(loading_fill)
+	UiKit.place(loading_fill,Rect2(741,802,438,17))
+	UiKit.art("UI_037",loading_fill,Rect2(0,0,438,17))
+	loading_leaf = UiKit.art("ICO_401",loading_layer,Rect2(725,783,28,22))
+	loading_percent = UiKit.label("0%",loading_layer,Rect2(1193,787,68,40),21)
+	var loading_caption := UiKit.label("一片新芽，慢慢成为一盏茶",loading_layer,Rect2(690,862,540,38),22)
+	loading_motion = preload("res://scripts/components/ambient_motion.gd").new()
+	loading_layer.add_child(loading_motion)
+	loading_motion.setup(background,loading_layer,"loading")
+	loading_motion.add_reveal(loading_title,0.0,0.45)
+	loading_motion.add_reveal(loading_caption,0.05,0.40)
+	loading_layer.visible = false
+
+func _show_loading(active: bool) -> void:
+	# Gameplay HUD can have its own z order. Hide the whole outgoing area so
+	# a task refresh or editor overlay cannot paint or receive input on loading.
+	loading_layer.visible = active
+	area_root.visible = not active
+
+func _set_progress(progress: float) -> void:
+	var value := clampf(progress,0.0,1.0)
+	loading_fill.size.x = maxf(1.0,value*438.0)
+	loading_leaf.position.x = 727.0+value*438.0
+	UiKit.set_text(loading_percent,str(roundi(value*100))+"%")
+
+func _route(destination: String, with_loading: bool = true) -> void:
+	SceneRouter.transitioning = true
+	modals.close()
+	GameState.paused = false
+	GameState.in_menu = destination == "home"
+	if SceneRouter.current != "home" and GameState.started:
+		SaveSystem.write_slot(0)
+	_show_loading(with_loading)
+	if with_loading: loading_motion.restart_reveal()
+	_set_progress(0.0)
+	var path: String = SceneRouter.PATHS[destination]
+	var scene: PackedScene
+	if with_loading:
+		var error: Error = ResourceLoader.load_threaded_request(path, "PackedScene")
+		if error != OK:
+			scene = load(path)
+		else:
+			var progress: Array = []
+			var minimum: float = 0.12 if GameState.settings.reduced_motion else 0.55
+			var began: int = Time.get_ticks_msec()
+			while true:
+				var status: int = ResourceLoader.load_threaded_get_status(path, progress)
+				var time_fraction: float = minf(float(Time.get_ticks_msec() - began) / (minimum * 1000.0), 1.0)
+				_set_progress(minf(float(progress[0]) if not progress.is_empty() else 0.0, time_fraction))
+				if status == ResourceLoader.THREAD_LOAD_LOADED and time_fraction >= 1.0:
+					scene = ResourceLoader.load_threaded_get(path)
+					break
+				if status in [ResourceLoader.THREAD_LOAD_FAILED, ResourceLoader.THREAD_LOAD_INVALID_RESOURCE]:
+					break
+				await get_tree().process_frame
+	else:
+		scene = load(path)
+	if not scene:
+		_show_loading(false)
+		SceneRouter.transitioning = false
+		GameState.paused = false
+		_notice("场景载入失败，请返回主页后重试。")
+		return
+	for child in area_root.get_children():
+		area_root.remove_child(child)
+		child.queue_free()
+	SceneRouter.current = destination
+	GameState.in_menu = destination == "home"
+	if destination != "home":
+		GameState.last_scene = destination
+	area_root.add_child(scene.instantiate())
+	_show_loading(false)
+	SceneRouter.transitioning = false
+	GameState.paused = false
+	if destination != "home" and GameState.started:
+		SaveSystem.write_slot(0)
+	GameState.changed.emit()
+
+func _autosave(_action: String) -> void:
+	if GameState.started:
+		if not SaveSystem.write_slot(0):
+			_notice(SaveSystem.last_error)
+
+func _notice(message: String) -> void:
+	var garden: bool=SceneRouter.current=="garden"
+	UiKit.place(toast.get_parent(),Rect2(1270,190,590,69) if garden else Rect2(555,182,810,69))
+	UiKit.place(toast,Rect2(20,5,550 if garden else 770,59))
+	UiKit.set_text(toast, message)
+	toast.get_parent().visible = true
+	toast_time = 3.8
+
+func _process(delta: float) -> void:
+	if GameState.started and not GameState.in_menu and not SceneRouter.transitioning and not modals.visible and not GameState.pending_recipe_lessons.is_empty():
+		var id: String = str(GameState.pending_recipe_lessons.pop_front())
+		if not GameState.recipe_taught.has(id):GameState.recipe_taught.append(id)
+		GameState.complete_action("recipe_lesson_seen")
+		var recipe: Dictionary=GameState.recipe_data(id)
+		SceneRouter.modal("info",{"title":str(recipe.name)+" · 新茶教学","text":str(recipe.method)+"\n\n用途："+str(recipe.use)+"\n首次加工保留手工体验，完成3批并晋升中级后可简化加工。","recipe":id})
+	if toast_time > 0:
+		toast_time -= delta
+		if toast_time <= 0:
+			toast.get_parent().visible = false
+
+func _unhandled_key_input(event: InputEvent) -> void:
+	if event.is_action_pressed("ui_cancel") and not modals.visible and not SceneRouter.transitioning:
+		SceneRouter.modal("settings")
+		get_viewport().set_input_as_handled()
+
+func _notification(what: int) -> void:
+	if what == NOTIFICATION_WM_CLOSE_REQUEST:
+		if GameState.started:
+			SaveSystem.write_slot(0)
+		SaveSystem.save_settings()
+		get_tree().quit()

@@ -1,0 +1,21 @@
+{
+  "id": "UI_002",
+  "category": "04_UI组件",
+  "functionArea": "通用UI",
+  "label": "标题题签底板",
+  "plannedFile": "ui_title_plaque_v001.png",
+  "batch": "03_UI组件",
+  "targetSize": "1024×512",
+  "status": "待生成",
+  "actualSize": "",
+  "relativePath": "",
+  "remarks": "无字，标题由引擎显示",
+  "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-bde7ad9d-431e-438e-b725-c46265b828d9.png",
+  "prompt": "Use case: ui-mockup. Asset type: one standalone raster game UI component for 茶园物语, saved separately for Godot. Input Image1 is approved existing popup reference: match its ivory paper, muted bamboo brown thin double outline, softly scalloped traditional corners, sparse Chinese ink/light-watercolor painting. Image2 is Figma layout reference, use only its visual language, not whole interface. Face-on flat 2D UI, all horizontal/vertical edges parallel to canvas, NO scene isometric perspective. Clean flat color fields, subtle broad washes only, smooth sparse brushwork, clean edges; NO grain, mottled noise, distress, muddy haze, glossy 3D, neon or oversaturation.\nPalette ivory #f5efdf, muted bamboo brown #9c8058, sage #829276, charcoal #5c6559. All central writing areas should remain blank and quiet. One component only, complete and centered with safe transparent margin. True alpha PNG outside the component, no white backdrop, baked checkerboard, shadow or glow. No words, numbers, Chinese characters, UI labels, watermarks, mockup screen, attached buttons, extra items, people or scenery. Generate one blank title plaque backing, horizontally elongated traditional Chinese cartouche like the brown header plaque in Image2. Muted bamboo-brown filled center, thin ivory inner edge and restrained warm-brown outer border, gently lobed symmetrical short ends. No leaf logo, seals, words or attached ornaments. Large empty writing center. Front view, horizontal, centered on landscape 1536x1024 transparent canvas.",
+  "mode": "built-in image_gen",
+  "refs": [
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\04_UI组件\\ui_popup_base_v001.png",
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\01_Figma参考\\figma_ui_20261008.png"
+  ],
+  "savedPath": "04_UI组件/ui_title_plaque_v001.png"
+}

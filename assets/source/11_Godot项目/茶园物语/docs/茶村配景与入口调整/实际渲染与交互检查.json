@@ -1,0 +1,65 @@
+{
+	"failures": [],
+	"geometry": [
+		{
+			"asset": "BLD_111",
+			"foot": [
+				1374.0,
+				560.0
+			],
+			"rect": [
+				1189.0,
+				408.231262207031,
+				370.0,
+				151.768753051758
+			]
+		},
+		{
+			"asset": "BLD_112",
+			"foot": [
+				1628.0,
+				752.0
+			],
+			"rect": [
+				1433.0,
+				569.345153808594,
+				390.0,
+				182.654861450195
+			]
+		},
+		{
+			"destination": "garden",
+			"rect": [
+				747.0,
+				185.0,
+				86.0,
+				241.875
+			],
+			"title": "云雾茶园"
+		},
+		{
+			"destination": "workshop",
+			"rect": [
+				1331.0,
+				164.0,
+				86.0,
+				241.875
+			],
+			"title": "制茶工坊"
+		},
+		{
+			"destination": "teashop",
+			"rect": [
+				1671.0,
+				313.0,
+				86.0,
+				241.875
+			],
+			"title": "临水茶铺"
+		}
+	],
+	"native_text": true,
+	"new_realtime_foliage_shaders": 0,
+	"passed": 100,
+	"renderer": "NVIDIA GeForce RTX 5070 Ti Laptop GPU"
+}

@@ -1,0 +1,2867 @@
+{
+  "date": "2026-10-09",
+  "canvas": [
+    1920,
+    1080
+  ],
+  "notes": [
+    "浏览器中的静态设计预览，非Godot工程。",
+    "正式PNG保持原始尺寸，预览位置基于alpha16可见区域；UI需要统一控件尺寸或9-slice。",
+    "完整背景与独立操作分件分层摆放；数值、文字和存档信息独立。",
+    "道具、人物与建筑的最终遮挡和落地点在后续引擎摆放时校准。"
+  ],
+  "pages": {
+    "主页": [
+      {
+        "id": "BG_301",
+        "visibleTopLeft": [
+          0,
+          0
+        ],
+        "visibleDisplaySize": [
+          1920,
+          1080
+        ],
+        "z": 0
+      },
+      {
+        "id": "LOG_301",
+        "visibleTopLeft": [
+          740,
+          560
+        ],
+        "visibleDisplaySize": [
+          440,
+          320
+        ],
+        "z": 10
+      },
+      {
+        "id": "UI_040",
+        "visibleTopLeft": [
+          780,
+          917
+        ],
+        "visibleDisplaySize": [
+          360,
+          85
+        ],
+        "z": 35
+      },
+      {
+        "id": "UI_014",
+        "visibleTopLeft": [
+          795,
+          932
+        ],
+        "visibleDisplaySize": [
+          55,
+          55
+        ],
+        "z": 37
+      },
+      {
+        "id": "ICO_401",
+        "visibleTopLeft": [
+          809,
+          944
+        ],
+        "visibleDisplaySize": [
+          30,
+          28
+        ],
+        "z": 38
+      },
+      {
+        "id": "UI_040",
+        "visibleTopLeft": [
+          1180,
+          930
+        ],
+        "visibleDisplaySize": [
+          226,
+          60
+        ],
+        "z": 35
+      },
+      {
+        "id": "UI_014",
+        "visibleTopLeft": [
+          1630,
+          33
+        ],
+        "visibleDisplaySize": [
+          68,
+          68
+        ],
+        "z": 30
+      },
+      {
+        "id": "ICO_403",
+        "visibleTopLeft": [
+          1646,
+          48
+        ],
+        "visibleDisplaySize": [
+          37,
+          37
+        ],
+        "z": 31
+      },
+      {
+        "id": "UI_014",
+        "visibleTopLeft": [
+          1760,
+          33
+        ],
+        "visibleDisplaySize": [
+          68,
+          68
+        ],
+        "z": 30
+      },
+      {
+        "id": "ICO_107",
+        "visibleTopLeft": [
+          1776,
+          48
+        ],
+        "visibleDisplaySize": [
+          37,
+          37
+        ],
+        "z": 31
+      }
+    ],
+    "载入页": [
+      {
+        "id": "BG_302",
+        "visibleTopLeft": [
+          0,
+          0
+        ],
+        "visibleDisplaySize": [
+          1920,
+          1080
+        ],
+        "z": 0
+      },
+      {
+        "id": "PRP_402",
+        "visibleTopLeft": [
+          655,
+          460
+        ],
+        "visibleDisplaySize": [
+          640,
+          266
+        ],
+        "z": 4
+      },
+      {
+        "id": "PRP_403",
+        "visibleTopLeft": [
+          662,
+          329
+        ],
+        "visibleDisplaySize": [
+          214,
+          177
+        ],
+        "z": 5
+      },
+      {
+        "id": "PRP_401",
+        "visibleTopLeft": [
+          844,
+          345
+        ],
+        "visibleDisplaySize": [
+          252,
+          227
+        ],
+        "z": 7
+      },
+      {
+        "id": "PRP_201",
+        "visibleTopLeft": [
+          1070,
+          509
+        ],
+        "visibleDisplaySize": [
+          186,
+          90
+        ],
+        "z": 8
+      },
+      {
+        "id": "PRP_208",
+        "visibleTopLeft": [
+          1091,
+          520
+        ],
+        "visibleDisplaySize": [
+          145,
+          56
+        ],
+        "z": 9
+      },
+      {
+        "id": "UI_038",
+        "visibleTopLeft": [
+          660,
+          728
+        ],
+        "visibleDisplaySize": [
+          600,
+          36
+        ],
+        "z": 15
+      },
+      {
+        "id": "UI_036",
+        "visibleTopLeft": [
+          720,
+          800
+        ],
+        "visibleDisplaySize": [
+          480,
+          30
+        ],
+        "z": 15
+      },
+      {
+        "id": "UI_037",
+        "visibleTopLeft": [
+          0,
+          0
+        ],
+        "visibleDisplaySize": [
+          468,
+          23
+        ],
+        "z": 1
+      },
+      {
+        "id": "ICO_401",
+        "visibleTopLeft": [
+          997,
+          784
+        ],
+        "visibleDisplaySize": [
+          38,
+          28
+        ],
+        "z": 18
+      }
+    ],
+    "茶村主地图": [
+      {
+        "id": "BG_303",
+        "visibleTopLeft": [
+          0,
+          0
+        ],
+        "visibleDisplaySize": [
+          1920,
+          1080
+        ],
+        "z": 0
+      },
+      {
+        "id": "PLT_101",
+        "visibleTopLeft": [
+          215,
+          265
+        ],
+        "visibleDisplaySize": [
+          112,
+          74.45140032948929
+        ],
+        "z": 6
+      },
+      {
+        "id": "PLT_101",
+        "visibleTopLeft": [
+          360,
+          260
+        ],
+        "visibleDisplaySize": [
+          112,
+          74.45140032948929
+        ],
+        "z": 6
+      },
+      {
+        "id": "PLT_101",
+        "visibleTopLeft": [
+          506,
+          262
+        ],
+        "visibleDisplaySize": [
+          112,
+          74.45140032948929
+        ],
+        "z": 6
+      },
+      {
+        "id": "PLT_101",
+        "visibleTopLeft": [
+          239,
+          409
+        ],
+        "visibleDisplaySize": [
+          112,
+          74.45140032948929
+        ],
+        "z": 6
+      },
+      {
+        "id": "PLT_101",
+        "visibleTopLeft": [
+          392,
+          405
+        ],
+        "visibleDisplaySize": [
+          112,
+          74.45140032948929
+        ],
+        "z": 6
+      },
+      {
+        "id": "PLT_101",
+        "visibleTopLeft": [
+          545,
+          408
+        ],
+        "visibleDisplaySize": [
+          112,
+          74.45140032948929
+        ],
+        "z": 6
+      },
+      {
+        "id": "PLT_101",
+        "visibleTopLeft": [
+          359,
+          548
+        ],
+        "visibleDisplaySize": [
+          112,
+          74.45140032948929
+        ],
+        "z": 6
+      },
+      {
+        "id": "PLT_101",
+        "visibleTopLeft": [
+          513,
+          543
+        ],
+        "visibleDisplaySize": [
+          112,
+          74.45140032948929
+        ],
+        "z": 6
+      },
+      {
+        "id": "PLT_101",
+        "visibleTopLeft": [
+          668,
+          546
+        ],
+        "visibleDisplaySize": [
+          112,
+          74.45140032948929
+        ],
+        "z": 6
+      },
+      {
+        "id": "BLD_101",
+        "visibleTopLeft": [
+          1198,
+          295
+        ],
+        "visibleDisplaySize": [
+          344,
+          238.62345679012347
+        ],
+        "z": 8
+      },
+      {
+        "id": "BLD_102",
+        "visibleTopLeft": [
+          1430,
+          500
+        ],
+        "visibleDisplaySize": [
+          375,
+          267.8163109756098
+        ],
+        "z": 9
+      },
+      {
+        "id": "CHR_002",
+        "visibleTopLeft": [
+          1112,
+          634
+        ],
+        "visibleDisplaySize": [
+          46,
+          123.05
+        ],
+        "z": 10
+      },
+      {
+        "id": "UI_007",
+        "visibleTopLeft": [
+          288,
+          172
+        ],
+        "visibleDisplaySize": [
+          285,
+          59
+        ],
+        "z": 25
+      },
+      {
+        "id": "UI_007",
+        "visibleTopLeft": [
+          1227,
+          245
+        ],
+        "visibleDisplaySize": [
+          282,
+          59
+        ],
+        "z": 25
+      },
+      {
+        "id": "UI_007",
+        "visibleTopLeft": [
+          1470,
+          457
+        ],
+        "visibleDisplaySize": [
+          282,
+          59
+        ],
+        "z": 25
+      },
+      {
+        "id": "UI_002",
+        "visibleTopLeft": [
+          45,
+          35
+        ],
+        "visibleDisplaySize": [
+          330,
+          71
+        ],
+        "z": 30
+      },
+      {
+        "id": "UI_006",
+        "visibleTopLeft": [
+          600,
+          34
+        ],
+        "visibleDisplaySize": [
+          615,
+          65
+        ],
+        "z": 30
+      },
+      {
+        "id": "PRP_308",
+        "visibleTopLeft": [
+          629,
+          50
+        ],
+        "visibleDisplaySize": [
+          31,
+          31
+        ],
+        "z": 31
+      },
+      {
+        "id": "ICO_108",
+        "visibleTopLeft": [
+          826,
+          48
+        ],
+        "visibleDisplaySize": [
+          31,
+          32
+        ],
+        "z": 31
+      },
+      {
+        "id": "PRP_103",
+        "visibleTopLeft": [
+          1032,
+          51
+        ],
+        "visibleDisplaySize": [
+          36,
+          28
+        ],
+        "z": 31
+      },
+      {
+        "id": "UI_014",
+        "visibleTopLeft": [
+          1465,
+          30
+        ],
+        "visibleDisplaySize": [
+          68,
+          68
+        ],
+        "z": 30
+      },
+      {
+        "id": "ICO_402",
+        "visibleTopLeft": [
+          1481,
+          45
+        ],
+        "visibleDisplaySize": [
+          37,
+          37
+        ],
+        "z": 31
+      },
+      {
+        "id": "UI_014",
+        "visibleTopLeft": [
+          1562,
+          30
+        ],
+        "visibleDisplaySize": [
+          68,
+          68
+        ],
+        "z": 30
+      },
+      {
+        "id": "ICO_106",
+        "visibleTopLeft": [
+          1578,
+          45
+        ],
+        "visibleDisplaySize": [
+          37,
+          37
+        ],
+        "z": 31
+      },
+      {
+        "id": "UI_014",
+        "visibleTopLeft": [
+          1659,
+          30
+        ],
+        "visibleDisplaySize": [
+          68,
+          68
+        ],
+        "z": 30
+      },
+      {
+        "id": "ICO_107",
+        "visibleTopLeft": [
+          1675,
+          45
+        ],
+        "visibleDisplaySize": [
+          37,
+          37
+        ],
+        "z": 31
+      },
+      {
+        "id": "UI_014",
+        "visibleTopLeft": [
+          1756,
+          30
+        ],
+        "visibleDisplaySize": [
+          68,
+          68
+        ],
+        "z": 30
+      },
+      {
+        "id": "ICO_404",
+        "visibleTopLeft": [
+          1772,
+          45
+        ],
+        "visibleDisplaySize": [
+          37,
+          37
+        ],
+        "z": 31
+      },
+      {
+        "id": "UI_010",
+        "visibleTopLeft": [
+          53,
+          955
+        ],
+        "visibleDisplaySize": [
+          265,
+          59
+        ],
+        "z": 35
+      },
+      {
+        "id": "UI_005",
+        "visibleTopLeft": [
+          527,
+          927
+        ],
+        "visibleDisplaySize": [
+          870,
+          96
+        ],
+        "z": 30
+      },
+      {
+        "id": "UI_014",
+        "visibleTopLeft": [
+          575,
+          917
+        ],
+        "visibleDisplaySize": [
+          72,
+          72
+        ],
+        "z": 31
+      },
+      {
+        "id": "ICO_101",
+        "visibleTopLeft": [
+          591,
+          932
+        ],
+        "visibleDisplaySize": [
+          40,
+          39
+        ],
+        "z": 32
+      },
+      {
+        "id": "UI_014",
+        "visibleTopLeft": [
+          733,
+          917
+        ],
+        "visibleDisplaySize": [
+          72,
+          72
+        ],
+        "z": 31
+      },
+      {
+        "id": "ICO_102",
+        "visibleTopLeft": [
+          749,
+          932
+        ],
+        "visibleDisplaySize": [
+          40,
+          39
+        ],
+        "z": 32
+      },
+      {
+        "id": "UI_014",
+        "visibleTopLeft": [
+          891,
+          917
+        ],
+        "visibleDisplaySize": [
+          72,
+          72
+        ],
+        "z": 31
+      },
+      {
+        "id": "ICO_106",
+        "visibleTopLeft": [
+          907,
+          932
+        ],
+        "visibleDisplaySize": [
+          40,
+          39
+        ],
+        "z": 32
+      },
+      {
+        "id": "UI_014",
+        "visibleTopLeft": [
+          1049,
+          917
+        ],
+        "visibleDisplaySize": [
+          72,
+          72
+        ],
+        "z": 31
+      },
+      {
+        "id": "ICO_301",
+        "visibleTopLeft": [
+          1065,
+          932
+        ],
+        "visibleDisplaySize": [
+          40,
+          39
+        ],
+        "z": 32
+      }
+    ],
+    "云岫茶园": [
+      {
+        "id": "BG_304",
+        "visibleTopLeft": [
+          0,
+          0
+        ],
+        "visibleDisplaySize": [
+          1920,
+          1080
+        ],
+        "z": 0
+      },
+      {
+        "id": "PLT_102",
+        "visibleTopLeft": [
+          266,
+          250
+        ],
+        "visibleDisplaySize": [
+          57,
+          51
+        ],
+        "z": 6
+      },
+      {
+        "id": "PLT_102",
+        "visibleTopLeft": [
+          441,
+          253
+        ],
+        "visibleDisplaySize": [
+          57,
+          51
+        ],
+        "z": 6
+      },
+      {
+        "id": "PLT_102",
+        "visibleTopLeft": [
+          612,
+          254
+        ],
+        "visibleDisplaySize": [
+          57,
+          51
+        ],
+        "z": 6
+      },
+      {
+        "id": "PLT_103",
+        "visibleTopLeft": [
+          345,
+          381
+        ],
+        "visibleDisplaySize": [
+          165,
+          109.57474226804123
+        ],
+        "z": 7
+      },
+      {
+        "id": "PLT_103",
+        "visibleTopLeft": [
+          570,
+          395
+        ],
+        "visibleDisplaySize": [
+          165,
+          109.57474226804123
+        ],
+        "z": 7
+      },
+      {
+        "id": "PLT_103",
+        "visibleTopLeft": [
+          794,
+          400
+        ],
+        "visibleDisplaySize": [
+          165,
+          109.57474226804123
+        ],
+        "z": 7
+      },
+      {
+        "id": "PLT_101",
+        "visibleTopLeft": [
+          472,
+          603
+        ],
+        "visibleDisplaySize": [
+          217,
+          144.2495881383855
+        ],
+        "z": 8
+      },
+      {
+        "id": "PLT_101",
+        "visibleTopLeft": [
+          739,
+          618
+        ],
+        "visibleDisplaySize": [
+          217,
+          144.2495881383855
+        ],
+        "z": 8
+      },
+      {
+        "id": "PLT_101",
+        "visibleTopLeft": [
+          1002,
+          611
+        ],
+        "visibleDisplaySize": [
+          217,
+          144.2495881383855
+        ],
+        "z": 8
+      },
+      {
+        "id": "UI_007",
+        "visibleTopLeft": [
+          241,
+          179
+        ],
+        "visibleDisplaySize": [
+          283,
+          59
+        ],
+        "z": 25
+      },
+      {
+        "id": "UI_007",
+        "visibleTopLeft": [
+          544,
+          321
+        ],
+        "visibleDisplaySize": [
+          283,
+          59
+        ],
+        "z": 25
+      },
+      {
+        "id": "UI_007",
+        "visibleTopLeft": [
+          937,
+          529
+        ],
+        "visibleDisplaySize": [
+          283,
+          59
+        ],
+        "z": 25
+      },
+      {
+        "id": "UI_024",
+        "visibleTopLeft": [
+          989,
+          580
+        ],
+        "visibleDisplaySize": [
+          40,
+          48
+        ],
+        "z": 12
+      },
+      {
+        "id": "CHR_003",
+        "visibleTopLeft": [
+          1222,
+          706
+        ],
+        "visibleDisplaySize": [
+          83,
+          139.8023598820059
+        ],
+        "z": 13
+      },
+      {
+        "id": "PRP_101",
+        "visibleTopLeft": [
+          1300,
+          802
+        ],
+        "visibleDisplaySize": [
+          66,
+          60.75965665236051
+        ],
+        "z": 14
+      },
+      {
+        "id": "CHR_102",
+        "visibleTopLeft": [
+          1094,
+          458
+        ],
+        "visibleDisplaySize": [
+          61,
+          182.67466666666667
+        ],
+        "z": 13
+      },
+      {
+        "id": "UI_002",
+        "visibleTopLeft": [
+          45,
+          35
+        ],
+        "visibleDisplaySize": [
+          330,
+          71
+        ],
+        "z": 30
+      },
+      {
+        "id": "UI_006",
+        "visibleTopLeft": [
+          600,
+          34
+        ],
+        "visibleDisplaySize": [
+          615,
+          65
+        ],
+        "z": 30
+      },
+      {
+        "id": "PRP_308",
+        "visibleTopLeft": [
+          629,
+          50
+        ],
+        "visibleDisplaySize": [
+          31,
+          31
+        ],
+        "z": 31
+      },
+      {
+        "id": "ICO_108",
+        "visibleTopLeft": [
+          826,
+          48
+        ],
+        "visibleDisplaySize": [
+          31,
+          32
+        ],
+        "z": 31
+      },
+      {
+        "id": "PRP_103",
+        "visibleTopLeft": [
+          1032,
+          51
+        ],
+        "visibleDisplaySize": [
+          36,
+          28
+        ],
+        "z": 31
+      },
+      {
+        "id": "UI_014",
+        "visibleTopLeft": [
+          1465,
+          30
+        ],
+        "visibleDisplaySize": [
+          68,
+          68
+        ],
+        "z": 30
+      },
+      {
+        "id": "ICO_402",
+        "visibleTopLeft": [
+          1481,
+          45
+        ],
+        "visibleDisplaySize": [
+          37,
+          37
+        ],
+        "z": 31
+      },
+      {
+        "id": "UI_014",
+        "visibleTopLeft": [
+          1562,
+          30
+        ],
+        "visibleDisplaySize": [
+          68,
+          68
+        ],
+        "z": 30
+      },
+      {
+        "id": "ICO_106",
+        "visibleTopLeft": [
+          1578,
+          45
+        ],
+        "visibleDisplaySize": [
+          37,
+          37
+        ],
+        "z": 31
+      },
+      {
+        "id": "UI_014",
+        "visibleTopLeft": [
+          1659,
+          30
+        ],
+        "visibleDisplaySize": [
+          68,
+          68
+        ],
+        "z": 30
+      },
+      {
+        "id": "ICO_107",
+        "visibleTopLeft": [
+          1675,
+          45
+        ],
+        "visibleDisplaySize": [
+          37,
+          37
+        ],
+        "z": 31
+      },
+      {
+        "id": "UI_014",
+        "visibleTopLeft": [
+          1756,
+          30
+        ],
+        "visibleDisplaySize": [
+          68,
+          68
+        ],
+        "z": 30
+      },
+      {
+        "id": "ICO_404",
+        "visibleTopLeft": [
+          1772,
+          45
+        ],
+        "visibleDisplaySize": [
+          37,
+          37
+        ],
+        "z": 31
+      },
+      {
+        "id": "UI_010",
+        "visibleTopLeft": [
+          53,
+          955
+        ],
+        "visibleDisplaySize": [
+          265,
+          59
+        ],
+        "z": 35
+      },
+      {
+        "id": "UI_005",
+        "visibleTopLeft": [
+          527,
+          927
+        ],
+        "visibleDisplaySize": [
+          870,
+          96
+        ],
+        "z": 30
+      },
+      {
+        "id": "UI_014",
+        "visibleTopLeft": [
+          575,
+          917
+        ],
+        "visibleDisplaySize": [
+          72,
+          72
+        ],
+        "z": 31
+      },
+      {
+        "id": "ICO_101",
+        "visibleTopLeft": [
+          591,
+          932
+        ],
+        "visibleDisplaySize": [
+          40,
+          39
+        ],
+        "z": 32
+      },
+      {
+        "id": "UI_014",
+        "visibleTopLeft": [
+          733,
+          917
+        ],
+        "visibleDisplaySize": [
+          72,
+          72
+        ],
+        "z": 31
+      },
+      {
+        "id": "ICO_102",
+        "visibleTopLeft": [
+          749,
+          932
+        ],
+        "visibleDisplaySize": [
+          40,
+          39
+        ],
+        "z": 32
+      },
+      {
+        "id": "UI_014",
+        "visibleTopLeft": [
+          891,
+          917
+        ],
+        "visibleDisplaySize": [
+          72,
+          72
+        ],
+        "z": 31
+      },
+      {
+        "id": "ICO_103",
+        "visibleTopLeft": [
+          907,
+          932
+        ],
+        "visibleDisplaySize": [
+          40,
+          39
+        ],
+        "z": 32
+      },
+      {
+        "id": "UI_014",
+        "visibleTopLeft": [
+          1049,
+          917
+        ],
+        "visibleDisplaySize": [
+          72,
+          72
+        ],
+        "z": 31
+      },
+      {
+        "id": "ICO_104",
+        "visibleTopLeft": [
+          1065,
+          932
+        ],
+        "visibleDisplaySize": [
+          40,
+          39
+        ],
+        "z": 32
+      },
+      {
+        "id": "UI_014",
+        "visibleTopLeft": [
+          1207,
+          917
+        ],
+        "visibleDisplaySize": [
+          72,
+          72
+        ],
+        "z": 31
+      },
+      {
+        "id": "ICO_105",
+        "visibleTopLeft": [
+          1223,
+          932
+        ],
+        "visibleDisplaySize": [
+          40,
+          39
+        ],
+        "z": 32
+      }
+    ],
+    "制茶工坊": [
+      {
+        "id": "BG_305",
+        "visibleTopLeft": [
+          0,
+          0
+        ],
+        "visibleDisplaySize": [
+          1920,
+          1080
+        ],
+        "z": 0
+      },
+      {
+        "id": "PRP_207",
+        "visibleTopLeft": [
+          1340,
+          430
+        ],
+        "visibleDisplaySize": [
+          170,
+          279.84943538268504
+        ],
+        "z": 8
+      },
+      {
+        "id": "PRP_209",
+        "visibleTopLeft": [
+          1490,
+          676
+        ],
+        "visibleDisplaySize": [
+          59,
+          61.954616588419405
+        ],
+        "z": 9
+      },
+      {
+        "id": "PRP_205",
+        "visibleTopLeft": [
+          617,
+          510
+        ],
+        "visibleDisplaySize": [
+          390,
+          246.22881355932202
+        ],
+        "z": 10
+      },
+      {
+        "id": "PRP_206",
+        "visibleTopLeft": [
+          706,
+          548
+        ],
+        "visibleDisplaySize": [
+          193,
+          70
+        ],
+        "z": 11
+      },
+      {
+        "id": "CHR_004",
+        "visibleTopLeft": [
+          998,
+          487
+        ],
+        "visibleDisplaySize": [
+          90,
+          183.21428571428572
+        ],
+        "z": 12
+      },
+      {
+        "id": "PRP_204",
+        "visibleTopLeft": [
+          1129,
+          665
+        ],
+        "visibleDisplaySize": [
+          202,
+          158.68795620437956
+        ],
+        "z": 13
+      },
+      {
+        "id": "PRP_203",
+        "visibleTopLeft": [
+          1115,
+          632
+        ],
+        "visibleDisplaySize": [
+          226,
+          113
+        ],
+        "z": 14
+      },
+      {
+        "id": "FX_202",
+        "visibleTopLeft": [
+          1215,
+          791
+        ],
+        "visibleDisplaySize": [
+          34,
+          42
+        ],
+        "z": 14
+      },
+      {
+        "id": "PRP_201",
+        "visibleTopLeft": [
+          795,
+          801
+        ],
+        "visibleDisplaySize": [
+          223,
+          111
+        ],
+        "z": 16
+      },
+      {
+        "id": "PRP_202",
+        "visibleTopLeft": [
+          817,
+          817
+        ],
+        "visibleDisplaySize": [
+          179,
+          76
+        ],
+        "z": 17
+      },
+      {
+        "id": "PRP_210",
+        "visibleTopLeft": [
+          509,
+          645
+        ],
+        "visibleDisplaySize": [
+          98,
+          96.63731170336037
+        ],
+        "z": 15
+      },
+      {
+        "id": "CHR_102",
+        "visibleTopLeft": [
+          526,
+          488
+        ],
+        "visibleDisplaySize": [
+          69,
+          206.632
+        ],
+        "z": 16
+      },
+      {
+        "id": "UI_002",
+        "visibleTopLeft": [
+          45,
+          35
+        ],
+        "visibleDisplaySize": [
+          330,
+          71
+        ],
+        "z": 30
+      },
+      {
+        "id": "UI_006",
+        "visibleTopLeft": [
+          600,
+          34
+        ],
+        "visibleDisplaySize": [
+          615,
+          65
+        ],
+        "z": 30
+      },
+      {
+        "id": "PRP_308",
+        "visibleTopLeft": [
+          629,
+          50
+        ],
+        "visibleDisplaySize": [
+          31,
+          31
+        ],
+        "z": 31
+      },
+      {
+        "id": "ICO_108",
+        "visibleTopLeft": [
+          826,
+          48
+        ],
+        "visibleDisplaySize": [
+          31,
+          32
+        ],
+        "z": 31
+      },
+      {
+        "id": "PRP_103",
+        "visibleTopLeft": [
+          1032,
+          51
+        ],
+        "visibleDisplaySize": [
+          36,
+          28
+        ],
+        "z": 31
+      },
+      {
+        "id": "UI_014",
+        "visibleTopLeft": [
+          1465,
+          30
+        ],
+        "visibleDisplaySize": [
+          68,
+          68
+        ],
+        "z": 30
+      },
+      {
+        "id": "ICO_402",
+        "visibleTopLeft": [
+          1481,
+          45
+        ],
+        "visibleDisplaySize": [
+          37,
+          37
+        ],
+        "z": 31
+      },
+      {
+        "id": "UI_014",
+        "visibleTopLeft": [
+          1562,
+          30
+        ],
+        "visibleDisplaySize": [
+          68,
+          68
+        ],
+        "z": 30
+      },
+      {
+        "id": "ICO_106",
+        "visibleTopLeft": [
+          1578,
+          45
+        ],
+        "visibleDisplaySize": [
+          37,
+          37
+        ],
+        "z": 31
+      },
+      {
+        "id": "UI_014",
+        "visibleTopLeft": [
+          1659,
+          30
+        ],
+        "visibleDisplaySize": [
+          68,
+          68
+        ],
+        "z": 30
+      },
+      {
+        "id": "ICO_107",
+        "visibleTopLeft": [
+          1675,
+          45
+        ],
+        "visibleDisplaySize": [
+          37,
+          37
+        ],
+        "z": 31
+      },
+      {
+        "id": "UI_014",
+        "visibleTopLeft": [
+          1756,
+          30
+        ],
+        "visibleDisplaySize": [
+          68,
+          68
+        ],
+        "z": 30
+      },
+      {
+        "id": "ICO_404",
+        "visibleTopLeft": [
+          1772,
+          45
+        ],
+        "visibleDisplaySize": [
+          37,
+          37
+        ],
+        "z": 31
+      },
+      {
+        "id": "UI_010",
+        "visibleTopLeft": [
+          53,
+          955
+        ],
+        "visibleDisplaySize": [
+          265,
+          59
+        ],
+        "z": 35
+      },
+      {
+        "id": "UI_007",
+        "visibleTopLeft": [
+          1133,
+          550
+        ],
+        "visibleDisplaySize": [
+          245,
+          59
+        ],
+        "z": 25
+      },
+      {
+        "id": "UI_005",
+        "visibleTopLeft": [
+          527,
+          927
+        ],
+        "visibleDisplaySize": [
+          870,
+          96
+        ],
+        "z": 30
+      },
+      {
+        "id": "UI_014",
+        "visibleTopLeft": [
+          575,
+          917
+        ],
+        "visibleDisplaySize": [
+          72,
+          72
+        ],
+        "z": 31
+      },
+      {
+        "id": "ICO_102",
+        "visibleTopLeft": [
+          591,
+          932
+        ],
+        "visibleDisplaySize": [
+          40,
+          39
+        ],
+        "z": 32
+      },
+      {
+        "id": "UI_014",
+        "visibleTopLeft": [
+          733,
+          917
+        ],
+        "visibleDisplaySize": [
+          72,
+          72
+        ],
+        "z": 31
+      },
+      {
+        "id": "ICO_201",
+        "visibleTopLeft": [
+          749,
+          932
+        ],
+        "visibleDisplaySize": [
+          40,
+          39
+        ],
+        "z": 32
+      },
+      {
+        "id": "UI_014",
+        "visibleTopLeft": [
+          891,
+          917
+        ],
+        "visibleDisplaySize": [
+          72,
+          72
+        ],
+        "z": 31
+      },
+      {
+        "id": "ICO_106",
+        "visibleTopLeft": [
+          907,
+          932
+        ],
+        "visibleDisplaySize": [
+          40,
+          39
+        ],
+        "z": 32
+      },
+      {
+        "id": "UI_014",
+        "visibleTopLeft": [
+          1049,
+          917
+        ],
+        "visibleDisplaySize": [
+          72,
+          72
+        ],
+        "z": 31
+      },
+      {
+        "id": "ICO_103",
+        "visibleTopLeft": [
+          1065,
+          932
+        ],
+        "visibleDisplaySize": [
+          40,
+          39
+        ],
+        "z": 32
+      }
+    ],
+    "临水茶铺": [
+      {
+        "id": "BG_306",
+        "visibleTopLeft": [
+          0,
+          0
+        ],
+        "visibleDisplaySize": [
+          1920,
+          1080
+        ],
+        "z": 0
+      },
+      {
+        "id": "PRP_307",
+        "visibleTopLeft": [
+          1150,
+          407
+        ],
+        "visibleDisplaySize": [
+          183,
+          293.9527559055118
+        ],
+        "z": 8
+      },
+      {
+        "id": "PRP_209",
+        "visibleTopLeft": [
+          1218,
+          548
+        ],
+        "visibleDisplaySize": [
+          43,
+          45.153364632237874
+        ],
+        "z": 9
+      },
+      {
+        "id": "PRP_306",
+        "visibleTopLeft": [
+          605,
+          494
+        ],
+        "visibleDisplaySize": [
+          405,
+          256.83629893238435
+        ],
+        "z": 12
+      },
+      {
+        "id": "PRP_309",
+        "visibleTopLeft": [
+          786,
+          539
+        ],
+        "visibleDisplaySize": [
+          76,
+          54
+        ],
+        "z": 13
+      },
+      {
+        "id": "CHR_005",
+        "visibleTopLeft": [
+          1030,
+          516
+        ],
+        "visibleDisplaySize": [
+          82,
+          217.17913832199545
+        ],
+        "z": 11
+      },
+      {
+        "id": "PRP_304",
+        "visibleTopLeft": [
+          1170,
+          724
+        ],
+        "visibleDisplaySize": [
+          270,
+          226.1218836565097
+        ],
+        "z": 15
+      },
+      {
+        "id": "PRP_305",
+        "visibleTopLeft": [
+          1440,
+          700
+        ],
+        "visibleDisplaySize": [
+          102,
+          161.83586626139817
+        ],
+        "z": 14
+      },
+      {
+        "id": "PRP_301",
+        "visibleTopLeft": [
+          1251,
+          760
+        ],
+        "visibleDisplaySize": [
+          63,
+          40
+        ],
+        "z": 16
+      },
+      {
+        "id": "PRP_302",
+        "visibleTopLeft": [
+          1340,
+          795
+        ],
+        "visibleDisplaySize": [
+          32,
+          28
+        ],
+        "z": 17
+      },
+      {
+        "id": "PRP_303",
+        "visibleTopLeft": [
+          1346,
+          798
+        ],
+        "visibleDisplaySize": [
+          23,
+          10
+        ],
+        "z": 18
+      },
+      {
+        "id": "CHR_202",
+        "visibleTopLeft": [
+          1420,
+          556
+        ],
+        "visibleDisplaySize": [
+          79,
+          199.36404494382023
+        ],
+        "z": 13
+      },
+      {
+        "id": "PRP_304",
+        "visibleTopLeft": [
+          462,
+          706
+        ],
+        "visibleDisplaySize": [
+          237,
+          198.4847645429363
+        ],
+        "z": 14
+      },
+      {
+        "id": "PRP_305",
+        "visibleTopLeft": [
+          689,
+          720
+        ],
+        "visibleDisplaySize": [
+          91,
+          144.38297872340425
+        ],
+        "z": 13
+      },
+      {
+        "id": "UI_002",
+        "visibleTopLeft": [
+          45,
+          35
+        ],
+        "visibleDisplaySize": [
+          330,
+          71
+        ],
+        "z": 30
+      },
+      {
+        "id": "UI_006",
+        "visibleTopLeft": [
+          600,
+          34
+        ],
+        "visibleDisplaySize": [
+          615,
+          65
+        ],
+        "z": 30
+      },
+      {
+        "id": "PRP_308",
+        "visibleTopLeft": [
+          629,
+          50
+        ],
+        "visibleDisplaySize": [
+          31,
+          31
+        ],
+        "z": 31
+      },
+      {
+        "id": "ICO_108",
+        "visibleTopLeft": [
+          826,
+          48
+        ],
+        "visibleDisplaySize": [
+          31,
+          32
+        ],
+        "z": 31
+      },
+      {
+        "id": "PRP_103",
+        "visibleTopLeft": [
+          1032,
+          51
+        ],
+        "visibleDisplaySize": [
+          36,
+          28
+        ],
+        "z": 31
+      },
+      {
+        "id": "UI_014",
+        "visibleTopLeft": [
+          1465,
+          30
+        ],
+        "visibleDisplaySize": [
+          68,
+          68
+        ],
+        "z": 30
+      },
+      {
+        "id": "ICO_402",
+        "visibleTopLeft": [
+          1481,
+          45
+        ],
+        "visibleDisplaySize": [
+          37,
+          37
+        ],
+        "z": 31
+      },
+      {
+        "id": "UI_014",
+        "visibleTopLeft": [
+          1562,
+          30
+        ],
+        "visibleDisplaySize": [
+          68,
+          68
+        ],
+        "z": 30
+      },
+      {
+        "id": "ICO_106",
+        "visibleTopLeft": [
+          1578,
+          45
+        ],
+        "visibleDisplaySize": [
+          37,
+          37
+        ],
+        "z": 31
+      },
+      {
+        "id": "UI_014",
+        "visibleTopLeft": [
+          1659,
+          30
+        ],
+        "visibleDisplaySize": [
+          68,
+          68
+        ],
+        "z": 30
+      },
+      {
+        "id": "ICO_107",
+        "visibleTopLeft": [
+          1675,
+          45
+        ],
+        "visibleDisplaySize": [
+          37,
+          37
+        ],
+        "z": 31
+      },
+      {
+        "id": "UI_014",
+        "visibleTopLeft": [
+          1756,
+          30
+        ],
+        "visibleDisplaySize": [
+          68,
+          68
+        ],
+        "z": 30
+      },
+      {
+        "id": "ICO_404",
+        "visibleTopLeft": [
+          1772,
+          45
+        ],
+        "visibleDisplaySize": [
+          37,
+          37
+        ],
+        "z": 31
+      },
+      {
+        "id": "UI_010",
+        "visibleTopLeft": [
+          53,
+          955
+        ],
+        "visibleDisplaySize": [
+          265,
+          59
+        ],
+        "z": 35
+      },
+      {
+        "id": "UI_007",
+        "visibleTopLeft": [
+          1437,
+          464
+        ],
+        "visibleDisplaySize": [
+          305,
+          59
+        ],
+        "z": 25
+      },
+      {
+        "id": "UI_005",
+        "visibleTopLeft": [
+          527,
+          927
+        ],
+        "visibleDisplaySize": [
+          870,
+          96
+        ],
+        "z": 30
+      },
+      {
+        "id": "UI_014",
+        "visibleTopLeft": [
+          575,
+          917
+        ],
+        "visibleDisplaySize": [
+          72,
+          72
+        ],
+        "z": 31
+      },
+      {
+        "id": "ICO_102",
+        "visibleTopLeft": [
+          591,
+          932
+        ],
+        "visibleDisplaySize": [
+          40,
+          39
+        ],
+        "z": 32
+      },
+      {
+        "id": "UI_014",
+        "visibleTopLeft": [
+          733,
+          917
+        ],
+        "visibleDisplaySize": [
+          72,
+          72
+        ],
+        "z": 31
+      },
+      {
+        "id": "ICO_301",
+        "visibleTopLeft": [
+          749,
+          932
+        ],
+        "visibleDisplaySize": [
+          40,
+          39
+        ],
+        "z": 32
+      },
+      {
+        "id": "UI_014",
+        "visibleTopLeft": [
+          891,
+          917
+        ],
+        "visibleDisplaySize": [
+          72,
+          72
+        ],
+        "z": 31
+      },
+      {
+        "id": "ICO_106",
+        "visibleTopLeft": [
+          907,
+          932
+        ],
+        "visibleDisplaySize": [
+          40,
+          39
+        ],
+        "z": 32
+      },
+      {
+        "id": "UI_014",
+        "visibleTopLeft": [
+          1049,
+          917
+        ],
+        "visibleDisplaySize": [
+          72,
+          72
+        ],
+        "z": 31
+      },
+      {
+        "id": "ICO_103",
+        "visibleTopLeft": [
+          1065,
+          932
+        ],
+        "visibleDisplaySize": [
+          40,
+          39
+        ],
+        "z": 32
+      }
+    ],
+    "保存界面": [
+      {
+        "id": "UI_030",
+        "visibleTopLeft": [
+          375,
+          125
+        ],
+        "visibleDisplaySize": [
+          1170,
+          850
+        ],
+        "z": 55
+      },
+      {
+        "id": "UI_002",
+        "visibleTopLeft": [
+          790,
+          155
+        ],
+        "visibleDisplaySize": [
+          340,
+          72
+        ],
+        "z": 56
+      },
+      {
+        "id": "UI_014",
+        "visibleTopLeft": [
+          1421,
+          165
+        ],
+        "visibleDisplaySize": [
+          58,
+          58
+        ],
+        "z": 56
+      },
+      {
+        "id": "UI_015",
+        "visibleTopLeft": [
+          1436,
+          180
+        ],
+        "visibleDisplaySize": [
+          28,
+          28
+        ],
+        "z": 57
+      },
+      {
+        "id": "UI_044",
+        "visibleTopLeft": [
+          484,
+          308
+        ],
+        "visibleDisplaySize": [
+          952,
+          153
+        ],
+        "z": 58
+      },
+      {
+        "id": "UI_046",
+        "visibleTopLeft": [
+          522,
+          325
+        ],
+        "visibleDisplaySize": [
+          188,
+          119
+        ],
+        "z": 60
+      },
+      {
+        "id": "UI_044",
+        "visibleTopLeft": [
+          484,
+          483
+        ],
+        "visibleDisplaySize": [
+          952,
+          153
+        ],
+        "z": 58
+      },
+      {
+        "id": "UI_045",
+        "visibleTopLeft": [
+          484,
+          483
+        ],
+        "visibleDisplaySize": [
+          952,
+          153
+        ],
+        "z": 59
+      },
+      {
+        "id": "ICO_401",
+        "visibleTopLeft": [
+          589,
+          531
+        ],
+        "visibleDisplaySize": [
+          54,
+          43
+        ],
+        "z": 59
+      },
+      {
+        "id": "UI_046",
+        "visibleTopLeft": [
+          522,
+          500
+        ],
+        "visibleDisplaySize": [
+          188,
+          119
+        ],
+        "z": 60
+      },
+      {
+        "id": "UI_044",
+        "visibleTopLeft": [
+          484,
+          658
+        ],
+        "visibleDisplaySize": [
+          952,
+          153
+        ],
+        "z": 58
+      },
+      {
+        "id": "UI_046",
+        "visibleTopLeft": [
+          522,
+          675
+        ],
+        "visibleDisplaySize": [
+          188,
+          119
+        ],
+        "z": 60
+      },
+      {
+        "id": "UI_010",
+        "visibleTopLeft": [
+          780,
+          850
+        ],
+        "visibleDisplaySize": [
+          258,
+          64
+        ],
+        "z": 63
+      },
+      {
+        "id": "UI_040",
+        "visibleTopLeft": [
+          1071,
+          850
+        ],
+        "visibleDisplaySize": [
+          331,
+          64
+        ],
+        "z": 63
+      }
+    ],
+    "读取界面": [
+      {
+        "id": "UI_030",
+        "visibleTopLeft": [
+          375,
+          125
+        ],
+        "visibleDisplaySize": [
+          1170,
+          850
+        ],
+        "z": 55
+      },
+      {
+        "id": "UI_002",
+        "visibleTopLeft": [
+          790,
+          155
+        ],
+        "visibleDisplaySize": [
+          340,
+          72
+        ],
+        "z": 56
+      },
+      {
+        "id": "UI_014",
+        "visibleTopLeft": [
+          1421,
+          165
+        ],
+        "visibleDisplaySize": [
+          58,
+          58
+        ],
+        "z": 56
+      },
+      {
+        "id": "UI_015",
+        "visibleTopLeft": [
+          1436,
+          180
+        ],
+        "visibleDisplaySize": [
+          28,
+          28
+        ],
+        "z": 57
+      },
+      {
+        "id": "UI_044",
+        "visibleTopLeft": [
+          484,
+          308
+        ],
+        "visibleDisplaySize": [
+          952,
+          153
+        ],
+        "z": 58
+      },
+      {
+        "id": "UI_045",
+        "visibleTopLeft": [
+          484,
+          308
+        ],
+        "visibleDisplaySize": [
+          952,
+          153
+        ],
+        "z": 59
+      },
+      {
+        "id": "UI_046",
+        "visibleTopLeft": [
+          522,
+          325
+        ],
+        "visibleDisplaySize": [
+          188,
+          119
+        ],
+        "z": 60
+      },
+      {
+        "id": "UI_044",
+        "visibleTopLeft": [
+          484,
+          483
+        ],
+        "visibleDisplaySize": [
+          952,
+          153
+        ],
+        "z": 58
+      },
+      {
+        "id": "ICO_401",
+        "visibleTopLeft": [
+          589,
+          531
+        ],
+        "visibleDisplaySize": [
+          54,
+          43
+        ],
+        "z": 59
+      },
+      {
+        "id": "UI_046",
+        "visibleTopLeft": [
+          522,
+          500
+        ],
+        "visibleDisplaySize": [
+          188,
+          119
+        ],
+        "z": 60
+      },
+      {
+        "id": "UI_044",
+        "visibleTopLeft": [
+          484,
+          658
+        ],
+        "visibleDisplaySize": [
+          952,
+          153
+        ],
+        "z": 58
+      },
+      {
+        "id": "UI_046",
+        "visibleTopLeft": [
+          522,
+          675
+        ],
+        "visibleDisplaySize": [
+          188,
+          119
+        ],
+        "z": 60
+      },
+      {
+        "id": "UI_010",
+        "visibleTopLeft": [
+          780,
+          850
+        ],
+        "visibleDisplaySize": [
+          258,
+          64
+        ],
+        "z": 63
+      },
+      {
+        "id": "UI_040",
+        "visibleTopLeft": [
+          1071,
+          850
+        ],
+        "visibleDisplaySize": [
+          331,
+          64
+        ],
+        "z": 63
+      }
+    ],
+    "覆盖确认": [
+      {
+        "id": "UI_030",
+        "visibleTopLeft": [
+          375,
+          125
+        ],
+        "visibleDisplaySize": [
+          1170,
+          850
+        ],
+        "z": 55
+      },
+      {
+        "id": "UI_002",
+        "visibleTopLeft": [
+          790,
+          155
+        ],
+        "visibleDisplaySize": [
+          340,
+          72
+        ],
+        "z": 56
+      },
+      {
+        "id": "UI_014",
+        "visibleTopLeft": [
+          1421,
+          165
+        ],
+        "visibleDisplaySize": [
+          58,
+          58
+        ],
+        "z": 56
+      },
+      {
+        "id": "UI_015",
+        "visibleTopLeft": [
+          1436,
+          180
+        ],
+        "visibleDisplaySize": [
+          28,
+          28
+        ],
+        "z": 57
+      },
+      {
+        "id": "UI_044",
+        "visibleTopLeft": [
+          484,
+          308
+        ],
+        "visibleDisplaySize": [
+          952,
+          153
+        ],
+        "z": 58
+      },
+      {
+        "id": "UI_045",
+        "visibleTopLeft": [
+          484,
+          308
+        ],
+        "visibleDisplaySize": [
+          952,
+          153
+        ],
+        "z": 59
+      },
+      {
+        "id": "UI_046",
+        "visibleTopLeft": [
+          522,
+          325
+        ],
+        "visibleDisplaySize": [
+          188,
+          119
+        ],
+        "z": 60
+      },
+      {
+        "id": "UI_044",
+        "visibleTopLeft": [
+          484,
+          483
+        ],
+        "visibleDisplaySize": [
+          952,
+          153
+        ],
+        "z": 58
+      },
+      {
+        "id": "ICO_401",
+        "visibleTopLeft": [
+          589,
+          531
+        ],
+        "visibleDisplaySize": [
+          54,
+          43
+        ],
+        "z": 59
+      },
+      {
+        "id": "UI_046",
+        "visibleTopLeft": [
+          522,
+          500
+        ],
+        "visibleDisplaySize": [
+          188,
+          119
+        ],
+        "z": 60
+      },
+      {
+        "id": "UI_044",
+        "visibleTopLeft": [
+          484,
+          658
+        ],
+        "visibleDisplaySize": [
+          952,
+          153
+        ],
+        "z": 58
+      },
+      {
+        "id": "UI_046",
+        "visibleTopLeft": [
+          522,
+          675
+        ],
+        "visibleDisplaySize": [
+          188,
+          119
+        ],
+        "z": 60
+      },
+      {
+        "id": "UI_010",
+        "visibleTopLeft": [
+          780,
+          850
+        ],
+        "visibleDisplaySize": [
+          258,
+          64
+        ],
+        "z": 63
+      },
+      {
+        "id": "UI_040",
+        "visibleTopLeft": [
+          1071,
+          850
+        ],
+        "visibleDisplaySize": [
+          331,
+          64
+        ],
+        "z": 63
+      },
+      {
+        "id": "UI_030",
+        "visibleTopLeft": [
+          587,
+          337
+        ],
+        "visibleDisplaySize": [
+          746,
+          412
+        ],
+        "z": 75
+      },
+      {
+        "id": "UI_010",
+        "visibleTopLeft": [
+          674,
+          634
+        ],
+        "visibleDisplaySize": [
+          238,
+          64
+        ],
+        "z": 81
+      },
+      {
+        "id": "UI_040",
+        "visibleTopLeft": [
+          949,
+          634
+        ],
+        "visibleDisplaySize": [
+          285,
+          64
+        ],
+        "z": 81
+      }
+    ],
+    "设置界面": [
+      {
+        "id": "BG_302",
+        "visibleTopLeft": [
+          0,
+          0
+        ],
+        "visibleDisplaySize": [
+          1920,
+          1080
+        ],
+        "z": 0
+      },
+      {
+        "id": "UI_030",
+        "visibleTopLeft": [
+          501,
+          181
+        ],
+        "visibleDisplaySize": [
+          919,
+          687
+        ],
+        "z": 20
+      },
+      {
+        "id": "UI_002",
+        "visibleTopLeft": [
+          800,
+          204
+        ],
+        "visibleDisplaySize": [
+          320,
+          67
+        ],
+        "z": 21
+      },
+      {
+        "id": "UI_014",
+        "visibleTopLeft": [
+          1322,
+          225
+        ],
+        "visibleDisplaySize": [
+          52,
+          52
+        ],
+        "z": 21
+      },
+      {
+        "id": "UI_015",
+        "visibleTopLeft": [
+          1335,
+          238
+        ],
+        "visibleDisplaySize": [
+          27,
+          27
+        ],
+        "z": 22
+      },
+      {
+        "id": "UI_022",
+        "visibleTopLeft": [
+          826,
+          374
+        ],
+        "visibleDisplaySize": [
+          397,
+          27
+        ],
+        "z": 25
+      },
+      {
+        "id": "UI_023",
+        "visibleTopLeft": [
+          835,
+          378
+        ],
+        "visibleDisplaySize": [
+          264.59999999999997,
+          19
+        ],
+        "z": 26
+      },
+      {
+        "id": "UI_033",
+        "visibleTopLeft": [
+          1081.6,
+          366
+        ],
+        "visibleDisplaySize": [
+          43,
+          43
+        ],
+        "z": 27
+      },
+      {
+        "id": "UI_022",
+        "visibleTopLeft": [
+          826,
+          481
+        ],
+        "visibleDisplaySize": [
+          397,
+          27
+        ],
+        "z": 25
+      },
+      {
+        "id": "UI_023",
+        "visibleTopLeft": [
+          835,
+          485
+        ],
+        "visibleDisplaySize": [
+          207.9,
+          19
+        ],
+        "z": 26
+      },
+      {
+        "id": "UI_033",
+        "visibleTopLeft": [
+          1024.9,
+          473
+        ],
+        "visibleDisplaySize": [
+          43,
+          43
+        ],
+        "z": 27
+      },
+      {
+        "id": "UI_034",
+        "visibleTopLeft": [
+          608,
+          607
+        ],
+        "visibleDisplaySize": [
+          44,
+          44
+        ],
+        "z": 25
+      },
+      {
+        "id": "UI_035",
+        "visibleTopLeft": [
+          617,
+          617
+        ],
+        "visibleDisplaySize": [
+          26,
+          23
+        ],
+        "z": 26
+      },
+      {
+        "id": "UI_034",
+        "visibleTopLeft": [
+          1012,
+          607
+        ],
+        "visibleDisplaySize": [
+          44,
+          44
+        ],
+        "z": 25
+      },
+      {
+        "id": "UI_040",
+        "visibleTopLeft": [
+          789,
+          743
+        ],
+        "visibleDisplaySize": [
+          346,
+          71
+        ],
+        "z": 35
+      }
+    ]
+  }
+}

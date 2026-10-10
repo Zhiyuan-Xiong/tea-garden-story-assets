@@ -1,0 +1,22 @@
+{
+  "id": "PRP_302",
+  "category": "06_道具与图标",
+  "functionArea": "临水茶铺",
+  "label": "空茶杯",
+  "plannedFile": "prp_teacup_empty_v001.png",
+  "batch": "05_茶铺素材",
+  "targetSize": "1024×1024",
+  "status": "待生成",
+  "actualSize": "",
+  "relativePath": "",
+  "remarks": "茶汤层另出",
+  "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-554d0c5f-6fe8-448d-9a1c-761790c58a35.png",
+  "prompt": "Create one independent production-ready 2D sprite for Chinese healing management game 茶园物语. Chinese ink and pale watercolor handpainting matching the supplied approved game assets. Clean broad quiet washes, thin warm grey/brown hand-drawn edges, very few material lines; no grain/no noisy dense texture/no muddy haze/no oversaturation/no harsh black outline/no glossy photographic material. Ivory, muted sage celadon, bamboo beige, warm pale wood brown, charcoal. Use parallel axonometric elevated camera, rectangular long ground edges slope up-right26degrees, short edges down-right30degrees, verticals stayvertical. No converging camera. True alpha transparent outside object, no checkerboard drawing, ground, shadow plate or glow. Complete isolated subject centered with transparent margins. No room, landscape, characters, baked labels, Chinese writing, numbers, watermarks, UI backplate or extra unrelated objects. Figma reference is only brush/palette and the requested object's design; never recreate whole screen. Refer to approved jar/table for controlled drawing and color. Formal sprite must be separable for Godot.\nSUBJECT: ONE completely EMPTY small Chinese handleless teacup/tea bowl, flared thin oval rim, round gently tapered celadon body with small ring foot, same sage-grey ceramic palette as approved jar. Elevated camera showing deep EMPTY ivory ceramic interior; clearly visible bowl depth and empty center, NO tea liquid, tea leaves, steam, saucer or spoon. Minimal material washes and clean brush edge. Cup alone on1024x1024transparentcanvas, width around700pixels, centered.",
+  "mode": "built-in image_gen",
+  "references": [
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\01_Figma参考\\figma_teashop_20261008.png",
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\06_道具与图标\\prp_tea_jar_v001.png"
+  ],
+  "savedPath": "06_道具与图标/prp_teacup_empty_v001.png",
+  "destination": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\06_道具与图标\\prp_teacup_empty_v001.png"
+}

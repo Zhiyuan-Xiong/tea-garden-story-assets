@@ -1,0 +1,1315 @@
+{
+  "added": [
+    {
+      "id": "BG_301",
+      "name": "bg_home_panorama_rich_v004",
+      "label": "主页茶村全景空背景",
+      "category": "03_建筑与场景",
+      "batch": "09_完整背景主页与存档UI",
+      "relativePath": "03_建筑与场景/bg_home_panorama_rich_v004.png",
+      "status": "已修订v004／配色校正",
+      "width": 1672,
+      "height": 941,
+      "transparent": false,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          255,
+          255,
+          255,
+          255
+        ],
+        "transparentPixels": 0,
+        "opaquePixels": 1573352,
+        "borderNonzeroPixels": 5222,
+        "borderPixelsAlpha16": 5222,
+        "centerAlpha": 255,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        0,
+        0,
+        1671,
+        940
+      ],
+      "solidBBoxAlpha128": [
+        0,
+        0,
+        1671,
+        940
+      ],
+      "approxAnchor": [
+        836,
+        470.5
+      ],
+      "anchorMeaning": "可见范围中心；透明道具与场景在引擎中另定落地点",
+      "sha256": "e9d338ad890f76804e4927049e5c83ba2c24e390ee6038b09572baadd13c5769",
+      "assetKind": "完整背景",
+      "positionReference": "00_规范与清单/完整背景主页存档UI位置参考_v001.json",
+      "mode": "built-in image_gen saturation approximately +25% from gray version",
+      "previousVersions": [
+        {
+          "id": "BG_301",
+          "relativePath": "03_建筑与场景/bg_home_panorama_rich_v001.png",
+          "width": 1672,
+          "height": 941,
+          "sha256": "198a5ef9d8315a8eb4e6073ee6f1ededd5414d1d5ab466c25cfc1cba983cae05"
+        },
+        {
+          "id": "BG_301",
+          "relativePath": "03_建筑与场景/bg_home_panorama_rich_v002.png",
+          "width": 1672,
+          "height": 941,
+          "sha256": "d02c68a3a8328af28f431599e2d439e94fc24d760a1d98e0f5c66ba778a0a24c"
+        },
+        {
+          "id": "BG_301",
+          "relativePath": "03_建筑与场景/bg_home_panorama_rich_v003.png",
+          "width": 1672,
+          "height": 941,
+          "sha256": "573e16a6e57797cf5b1a332ff4b433c526521be2e75ee409c4837788b63a7ac4"
+        }
+      ],
+      "reviewNotes": "完整静态背景PNG；无UI、人物及可操作物；预留独立素材摆放区域；按用户最新要求提亮、去颗粒、减少表面纹理与细碎描线；颜色以用户提供的亮灰雅致参考为准，避免薄荷绿、亮青蓝和粉橙；最新校色：在亮灰版基础上饱和度约提高25%，明度与低纹理不变；原始尺寸保留。BG_301主页背景中的静态陈设不可独立点击；可操作角色、植物、道具和UI使用独立分件。饱和度25%为生成式近似校色。"
+    },
+    {
+      "id": "BG_302",
+      "name": "bg_loading_landscape_rich_v004",
+      "label": "载入山水空背景",
+      "category": "03_建筑与场景",
+      "batch": "09_完整背景主页与存档UI",
+      "relativePath": "03_建筑与场景/bg_loading_landscape_rich_v004.png",
+      "status": "已修订v004／配色校正",
+      "width": 1672,
+      "height": 941,
+      "transparent": false,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          255,
+          255,
+          255,
+          255
+        ],
+        "transparentPixels": 0,
+        "opaquePixels": 1573352,
+        "borderNonzeroPixels": 5222,
+        "borderPixelsAlpha16": 5222,
+        "centerAlpha": 255,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        0,
+        0,
+        1671,
+        940
+      ],
+      "solidBBoxAlpha128": [
+        0,
+        0,
+        1671,
+        940
+      ],
+      "approxAnchor": [
+        836,
+        470.5
+      ],
+      "anchorMeaning": "可见范围中心；透明道具与场景在引擎中另定落地点",
+      "sha256": "e95bd9fa021a0ecac92cd88eecf613b8c9449a443e175c379e4fc4b883425068",
+      "assetKind": "完整背景",
+      "positionReference": "00_规范与清单/完整背景主页存档UI位置参考_v001.json",
+      "mode": "built-in image_gen saturation approximately +25% from gray version",
+      "previousVersions": [
+        {
+          "id": "BG_302",
+          "relativePath": "03_建筑与场景/bg_loading_landscape_rich_v001.png",
+          "width": 1672,
+          "height": 941,
+          "sha256": "3875ec572f8542337740827538e9ec3c8fbcefbb3f22bbe0fca6726f4d511735"
+        },
+        {
+          "id": "BG_302",
+          "relativePath": "03_建筑与场景/bg_loading_landscape_rich_v002.png",
+          "width": 1672,
+          "height": 941,
+          "sha256": "985520adac88804cf98149b6c514626914cb1dd41a62599f6a78068c117f29ec"
+        },
+        {
+          "id": "BG_302",
+          "relativePath": "03_建筑与场景/bg_loading_landscape_rich_v003.png",
+          "width": 1672,
+          "height": 941,
+          "sha256": "44386ec38c9978be499713890e10b64e0065d2f11ebfc466b426b57668300c87"
+        }
+      ],
+      "reviewNotes": "完整静态背景PNG；无UI、人物及可操作物；预留独立素材摆放区域；按用户最新要求提亮、去颗粒、减少表面纹理与细碎描线；颜色以用户提供的亮灰雅致参考为准，避免薄荷绿、亮青蓝和粉橙；最新校色：在亮灰版基础上饱和度约提高25%，明度与低纹理不变；原始尺寸保留。BG_301主页背景中的静态陈设不可独立点击；可操作角色、植物、道具和UI使用独立分件。饱和度25%为生成式近似校色。"
+    },
+    {
+      "id": "BG_303",
+      "name": "bg_village_map_rich_empty_v004",
+      "label": "茶村主地图空背景",
+      "category": "03_建筑与场景",
+      "batch": "09_完整背景主页与存档UI",
+      "relativePath": "03_建筑与场景/bg_village_map_rich_empty_v004.png",
+      "status": "已修订v004／配色校正",
+      "width": 1672,
+      "height": 941,
+      "transparent": false,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          255,
+          255,
+          255,
+          255
+        ],
+        "transparentPixels": 0,
+        "opaquePixels": 1573352,
+        "borderNonzeroPixels": 5222,
+        "borderPixelsAlpha16": 5222,
+        "centerAlpha": 255,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        0,
+        0,
+        1671,
+        940
+      ],
+      "solidBBoxAlpha128": [
+        0,
+        0,
+        1671,
+        940
+      ],
+      "approxAnchor": [
+        836,
+        470.5
+      ],
+      "anchorMeaning": "可见范围中心；透明道具与场景在引擎中另定落地点",
+      "sha256": "4bdcfa032b919f80d5a8462ba6abd8b8ed5306c4572de630c2eb2642bffd9349",
+      "assetKind": "完整背景",
+      "positionReference": "00_规范与清单/完整背景主页存档UI位置参考_v001.json",
+      "mode": "built-in image_gen saturation approximately +25% from gray version",
+      "previousVersions": [
+        {
+          "id": "BG_303",
+          "relativePath": "03_建筑与场景/bg_village_map_rich_empty_v001.png",
+          "width": 1672,
+          "height": 941,
+          "sha256": "495ebc3645b98888cce3497c922649eb95200ffc88b409d655cb6a1e74b97b74"
+        },
+        {
+          "id": "BG_303",
+          "relativePath": "03_建筑与场景/bg_village_map_rich_empty_v002.png",
+          "width": 1672,
+          "height": 941,
+          "sha256": "93714bcf443a1db43f482523d6b643c8e9894c706d3a381d28005cd5ccb2dd1f"
+        },
+        {
+          "id": "BG_303",
+          "relativePath": "03_建筑与场景/bg_village_map_rich_empty_v003.png",
+          "width": 1672,
+          "height": 941,
+          "sha256": "01812acb603699863ae4505d33661ee28489057d9a298276d73961779babe381"
+        }
+      ],
+      "reviewNotes": "完整静态背景PNG；无UI、人物及可操作物；预留独立素材摆放区域；按用户最新要求提亮、去颗粒、减少表面纹理与细碎描线；颜色以用户提供的亮灰雅致参考为准，避免薄荷绿、亮青蓝和粉橙；最新校色：在亮灰版基础上饱和度约提高25%，明度与低纹理不变；原始尺寸保留。BG_301主页背景中的静态陈设不可独立点击；可操作角色、植物、道具和UI使用独立分件。饱和度25%为生成式近似校色。"
+    },
+    {
+      "id": "BG_304",
+      "name": "bg_garden_rich_empty_v004",
+      "label": "云岫茶园空背景",
+      "category": "03_建筑与场景",
+      "batch": "09_完整背景主页与存档UI",
+      "relativePath": "03_建筑与场景/bg_garden_rich_empty_v004.png",
+      "status": "已修订v004／配色校正",
+      "width": 1672,
+      "height": 941,
+      "transparent": false,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          255,
+          255,
+          255,
+          255
+        ],
+        "transparentPixels": 0,
+        "opaquePixels": 1573352,
+        "borderNonzeroPixels": 5222,
+        "borderPixelsAlpha16": 5222,
+        "centerAlpha": 255,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        0,
+        0,
+        1671,
+        940
+      ],
+      "solidBBoxAlpha128": [
+        0,
+        0,
+        1671,
+        940
+      ],
+      "approxAnchor": [
+        836,
+        470.5
+      ],
+      "anchorMeaning": "可见范围中心；透明道具与场景在引擎中另定落地点",
+      "sha256": "9828648e5ce2bbb3f88e74af48f65661fe9b4d87c737760004fcb7cf3f01be0d",
+      "assetKind": "完整背景",
+      "positionReference": "00_规范与清单/完整背景主页存档UI位置参考_v001.json",
+      "mode": "built-in image_gen saturation approximately +25% from gray version",
+      "previousVersions": [
+        {
+          "id": "BG_304",
+          "relativePath": "03_建筑与场景/bg_garden_rich_empty_v001.png",
+          "width": 1672,
+          "height": 941,
+          "sha256": "6ba96f2ba18851de1cc5987373295091130a28f1faf98611d7278ef1ee5652b0"
+        },
+        {
+          "id": "BG_304",
+          "relativePath": "03_建筑与场景/bg_garden_rich_empty_v002.png",
+          "width": 1672,
+          "height": 941,
+          "sha256": "8e3145ec54e681a6c8a0192ad10a8a4f91a9fa260fbdb401f82e814a598efff3"
+        },
+        {
+          "id": "BG_304",
+          "relativePath": "03_建筑与场景/bg_garden_rich_empty_v003.png",
+          "width": 1672,
+          "height": 941,
+          "sha256": "fdcf572cf4339e07a42962297683712421b558193569b7be388e9478a10b0733"
+        }
+      ],
+      "reviewNotes": "完整静态背景PNG；无UI、人物及可操作物；预留独立素材摆放区域；按用户最新要求提亮、去颗粒、减少表面纹理与细碎描线；颜色以用户提供的亮灰雅致参考为准，避免薄荷绿、亮青蓝和粉橙；最新校色：在亮灰版基础上饱和度约提高25%，明度与低纹理不变；原始尺寸保留。BG_301主页背景中的静态陈设不可独立点击；可操作角色、植物、道具和UI使用独立分件。饱和度25%为生成式近似校色。"
+    },
+    {
+      "id": "BG_305",
+      "name": "bg_workshop_rich_empty_v004",
+      "label": "制茶工坊空背景",
+      "category": "03_建筑与场景",
+      "batch": "09_完整背景主页与存档UI",
+      "relativePath": "03_建筑与场景/bg_workshop_rich_empty_v004.png",
+      "status": "已修订v004／配色校正",
+      "width": 1672,
+      "height": 941,
+      "transparent": false,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          255,
+          255,
+          255,
+          255
+        ],
+        "transparentPixels": 0,
+        "opaquePixels": 1573352,
+        "borderNonzeroPixels": 5222,
+        "borderPixelsAlpha16": 5222,
+        "centerAlpha": 255,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        0,
+        0,
+        1671,
+        940
+      ],
+      "solidBBoxAlpha128": [
+        0,
+        0,
+        1671,
+        940
+      ],
+      "approxAnchor": [
+        836,
+        470.5
+      ],
+      "anchorMeaning": "可见范围中心；透明道具与场景在引擎中另定落地点",
+      "sha256": "3448468c65426218b6d4575902cf7814e3ac776a42aaf446ad80ebc588c22ffb",
+      "assetKind": "完整背景",
+      "positionReference": "00_规范与清单/完整背景主页存档UI位置参考_v001.json",
+      "mode": "built-in image_gen final user palette match",
+      "previousVersions": [
+        {
+          "id": "BG_305",
+          "relativePath": "03_建筑与场景/bg_workshop_rich_empty_v001.png",
+          "width": 1672,
+          "height": 941,
+          "sha256": "b77f9d2639fab0aa0c9205cdeb90be5903fc0d8fbcd487f72ba6f57a32a6a295"
+        },
+        {
+          "id": "BG_305",
+          "relativePath": "03_建筑与场景/bg_workshop_rich_empty_v002.png",
+          "width": 1672,
+          "height": 941,
+          "sha256": "abd657cd12c99cda194c101ba3d240cc01bbaf52bc83de45d7c61a72a78c23cf"
+        }
+      ],
+      "reviewNotes": "完整静态背景PNG；无UI、人物及可操作物；预留独立素材摆放区域；按用户最新要求提亮、去颗粒、减少表面纹理与细碎描线；颜色以用户提供的亮灰雅致参考为准，避免薄荷绿、亮青蓝和粉橙；最新校色：在亮灰版基础上饱和度约提高25%，明度与低纹理不变；原始尺寸保留。BG_301主页背景中的静态陈设不可独立点击；可操作角色、植物、道具和UI使用独立分件。饱和度25%为生成式近似校色。"
+    },
+    {
+      "id": "BG_306",
+      "name": "bg_teashop_rich_empty_v004",
+      "label": "临水茶铺空背景",
+      "category": "03_建筑与场景",
+      "batch": "09_完整背景主页与存档UI",
+      "relativePath": "03_建筑与场景/bg_teashop_rich_empty_v004.png",
+      "status": "已修订v004／配色校正",
+      "width": 1672,
+      "height": 941,
+      "transparent": false,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          255,
+          255,
+          255,
+          255
+        ],
+        "transparentPixels": 0,
+        "opaquePixels": 1573352,
+        "borderNonzeroPixels": 5222,
+        "borderPixelsAlpha16": 5222,
+        "centerAlpha": 255,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        0,
+        0,
+        1671,
+        940
+      ],
+      "solidBBoxAlpha128": [
+        0,
+        0,
+        1671,
+        940
+      ],
+      "approxAnchor": [
+        836,
+        470.5
+      ],
+      "anchorMeaning": "可见范围中心；透明道具与场景在引擎中另定落地点",
+      "sha256": "fff7444700f17a8e9465d0854e59b4f005b634e1912ce693ed1813f179a9a991",
+      "assetKind": "完整背景",
+      "positionReference": "00_规范与清单/完整背景主页存档UI位置参考_v001.json",
+      "mode": "built-in image_gen palette edit",
+      "previousVersions": [
+        {
+          "id": "BG_306",
+          "relativePath": "03_建筑与场景/bg_teashop_rich_empty_v002.png",
+          "width": 1672,
+          "height": 941,
+          "sha256": "48911a4d41366e2a5598bb2b2bfb05e23cd7cad38ee08076791a66e75ef239d1"
+        }
+      ],
+      "reviewNotes": "完整静态背景PNG；无UI、人物及可操作物；预留独立素材摆放区域；按用户最新要求提亮、去颗粒、减少表面纹理与细碎描线；颜色以用户提供的亮灰雅致参考为准，避免薄荷绿、亮青蓝和粉橙；最新校色：在亮灰版基础上饱和度约提高25%，明度与低纹理不变；原始尺寸保留。BG_301主页背景中的静态陈设不可独立点击；可操作角色、植物、道具和UI使用独立分件。饱和度25%为生成式近似校色。"
+    },
+    {
+      "id": "LOG_301",
+      "name": "logo_teagarden_original_clear_v001",
+      "label": "原版茶园物语高清Logo",
+      "category": "04_UI组件",
+      "batch": "09_完整背景主页与存档UI",
+      "relativePath": "04_UI组件/logo_teagarden_original_clear_v001.png",
+      "status": "原版源PNG／无重绘",
+      "width": 843,
+      "height": 614,
+      "transparent": true,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 330588,
+        "opaquePixels": 173495,
+        "borderNonzeroPixels": 82,
+        "borderPixelsAlpha16": 81,
+        "centerAlpha": 0,
+        "warning": "原Logo边缘沿用源文件，不裁切、不重绘。"
+      },
+      "visibleBBoxAlpha16": [
+        0,
+        0,
+        842,
+        613
+      ],
+      "solidBBoxAlpha128": [
+        0,
+        0,
+        842,
+        613
+      ],
+      "approxAnchor": [
+        421,
+        306.5
+      ],
+      "anchorMeaning": "可见范围中心；透明道具与场景在引擎中另定落地点",
+      "sha256": "e08e721849fb3ac829819c70c7d254dfa3a7cf06d0c4c6934aa8fd2cf394622e",
+      "assetKind": "Logo",
+      "positionReference": "00_规范与清单/完整背景主页存档UI位置参考_v001.json",
+      "mode": "Figma original high-resolution PNG extraction; no redraw",
+      "previousVersions": [],
+      "reviewNotes": "直接使用Figma最高分辨率原版透明PNG，保留原笔画、云纹、茶杯及印章，未重绘。"
+    },
+    {
+      "id": "PRP_401",
+      "name": "prp_loading_gaiwan_v001",
+      "label": "载入盖碗",
+      "category": "06_道具与图标",
+      "batch": "09_完整背景主页与存档UI",
+      "relativePath": "06_道具与图标/prp_loading_gaiwan_v001.png",
+      "status": "已生成v001",
+      "width": 1254,
+      "height": 1254,
+      "transparent": true,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1022243,
+        "opaquePixels": 654,
+        "borderNonzeroPixels": 19,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 253,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        154,
+        220,
+        1100,
+        1074
+      ],
+      "solidBBoxAlpha128": [
+        154,
+        220,
+        1099,
+        1073
+      ],
+      "approxAnchor": [
+        627,
+        647
+      ],
+      "anchorMeaning": "可见范围中心；透明道具与场景在引擎中另定落地点",
+      "sha256": "03cd2a7ecb096c69c2eaa9b9134d2c557605a3604ade68e3df40a9781e31944e",
+      "assetKind": "载入插画分件",
+      "positionReference": "00_规范与清单/完整背景主页存档UI位置参考_v001.json",
+      "mode": "built-in image_gen",
+      "previousVersions": [],
+      "reviewNotes": "独立透明PNG，界面文字与数值另设；原始尺寸保留。BG_301主页背景中的静态陈设不可独立点击；可操作角色、植物、道具和UI使用独立分件。饱和度25%为生成式近似校色。"
+    },
+    {
+      "id": "PRP_402",
+      "name": "prp_loading_bamboo_tray_v001",
+      "label": "载入长竹托盘",
+      "category": "06_道具与图标",
+      "batch": "09_完整背景主页与存档UI",
+      "relativePath": "06_道具与图标/prp_loading_bamboo_tray_v001.png",
+      "status": "已生成v001",
+      "width": 1774,
+      "height": 887,
+      "transparent": true,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1060093,
+        "opaquePixels": 930,
+        "borderNonzeroPixels": 9,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 253,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        105,
+        152,
+        1710,
+        818
+      ],
+      "solidBBoxAlpha128": [
+        106,
+        153,
+        1709,
+        817
+      ],
+      "approxAnchor": [
+        907.5,
+        485
+      ],
+      "anchorMeaning": "可见范围中心；透明道具与场景在引擎中另定落地点",
+      "sha256": "ada5a3a8ec5be8668383d88471a75738e7c773a01f96c9d674cd85645bd49dd4",
+      "assetKind": "载入插画分件",
+      "positionReference": "00_规范与清单/完整背景主页存档UI位置参考_v001.json",
+      "mode": "built-in image_gen transparent component",
+      "previousVersions": [],
+      "reviewNotes": "独立透明PNG，界面文字与数值另设；原始尺寸保留。BG_301主页背景中的静态陈设不可独立点击；可操作角色、植物、道具和UI使用独立分件。饱和度25%为生成式近似校色。"
+    },
+    {
+      "id": "PRP_403",
+      "name": "prp_tea_flower_branch_v001",
+      "label": "茶花枝装饰",
+      "category": "06_道具与图标",
+      "batch": "09_完整背景主页与存档UI",
+      "relativePath": "06_道具与图标/prp_tea_flower_branch_v001.png",
+      "status": "已生成v001",
+      "width": 1254,
+      "height": 1254,
+      "transparent": true,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1339382,
+        "opaquePixels": 464,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 253,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        113,
+        201,
+        1202,
+        1102
+      ],
+      "solidBBoxAlpha128": [
+        114,
+        202,
+        1201,
+        1101
+      ],
+      "approxAnchor": [
+        657.5,
+        651.5
+      ],
+      "anchorMeaning": "可见范围中心；透明道具与场景在引擎中另定落地点",
+      "sha256": "7d641a53dacb55cfd54db4c5134b6309deb5eae51949d915c2c05e58812a79ca",
+      "assetKind": "载入插画分件",
+      "positionReference": "00_规范与清单/完整背景主页存档UI位置参考_v001.json",
+      "mode": "built-in image_gen transparent component",
+      "previousVersions": [],
+      "reviewNotes": "独立透明PNG，界面文字与数值另设；原始尺寸保留。BG_301主页背景中的静态陈设不可独立点击；可操作角色、植物、道具和UI使用独立分件。饱和度25%为生成式近似校色。"
+    },
+    {
+      "id": "UI_036",
+      "name": "ui_loading_track_v001",
+      "label": "加载条空轨道",
+      "category": "04_UI组件",
+      "batch": "09_完整背景主页与存档UI",
+      "relativePath": "04_UI组件/ui_loading_track_v001.png",
+      "status": "已生成v001",
+      "width": 2172,
+      "height": 724,
+      "transparent": true,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1330632,
+        "opaquePixels": 3627,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 254,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        109,
+        300,
+        2063,
+        421
+      ],
+      "solidBBoxAlpha128": [
+        110,
+        301,
+        2062,
+        421
+      ],
+      "approxAnchor": [
+        1086,
+        360.5
+      ],
+      "anchorMeaning": "可见范围中心；透明道具与场景在引擎中另定落地点",
+      "sha256": "d6f9f38b90626040c62c0fe85b1957f79b9ee10fe3437bc941762c059e3b0c1e",
+      "assetKind": "载入控件",
+      "positionReference": "00_规范与清单/完整背景主页存档UI位置参考_v001.json",
+      "mode": "built-in image_gen transparent component",
+      "previousVersions": [],
+      "reviewNotes": "独立透明PNG，界面文字与数值另设；原始尺寸保留。BG_301主页背景中的静态陈设不可独立点击；可操作角色、植物、道具和UI使用独立分件。饱和度25%为生成式近似校色。"
+    },
+    {
+      "id": "UI_037",
+      "name": "ui_loading_fill_v001",
+      "label": "加载条填充",
+      "category": "04_UI组件",
+      "batch": "09_完整背景主页与存档UI",
+      "relativePath": "04_UI组件/ui_loading_fill_v001.png",
+      "status": "已生成v001",
+      "width": 2172,
+      "height": 724,
+      "transparent": true,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1343339,
+        "opaquePixels": 2964,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 253,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        112,
+        303,
+        2059,
+        419
+      ],
+      "solidBBoxAlpha128": [
+        113,
+        304,
+        2058,
+        418
+      ],
+      "approxAnchor": [
+        1085.5,
+        361
+      ],
+      "anchorMeaning": "可见范围中心；透明道具与场景在引擎中另定落地点",
+      "sha256": "baf1a11ecf1edf1d4a4bd99b07c921918484915a90b51084784e8122fcde4863",
+      "assetKind": "载入控件",
+      "positionReference": "00_规范与清单/完整背景主页存档UI位置参考_v001.json",
+      "mode": "built-in image_gen transparent component",
+      "previousVersions": [],
+      "reviewNotes": "独立透明PNG，界面文字与数值另设；原始尺寸保留。BG_301主页背景中的静态陈设不可独立点击；可操作角色、植物、道具和UI使用独立分件。饱和度25%为生成式近似校色。"
+    },
+    {
+      "id": "UI_038",
+      "name": "ui_loading_divider_v001",
+      "label": "载入题字装饰横线",
+      "category": "04_UI组件",
+      "batch": "09_完整背景主页与存档UI",
+      "relativePath": "04_UI组件/ui_loading_divider_v001.png",
+      "status": "已生成v001",
+      "width": 2172,
+      "height": 724,
+      "transparent": true,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1513733,
+        "opaquePixels": 74,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 0,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        97,
+        322,
+        2074,
+        401
+      ],
+      "solidBBoxAlpha128": [
+        98,
+        323,
+        2073,
+        400
+      ],
+      "approxAnchor": [
+        1085.5,
+        361.5
+      ],
+      "anchorMeaning": "可见范围中心；透明道具与场景在引擎中另定落地点",
+      "sha256": "715f67bb7178024d7013bf01f39e14e5aac1b3bb105b80783d4ddc64313be8f2",
+      "assetKind": "载入控件",
+      "positionReference": "00_规范与清单/完整背景主页存档UI位置参考_v001.json",
+      "mode": "built-in image_gen transparent component",
+      "previousVersions": [],
+      "reviewNotes": "独立透明PNG，界面文字与数值另设；原始尺寸保留。BG_301主页背景中的静态陈设不可独立点击；可操作角色、植物、道具和UI使用独立分件。饱和度25%为生成式近似校色。"
+    },
+    {
+      "id": "ICO_401",
+      "name": "ico_tea_sprout_menu_v001",
+      "label": "芽叶图标",
+      "category": "04_UI组件",
+      "batch": "09_完整背景主页与存档UI",
+      "relativePath": "04_UI组件/ico_tea_sprout_menu_v001.png",
+      "status": "已生成v001",
+      "width": 1536,
+      "height": 1024,
+      "transparent": true,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1360304,
+        "opaquePixels": 0,
+        "borderNonzeroPixels": 5,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 252,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        349,
+        191,
+        1218,
+        841
+      ],
+      "solidBBoxAlpha128": [
+        349,
+        192,
+        1217,
+        841
+      ],
+      "approxAnchor": [
+        783.5,
+        516
+      ],
+      "anchorMeaning": "可见范围中心；透明道具与场景在引擎中另定落地点",
+      "sha256": "23df6551c7a8f1b43ad47b9c3bbd2e3906788dc252a3ea479e87cab4ef1007b3",
+      "assetKind": "主页与载入控件",
+      "positionReference": "00_规范与清单/完整背景主页存档UI位置参考_v001.json",
+      "mode": "built-in image_gen transparent component",
+      "previousVersions": [],
+      "reviewNotes": "独立透明PNG，界面文字与数值另设；原始尺寸保留。BG_301主页背景中的静态陈设不可独立点击；可操作角色、植物、道具和UI使用独立分件。饱和度25%为生成式近似校色。"
+    },
+    {
+      "id": "UI_040",
+      "name": "ui_home_button_normal_v001",
+      "label": "主页绿按钮默认",
+      "category": "04_UI组件",
+      "batch": "09_完整背景主页与存档UI",
+      "relativePath": "04_UI组件/ui_home_button_normal_v001.png",
+      "status": "已生成v001",
+      "width": 2112,
+      "height": 744,
+      "transparent": true,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1163440,
+        "opaquePixels": 2490,
+        "borderNonzeroPixels": 11,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 253,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        312,
+        226,
+        1799,
+        517
+      ],
+      "solidBBoxAlpha128": [
+        313,
+        227,
+        1798,
+        516
+      ],
+      "approxAnchor": [
+        1055.5,
+        371.5
+      ],
+      "anchorMeaning": "可见范围中心；透明道具与场景在引擎中另定落地点",
+      "sha256": "0c645ea44101104b5ba63a5fa06f511f3897a03b6cea777a07684a483b99360f",
+      "assetKind": "主页按钮",
+      "positionReference": "00_规范与清单/完整背景主页存档UI位置参考_v001.json",
+      "mode": "built-in image_gen transparent component",
+      "previousVersions": [],
+      "reviewNotes": "独立透明PNG，界面文字与数值另设；原始尺寸保留。BG_301主页背景中的静态陈设不可独立点击；可操作角色、植物、道具和UI使用独立分件。饱和度25%为生成式近似校色。"
+    },
+    {
+      "id": "UI_041",
+      "name": "ui_home_button_hover_v001",
+      "label": "主页绿按钮悬停",
+      "category": "04_UI组件",
+      "batch": "09_完整背景主页与存档UI",
+      "relativePath": "04_UI组件/ui_home_button_hover_v001.png",
+      "status": "已生成v001",
+      "width": 2112,
+      "height": 744,
+      "transparent": true,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1162197,
+        "opaquePixels": 2131,
+        "borderNonzeroPixels": 13,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 253,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        313,
+        221,
+        1796,
+        513
+      ],
+      "solidBBoxAlpha128": [
+        313,
+        222,
+        1796,
+        512
+      ],
+      "approxAnchor": [
+        1054.5,
+        367
+      ],
+      "anchorMeaning": "可见范围中心；透明道具与场景在引擎中另定落地点",
+      "sha256": "be78ce08a53ba8d443edf4165d1c4ff6c88a180a43962a3065a94f356c299d4e",
+      "assetKind": "主页按钮",
+      "positionReference": "00_规范与清单/完整背景主页存档UI位置参考_v001.json",
+      "mode": "built-in image_gen transparent component",
+      "previousVersions": [],
+      "reviewNotes": "独立透明PNG，界面文字与数值另设；原始尺寸保留。BG_301主页背景中的静态陈设不可独立点击；可操作角色、植物、道具和UI使用独立分件。饱和度25%为生成式近似校色。"
+    },
+    {
+      "id": "UI_042",
+      "name": "ui_home_button_pressed_v001",
+      "label": "主页绿按钮按下",
+      "category": "04_UI组件",
+      "batch": "09_完整背景主页与存档UI",
+      "relativePath": "04_UI组件/ui_home_button_pressed_v001.png",
+      "status": "已生成v001",
+      "width": 2112,
+      "height": 744,
+      "transparent": true,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1160920,
+        "opaquePixels": 1119,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 253,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        304,
+        220,
+        1788,
+        511
+      ],
+      "solidBBoxAlpha128": [
+        305,
+        221,
+        1788,
+        510
+      ],
+      "approxAnchor": [
+        1046,
+        365.5
+      ],
+      "anchorMeaning": "可见范围中心；透明道具与场景在引擎中另定落地点",
+      "sha256": "8bf8bd50dd0d12b31e434309f52886dc1e1a5da3e5231041bb8f0f257470a180",
+      "assetKind": "主页按钮",
+      "positionReference": "00_规范与清单/完整背景主页存档UI位置参考_v001.json",
+      "mode": "built-in image_gen transparent component",
+      "previousVersions": [],
+      "reviewNotes": "独立透明PNG，界面文字与数值另设；原始尺寸保留。BG_301主页背景中的静态陈设不可独立点击；可操作角色、植物、道具和UI使用独立分件。饱和度25%为生成式近似校色。"
+    },
+    {
+      "id": "UI_043",
+      "name": "ui_home_button_disabled_v001",
+      "label": "主页绿按钮禁用",
+      "category": "04_UI组件",
+      "batch": "09_完整背景主页与存档UI",
+      "relativePath": "04_UI组件/ui_home_button_disabled_v001.png",
+      "status": "已生成v001",
+      "width": 2112,
+      "height": 745,
+      "transparent": true,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1160772,
+        "opaquePixels": 2373,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 253,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        310,
+        221,
+        1798,
+        516
+      ],
+      "solidBBoxAlpha128": [
+        311,
+        222,
+        1798,
+        515
+      ],
+      "approxAnchor": [
+        1054,
+        368.5
+      ],
+      "anchorMeaning": "可见范围中心；透明道具与场景在引擎中另定落地点",
+      "sha256": "69b25398a5518a3149f43bc6c5aec65a3e193cf4737dabeb5c6e8e6b5c966365",
+      "assetKind": "主页按钮",
+      "positionReference": "00_规范与清单/完整背景主页存档UI位置参考_v001.json",
+      "mode": "built-in image_gen transparent component",
+      "previousVersions": [],
+      "reviewNotes": "独立透明PNG，界面文字与数值另设；原始尺寸保留。BG_301主页背景中的静态陈设不可独立点击；可操作角色、植物、道具和UI使用独立分件。饱和度25%为生成式近似校色。"
+    },
+    {
+      "id": "UI_044",
+      "name": "ui_save_slot_base_v001",
+      "label": "存档槽横卡底板",
+      "category": "04_UI组件",
+      "batch": "09_完整背景主页与存档UI",
+      "relativePath": "04_UI组件/ui_save_slot_base_v001.png",
+      "status": "已生成v001",
+      "width": 2109,
+      "height": 745,
+      "transparent": true,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1087065,
+        "opaquePixels": 2847,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 253,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        228,
+        219,
+        1880,
+        531
+      ],
+      "solidBBoxAlpha128": [
+        229,
+        220,
+        1879,
+        530
+      ],
+      "approxAnchor": [
+        1054,
+        375
+      ],
+      "anchorMeaning": "可见范围中心；透明道具与场景在引擎中另定落地点",
+      "sha256": "386d2a702c341e1749c2750cb524beda9f706ce2fe84df98e571d78b2bd44a6e",
+      "assetKind": "存档读档控件",
+      "positionReference": "00_规范与清单/完整背景主页存档UI位置参考_v001.json",
+      "mode": "built-in image_gen transparent component",
+      "previousVersions": [],
+      "reviewNotes": "独立透明PNG，界面文字与数值另设；原始尺寸保留。BG_301主页背景中的静态陈设不可独立点击；可操作角色、植物、道具和UI使用独立分件。饱和度25%为生成式近似校色。"
+    },
+    {
+      "id": "UI_045",
+      "name": "ui_save_slot_selection_v001",
+      "label": "存档槽选中描边",
+      "category": "04_UI组件",
+      "batch": "09_完整背景主页与存档UI",
+      "relativePath": "04_UI组件/ui_save_slot_selection_v001.png",
+      "status": "已生成v001",
+      "width": 2111,
+      "height": 745,
+      "transparent": true,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1442300,
+        "opaquePixels": 4266,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 0,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        168,
+        202,
+        1942,
+        541
+      ],
+      "solidBBoxAlpha128": [
+        169,
+        203,
+        1942,
+        541
+      ],
+      "approxAnchor": [
+        1055,
+        371.5
+      ],
+      "anchorMeaning": "可见范围中心；透明道具与场景在引擎中另定落地点",
+      "sha256": "5a641c0055de4ff64b66f42d66534fcc0f5cb36bf8cb22414361fb722973f956",
+      "assetKind": "存档读档控件",
+      "positionReference": "00_规范与清单/完整背景主页存档UI位置参考_v001.json",
+      "mode": "built-in image_gen transparent component",
+      "previousVersions": [],
+      "reviewNotes": "独立透明PNG，界面文字与数值另设；原始尺寸保留。BG_301主页背景中的静态陈设不可独立点击；可操作角色、植物、道具和UI使用独立分件。饱和度25%为生成式近似校色。"
+    },
+    {
+      "id": "UI_046",
+      "name": "ui_save_thumbnail_frame_v001",
+      "label": "存档缩略图空框",
+      "category": "04_UI组件",
+      "batch": "09_完整背景主页与存档UI",
+      "relativePath": "04_UI组件/ui_save_thumbnail_frame_v001.png",
+      "status": "已生成v001",
+      "width": 1448,
+      "height": 1086,
+      "transparent": true,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1447559,
+        "opaquePixels": 1961,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 0,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        145,
+        191,
+        1303,
+        880
+      ],
+      "solidBBoxAlpha128": [
+        146,
+        192,
+        1302,
+        879
+      ],
+      "approxAnchor": [
+        724,
+        535.5
+      ],
+      "anchorMeaning": "可见范围中心；透明道具与场景在引擎中另定落地点",
+      "sha256": "4be878953197eaa7510f08356b77df2dc5f54d7f74211d0d78d2303294e0c9c5",
+      "assetKind": "存档读档控件",
+      "positionReference": "00_规范与清单/完整背景主页存档UI位置参考_v001.json",
+      "mode": "built-in image_gen transparent component",
+      "previousVersions": [],
+      "reviewNotes": "独立透明PNG，界面文字与数值另设；原始尺寸保留。BG_301主页背景中的静态陈设不可独立点击；可操作角色、植物、道具和UI使用独立分件。饱和度25%为生成式近似校色。"
+    },
+    {
+      "id": "ICO_402",
+      "name": "ico_save_scroll_v001",
+      "label": "保存存档图标",
+      "category": "04_UI组件",
+      "batch": "09_完整背景主页与存档UI",
+      "relativePath": "04_UI组件/ico_save_scroll_v001.png",
+      "status": "已生成v001",
+      "width": 1536,
+      "height": 1024,
+      "transparent": true,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1172509,
+        "opaquePixels": 0,
+        "borderNonzeroPixels": 3,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 253,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        316,
+        162,
+        1219,
+        827
+      ],
+      "solidBBoxAlpha128": [
+        316,
+        163,
+        1219,
+        827
+      ],
+      "approxAnchor": [
+        767.5,
+        494.5
+      ],
+      "anchorMeaning": "可见范围中心；透明道具与场景在引擎中另定落地点",
+      "sha256": "4facbbaa14b06cd604fde6005228597caff27c82726eb3412a0d2e158f8a7fe9",
+      "assetKind": "存档读档控件",
+      "positionReference": "00_规范与清单/完整背景主页存档UI位置参考_v001.json",
+      "mode": "built-in image_gen transparent component",
+      "previousVersions": [],
+      "reviewNotes": "独立透明PNG，界面文字与数值另设；原始尺寸保留。BG_301主页背景中的静态陈设不可独立点击；可操作角色、植物、道具和UI使用独立分件。饱和度25%为生成式近似校色。"
+    },
+    {
+      "id": "ICO_403",
+      "name": "ico_load_scroll_v001",
+      "label": "读取存档图标",
+      "category": "04_UI组件",
+      "batch": "09_完整背景主页与存档UI",
+      "relativePath": "04_UI组件/ico_load_scroll_v001.png",
+      "status": "已生成v001",
+      "width": 1536,
+      "height": 1024,
+      "transparent": true,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1094903,
+        "opaquePixels": 0,
+        "borderNonzeroPixels": 123,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 253,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        276,
+        121,
+        1259,
+        861
+      ],
+      "solidBBoxAlpha128": [
+        277,
+        122,
+        1259,
+        861
+      ],
+      "approxAnchor": [
+        767.5,
+        491
+      ],
+      "anchorMeaning": "可见范围中心；透明道具与场景在引擎中另定落地点",
+      "sha256": "a9ef71f042426962b2260582fba529612556772100b1bac65a3244074839b551",
+      "assetKind": "存档读档控件",
+      "positionReference": "00_规范与清单/完整背景主页存档UI位置参考_v001.json",
+      "mode": "built-in image_gen transparent component",
+      "previousVersions": [],
+      "reviewNotes": "独立透明PNG，界面文字与数值另设；原始尺寸保留。BG_301主页背景中的静态陈设不可独立点击；可操作角色、植物、道具和UI使用独立分件。饱和度25%为生成式近似校色。"
+    },
+    {
+      "id": "ICO_404",
+      "name": "ico_home_pavilion_v001",
+      "label": "返回主页图标",
+      "category": "04_UI组件",
+      "batch": "09_完整背景主页与存档UI",
+      "relativePath": "04_UI组件/ico_home_pavilion_v001.png",
+      "status": "已生成v001",
+      "width": 1536,
+      "height": 1024,
+      "transparent": true,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1207948,
+        "opaquePixels": 0,
+        "borderNonzeroPixels": 13,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 253,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        304,
+        193,
+        1231,
+        815
+      ],
+      "solidBBoxAlpha128": [
+        304,
+        193,
+        1231,
+        815
+      ],
+      "approxAnchor": [
+        767.5,
+        504
+      ],
+      "anchorMeaning": "可见范围中心；透明道具与场景在引擎中另定落地点",
+      "sha256": "d1e277e1d6a384443d7b89054e2105a76a5dc9dd4855f0f487d48d70b784c68a",
+      "assetKind": "主页控件",
+      "positionReference": "00_规范与清单/完整背景主页存档UI位置参考_v001.json",
+      "mode": "built-in image_gen transparent component",
+      "previousVersions": [],
+      "reviewNotes": "独立透明PNG，界面文字与数值另设；原始尺寸保留。BG_301主页背景中的静态陈设不可独立点击；可操作角色、植物、道具和UI使用独立分件。饱和度25%为生成式近似校色。"
+    }
+  ]
+}

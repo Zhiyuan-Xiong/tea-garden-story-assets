@@ -1,0 +1,41 @@
+{
+  "loop_closure_pixel_identical": true,
+  "regions": {
+    "plant_left_crown": {
+      "max_channel_difference": 113,
+      "changed_pixels": 72365,
+      "mean_difference": 5.4475
+    },
+    "plant_right_leaves": {
+      "max_channel_difference": 95,
+      "changed_pixels": 32730,
+      "mean_difference": 5.9362
+    },
+    "cloud_upper_left": {
+      "max_channel_difference": 49,
+      "changed_pixels": 47142,
+      "mean_difference": 3.3527
+    },
+    "workshop_building_stays_still": {
+      "max_channel_difference": 0,
+      "changed_pixels": 0,
+      "mean_difference": 0.0
+    },
+    "teashop_building_stays_still": {
+      "max_channel_difference": 0,
+      "changed_pixels": 0,
+      "mean_difference": 0.0
+    },
+    "mountain_center_stays_still": {
+      "max_channel_difference": 0,
+      "changed_pixels": 0,
+      "mean_difference": 0.0
+    },
+    "plant_root_stays_still": {
+      "max_channel_difference": 0,
+      "changed_pixels": 0,
+      "mean_difference": 0.0
+    }
+  },
+  "source_images": "unchanged original game background; frames rendered by Godot"
+}

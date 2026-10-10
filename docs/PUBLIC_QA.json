@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-10",
+  "font": {
+    "body_weight": 400.0,
+    "font": "Noto Sans SC",
+    "missing": [],
+    "passed": true,
+    "sample_characters_checked": 57,
+    "title_weight": 600.0
+  },
+  "startup": {
+    "engine": "Godot 4.7.2",
+    "mode": "headless, isolated user data, 30 frames, verbose",
+    "exitCode": 0,
+    "errors": 0,
+    "warnings": 0
+  },
+  "sourceHashesMatched": 2272,
+  "scope": "公开字体加载与工程启动检查；历史玩法测试保留原记录，本次没有重新执行全部测试。"
+}

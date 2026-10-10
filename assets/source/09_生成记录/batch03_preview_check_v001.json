@@ -1,0 +1,36 @@
+{
+  "checks": [
+    {
+      "file": "00_第03批素材总览_v001",
+      "images": 33,
+      "overflow": false,
+      "height": 2068
+    },
+    {
+      "file": "01_底板与装饰_v001",
+      "images": 12,
+      "overflow": false,
+      "height": 1597
+    },
+    {
+      "file": "02_按钮页签与进度_v001",
+      "images": 8,
+      "overflow": false,
+      "height": 1080
+    },
+    {
+      "file": "03_图标状态与品质_v001",
+      "images": 13,
+      "overflow": false,
+      "height": 1477
+    }
+  ],
+  "library": {
+    "all": 56,
+    "batch03": 33,
+    "batch02": 18,
+    "tabSearch": 2
+  },
+  "errors": [],
+  "pass": true
+}

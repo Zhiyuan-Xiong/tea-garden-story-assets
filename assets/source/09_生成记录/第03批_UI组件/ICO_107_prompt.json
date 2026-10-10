@@ -1,0 +1,18 @@
+{
+  "id": "ICO_107",
+  "category": "04_UI组件",
+  "functionArea": "通用UI",
+  "label": "设置图标",
+  "plannedFile": "ico_settings_v001.png",
+  "batch": "03_UI组件",
+  "targetSize": "512×512",
+  "status": "待生成",
+  "actualSize": "",
+  "relativePath": "",
+  "remarks": "圆底分离",
+  "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-19514742-1a52-4402-946c-3a2e37b828f9.png",
+  "prompt": "Use case: ui-mockup. ONE standalone SETTINGS glyph for Chinese ink-light-watercolor game. A simple flat eight-tooth bamboo-brown cog ring, clear symmetrical gear silhouette, uniform broad thickness, ROUND CENTER HOLE entirely transparent alpha0. Subdued bamboo-brown #927b58 broad smooth matte painted fill, subtle hand-painted edge only, no 3D bevel, metal, texture grain, scratches, mottled patches or saturated orange. Square1024x1024transparentcanvas, cog roughly65%width centered withsafe margins. Nothing behind or inside hole. No circular button backing, screws, spokes, dots, symbol in hole, words, number, extra gears, logo, glow or cast shadow. True alpha outside and centerhole.",
+  "mode": "built-in image_gen",
+  "refs": [],
+  "savedPath": "04_UI组件/ico_settings_v001.png"
+}

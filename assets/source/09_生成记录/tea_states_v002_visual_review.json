@@ -1,0 +1,15 @@
+{
+  "date": "2026-10-08",
+  "revision": "茶树状态v002",
+  "toolMode": "built-in image_gen",
+  "newPNGs": 4,
+  "review": "已逐项查看原始生成图，并检查同尺度根部对齐的新旧对照与缩小预览。新版生长中叶簇明显分离、成熟态嫩芽丰富、采摘后顶线降低且无浅色嫩芽；幼苗变小。画风与配色沿用现有水墨淡彩。",
+  "transparencyPassed": 4,
+  "previousVersionsPreserved": true,
+  "previews": [
+    "08_预览/茶树状态_v002/01_茶树状态新旧对照_v002.png",
+    "08_预览/茶树状态_v002/02_茶树四状态展示_v002.png"
+  ],
+  "library": "素材库预览_v003.html",
+  "enginePlacementVerified": false
+}

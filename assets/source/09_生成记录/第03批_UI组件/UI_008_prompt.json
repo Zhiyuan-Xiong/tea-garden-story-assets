@@ -1,0 +1,20 @@
+{
+  "id": "UI_008",
+  "category": "04_UI组件",
+  "functionArea": "通用UI",
+  "label": "对话底板",
+  "plannedFile": "ui_dialogue_base_v001.png",
+  "batch": "03_UI组件",
+  "targetSize": "1536×512",
+  "status": "待生成",
+  "actualSize": "",
+  "relativePath": "",
+  "remarks": "头像、名字、文本分开",
+  "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-c8c9e402-c819-4b24-bd23-a284830e9588.png",
+  "prompt": "Use case: ui-mockup. Generate ONE isolated raster UI component for Chinese ink/light-watercolor game 茶园物语. Images are STYLE references only, from our approved clean card and toolbar: match blank ivory paper, thin muted bamboo-brown double frame and shallow traditional corners. Flat face-on 2D UI, no perspective or 3D lighting. Extremely clean smooth color surfaces, minimal broad soft washes, no grain, paper noise, mottling, fog, glossy highlights, saturation or distress. Palette ivory #f5efdf, bamboo-brown #9c8058, subdued sage #829276. ONE component only with safe transparent margins. True alpha PNG outside, not checkerboard/white background, no shadow or halo. Absolutely no mountains, bamboo leaves, landscape, ornamental clouds, seals, words, letters, numbers, text, icons, leaf logos or extra objects inside or outside. All decoration will be generated separately. Create one empty DIALOGUE PANEL, plain ivory wide rectangular paper backing, thin double bamboo-brown outline and mildly stepped rounded corners. Landscape1536x1024 transparent canvas, bounds(70,280)to(1466,744). Blank uninterrupted center. No decorations, portrait holes, name plaques, buttons or arrows.",
+  "mode": "built-in image_gen",
+  "refs": [
+    "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-7d7cd7f9-b368-49d8-99e4-5067ec06c1ea.png"
+  ],
+  "savedPath": "04_UI组件/ui_dialogue_base_v001.png"
+}

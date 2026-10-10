@@ -1,0 +1,62 @@
+{
+  "project": "茶园物语",
+  "date": "2026-10-08",
+  "request": "挡土墙透视与土路、石路略微不一致。",
+  "mode": "built-in image_gen",
+  "selected": "02_地形与植物/ter_retaining_wall_v002.png",
+  "geometryGuide": "09_生成记录/挡土墙轴测几何参考_v002.png",
+  "geometryGuideNote": "仅用于约束图像生成的几何参考图；正式石墙仍由内置image_gen生成。",
+  "attempts": [
+    {
+      "id": "TER_104",
+      "label": "低矮挡土石墙",
+      "file": "ter_retaining_wall_v002.png",
+      "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-8ab34383-d913-4b1b-892e-daa6a287cd90.png",
+      "prompt": "Use case: precise-object-edit. 修订《茶园物语》低矮挡土石墙的轴测几何。Image 1为石墙编辑目标，只保留它的浅暖灰/灰绿石块配色、水墨淡彩手绘笔触与三层低墙身份，必须重画透视几何。Image 2土路、Image 3石路是唯一投影方向参考，仔细匹配道路两组平行边的倾斜角。旧墙倾角太平，不可保留原投影。\n几何硬要求：正交平行投影，2:1菱形地面轴测。沿墙长度从左下到右上，每向右2像素必须向上1像素，即长边约-26.565度；墙厚度方向从左上到右下，每向右2像素向下1像素，即短边约+26.565度；所有竖边必须垂直。平行长边不能收敛，各石块同尺度，没有近大远小。不要把旧PNG整体旋转，必须重新绘制墙顶、左端面、长正面，使竖线仍竖直。\n横版1536×1024透明画布，可以用以下理想整体顶面四角作为绘画构图参考：后左角约(150,650)，后右角约(1230,110)，前右角约(1390,190)，前左角约(310,730)，墙高约195像素；前左底点约(310,925)，前右底点约(1390,385)，后左底点约(150,845)。坐标和辅助边线绝不画出来，只用于控制整体几何。顶面是长窄平行四边形，不要旧墙19度的平斜角。主体四周透明留白，所有端面完整不裁切。\n主体仅一段独立低矮直石墙，三层约12块大而简洁的青灰浅暖灰石块，错缝稳固，大色块与少量宽淡彩笔触；石块轻微圆钝手绘不规则可以保留，但整体纵向砌缝遵循上述统一平行方向，顶面厚度前后相同。墨灰柔和细线，灰绿、暖米灰协调，低至中等饱和度。无密集斑点、噪点、纹理、浑浊灰雾、强高光、黑粗描边。不添加土地、道路、茶树、苔藓、栏杆、草、碎石、基座、外部投影、光晕、文字、数字、标记、背景或棋盘格。真正alpha透明PNG，只有这段石墙。",
+      "mode": "built-in image_gen",
+      "referenceRoles": {
+        "editTarget": "ter_retaining_wall_v001.png",
+        "projectionReferences": [
+          "ter_path_earth_straight_v001.png",
+          "ter_path_stone_straight_v001.png"
+        ]
+      },
+      "savedPath": "08_预览/挡土墙透视修订_v002/未采用候选/候选01_未采用.png",
+      "status": "未采用／透视方向未完全匹配",
+      "generationOrder": 1
+    },
+    {
+      "id": "TER_104",
+      "label": "低矮挡土石墙",
+      "file": "ter_retaining_wall_v002.png",
+      "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-0590baae-6a16-43a9-97ef-191e8b943e2a.png",
+      "prompt": "Use case: precise-object-edit. 本次修改以Image 1“石路直段”的地面平行四边形为几何编辑目标，将它变成同方向的三层低矮石墙。Image 2“旧石墙”仅为石块颜色和水墨淡彩笔触参考，绝对不能复制Image2较平的外轮廓和投影。重点是Image1的两组边线倾角：左下到右上的长轴斜率约-0.48（25.7度）；左上到右下的短轴约+0.56（29度）。新石墙顶面所有长边必须平行Image1长边，顶面所有短边必须平行Image1短边。竖直边垂直，平行投影，不收敛、无近大远小。\n把Image1路面收窄为约160像素的墙厚，再沿屏幕垂直方向向下延伸约190像素，形成完整墙顶、长正面和左端面。不要保留整片道路、地面或画把墙放在道路上，最终只有石墙。\n构图几何：横版1536×1024，顶面后左角(180,630)、后右角(1260,110)、前右角(1420,200)、前左角(340,720)；前左底角(340,910)、前右底角(1420,390)、后左底角(180,820)。这些坐标不是标注，不可写进图像。大框几何必须忠实上述边线，不能沿用18到22度的平斜线。\n石墙三层，约12块尺寸适中的大石块错缝砌筑，浅暖灰、少量灰绿，柔和墨灰细线、轻工笔边缘、水墨淡彩大色面。材质笔触沿用Image2，但减少密集纹理与色斑；石块边略圆钝即可，整体轮廓不可改变投影。墙端高度相同，竖边保持竖直，不是把旧PNG简单旋转。四周有安全透明留白。\n真正alpha透明PNG；无棋盘格、白背景、土块、石路、植物、苔藓、散石、草、栏杆、底座、外部阴影、光晕、文字数字、标记、坐标、尺寸线或水印。画面仅这段石墙，完整不裁切。",
+      "mode": "built-in image_gen",
+      "referenceRoles": {
+        "geometryTarget": "ter_path_stone_straight_v001.png",
+        "styleReference": "ter_retaining_wall_v001.png"
+      },
+      "savedPath": "08_预览/挡土墙透视修订_v002/未采用候选/候选02_未采用.png",
+      "status": "未采用／透视方向未完全匹配",
+      "generationOrder": 2
+    },
+    {
+      "id": "TER_104",
+      "label": "低矮挡土石墙",
+      "file": "ter_retaining_wall_v002.png",
+      "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-86a8a521-e2bf-40dd-ac2c-f1c2d02c6d33.png",
+      "prompt": "Use case: precise-object-edit. Edit Image1, a measured axonometric stone-wall geometry guide, into a polished Chinese ink and light-watercolor game cutout. Preserve Image1's outer silhouette, long edge angles, short end edge angles, all four cap corners, and vertical extrusion nearly exactly. This is a material and brush-style transformation of Image1, NOT a new camera angle. Image2 is the existing stone road which uses the same projection. Image3 provides only stone colors and sparse painted material cues. Do not inherit Image3's flatter silhouette.\nThe top cap long edges rise 25.7 degrees towards screen right; the short edges descend 29.4 degrees towards screen right. Front-face long seams stay parallel to the cap long edges. Vertical seams are vertical. All faces use parallel projection, no vanishing points. Keep three rows with four large irregularly rectangular stones per row, staggered vertical joints. Thin low retaining wall, visible left end, top and long front. Use the exact arrangement and corners from Image1; lightly soften stone edges only 2–4 pixels without altering the projection.\nUse subdued warm gray, pale sage and limestone cream, restrained ink-gray strokes, sparse broad watercolor washes inside the stone surfaces. Clean large shapes, no dense grain, no noisy texture, no black outlines, no oversaturation. Colors and brush language of Image3 but substantially reduce speckling and internal texture density.\nCRITICAL: truly transparent PNG alpha background, crisp clean cutout edge. Any watercolor stays inside the stones. Background fully empty and transparent directly outside the wall. Absolutely NO outer glow, gray haze, halo, cast shadow, ground, detached stones, moss, plants, soil, road, label, text, guide lines, ruler or watermark. The gray geometry lines of Image1 become natural thin stone joints, not visible diagram strokes. Complete wall and safe transparent margin, same landscape 1536x1024 canvas.",
+      "mode": "built-in image_gen",
+      "referenceRoles": {
+        "geometryTarget": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\09_生成记录\\挡土墙轴测几何参考_v002.png",
+        "projectionReference": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\02_地形与植物\\ter_path_stone_straight_v001.png",
+        "styleReference": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\02_地形与植物\\ter_retaining_wall_v001.png"
+      },
+      "savedPath": "02_地形与植物/ter_retaining_wall_v002.png",
+      "status": "采用／已保存为正式v002",
+      "generationOrder": 3
+    }
+  ],
+  "qa": "09_生成记录/retaining_wall_v002_alpha_check.json",
+  "projectionCheck": "09_生成记录/retaining_wall_v002_projection_check.json"
+}

@@ -1,0 +1,138 @@
+{
+  "method": "对alpha>=128的主体顶轮廓分别作长边、短边直线拟合；数值是手绘边缘的近似屏幕角度，不是严格三维相机标定。",
+  "unit": "degrees",
+  "reference": "石路实际边线方向",
+  "measurements": [
+    {
+      "file": "02_地形与植物/ter_path_earth_straight_v001.png",
+      "width": 1536,
+      "height": 1024,
+      "backLongEdge": {
+        "slope": -0.4553,
+        "degrees": -24.48,
+        "rms": 1.83,
+        "points": 751
+      },
+      "shortEdge": {
+        "slope": 0.5347,
+        "degrees": 28.13,
+        "rms": 0.41,
+        "points": 194
+      },
+      "peak": [
+        1174.5,
+        205
+      ]
+    },
+    {
+      "file": "02_地形与植物/ter_path_stone_straight_v001.png",
+      "width": 1536,
+      "height": 1024,
+      "backLongEdge": {
+        "slope": -0.4814,
+        "degrees": -25.71,
+        "rms": 0.89,
+        "points": 819
+      },
+      "shortEdge": {
+        "slope": 0.5709,
+        "degrees": 29.72,
+        "rms": 0.51,
+        "points": 199
+      },
+      "peak": [
+        1230,
+        159
+      ]
+    },
+    {
+      "file": "02_地形与植物/ter_retaining_wall_v001.png",
+      "width": 1536,
+      "height": 1024,
+      "backLongEdge": {
+        "slope": -0.3254,
+        "degrees": -18.02,
+        "rms": 3,
+        "points": 735
+      },
+      "shortEdge": {
+        "slope": 0.3817,
+        "degrees": 20.89,
+        "rms": 0.66,
+        "points": 90
+      },
+      "peak": [
+        1324,
+        173
+      ]
+    },
+    {
+      "file": "08_预览/挡土墙透视修订_v002/未采用候选/候选01_未采用.png",
+      "width": 1536,
+      "height": 1024,
+      "backLongEdge": {
+        "slope": -0.399,
+        "degrees": -21.75,
+        "rms": 0.79,
+        "points": 782
+      },
+      "shortEdge": {
+        "slope": 0.3995,
+        "degrees": 21.78,
+        "rms": 0.32,
+        "points": 104
+      },
+      "peak": [
+        1344.5,
+        116
+      ]
+    },
+    {
+      "file": "08_预览/挡土墙透视修订_v002/未采用候选/候选02_未采用.png",
+      "width": 1536,
+      "height": 1024,
+      "backLongEdge": {
+        "slope": -0.455,
+        "degrees": -24.47,
+        "rms": 1.57,
+        "points": 730
+      },
+      "shortEdge": {
+        "slope": 0.4361,
+        "degrees": 23.56,
+        "rms": 0.32,
+        "points": 99
+      },
+      "peak": [
+        1311,
+        81
+      ]
+    },
+    {
+      "file": "02_地形与植物/ter_retaining_wall_v002.png",
+      "width": 1536,
+      "height": 1024,
+      "backLongEdge": {
+        "slope": -0.4964,
+        "degrees": -26.4,
+        "rms": 0.49,
+        "points": 679
+      },
+      "shortEdge": {
+        "slope": 0.5743,
+        "degrees": 29.87,
+        "rms": 0.33,
+        "points": 111
+      },
+      "peak": [
+        1264.9999999999998,
+        112
+      ]
+    }
+  ],
+  "selected": "02_地形与植物/ter_retaining_wall_v002.png",
+  "roadDifferenceDegrees": {
+    "long": 0.6899999999999977,
+    "short": 0.15000000000000213
+  }
+}

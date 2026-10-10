@@ -1,0 +1,517 @@
+{
+  "version": 1,
+  "counter": 0,
+  "snap_to_ground": true,
+  "items": [
+    {
+      "uid": "tea_1",
+      "asset": "PLT_101",
+      "label": "第1层茶树 1",
+      "kind": "tea",
+      "position": [
+        338,
+        326
+      ],
+      "width": 132,
+      "tea_layout_revision": "grouped_v004"
+    },
+    {
+      "uid": "tea_2",
+      "asset": "PLT_101",
+      "label": "第1层茶树 2",
+      "kind": "tea",
+      "position": [
+        410,
+        334
+      ],
+      "width": 132,
+      "tea_layout_revision": "grouped_v004"
+    },
+    {
+      "uid": "tea_3",
+      "asset": "PLT_101",
+      "label": "第1层茶树 3",
+      "kind": "tea",
+      "position": [
+        482,
+        339
+      ],
+      "width": 132,
+      "tea_layout_revision": "grouped_v004"
+    },
+    {
+      "uid": "tea_4",
+      "asset": "PLT_101",
+      "label": "第1层茶树 4",
+      "kind": "tea",
+      "position": [
+        554,
+        336
+      ],
+      "width": 132,
+      "tea_layout_revision": "grouped_v004"
+    },
+    {
+      "uid": "tea_5",
+      "asset": "PLT_101",
+      "label": "第1层茶树 5",
+      "kind": "tea",
+      "position": [
+        626,
+        327
+      ],
+      "width": 132,
+      "tea_layout_revision": "grouped_v004"
+    },
+    {
+      "uid": "tea_6",
+      "asset": "PLT_101",
+      "label": "第2层茶树 6",
+      "kind": "tea",
+      "position": [
+        345,
+        465
+      ],
+      "width": 148,
+      "tea_layout_revision": "grouped_v004"
+    },
+    {
+      "uid": "tea_7",
+      "asset": "PLT_101",
+      "label": "第2层茶树 7",
+      "kind": "tea",
+      "position": [
+        429,
+        477
+      ],
+      "width": 148,
+      "tea_layout_revision": "grouped_v004"
+    },
+    {
+      "uid": "tea_8",
+      "asset": "PLT_101",
+      "label": "第2层茶树 8",
+      "kind": "tea",
+      "position": [
+        513,
+        482
+      ],
+      "width": 148,
+      "tea_layout_revision": "grouped_v004"
+    },
+    {
+      "uid": "tea_9",
+      "asset": "PLT_101",
+      "label": "第2层茶树 9",
+      "kind": "tea",
+      "position": [
+        597,
+        480
+      ],
+      "width": 148,
+      "tea_layout_revision": "grouped_v004"
+    },
+    {
+      "uid": "tea_10",
+      "asset": "PLT_101",
+      "label": "第2层茶树 10",
+      "kind": "tea",
+      "position": [
+        681,
+        469
+      ],
+      "width": 148,
+      "tea_layout_revision": "grouped_v004"
+    },
+    {
+      "uid": "tea_11",
+      "asset": "PLT_101",
+      "label": "第2层茶树 11",
+      "kind": "tea",
+      "position": [
+        765,
+        453
+      ],
+      "width": 148,
+      "tea_layout_revision": "grouped_v004"
+    },
+    {
+      "uid": "tea_12",
+      "asset": "PLT_101",
+      "label": "第3层茶树 12",
+      "kind": "tea",
+      "position": [
+        444,
+        617
+      ],
+      "width": 162,
+      "tea_layout_revision": "grouped_v004"
+    },
+    {
+      "uid": "tea_13",
+      "asset": "PLT_101",
+      "label": "第3层茶树 13",
+      "kind": "tea",
+      "position": [
+        523,
+        630
+      ],
+      "width": 162,
+      "tea_layout_revision": "grouped_v004"
+    },
+    {
+      "uid": "tea_14",
+      "asset": "PLT_101",
+      "label": "第3层茶树 14",
+      "kind": "tea",
+      "position": [
+        602,
+        636
+      ],
+      "width": 162,
+      "tea_layout_revision": "grouped_v004"
+    },
+    {
+      "uid": "tea_15",
+      "asset": "PLT_101",
+      "label": "第3层茶树 15",
+      "kind": "tea",
+      "position": [
+        681,
+        633
+      ],
+      "width": 162,
+      "tea_layout_revision": "grouped_v004"
+    },
+    {
+      "uid": "tea_16",
+      "asset": "PLT_101",
+      "label": "第3层茶树 16",
+      "kind": "tea",
+      "position": [
+        760,
+        620
+      ],
+      "width": 162,
+      "tea_layout_revision": "grouped_v004"
+    },
+    {
+      "uid": "tea_17",
+      "asset": "PLT_101",
+      "label": "第3层茶树 17",
+      "kind": "tea",
+      "position": [
+        839,
+        605
+      ],
+      "width": 162,
+      "tea_layout_revision": "grouped_v004"
+    },
+    {
+      "uid": "tea_18",
+      "asset": "PLT_101",
+      "label": "第3层茶树 18",
+      "kind": "tea",
+      "position": [
+        918,
+        585
+      ],
+      "width": 162,
+      "tea_layout_revision": "grouped_v004"
+    },
+    {
+      "uid": "pine_back",
+      "asset": "DEC_451",
+      "label": "工坊后侧松树",
+      "kind": "plant",
+      "position": [
+        1158,
+        541
+      ],
+      "width": 136,
+      "opacity": 0.78,
+      "mirror": false,
+      "scenery_layer": "back"
+    },
+    {
+      "uid": "tree_back",
+      "asset": "DEC_452",
+      "label": "茶铺后侧杂树",
+      "kind": "plant",
+      "position": [
+        1852,
+        750
+      ],
+      "width": 126,
+      "opacity": 0.82,
+      "mirror": false,
+      "scenery_layer": "back"
+    },
+    {
+      "uid": "BLD_111",
+      "asset": "BLD_111",
+      "label": "制茶工坊",
+      "kind": "house",
+      "position": [
+        1374,
+        560
+      ],
+      "width": 370,
+      "opacity": 1,
+      "mirror": false,
+      "scenery_layer": "front"
+    },
+    {
+      "uid": "BLD_112",
+      "asset": "BLD_112",
+      "label": "临水茶铺",
+      "kind": "house",
+      "position": [
+        1628,
+        752
+      ],
+      "width": 390,
+      "opacity": 1,
+      "mirror": false,
+      "scenery_layer": "front"
+    },
+    {
+      "uid": "shrub_1",
+      "asset": "DEC_455",
+      "label": "工坊松树叶团",
+      "kind": "plant",
+      "position": [
+        1158,
+        550
+      ],
+      "width": 118,
+      "opacity": 0.92,
+      "mirror": false,
+      "scenery_layer": "front"
+    },
+    {
+      "uid": "shrub_2",
+      "asset": "DEC_455",
+      "label": "工坊左侧叶团",
+      "kind": "plant",
+      "position": [
+        1254,
+        578
+      ],
+      "width": 138,
+      "opacity": 0.94,
+      "mirror": true,
+      "scenery_layer": "front"
+    },
+    {
+      "uid": "shrub_3",
+      "asset": "DEC_455",
+      "label": "工坊右侧叶团",
+      "kind": "plant",
+      "position": [
+        1509,
+        572
+      ],
+      "width": 130,
+      "opacity": 0.94,
+      "mirror": false,
+      "scenery_layer": "front"
+    },
+    {
+      "uid": "shrub_4",
+      "asset": "DEC_455",
+      "label": "茶铺左侧叶团",
+      "kind": "plant",
+      "position": [
+        1490,
+        771
+      ],
+      "width": 142,
+      "opacity": 0.94,
+      "mirror": true,
+      "scenery_layer": "front"
+    },
+    {
+      "uid": "shrub_5",
+      "asset": "DEC_455",
+      "label": "茶铺右侧叶团",
+      "kind": "plant",
+      "position": [
+        1765,
+        770
+      ],
+      "width": 144,
+      "opacity": 0.94,
+      "mirror": false,
+      "scenery_layer": "front"
+    },
+    {
+      "uid": "shrub_6",
+      "asset": "DEC_455",
+      "label": "茶铺树根叶团",
+      "kind": "plant",
+      "position": [
+        1852,
+        760
+      ],
+      "width": 118,
+      "opacity": 0.92,
+      "mirror": true,
+      "scenery_layer": "front"
+    }
+  ],
+  "palette": [
+    {
+      "asset": "DEC_461",
+      "label": "圆叶矮灌木",
+      "width": 145
+    },
+    {
+      "asset": "DEC_462",
+      "label": "舒展蕨草",
+      "width": 145
+    },
+    {
+      "asset": "DEC_463",
+      "label": "临水圆叶",
+      "width": 145
+    },
+    {
+      "asset": "DEC_464",
+      "label": "淡墨疏竹",
+      "width": 100
+    },
+    {
+      "asset": "DEC_465",
+      "label": "白花叶团",
+      "width": 145
+    },
+    {
+      "asset": "DEC_466",
+      "label": "柔叶草丛",
+      "width": 145
+    },
+    {
+      "asset": "DEC_451",
+      "label": "淡墨松树",
+      "width": 136
+    },
+    {
+      "asset": "DEC_452",
+      "label": "淡彩杂树",
+      "width": 140
+    },
+    {
+      "asset": "DEC_455",
+      "label": "连贯叶团",
+      "width": 140
+    },
+    {
+      "asset": "PLT_101",
+      "label": "茶树",
+      "width": 112
+    }
+  ],
+  "previous_tea_layout": [
+    {
+      "uid": "tea_1",
+      "asset": "PLT_101",
+      "label": "茶树 1",
+      "kind": "tea",
+      "position": [
+        271,
+        339.4514003294893
+      ],
+      "width": 112
+    },
+    {
+      "uid": "tea_2",
+      "asset": "PLT_101",
+      "label": "茶树 2",
+      "kind": "tea",
+      "position": [
+        416,
+        334.4514003294893
+      ],
+      "width": 112
+    },
+    {
+      "uid": "tea_3",
+      "asset": "PLT_101",
+      "label": "茶树 3",
+      "kind": "tea",
+      "position": [
+        562,
+        336.4514003294893
+      ],
+      "width": 112
+    },
+    {
+      "uid": "tea_4",
+      "asset": "PLT_101",
+      "label": "茶树 4",
+      "kind": "tea",
+      "position": [
+        295,
+        483.4514003294893
+      ],
+      "width": 112
+    },
+    {
+      "uid": "tea_5",
+      "asset": "PLT_101",
+      "label": "茶树 5",
+      "kind": "tea",
+      "position": [
+        448,
+        479.4514003294893
+      ],
+      "width": 112
+    },
+    {
+      "uid": "tea_6",
+      "asset": "PLT_101",
+      "label": "茶树 6",
+      "kind": "tea",
+      "position": [
+        601,
+        482.4514003294893
+      ],
+      "width": 112
+    },
+    {
+      "uid": "tea_7",
+      "asset": "PLT_101",
+      "label": "茶树 7",
+      "kind": "tea",
+      "position": [
+        415,
+        622.4514003294893
+      ],
+      "width": 112
+    },
+    {
+      "uid": "tea_8",
+      "asset": "PLT_101",
+      "label": "茶树 8",
+      "kind": "tea",
+      "position": [
+        569,
+        617.4514003294893
+      ],
+      "width": 112
+    },
+    {
+      "uid": "tea_9",
+      "asset": "PLT_101",
+      "label": "茶树 9",
+      "kind": "tea",
+      "position": [
+        724,
+        620.4514003294893
+      ],
+      "width": 112
+    }
+  ],
+  "tea_layout_revision": "grouped_v004"
+}

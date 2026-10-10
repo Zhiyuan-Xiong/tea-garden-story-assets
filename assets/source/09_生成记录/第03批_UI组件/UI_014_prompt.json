@@ -1,0 +1,20 @@
+{
+  "id": "UI_014",
+  "category": "04_UI组件",
+  "functionArea": "通用UI",
+  "label": "圆形图标底板",
+  "plannedFile": "ui_icon_circle_base_v002.png",
+  "batch": "03_UI组件",
+  "targetSize": "512×512",
+  "status": "待生成",
+  "actualSize": "",
+  "relativePath": "",
+  "remarks": "不含功能图标",
+  "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-e761a1ca-b854-47ec-b5e7-94fcb2cef01d.png",
+  "prompt": "Use case: precise-object-edit. Image1 is our blank circular UI backing, the edit target. FIX ONLY the unwanted gray blurry smudge in its center. Completely remove that gray stain and repaint the WHOLE interior as continuous clean near-uniform warm IVORY #f6efde. Interior is an ordinary fully filled opaque paper disk, NO hole, no gray center, no shaded depression, no radial gradient or vignetting. Match ivory hue near outer area of existing disk. Preserve Image1 native1254x1254 canvas, exact circle size and position, thin bamboo-brown double border, frontviewflat geometry and safe margins. Very sparse clean ink/light-watercolor aesthetic, smooth broad paper color, no grain, texture noise, stains, fog, shiny material or dense texture. No text, icon, leaf, mark or extra object. TRUE alpha transparent ONLY outside the circular backing, interior filled ivory. No shadow, halo or glow.",
+  "mode": "built-in image_gen",
+  "refs": [
+    "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-a766a32f-1a12-4e1f-b4a0-baef630ec32c.png"
+  ],
+  "savedPath": "04_UI组件/ui_icon_circle_base_v002.png"
+}

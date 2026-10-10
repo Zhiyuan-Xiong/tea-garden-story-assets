@@ -1,0 +1,82 @@
+{
+  "date": "2026-10-08",
+  "galleryVersion": "v009",
+  "snapshots": [
+    {
+      "label": "全部素材",
+      "expected": 106,
+      "count": 106,
+      "text": "显示 106 / 106 张",
+      "overflow": false,
+      "imageFailures": [],
+      "pass": true
+    },
+    {
+      "label": "场景与装饰筛选",
+      "expected": 14,
+      "count": 14,
+      "text": "显示 14 / 106 张",
+      "overflow": false,
+      "imageFailures": [],
+      "pass": true
+    },
+    {
+      "label": "人物批筛选",
+      "expected": 12,
+      "count": 12,
+      "text": "显示 12 / 106 张",
+      "overflow": false,
+      "imageFailures": [],
+      "pass": true
+    },
+    {
+      "label": "茶铺批筛选",
+      "expected": 10,
+      "count": 10,
+      "text": "显示 10 / 106 张",
+      "overflow": false,
+      "imageFailures": [],
+      "pass": true
+    },
+    {
+      "label": "搜索建筑",
+      "expected": 14,
+      "count": 14,
+      "text": "显示 14 / 106 张",
+      "overflow": false,
+      "imageFailures": [],
+      "pass": true
+    },
+    {
+      "label": "搜索透明层",
+      "expected": 3,
+      "count": 3,
+      "text": "显示 3 / 106 张",
+      "overflow": false,
+      "imageFailures": [],
+      "pass": true
+    },
+    {
+      "label": "搜索荷花",
+      "expected": 1,
+      "count": 1,
+      "text": "显示 1 / 106 张",
+      "overflow": false,
+      "imageFailures": [],
+      "pass": true
+    },
+    {
+      "label": "搜索主角",
+      "expected": 5,
+      "count": 5,
+      "text": "显示 5 / 106 张",
+      "overflow": false,
+      "imageFailures": [],
+      "pass": true
+    }
+  ],
+  "linkCount": 34,
+  "missingLinks": [],
+  "errors": [],
+  "pass": true
+}

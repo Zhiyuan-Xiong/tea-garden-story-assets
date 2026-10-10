@@ -1,0 +1,4 @@
+.godot/
+logs/*
+!logs/.gdignore
+*.tmp

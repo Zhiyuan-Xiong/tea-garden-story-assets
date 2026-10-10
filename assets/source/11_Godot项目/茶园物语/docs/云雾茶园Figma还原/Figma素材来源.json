@@ -1,0 +1,46 @@
+{
+  "file_key": "1cPCIaLhLXtaOPqhBSUQ67",
+  "node_id": "2:2",
+  "assets": [
+    {
+      "name": "background.png",
+      "bytes": 2649801,
+      "sha256": "b4e0726db6db738b5db9021b3a2aa3c44131bc6e8eff39c002630de27ad475f3",
+      "size": [
+        1672,
+        941
+      ],
+      "mode": "RGB"
+    },
+    {
+      "name": "planting_marker.png",
+      "bytes": 636325,
+      "sha256": "b3d48414026e2620d5d2d72848b95f7363e73d05ea575ca7aa8654d57ee6925d",
+      "size": [
+        683,
+        1024
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "name": "planting_ellipse_120.svg",
+      "bytes": 268,
+      "sha256": "2ae96ed13d4b964a19e95c8dd59f28fe65268e00737a2fa318a7b2cc87f4e803"
+    },
+    {
+      "name": "planting_ellipse_110.svg",
+      "bytes": 269,
+      "sha256": "0c6af0d9555378d3973ec43a2b8ecfb628f5df06d1d80328baf9cb63b0e3e508"
+    },
+    {
+      "name": "figma_reference.png",
+      "bytes": 28317351,
+      "sha256": "b7e67b68d4841d0064b544a7461eff1f4df670d5bbc5d7ceaba46e3139951492",
+      "size": [
+        7680,
+        4320
+      ],
+      "mode": "RGBA"
+    }
+  ]
+}

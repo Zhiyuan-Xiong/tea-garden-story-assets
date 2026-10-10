@@ -1,0 +1,20 @@
+{
+  "id": "UI_012",
+  "category": "04_UI组件",
+  "functionArea": "通用UI",
+  "label": "操作按钮按下",
+  "plannedFile": "ui_button_pressed_v001.png",
+  "batch": "03_UI组件",
+  "targetSize": "1024×512",
+  "status": "待生成",
+  "actualSize": "",
+  "relativePath": "",
+  "remarks": "克制压暗，无大幅位移",
+  "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-9b6e8ca6-ed0b-44ae-8faf-ea02b7ea5dee.png",
+  "prompt": "Use case: precise-object-edit. Image1 is the ONLY edit target, the approved empty NORMAL button for 茶园物语. Generate exactly one PRESSED: make the brown center about18%darker and slightly less warm; subtle inner-edge shading confined INSIDE button to suggest pressing. No cast shadow, no geometric inset, no displacement. button variant. PRESERVE Image1 native1536x1024 canvas, same bounding box, same symmetric contour, same edge thickness, same position. Change only color/edge shading for the specified state. The button must still be blank; NO words, numbers, symbols, leaves, extra decorations. Flat front-view ink-light-watercolor UI, minimal texture; no noise, muddy fog or oversaturation. True alpha background, NO checkerboard, glow, cast shadow or haze; clean cutout outside identical contour. State change: PRESSED: make the brown center about18%darker and slightly less warm; subtle inner-edge shading confined INSIDE button to suggest pressing. No cast shadow, no geometric inset, no displacement.",
+  "mode": "built-in image_gen",
+  "refs": [
+    "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-01dfd440-4242-4c0c-bf03-6b4a9d1de9a3.png"
+  ],
+  "savedPath": "04_UI组件/ui_button_pressed_v001.png"
+}

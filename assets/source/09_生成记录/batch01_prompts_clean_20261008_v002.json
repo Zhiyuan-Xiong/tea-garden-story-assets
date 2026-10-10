@@ -1,0 +1,143 @@
+{
+  "generation_mode": "built-in image_gen",
+  "requested_model": "image2.0",
+  "model_control": "not exposed by tool; no CLI model substitution",
+  "date": "2026-10-08",
+  "constraints": "transparent PNG; one object per file; no grain; no oversaturation; no extra objects",
+  "assets": [
+    {
+      "id": "TER_101",
+      "name": "ter_soil_plot_empty_v001",
+      "folder": "02_地形与植物",
+      "refs": [
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\01_Figma参考\\figma_map_20261008.png"
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: a single bare-earth terrain tile sprite for 茶园物语. Input image 1 is STYLE REFERENCE ONLY, not an edit target.\nGenerate ONE standalone small empty tea-field soil base, without plants. Gently rounded rhombus-shaped low flat earthen patch, light warm beige-tan top with just 3-4 broad subtle cultivation strokes, a thin darker brown soil edge on the two front sides. It is natural packed soil, not sand, wooden board, carpet, concrete or floating tall cube. Very shallow thickness. Nothing sits on it.\nParallel 2:1 axonometric / dimetric projection, ground axes 26.6 degrees either direction from horizontal, no vanishing point; wide diamond footprint. Soft upper-left diffuse daylight.\nLandscape canvas about 1536x1024, one centered base with clear transparent margins on all sides. Ground occupies about 75 percent width; no cast shadows outside silhouette.\nDO NOT include tea bushes, seed, weeds, grass, stones, retaining walls, fence, sign, tool, character, path, mountain, river or cloud. These are separate future assets.\nGLOBAL STYLE REQUIREMENTS: match Figma Chinese ink-and-light-watercolor visual language; low saturation sage/tea greens, warm ivory, bamboo beige and muted brown-grey. Smooth broad watercolor washes with restrained deliberate contour strokes. Crisp readable silhouette. NO grain or paper noise, NO mottled texture, NO dense micro-detail, NO dirty or muddy washes, NO saturated neon colors, NO glossy 3D rendering. Edges may retain subtle hand-painted character but never diffuse glow. Outside the object's exact silhouette alpha must be zero; no fog, light bloom, colored haze, shadow halo, background rectangle, baked checkerboard, extra items, text, logo or watermark. One isolated asset, never a sheet of different items.\nGenuine transparent background, alpha PNG; opaque soil interior. Keep top surface smooth and calm. This is an independent static first style sample, not seamless repeating texture."
+    },
+    {
+      "id": "PLT_101",
+      "name": "plt_tea_bush_mature_v001",
+      "folder": "02_地形与植物",
+      "refs": [
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\01_Figma参考\\figma_garden_20261008.png"
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: ONE independent mature tea shrub sprite for 茶园物语. Input image 1 is STYLE REFERENCE ONLY, not an edit target.\nGenerate exactly ONE waist-low compact tea shrub with a broad gently rounded irregular canopy, two short woody brown stems emerging together from one root location. Muted grey tea-green leaves in broad readable painted clusters, only a small number of crisp leaf pairs along the contour. Show about 7-9 distinct light sage-yellow green tender shoot clusters above the mature foliage, each one small pointed bud with two tender leaves. Enough contour detail to read as a cultivated tea bush, not a generic tree, bonsai, round topiary ball or decorative flowering shrub.\nView: parallel axonometric / dimetric garden view from modestly above, compatible with the 2:1 ground angle in the Figma scene. No exaggerated camera or perspective. Roots terminate together near bottom center and must be clearly visible for ground placement.\nSquare canvas about 1024x1024, one centered whole shrub, canopy fills about 75 percent width, ample transparent padding. No crop of leaves or roots.\nDO NOT include soil, ground patch, pot, stones, grass tufts, fence, basket, extra plants, fallen leaves, flowers, interaction indicator or UI. This asset will be placed separately on an independent terrain tile.\nGLOBAL STYLE REQUIREMENTS: match Figma Chinese ink-and-light-watercolor visual language; low saturation sage/tea greens, warm ivory, bamboo beige and muted brown-grey. Smooth broad watercolor washes with restrained deliberate contour strokes. Crisp readable silhouette. NO grain or paper noise, NO mottled texture, NO dense micro-detail, NO dirty or muddy washes, NO saturated neon colors, NO glossy 3D rendering. Edges may retain subtle hand-painted character but never diffuse glow. Outside the object's exact silhouette alpha must be zero; no fog, light bloom, colored haze, shadow halo, background rectangle, baked checkerboard, extra items, text, logo or watermark. One isolated asset, never a sheet of different items.\nGenuine transparent alpha background with clean edges and fully opaque main canopy. No glowing diffuse green perimeter. Simplify foliage detail significantly compared with a whole scene crop, to remain clear at a game display height of 160-220 pixels."
+    },
+    {
+      "id": "UI_001",
+      "name": "ui_popup_base_v001",
+      "folder": "04_UI组件",
+      "refs": [
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\01_Figma参考\\figma_ui_20261008.png"
+      ],
+      "prompt": "Use case: ui-mockup.\nAsset type: ONE standalone reusable transparent PNG popup panel BASE for 茶园物语, no embedded controls or text.\nInput image 1 is a STYLE REFERENCE ONLY: the existing Figma UI reference board. Generate a new standalone component matching the cream paper, fine bronze-gold double outlines, restrained Chinese landscape and bamboo ornament language seen in that board.\nPrimary request: a large horizontally oriented cream parchment popup backplate, a single continuous rectangular panel with subtly scalloped clipped corners and an elegant thin double warm ochre / bronze border. This is ONLY the backplate. The center and the top header area must remain entirely blank for runtime text and child widgets. The central 75 percent of the usable surface should be clean pale warm ivory, a smooth quiet paper-colored surface without visible grain.\nDecoration: very faint grey-green ink mountain vignette near the bottom-left border and a small delicate grey-green bamboo sprig in the top-right border, a few very thin pale gold cloud curls confined to edges. Restrained and legible. No decorative element intrudes into the central content zone. No calligraphy, seals, medallions or leaf icons.\nStyle: Chinese guofeng hand-painted light watercolor, smooth matte paper-colored surface, thin consistent brown-gold linework, same visual density and low saturation as reference, no photoreal material, no 3D bevel or glossy highlights. Fine details still clear when panel displayed at 960x600.\nComposition: front-facing flat UI geometry, landscape canvas approximately 1536x1024. Panel occupies about 86 percent of canvas width and 76 percent height, complete silhouette with transparent external margins. No perspective. A single panel, not a sheet, moodboard or complete UI screen.\nCritical: paper center is opaque; outside the panel and edge ornament is genuine transparent alpha. No white full-canvas background, no baked checkerboard. NO title tab, NO close button, NO confirm button, NO item slots, NO tabs, NO icons, NO text of any language, NO numbers, NO sample content, NO logo or watermark. Those will be separate components later. Preserve continuous straight border sections suitable for future nine-slice preparation; the ornaments in this sample still require a fixed-scale display until separately extracted.\nGLOBAL STYLE REQUIREMENTS: match Figma Chinese ink-and-light-watercolor visual language; low saturation sage/tea greens, warm ivory, bamboo beige and muted brown-grey. Smooth broad watercolor washes with restrained deliberate contour strokes. Crisp readable silhouette. NO grain or paper noise, NO mottled texture, NO dense micro-detail, NO dirty or muddy washes, NO saturated neon colors, NO glossy 3D rendering. Edges may retain subtle hand-painted character but never diffuse glow. Outside the object's exact silhouette alpha must be zero; no fog, light bloom, colored haze, shadow halo, background rectangle, baked checkerboard, extra items, text, logo or watermark. One isolated asset, never a sheet of different items.\nNo semitransparent wash in the center; interior paper must be opaque. Outside panel no blur or glow."
+    },
+    {
+      "id": "CHR_001",
+      "name": "chr_protagonist_portrait_neutral_v001",
+      "folder": "05_人物",
+      "refs": [
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\01_Figma参考\\figma_hero_20261008.png",
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\01_Figma参考\\figma_garden_20261008.png"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: ONE full-body dialogue character portrait on genuine transparent background for Chinese healing tea game 茶园物语.\nInput image 1 is the EXISTING CHARACTER IDENTITY REFERENCE. Input image 2 is the existing Figma scene STYLE REFERENCE. Create a new hand-painted rendering of the same character, blending its charm with the scene. Do not invent a different protagonist.\nPreserve identity: youthful softly androgynous tea apprentice; fluffy short bob of muted teal-green hair, ends flick slightly outward, small curled tuft at the top; gentle brown eyes, round youthful face, quiet slightly curious neutral expression. Preserve the compact adorable silhouette, approximately four to four-and-a-half heads tall, not adult realistic or exaggerated giant head. Preserve clothing and accessories from image 1: soft ivory crossed inner collar shirt; loose muted grey-green outer labor jacket, voluminous sleeves gathered back at forearms; loose pale grey-taupe baggy trousers gathered at ankles, muted teal cloth shoes; tan round pendant hanging centrally at the collar; small pale peach-tan cloth pouch at the character's left hip (viewer right), with visible shoulder strap and tied mouth. Keep small trouser side ties. No new embroidery, armor, weapon, hat, elaborate headdress or jewelry.\nPose: full body facing viewer, relaxed slight three-quarter turn, shoulders unraised, one hand gently gathers opposite sleeve as in reference, natural simple visible hands, both feet fully visible. Cloth pouch must read as a soft fabric bag, not a teapot or gourd.\nStyle: gentle Chinese guofeng hand-painted light watercolor animation illustration, restrained fine warm grey-brown linework replacing pure black heavy contours, a few broad cotton folds and smooth color washes without grain, soft understated facial rendering, no dramatic rim light, restrained detail coherent with the Figma scene. Colors low saturation tea grey-green, sage, ivory, taupe, muted warm bamboo brown, preserve teal hair.\nComposition: vertical canvas approximately 1024x1536, ONE centered character with ample transparent margins around hair, hands, pouch, shoes. No inset faces, turnaround panels or multiple poses.\nCritical: genuine transparent alpha around the character. No paper background, no colored rectangle, no checkerboard baked into pixels, no frame, no shadow oval, no landscape, no prop separate from worn pouch, no text, numbers, logo or watermark. Retain identifiable features without adding a new character gender narrative. This is a static dialogue portrait style sample, not an animation sheet.\nGLOBAL STYLE REQUIREMENTS: match Figma Chinese ink-and-light-watercolor visual language; low saturation sage/tea greens, warm ivory, bamboo beige and muted brown-grey. Smooth broad watercolor washes with restrained deliberate contour strokes. Crisp readable silhouette. NO grain or paper noise, NO mottled texture, NO dense micro-detail, NO dirty or muddy washes, NO saturated neon colors, NO glossy 3D rendering. Edges may retain subtle hand-painted character but never diffuse glow. Outside the object's exact silhouette alpha must be zero; no fog, light bloom, colored haze, shadow halo, background rectangle, baked checkerboard, extra items, text, logo or watermark. One isolated asset, never a sheet of different items.\nNo random cloth speckles; favor flat calm wash areas and a few elegant deliberate lines."
+    },
+    {
+      "id": "PRP_101",
+      "name": "prp_bamboo_basket_empty_v001",
+      "folder": "06_道具与图标",
+      "refs": [
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\01_Figma参考\\figma_ui_20261008.png"
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: ONE independent prop PNG for 茶园物语, used as a tea-picking basket.\nInput image 1 is the Figma UI board STYLE REFERENCE ONLY. Generate one small traditional open cylindrical woven bamboo picking basket with a slightly wider oval mouth, flat bottom, light muted straw bamboo beige and warm brown structural lines. EMPTY interior. Clean broad diagonal bamboo strips, visibly handwoven but simplified with low visual frequency, no photographic dense wicker micro-texture. Short understated pair of side rope loops attached to the basket only. No long strap sprawled outside it. No metal or modern plastic.\nView: parallel axonometric / dimetric from modestly above, same 2:1 game ground direction as the garden props. Clearly visible empty mouth, slightly darker calm brown interior. Soft upper-left diffuse light, no cast shadow outside silhouette.\nSquare canvas about 1024x1024, ONE centered complete basket occupies about 70 percent canvas width, no crop, generous transparent padding.\nDO NOT include any tea leaves inside or outside, soil, lid, separate handles, cloth, tool, label, icon badge, coin, other basket, background surface or UI frame. Tea leaves will be a separate overlay asset later.\nGLOBAL STYLE REQUIREMENTS: match Figma Chinese ink-and-light-watercolor visual language; low saturation sage/tea greens, warm ivory, bamboo beige and muted brown-grey. Smooth broad watercolor washes with restrained deliberate contour strokes. Crisp readable silhouette. NO grain or paper noise, NO mottled texture, NO dense micro-detail, NO dirty or muddy washes, NO saturated neon colors, NO glossy 3D rendering. Edges may retain subtle hand-painted character but never diffuse glow. Outside the object's exact silhouette alpha must be zero; no fog, light bloom, colored haze, shadow halo, background rectangle, baked checkerboard, extra items, text, logo or watermark. One isolated asset, never a sheet of different items.\nGenuine transparent alpha background; object interior opaque, no glow around basket. This is a first standalone prop sample with the same visual treatment as the terrain, plant, UI and character samples."
+    }
+  ],
+  "status": "five_style_samples_generated_pending_review_and_final_edge_cleanup",
+  "outputs": [
+    {
+      "id": "TER_101",
+      "name": "ter_soil_plot_empty_v001",
+      "relativePath": "02_地形与植物/ter_soil_plot_empty_v001.png",
+      "status": "样稿待确认",
+      "label": "空土地底块",
+      "purpose": "独立土地层，茶树另行摆放",
+      "width": 1536,
+      "height": 1024,
+      "alphaCheck": {
+        "cornersTransparent": true,
+        "transparentPixels": 1065529,
+        "borderNonzeroPixels": 9
+      },
+      "sha256": "6FA4AE7B5A9D8F16E815E882A3D450E4D7D42F8AA59E7982927E4861B8DA8F88",
+      "reviewNotes": "风格样稿，未完成 Godot 摆放/对位验收；部分外围有极低 alpha 像素，尚未做最终边缘精修。"
+    },
+    {
+      "id": "PLT_101",
+      "name": "plt_tea_bush_mature_v001",
+      "relativePath": "02_地形与植物/plt_tea_bush_mature_v001.png",
+      "status": "样稿待确认",
+      "label": "成熟茶树",
+      "purpose": "独立植物层，不带土地",
+      "width": 1254,
+      "height": 1254,
+      "alphaCheck": {
+        "cornersTransparent": true,
+        "transparentPixels": 1043223,
+        "borderNonzeroPixels": 15
+      },
+      "sha256": "48F32B751209860261CD942A84A919511C84A601159CF26C0B9DFDFED9EC8175",
+      "reviewNotes": "风格样稿，未完成 Godot 摆放/对位验收；部分外围有极低 alpha 像素，尚未做最终边缘精修。"
+    },
+    {
+      "id": "UI_001",
+      "name": "ui_popup_base_v001",
+      "relativePath": "04_UI组件/ui_popup_base_v001.png",
+      "status": "样稿待确认",
+      "label": "通用弹窗底板",
+      "purpose": "无文字、无按钮的固定尺寸底板",
+      "width": 1536,
+      "height": 1024,
+      "alphaCheck": {
+        "cornersTransparent": true,
+        "transparentPixels": 456674,
+        "borderNonzeroPixels": 0
+      },
+      "sha256": "A9486DB109870A769EF3DC71E49AF6AA8B63D4575AF5B827DC3CCB41152FDB96",
+      "reviewNotes": "风格样稿，未完成 Godot 摆放/对位验收；部分外围有极低 alpha 像素，尚未做最终边缘精修。"
+    },
+    {
+      "id": "CHR_001",
+      "name": "chr_protagonist_portrait_neutral_v001",
+      "relativePath": "05_人物/chr_protagonist_portrait_neutral_v001.png",
+      "status": "样稿待确认",
+      "label": "主角对话立绘",
+      "purpose": "静态全身立绘，保留原角色识别特征",
+      "width": 1024,
+      "height": 1536,
+      "alphaCheck": {
+        "cornersTransparent": true,
+        "transparentPixels": 1040476,
+        "borderNonzeroPixels": 0
+      },
+      "sha256": "9C12E7054C9DF5AEA8981DEB107660CEE5DD3EC7276F3045A7F52CF669AE7911",
+      "reviewNotes": "风格样稿，未完成 Godot 摆放/对位验收；部分外围有极低 alpha 像素，尚未做最终边缘精修。"
+    },
+    {
+      "id": "PRP_101",
+      "name": "prp_bamboo_basket_empty_v001",
+      "relativePath": "06_道具与图标/prp_bamboo_basket_empty_v001.png",
+      "status": "样稿待确认",
+      "label": "空竹篓",
+      "purpose": "空道具，鲜叶后续单独叠加",
+      "width": 1254,
+      "height": 1254,
+      "alphaCheck": {
+        "cornersTransparent": true,
+        "transparentPixels": 936920,
+        "borderNonzeroPixels": 22
+      },
+      "sha256": "8FBDEC08719CC4838B205F1221A42BD848F7231EA0F384208E7433CD723F9D6B",
+      "reviewNotes": "风格样稿，未完成 Godot 摆放/对位验收；部分外围有极低 alpha 像素，尚未做最终边缘精修。"
+    }
+  ]
+}

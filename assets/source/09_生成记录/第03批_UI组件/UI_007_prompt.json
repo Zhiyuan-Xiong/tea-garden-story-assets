@@ -1,0 +1,18 @@
+{
+  "id": "UI_007",
+  "category": "04_UI组件",
+  "functionArea": "通用UI",
+  "label": "小提示底板",
+  "plannedFile": "ui_tooltip_base_v001.png",
+  "batch": "03_UI组件",
+  "targetSize": "1024×512",
+  "status": "待生成",
+  "actualSize": "",
+  "relativePath": "",
+  "remarks": "无字",
+  "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-830b7af7-2e5d-4821-bb26-2808f1786d3c.png",
+  "prompt": "Use case: ui-mockup. One standalone empty Chinese ink-light-watercolor TOOLTIP backing on transparent PNG. Plain compact horizontal ivory rounded rectangle, thin muted bamboo-brown double hairline frame, corners simply rounded rather than scalloped. Object ratio about2.4:1, blank quiet ivory center, optional tiny centered bottom triangle tail integrated with frame. Front-view flat2D. Canvas1536x1024, object about1060x440 centered. Smooth clean ivory/bamboo-brown surfaces and sparse broad wash only. No decorations, bamboo, mountain, icons, lettering, numerals, grain, mottling, distress, saturation, halo or cast shadow. Empty alpha outside.",
+  "mode": "built-in image_gen",
+  "refs": [],
+  "savedPath": "04_UI组件/ui_tooltip_base_v001.png"
+}

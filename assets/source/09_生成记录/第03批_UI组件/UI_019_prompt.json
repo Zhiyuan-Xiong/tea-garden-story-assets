@@ -1,0 +1,18 @@
+{
+  "id": "UI_019",
+  "category": "04_UI组件",
+  "functionArea": "通用UI",
+  "label": "数量减少图标",
+  "plannedFile": "ui_minus_v001.png",
+  "batch": "03_UI组件",
+  "targetSize": "512×512",
+  "status": "待生成",
+  "actualSize": "",
+  "relativePath": "",
+  "remarks": "独立减号图形",
+  "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-0627dde1-2f92-42a6-80ef-7d4fcb6d98e5.png",
+  "prompt": "Use case: ui-mockup. Asset: ONE standalone hand-painted UI glyph for Chinese ink/light-watercolor tea game 茶园物语. Flat front view, subtle variation in painted stroke width with smooth clean silhouette and nearly solid color, no noisy texture. Muted bamboo-brown #8d7554 or subdued sage #7d8d6c as specified. Square1024x1024canvas with centered symbol occupying roughly55%width/height, safe transparent margins. True alpha transparent outside all strokes, no circular backing, no border plaque, no outer glow, no drop shadow, no fog, no 3D bevel, no grain, no saturation, no scenery, no decorative leaves, no extra objects, no words/numbers. Readable at small UI size. One MINUS glyph: one centered horizontal bamboo-brown painted dash, same thick soft stroke style as plus, with gently rounded terminals. No other shapes.",
+  "mode": "built-in image_gen",
+  "refs": [],
+  "savedPath": "04_UI组件/ui_minus_v001.png"
+}

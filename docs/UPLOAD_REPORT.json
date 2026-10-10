@@ -1,0 +1,26 @@
+{
+  "snapshot_date": "2026-10-10",
+  "sourceFiles": 3005,
+  "sourceFilesCopied": 2272,
+  "excludedFiles": 733,
+  "publicAdditions": 13,
+  "sourceBytesCopied": 1793875818,
+  "allCopiedHashesVerified": true,
+  "largeFilesViaLFS": [
+    {
+      "file": "10_最终交付/茶园物语_素材交付_v001.zip",
+      "MiB": 134.14
+    }
+  ],
+  "largeFilesOmitted": [],
+  "noSourceFilesMovedModifiedOrDeleted": true,
+  "visibility": "public release prepared privately",
+  "gitHubPushVerified": false,
+  "fontPolicy": "Noto Sans SC / OFL 1.1; two original fonts and their import files excluded",
+  "historyPolicy": "Fresh public repository; previous complete history retained in private archive",
+  "sourceAdaptations": [
+    "assets/source/11_Godot项目/茶园物语/scripts/ui/ui_kit.gd",
+    "assets/source/PROJECT_HANDOFF.md"
+  ],
+  "publicValidation": "PUBLIC_QA.json"
+}

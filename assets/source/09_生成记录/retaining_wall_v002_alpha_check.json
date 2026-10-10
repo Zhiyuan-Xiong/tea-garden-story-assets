@@ -1,0 +1,24 @@
+{
+  "file": "02_地形与植物/ter_retaining_wall_v002.png",
+  "width": 1536,
+  "height": 1024,
+  "hasAlpha": true,
+  "cornersAlpha": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "transparentPixels": 1129704,
+  "borderNonzeroPixels": 0,
+  "borderPixelsAlpha16": 0,
+  "veryLowAlphaPixels": 7814,
+  "visibleBBoxAlpha16": [
+    188,
+    111,
+    1423,
+    940
+  ],
+  "sha256": "0677be3ff37113c6cddb35a0553dbabd6b77039bac2c0211713fe07b0ac823ca",
+  "pass": true
+}

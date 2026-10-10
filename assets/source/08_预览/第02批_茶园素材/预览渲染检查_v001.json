@@ -1,0 +1,211 @@
+{
+  "date": "2026-10-08",
+  "checks": [
+    {
+      "file": "01_茶树与地形_v001.png",
+      "width": 1920,
+      "height": 1859,
+      "cards": [
+        "PLT_102",
+        "PLT_103",
+        "PLT_101",
+        "PLT_104",
+        "TER_101",
+        "TER_102",
+        "TER_103",
+        "TER_104",
+        "TER_105",
+        "PLT_105"
+      ],
+      "images": [
+        {
+          "name": "茶树幼苗",
+          "width": 1254,
+          "height": 1254
+        },
+        {
+          "name": "茶树生长中",
+          "width": 1254,
+          "height": 1254
+        },
+        {
+          "name": "成熟茶树",
+          "width": 1254,
+          "height": 1254
+        },
+        {
+          "name": "茶树采摘后",
+          "width": 1254,
+          "height": 1254
+        },
+        {
+          "name": "空土地底块",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "name": "土路直段",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "name": "石路直段",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "name": "低矮挡土石墙",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "name": "景观石",
+          "width": 1254,
+          "height": 1254
+        },
+        {
+          "name": "竹丛",
+          "width": 1024,
+          "height": 1536
+        }
+      ],
+      "overflow": []
+    },
+    {
+      "file": "02_茶园道具_v001.png",
+      "width": 1920,
+      "height": 1460,
+      "cards": [
+        "PRP_102",
+        "PRP_103",
+        "PRP_104",
+        "PRP_105",
+        "PRP_106",
+        "PRP_101"
+      ],
+      "images": [
+        {
+          "name": "种子布袋",
+          "width": 1254,
+          "height": 1254
+        },
+        {
+          "name": "鲜叶",
+          "width": 1254,
+          "height": 1254
+        },
+        {
+          "name": "肥料布袋",
+          "width": 1254,
+          "height": 1254
+        },
+        {
+          "name": "采摘说明书",
+          "width": 1254,
+          "height": 1254
+        },
+        {
+          "name": "背包道具",
+          "width": 1254,
+          "height": 1254
+        },
+        {
+          "name": "空竹篓",
+          "width": 1254,
+          "height": 1254
+        }
+      ],
+      "overflow": []
+    },
+    {
+      "file": "03_功能入口图标_v001.png",
+      "width": 1920,
+      "height": 1112,
+      "cards": [
+        "ICO_101",
+        "ICO_102",
+        "ICO_103",
+        "ICO_104",
+        "ICO_105"
+      ],
+      "images": [
+        {
+          "name": "种子入口图标",
+          "width": 1254,
+          "height": 1254
+        },
+        {
+          "name": "背包入口图标",
+          "width": 1254,
+          "height": 1254
+        },
+        {
+          "name": "茶篓入口图标",
+          "width": 1254,
+          "height": 1254
+        },
+        {
+          "name": "化肥入口图标",
+          "width": 1254,
+          "height": 1254
+        },
+        {
+          "name": "说明书入口图标",
+          "width": 1254,
+          "height": 1254
+        },
+        {
+          "name": "种子入口图标64像素",
+          "width": 1254,
+          "height": 1254
+        },
+        {
+          "name": "种子入口图标96像素",
+          "width": 1254,
+          "height": 1254
+        },
+        {
+          "name": "背包入口图标64像素",
+          "width": 1254,
+          "height": 1254
+        },
+        {
+          "name": "背包入口图标96像素",
+          "width": 1254,
+          "height": 1254
+        },
+        {
+          "name": "茶篓入口图标64像素",
+          "width": 1254,
+          "height": 1254
+        },
+        {
+          "name": "茶篓入口图标96像素",
+          "width": 1254,
+          "height": 1254
+        },
+        {
+          "name": "化肥入口图标64像素",
+          "width": 1254,
+          "height": 1254
+        },
+        {
+          "name": "化肥入口图标96像素",
+          "width": 1254,
+          "height": 1254
+        },
+        {
+          "name": "说明书入口图标64像素",
+          "width": 1254,
+          "height": 1254
+        },
+        {
+          "name": "说明书入口图标96像素",
+          "width": 1254,
+          "height": 1254
+        }
+      ],
+      "overflow": []
+    }
+  ]
+}

@@ -1,0 +1,364 @@
+{
+  "project": "茶园物语",
+  "date": "2026-10-08",
+  "batch": "06_场景与装饰",
+  "notes": [
+    "原始PNG未裁切、重采样或清除alpha，真实尺寸如下。",
+    "参考点依据可见范围和底部实像素估算，不能替代Godot中的地面、遮挡与对位验收。",
+    "建筑外观用于主地图；建筑壳用于空场景结构。屋顶与前遮挡的独立分件尚未制作。",
+    "远山、水面和云纹各自独立；植物无土块岩石或花盆，灯笼无墙面与支架。",
+    "所有组合预览均为浏览器中的静态素材摆放示意；未搭建Godot。"
+  ],
+  "assets": [
+    {
+      "id": "BLD_101",
+      "file": "03_建筑与场景/bld_workshop_exterior_v001.png",
+      "canvas": [
+        1536,
+        1024
+      ],
+      "visibleBBoxAlpha16": [
+        151,
+        75,
+        1446,
+        973
+      ],
+      "solidBBoxAlpha128": [
+        152,
+        75,
+        1445,
+        972
+      ],
+      "approxAnchor": [
+        1046.5,
+        972
+      ],
+      "anchorMeaning": "底部接地点近似位置"
+    },
+    {
+      "id": "BLD_102",
+      "file": "03_建筑与场景/bld_teashop_exterior_v001.png",
+      "canvas": [
+        1536,
+        1024
+      ],
+      "visibleBBoxAlpha16": [
+        133,
+        63,
+        1444,
+        999
+      ],
+      "solidBBoxAlpha128": [
+        134,
+        63,
+        1444,
+        998
+      ],
+      "approxAnchor": [
+        848.5,
+        998
+      ],
+      "anchorMeaning": "底部接地点近似位置"
+    },
+    {
+      "id": "BLD_105",
+      "file": "03_建筑与场景/bld_workshop_shell_v001.png",
+      "canvas": [
+        1672,
+        941
+      ],
+      "visibleBBoxAlpha16": [
+        270,
+        119,
+        1404,
+        824
+      ],
+      "solidBBoxAlpha128": [
+        271,
+        120,
+        1404,
+        824
+      ],
+      "approxAnchor": [
+        835,
+        824
+      ],
+      "anchorMeaning": "底部接地点近似位置"
+    },
+    {
+      "id": "BLD_106",
+      "file": "03_建筑与场景/bld_teashop_shell_v001.png",
+      "canvas": [
+        1672,
+        941
+      ],
+      "visibleBBoxAlpha16": [
+        265,
+        61,
+        1414,
+        886
+      ],
+      "solidBBoxAlpha128": [
+        266,
+        62,
+        1414,
+        885
+      ],
+      "approxAnchor": [
+        836,
+        885
+      ],
+      "anchorMeaning": "底部接地点近似位置"
+    },
+    {
+      "id": "BLD_103",
+      "file": "03_建筑与场景/bld_pavilion_v001.png",
+      "canvas": [
+        1536,
+        1024
+      ],
+      "visibleBBoxAlpha16": [
+        270,
+        70,
+        1264,
+        926
+      ],
+      "solidBBoxAlpha128": [
+        271,
+        71,
+        1264,
+        926
+      ],
+      "approxAnchor": [
+        740,
+        926
+      ],
+      "anchorMeaning": "底部接地点近似位置"
+    },
+    {
+      "id": "BLD_104",
+      "file": "03_建筑与场景/bld_bridge_v001.png",
+      "canvas": [
+        1536,
+        1024
+      ],
+      "visibleBBoxAlpha16": [
+        302,
+        175,
+        1306,
+        848
+      ],
+      "solidBBoxAlpha128": [
+        302,
+        176,
+        1305,
+        848
+      ],
+      "approxAnchor": [
+        605,
+        848
+      ],
+      "anchorMeaning": "底部接地点近似位置"
+    },
+    {
+      "id": "DEC_102",
+      "file": "03_建筑与场景/dec_fence_wood_v001.png",
+      "canvas": [
+        1536,
+        1024
+      ],
+      "visibleBBoxAlpha16": [
+        312,
+        173,
+        1281,
+        830
+      ],
+      "solidBBoxAlpha128": [
+        312,
+        173,
+        1280,
+        829
+      ],
+      "approxAnchor": [
+        360,
+        829
+      ],
+      "anchorMeaning": "底部接地点近似位置"
+    },
+    {
+      "id": "BG_101",
+      "file": "03_建筑与场景/bg_mountains_layer_v001.png",
+      "canvas": [
+        1672,
+        941
+      ],
+      "visibleBBoxAlpha16": [
+        85,
+        333,
+        1574,
+        673
+      ],
+      "solidBBoxAlpha128": [
+        107,
+        334,
+        1546,
+        646
+      ],
+      "approxAnchor": [
+        829.5,
+        503
+      ],
+      "anchorMeaning": "图层可见范围中心"
+    },
+    {
+      "id": "BG_102",
+      "file": "03_建筑与场景/bg_water_layer_v001.png",
+      "canvas": [
+        1672,
+        941
+      ],
+      "visibleBBoxAlpha16": [
+        46,
+        230,
+        1632,
+        757
+      ],
+      "solidBBoxAlpha128": [
+        47,
+        231,
+        1631,
+        756
+      ],
+      "approxAnchor": [
+        839,
+        493.5
+      ],
+      "anchorMeaning": "图层可见范围中心"
+    },
+    {
+      "id": "BG_103",
+      "file": "03_建筑与场景/bg_cloud_layer_v001.png",
+      "canvas": [
+        1672,
+        941
+      ],
+      "visibleBBoxAlpha16": [
+        120,
+        372,
+        1599,
+        570
+      ],
+      "solidBBoxAlpha128": [
+        121,
+        373,
+        1598,
+        569
+      ],
+      "approxAnchor": [
+        859.5,
+        471
+      ],
+      "anchorMeaning": "图层可见范围中心"
+    },
+    {
+      "id": "DEC_101",
+      "file": "03_建筑与场景/dec_lantern_v001.png",
+      "canvas": [
+        1086,
+        1448
+      ],
+      "visibleBBoxAlpha16": [
+        336,
+        86,
+        749,
+        1359
+      ],
+      "solidBBoxAlpha128": [
+        337,
+        87,
+        748,
+        1358
+      ],
+      "approxAnchor": [
+        542.5,
+        87
+      ],
+      "anchorMeaning": "悬挂点近似位置"
+    },
+    {
+      "id": "DEC_103",
+      "file": "03_建筑与场景/dec_lotus_v001.png",
+      "canvas": [
+        1254,
+        1254
+      ],
+      "visibleBBoxAlpha16": [
+        152,
+        210,
+        1104,
+        1083
+      ],
+      "solidBBoxAlpha128": [
+        153,
+        211,
+        1103,
+        1082
+      ],
+      "approxAnchor": [
+        625,
+        1082
+      ],
+      "anchorMeaning": "根部近似位置"
+    },
+    {
+      "id": "PLT_106",
+      "file": "03_建筑与场景/plt_pine_tree_v001.png",
+      "canvas": [
+        1024,
+        1536
+      ],
+      "visibleBBoxAlpha16": [
+        50,
+        207,
+        988,
+        1391
+      ],
+      "solidBBoxAlpha128": [
+        51,
+        208,
+        987,
+        1390
+      ],
+      "approxAnchor": [
+        540,
+        1390
+      ],
+      "anchorMeaning": "根部近似位置"
+    },
+    {
+      "id": "PLT_107",
+      "file": "03_建筑与场景/plt_red_tree_v001.png",
+      "canvas": [
+        1024,
+        1536
+      ],
+      "visibleBBoxAlpha16": [
+        141,
+        233,
+        919,
+        1331
+      ],
+      "solidBBoxAlpha128": [
+        142,
+        234,
+        918,
+        1331
+      ],
+      "approxAnchor": [
+        588.5,
+        1331
+      ],
+      "anchorMeaning": "根部近似位置"
+    }
+  ]
+}

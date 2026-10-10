@@ -1,0 +1,22 @@
+{
+  "id": "TER_201",
+  "category": "02_地形与植物",
+  "label": "石阶单体",
+  "plannedFile": "ter_steps_stone_v001.png",
+  "targetSize": "1536×1024",
+  "functionArea": "场景分件",
+  "remarks": "与地形及道路共用轴测方向",
+  "batch": "08_背景场景与UI补充",
+  "status": "待生成",
+  "actualSize": "",
+  "relativePath": "02_地形与植物/ter_steps_stone_v001.png",
+  "prompt": "Use case: stylized-concept. Asset type: one independent transparent PNG for the 2D/2.5D Chinese tea-village game 茶园物语.\nStyle: clean Chinese ink outline with pale hand-painted watercolor fills, harmonizing with the approved references. Simple large clear shapes, controlled sparse brush marks, thin charcoal/brown linework; avoid dense texture or paper grain. Restrained ivory #EEE5D5, sage #83957E, tea green #526C62, charcoal #5C6261, pale timber #967653, bamboo #C5A36F, occasional dusty coral #B76651.\nFor constructed objects use elevated parallel dimetric 2:1 ground axes, diagonal edges slope about ±26.565 degrees, verticals remain vertical, near and far edges stay parallel, no lens perspective. Soft even light, modest internal shading, no cast ground shadow.\nOutput actual RGBA transparency outside the subject. Full silhouette, visible generous transparent margin on ALL four sides; never crop. No background fill, checkerboard, paper sheet, black background, white background, vignette, glow, halo, text, calligraphy, numerals, UI, labels, borders, watermark. No extra props, people, scenery, repeated objects or decorative clutter. Avoid oversaturation, muddy gradients, noise, excessive fiber or woodgrain, photorealism, heavy black outline and strong reflections. Preserve clear edges at small gameplay sizes.\nPrimary request: ONLY one short FOUR-STEP stone staircase, independent transparent PNG. Input1 fixes pale ivory/sage-grey stone surface and subtle linework. Input2 fixes same ground-plane axes.\nSubject: four broad modest-height rectangular pale stone steps, simple clean cuboid risers, no railings. Each tread one or two large cut-stone slabs with very few joints, smooth pale grey/ivory wash and sparse sage patches, NOT mottled cracked rubble. Staircase ascends from screen bottom-left toward screen top-right along2:1 diagonal(-26.6degrees). Width direction along opposite2:1 diagonal(+26.6degrees); vertical faces truly vertical; tread widths do not shrink toward rear. All top treads and front risers clear.\nLandscape1536×1024, whole stair block centered at65–75% width and60–70%height, generous true transparent margin on all sides, entire bottom face and upper tread intact. No platform, soil, cliff, wall, paths, bridge, plants, rocks, building, handrail, person, labels, grass, water, shadow or halo. One complete single stair asset only.",
+  "references": [
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\02_地形与植物\\ter_retaining_wall_v002.png",
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\02_地形与植物\\ter_path_earth_straight_v001.png"
+  ],
+  "mode": "built-in image_gen",
+  "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-4226bf28-784c-4f31-8fed-333a34cbf190.png",
+  "savedPath": "02_地形与植物/ter_steps_stone_v001.png",
+  "destination": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\02_地形与植物\\ter_steps_stone_v001.png"
+}

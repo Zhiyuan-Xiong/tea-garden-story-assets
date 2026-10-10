@@ -1,0 +1,23 @@
+{
+  "id": "PRP_307",
+  "category": "06_道具与图标",
+  "functionArea": "临水茶铺",
+  "label": "空茶柜",
+  "plannedFile": "prp_shop_cabinet_empty_v001.png",
+  "batch": "05_茶铺素材",
+  "targetSize": "1024×1536",
+  "status": "待生成",
+  "actualSize": "",
+  "relativePath": "",
+  "remarks": "罐子独立",
+  "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-c116fd9a-ae14-438a-a75b-dff3c6fd283f.png",
+  "prompt": "Create one independent production-ready 2D sprite for Chinese healing management game 茶园物语. Chinese ink and pale watercolor handpainting matching the supplied approved game assets. Clean broad quiet washes, thin warm grey/brown hand-drawn edges, very few material lines; no grain/no noisy dense texture/no muddy haze/no oversaturation/no harsh black outline/no glossy photographic material. Ivory, muted sage celadon, bamboo beige, warm pale wood brown, charcoal. Use parallel axonometric elevated camera, rectangular long ground edges slope up-right26degrees, short edges down-right30degrees, verticals stayvertical. No converging camera. True alpha transparent outside object, no checkerboard drawing, ground, shadow plate or glow. Complete isolated subject centered with transparent margins. No room, landscape, characters, baked labels, Chinese writing, numbers, watermarks, UI backplate or extra unrelated objects. Figma reference is only brush/palette and the requested object's design; never recreate whole screen. Refer to approved jar/table for controlled drawing and color. Formal sprite must be separable for Godot.\nSUBJECT: ONE EMPTY freestanding traditional wooden tea storage cabinet, upright tall rectangular shelf/cabinet, three open shelf tiers above two small closed base drawers. Upper unit has only one central vertical divider creating six EMPTY roomy compartments. Same restrained pale woodbrown as counter. Open shelves entirely empty: no jars, bowls, bags, books, labels or characters. No carved ornament, no wall or room. Elevated parallel axonometric axes26deg up-right30deg down-right, verticalpostsvertical, no narrowing towards distance. Requested portrait1024x1536canvas with transparent margins around entire cabinet and feet.",
+  "mode": "built-in image_gen",
+  "references": [
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\01_Figma参考\\figma_teashop_20261008.png",
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\06_道具与图标\\prp_shop_counter_empty_v001.png",
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\02_地形与植物\\ter_path_stone_straight_v001.png"
+  ],
+  "savedPath": "06_道具与图标/prp_shop_cabinet_empty_v001.png",
+  "destination": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\06_道具与图标\\prp_shop_cabinet_empty_v001.png"
+}

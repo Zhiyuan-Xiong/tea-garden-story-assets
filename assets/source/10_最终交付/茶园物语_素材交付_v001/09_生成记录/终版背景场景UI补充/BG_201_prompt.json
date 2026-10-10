@@ -1,0 +1,23 @@
+{
+  "id": "BG_201",
+  "category": "03_建筑与场景",
+  "label": "标题页山水背景画层",
+  "plannedFile": "bg_title_landscape_layer_v001.png",
+  "targetSize": "1920×1080",
+  "functionArea": "背景",
+  "remarks": "无文字与交互对象，纸色底由界面另设",
+  "batch": "08_背景场景与UI补充",
+  "status": "待生成",
+  "actualSize": "",
+  "relativePath": "03_建筑与场景/bg_title_landscape_layer_v001.png",
+  "prompt": "Use case: stylized-concept. Asset type: one independent transparent PNG for the 2D/2.5D Chinese tea-village game 茶园物语.\nStyle: clean Chinese ink outline with pale hand-painted watercolor fills, harmonizing with the approved references. Simple large clear shapes, controlled sparse brush marks, thin charcoal/brown linework; avoid dense texture or paper grain. Restrained ivory #EEE5D5, sage #83957E, tea green #526C62, charcoal #5C6261, pale timber #967653, bamboo #C5A36F, occasional dusty coral #B76651.\nFor constructed objects use elevated parallel dimetric 2:1 ground axes, diagonal edges slope about ±26.565 degrees, verticals remain vertical, near and far edges stay parallel, no lens perspective. Soft even light, modest internal shading, no cast ground shadow.\nOutput actual RGBA transparency outside the subject. Full silhouette, visible generous transparent margin on ALL four sides; never crop. No background fill, checkerboard, paper sheet, black background, white background, vignette, glow, halo, text, calligraphy, numerals, UI, labels, borders, watermark. No extra props, people, scenery, repeated objects or decorative clutter. Avoid oversaturation, muddy gradients, noise, excessive fiber or woodgrain, photorealism, heavy black outline and strong reflections. Preserve clear edges at small gameplay sizes.\nPrimary request: a finished airy title-screen landscape PAINT LAYER for 茶园物语, target horizontal1920×1080, true RGBA transparency. Input1 references composition and Chinese watercolor mood ONLY; Inputs2 and3 define the approved mountain and water brushes/colors.\nPaint ONLY a few soft distant sage-grey mountain ridges flanking left and right with a calm pale sage-blue stream gently passing across the lower third. Broad clean pale washes, subtle ivory fading through alpha around hill bases, restrained sparse contour strokes. Keep the CENTER and UPPER MIDDLE largely empty TRANSPARENT space suitable for a separately rendered game title; keep lower middle clear enough for separate menu buttons. Highest mountains on upper left and far right, no dense center peak.\nNo buildings, pavilion, pagoda, tea fields, people, boats, trees, plants, rocks as separate props, sun, birds, decorative gold clouds, letters, logo, seal or UI. No paper sheet or opaque background color. Only mountain and water paint masses inside the canvas, soft transparency around the outer edges, generous uncropped margins. This is the quiet atmospheric title landscape, its objects are noninteractive; all gameplay architecture and UI remain separate assets. No texture noise, thick grain, murky shading or oversaturation.",
+  "references": [
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\01_Figma参考\\figma_title_20261008.png",
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\03_建筑与场景\\bg_mountains_layer_v001.png",
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\03_建筑与场景\\bg_water_layer_v001.png"
+  ],
+  "mode": "built-in image_gen",
+  "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-404b7d7f-eb5a-44fa-8db2-d0863a8ac419.png",
+  "savedPath": "03_建筑与场景/bg_title_landscape_layer_v001.png",
+  "destination": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\03_建筑与场景\\bg_title_landscape_layer_v001.png"
+}

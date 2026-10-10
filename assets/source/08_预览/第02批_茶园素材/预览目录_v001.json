@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-08",
+  "batch": "02_茶园素材",
+  "newAssets": 18,
+  "referenceReuse": 3,
+  "pages": [
+    {
+      "html": "01_茶树与地形_v001.html",
+      "png": "01_茶树与地形_v001.png",
+      "count": 10
+    },
+    {
+      "html": "02_茶园道具_v001.html",
+      "png": "02_茶园道具_v001.png",
+      "count": 6
+    },
+    {
+      "html": "03_功能入口图标_v001.html",
+      "png": "03_功能入口图标_v001.png",
+      "count": 5
+    }
+  ]
+}

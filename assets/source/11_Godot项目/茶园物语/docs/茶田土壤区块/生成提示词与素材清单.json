@@ -1,0 +1,38 @@
+{
+  "id": "TER_181",
+  "label": "淡彩椭圆种植土壤",
+  "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-945ced3a-638f-4fa9-ae51-b766a54257fd.png",
+  "prompt": "Use case: stylized-concept. Asset type: one independent RGBA transparent circular planting-area ground sprite for a Chinese pale-watercolor tea-garden game. Input image 1 is the PRIMARY shape, boundary and visual-weight reference: study its individual small circular planting spots projected as rounded ellipses on each pale terrace. The user wants those softly defined oval ground areas. Generate ONLY ONE empty planting spot, not the map or interface. Input image 2 is the CURRENT scene palette/style reference only. Primary request: a circular patch of lightly cultivated bare soil viewed in the same elevated shallow ground perspective, giving a broad rounded elliptical silhouette approximately 2.7–3.0 times wider than high. It is a full ellipse with smooth curved ends, neither a long strip nor rounded rectangle. Single quiet continuous pale sand-grey/taupe interior wash, only slightly darker than the scene's cream terrace floor. The natural boundary is a thin softly hand-painted ivory perimeter, intermittently broken in a few broad soft sections as in reference image 1; subtle inner pale warm-grey earth transition. Clean flat ground plane, no raised walls, no planter, no trench, no thick ring. Absolutely NO parallel furrows, rectangular edges, grid, ridge bands, dots, grain, speckles or scratchy texture. Refined restrained pale Chinese watercolor with broad simple washes, very little texture, soft but clearly readable outer oval at 140–230 pixels wide. Empty centre fully open and visibly filled with pale soil, suitable for placing a tea shrub with its root precisely at the oval's centre. Transparent exterior, no opaque matte, no detached shadow, no glow; generous clear margins, whole shape unclipped. No seedlings, leaves, grass, stones, pots, people, tools, fences, signpost, labels, calligraphy, text, watermark, multiple patches, collage, furniture, UI ornament, high contrast, saturated brown, orange, muddy dirt, noisy edges or any extra object. One subtle oval soil circle only.",
+  "reference_paths": [
+    "C:/Users/24586/AppData/Local/Temp/codex-clipboard-ef1a28f6-2154-48cb-9d07-35c9db4a01c0.png",
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\11_Godot项目\\茶园物语/docs/茶树生长阶段重绘/01_幼苗.png"
+  ],
+  "tool": "built-in image_gen",
+  "project_file": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\11_Godot项目\\茶园物语\\assets\\18_茶田土壤区块\\TER_181_淡彩椭圆种植土壤_v002.png",
+  "library_file": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\18_茶田土壤区块\\TER_181_淡彩椭圆种植土壤_v002.png",
+  "reference_snapshots": [
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\11_Godot项目\\茶园物语\\docs\\茶田土壤区块\\用户椭圆区域参考.png",
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\11_Godot项目\\茶园物语\\docs\\茶田土壤区块\\配色与场景参考.png"
+  ],
+  "sha256": "835b989880c78629331e700b50e09f7edefc059976cbf9cef3cba65bba2ccfea",
+  "metrics": {
+    "size": [
+      1891,
+      832
+    ],
+    "bbox": [
+      139,
+      210,
+      1749,
+      645
+    ],
+    "ratio": 0.2701863354037267,
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "detached_fragments": []
+  },
+  "original_rgba_preserved": true,
+  "revision": "v002"
+}

@@ -1,0 +1,3757 @@
+{
+  "source": "Figma original uploaded images",
+  "sourceCanvas": [
+    1672,
+    941
+  ],
+  "viewport": [
+    1920,
+    1080
+  ],
+  "transform": "uniform scale only; no rotation, shear or perspective warp",
+  "parts": [
+    {
+      "id": "FGW_01",
+      "room": "workshop",
+      "label": "摊青长桌与原有叶盘",
+      "poly": [
+        [
+          358,
+          397
+        ],
+        [
+          643,
+          304
+        ],
+        [
+          714,
+          334
+        ],
+        [
+          711,
+          349
+        ],
+        [
+          704,
+          424
+        ],
+        [
+          690,
+          427
+        ],
+        [
+          689,
+          359
+        ],
+        [
+          585,
+          393
+        ],
+        [
+          582,
+          476
+        ],
+        [
+          570,
+          483
+        ],
+        [
+          569,
+          402
+        ],
+        [
+          461,
+          440
+        ],
+        [
+          458,
+          476
+        ],
+        [
+          441,
+          474
+        ],
+        [
+          441,
+          445
+        ],
+        [
+          398,
+          430
+        ],
+        [
+          398,
+          475
+        ],
+        [
+          382,
+          471
+        ],
+        [
+          381,
+          418
+        ],
+        [
+          358,
+          409
+        ]
+      ],
+      "holes": [],
+      "sourceCrop": [
+        364.0,
+        307.0,
+        353.0,
+        179.0
+      ],
+      "viewportRect": [
+        387.99043062200957,
+        367.53588516746413,
+        405.35885167464113,
+        205.55023923444975
+      ],
+      "fullyOpaqueExactPixels": 23857,
+      "sourceSHA256": "bec3b50488f435bd9f3de30673f1a438708605fb79193a875a742e1943d065fc",
+      "sha256": "f1b7efa86d2bf0c45539207ac9e26236ec29071a89aebee06356b199f50c4e17",
+      "originalExtractedPath": "res://assets/13_Figma原图拆分/FGW_01_摊青长桌与原有叶盘.png",
+      "optimizedPath": "res://assets/13_Figma原图拆分/FGW_01_image2透明重制_v003.png",
+      "optimizedSHA256": "efc73c326bd7213fe604e28c8932658aebe50fc2e7c26d000d7bbe364c3b47b1",
+      "originalSourceCrop": [
+        356,
+        302,
+        361,
+        184
+      ],
+      "registrationMethod": "source-feature similarity registration",
+      "sourceFeatureInliers": 290,
+      "sourceRegisteredViewportRect": [
+        417.99043062200957,
+        352.53588516746413,
+        405.35885167464113,
+        205.55023923444975
+      ],
+      "layoutTranslation": [
+        -30.0,
+        15.0
+      ],
+      "groundContacts": [
+        [
+          0.03966,
+          0.865922
+        ],
+        [
+          0.233711,
+          0.986034
+        ],
+        [
+          0.59915,
+          0.784916
+        ],
+        [
+          0.947592,
+          0.628492
+        ]
+      ]
+    },
+    {
+      "id": "FGW_02",
+      "room": "workshop",
+      "label": "原图竹制晾架",
+      "poly": [
+        [
+          633,
+          165
+        ],
+        [
+          653,
+          164
+        ],
+        [
+          652,
+          151
+        ],
+        [
+          661,
+          150
+        ],
+        [
+          663,
+          166
+        ],
+        [
+          710,
+          146
+        ],
+        [
+          815,
+          161
+        ],
+        [
+          828,
+          178
+        ],
+        [
+          831,
+          166
+        ],
+        [
+          837,
+          170
+        ],
+        [
+          834,
+          340
+        ],
+        [
+          826,
+          349
+        ],
+        [
+          820,
+          291
+        ],
+        [
+          811,
+          310
+        ],
+        [
+          811,
+          346
+        ],
+        [
+          803,
+          347
+        ],
+        [
+          801,
+          305
+        ],
+        [
+          772,
+          320
+        ],
+        [
+          766,
+          366
+        ],
+        [
+          756,
+          365
+        ],
+        [
+          756,
+          325
+        ],
+        [
+          686,
+          345
+        ],
+        [
+          685,
+          370
+        ],
+        [
+          676,
+          372
+        ],
+        [
+          674,
+          343
+        ],
+        [
+          649,
+          326
+        ],
+        [
+          641,
+          340
+        ],
+        [
+          634,
+          339
+        ]
+      ],
+      "holes": [],
+      "sourceCrop": [
+        629.0,
+        143.0,
+        209.0,
+        234.0
+      ],
+      "viewportRect": [
+        802.2966507177033,
+        179.21052631578948,
+        240.0,
+        268.7081339712919
+      ],
+      "fullyOpaqueExactPixels": 31103,
+      "sourceSHA256": "bec3b50488f435bd9f3de30673f1a438708605fb79193a875a742e1943d065fc",
+      "sha256": "112e6af7778797d0fe8fbb4933b717fbfdf604092234bcfb3bb772b37937236a",
+      "originalExtractedPath": "res://assets/13_Figma原图拆分/FGW_02_原图竹制晾架.png",
+      "optimizedPath": "res://assets/13_Figma原图拆分/FGW_02_image2透明重制_v003.png",
+      "optimizedSHA256": "be2c87eb7316b71dbc8e69492cbc7dc4a5dcb50bdaa3554a842a1f706fc1f7e8",
+      "originalSourceCrop": [
+        631,
+        144,
+        209,
+        231
+      ],
+      "registrationMethod": "source-feature similarity registration",
+      "sourceFeatureInliers": 415,
+      "sourceRegisteredViewportRect": [
+        722.2966507177033,
+        164.21052631578948,
+        240.0,
+        268.7081339712919
+      ],
+      "layoutTranslation": [
+        80.0,
+        15.0
+      ],
+      "groundContacts": [
+        [
+          0.033493,
+          0.852564
+        ],
+        [
+          0.37799,
+          0.991453
+        ],
+        [
+          0.657895,
+          0.944444
+        ],
+        [
+          0.767943,
+          0.773504
+        ],
+        [
+          0.9689,
+          0.844017
+        ]
+      ]
+    },
+    {
+      "id": "FGW_03",
+      "room": "workshop",
+      "label": "杀青炉",
+      "poly": [
+        [
+          777,
+          378
+        ],
+        [
+          789,
+          377
+        ],
+        [
+          792,
+          373
+        ],
+        [
+          801,
+          375
+        ],
+        [
+          810,
+          386
+        ],
+        [
+          805,
+          407
+        ],
+        [
+          819,
+          425
+        ],
+        [
+          829,
+          451
+        ],
+        [
+          853,
+          449
+        ],
+        [
+          889,
+          455
+        ],
+        [
+          909,
+          467
+        ],
+        [
+          917,
+          492
+        ],
+        [
+          915,
+          561
+        ],
+        [
+          902,
+          568
+        ],
+        [
+          894,
+          585
+        ],
+        [
+          883,
+          580
+        ],
+        [
+          875,
+          590
+        ],
+        [
+          859,
+          598
+        ],
+        [
+          791,
+          575
+        ],
+        [
+          775,
+          554
+        ],
+        [
+          752,
+          557
+        ],
+        [
+          750,
+          523
+        ],
+        [
+          738,
+          523
+        ],
+        [
+          738,
+          468
+        ],
+        [
+          750,
+          455
+        ],
+        [
+          754,
+          418
+        ],
+        [
+          771,
+          405
+        ]
+      ],
+      "holes": [
+        [
+          [
+            750,
+            488
+          ],
+          [
+            762,
+            490
+          ],
+          [
+            762,
+            513
+          ],
+          [
+            752,
+            518
+          ]
+        ]
+      ],
+      "sourceCrop": [
+        753.0,
+        444.0,
+        168.0,
+        157.0
+      ],
+      "viewportRect": [
+        864.688995215311,
+        509.85645933014354,
+        192.91866028708134,
+        180.28708133971293
+      ],
+      "fullyOpaqueExactPixels": 24258,
+      "sourceSHA256": "bec3b50488f435bd9f3de30673f1a438708605fb79193a875a742e1943d065fc",
+      "sha256": "8ca0a77302492667a13c7899f466f643fbca3e57f8ae39b944b450d2bad184c7",
+      "originalExtractedPath": "res://assets/13_Figma原图拆分/FGW_03_杀青炉与原图操作小工.png",
+      "optimizedPath": "res://assets/13_Figma原图拆分/FGW_03_image2透明重制_v003.png",
+      "optimizedSHA256": "4780c9d7c190e36573b6a8c5d3f71576a39ab39780e62ee82189d431c9f45663",
+      "originalSourceCrop": [
+        736,
+        371,
+        184,
+        230
+      ],
+      "registrationMethod": "source-feature similarity registration",
+      "sourceFeatureInliers": 182,
+      "groundContacts": [
+        [
+          0.017857,
+          0.780255
+        ],
+        [
+          0.431548,
+          0.980892
+        ],
+        [
+          0.979167,
+          0.770701
+        ],
+        [
+          0.62,
+          0.61
+        ]
+      ]
+    },
+    {
+      "id": "FGW_04",
+      "room": "workshop",
+      "label": "揉捻台",
+      "poly": [
+        [
+          979,
+          537
+        ],
+        [
+          1007,
+          511
+        ],
+        [
+          1019,
+          510
+        ],
+        [
+          1022,
+          499
+        ],
+        [
+          1030,
+          501
+        ],
+        [
+          1035,
+          513
+        ],
+        [
+          1046,
+          527
+        ],
+        [
+          1040,
+          545
+        ],
+        [
+          1056,
+          565
+        ],
+        [
+          1118,
+          535
+        ],
+        [
+          1144,
+          544
+        ],
+        [
+          1193,
+          544
+        ],
+        [
+          1206,
+          552
+        ],
+        [
+          1221,
+          552
+        ],
+        [
+          1228,
+          558
+        ],
+        [
+          1274,
+          573
+        ],
+        [
+          1272,
+          590
+        ],
+        [
+          1265,
+          600
+        ],
+        [
+          1266,
+          660
+        ],
+        [
+          1251,
+          672
+        ],
+        [
+          1244,
+          667
+        ],
+        [
+          1246,
+          607
+        ],
+        [
+          1194,
+          626
+        ],
+        [
+          1191,
+          684
+        ],
+        [
+          1178,
+          690
+        ],
+        [
+          1177,
+          631
+        ],
+        [
+          1135,
+          642
+        ],
+        [
+          1134,
+          700
+        ],
+        [
+          1122,
+          706
+        ],
+        [
+          1112,
+          659
+        ],
+        [
+          1076,
+          669
+        ],
+        [
+          1076,
+          722
+        ],
+        [
+          1061,
+          730
+        ],
+        [
+          1054,
+          720
+        ],
+        [
+          1053,
+          672
+        ],
+        [
+          1009,
+          686
+        ],
+        [
+          991,
+          683
+        ],
+        [
+          982,
+          675
+        ],
+        [
+          976,
+          642
+        ],
+        [
+          963,
+          631
+        ],
+        [
+          961,
+          585
+        ]
+      ],
+      "holes": [],
+      "sourceCrop": [
+        978.0,
+        528.0,
+        297.0,
+        204.0
+      ],
+      "viewportRect": [
+        1123.0622009569379,
+        606.3157894736842,
+        341.05263157894734,
+        234.25837320574163
+      ],
+      "fullyOpaqueExactPixels": 34848,
+      "sourceSHA256": "bec3b50488f435bd9f3de30673f1a438708605fb79193a875a742e1943d065fc",
+      "sha256": "93b6ce1a281d406e4f52bc1a36a5ba41b871e22998b4a21fbbd6fa5701fa2399",
+      "originalExtractedPath": "res://assets/13_Figma原图拆分/FGW_04_揉捻台与原图操作小工.png",
+      "optimizedPath": "res://assets/13_Figma原图拆分/FGW_04_image2透明重制_v003.png",
+      "optimizedSHA256": "e27c8f4490aa5abe31b1257cb250e8f7aede1350f8fd1e57fbe72ad3061ea192",
+      "originalSourceCrop": [
+        959,
+        497,
+        318,
+        236
+      ],
+      "registrationMethod": "source-feature similarity registration",
+      "sourceFeatureInliers": 170,
+      "groundContacts": [
+        [
+          0.069024,
+          0.860294
+        ],
+        [
+          0.281145,
+          0.985294
+        ],
+        [
+          0.547138,
+          0.855392
+        ],
+        [
+          0.777778,
+          0.639706
+        ],
+        [
+          0.949495,
+          0.644608
+        ]
+      ]
+    },
+    {
+      "id": "FGW_05",
+      "room": "workshop",
+      "label": "原图筛分筒",
+      "poly": [
+        [
+          1222,
+          363
+        ],
+        [
+          1307,
+          348
+        ],
+        [
+          1340,
+          352
+        ],
+        [
+          1369,
+          378
+        ],
+        [
+          1392,
+          438
+        ],
+        [
+          1396,
+          476
+        ],
+        [
+          1381,
+          493
+        ],
+        [
+          1375,
+          535
+        ],
+        [
+          1363,
+          541
+        ],
+        [
+          1360,
+          504
+        ],
+        [
+          1318,
+          522
+        ],
+        [
+          1314,
+          558
+        ],
+        [
+          1301,
+          562
+        ],
+        [
+          1296,
+          517
+        ],
+        [
+          1265,
+          499
+        ],
+        [
+          1250,
+          529
+        ],
+        [
+          1237,
+          527
+        ],
+        [
+          1242,
+          490
+        ],
+        [
+          1230,
+          444
+        ]
+      ],
+      "holes": [],
+      "sourceCrop": [
+        1227.0,
+        338.0,
+        179.0,
+        231.0
+      ],
+      "viewportRect": [
+        1385.9952153110048,
+        400.13397129186603,
+        205.55023923444975,
+        265.2631578947368
+      ],
+      "fullyOpaqueExactPixels": 21699,
+      "sourceSHA256": "bec3b50488f435bd9f3de30673f1a438708605fb79193a875a742e1943d065fc",
+      "sha256": "51d31347cffd59589b7c36a04ae4f59690b2a81148fbc7e6fb14c3e46fb47218",
+      "originalExtractedPath": "res://assets/13_Figma原图拆分/FGW_05_原图筛分筒.png",
+      "optimizedPath": "res://assets/13_Figma原图拆分/FGW_05_image2透明重制_v003.png",
+      "optimizedSHA256": "39452e843d63f92346e27077b43357278cc6b520a36d2c1f10aee1c109a87547",
+      "originalSourceCrop": [
+        1220,
+        346,
+        179,
+        219
+      ],
+      "registrationMethod": "source-feature similarity registration",
+      "sourceFeatureInliers": 26,
+      "sourceRegisteredViewportRect": [
+        1408.9952153110048,
+        388.13397129186603,
+        205.55023923444975,
+        265.2631578947368
+      ],
+      "layoutTranslation": [
+        -23.0,
+        12.0
+      ],
+      "groundContacts": [
+        [
+          0.061453,
+          0.883117
+        ],
+        [
+          0.368715,
+          0.984848
+        ],
+        [
+          0.611732,
+          0.688312
+        ],
+        [
+          0.899441,
+          0.774892
+        ]
+      ]
+    },
+    {
+      "id": "FGW_06",
+      "room": "workshop",
+      "label": "原图秤盘与支架",
+      "poly": [
+        [
+          1420,
+          492
+        ],
+        [
+          1483,
+          474
+        ],
+        [
+          1485,
+          470
+        ],
+        [
+          1501,
+          470
+        ],
+        [
+          1503,
+          484
+        ],
+        [
+          1524,
+          486
+        ],
+        [
+          1527,
+          499
+        ],
+        [
+          1502,
+          502
+        ],
+        [
+          1504,
+          593
+        ],
+        [
+          1514,
+          601
+        ],
+        [
+          1559,
+          608
+        ],
+        [
+          1559,
+          620
+        ],
+        [
+          1471,
+          654
+        ],
+        [
+          1426,
+          632
+        ],
+        [
+          1426,
+          623
+        ],
+        [
+          1478,
+          607
+        ],
+        [
+          1480,
+          502
+        ],
+        [
+          1435,
+          512
+        ],
+        [
+          1423,
+          508
+        ]
+      ],
+      "holes": [],
+      "sourceCrop": [
+        1417.0,
+        464.0,
+        146.0,
+        198.0
+      ],
+      "viewportRect": [
+        1595.177033492823,
+        504.82296650717706,
+        167.6555023923445,
+        227.3684210526316
+      ],
+      "fullyOpaqueExactPixels": 8708,
+      "sourceSHA256": "bec3b50488f435bd9f3de30673f1a438708605fb79193a875a742e1943d065fc",
+      "sha256": "b2b6fb79c855c48a9d1b1473641cb549b04169b06412ac7d03e5618dd3853db0",
+      "originalExtractedPath": "res://assets/13_Figma原图拆分/FGW_06_原图秤盘与支架.png",
+      "optimizedPath": "res://assets/13_Figma原图拆分/FGW_06_image2透明重制_v003.png",
+      "optimizedSHA256": "f379cbf046ca5b0e72d656547030c1839a627de5e106e9b057dab8c6fcac2ea5",
+      "originalSourceCrop": [
+        1418,
+        468,
+        144,
+        189
+      ],
+      "registrationMethod": "source-feature similarity registration",
+      "sourceFeatureInliers": 74,
+      "sourceRegisteredViewportRect": [
+        1627.177033492823,
+        532.8229665071771,
+        167.6555023923445,
+        227.3684210526316
+      ],
+      "layoutTranslation": [
+        -32,
+        -28
+      ],
+      "groundContacts": [
+        [
+          0.05137,
+          0.972222
+        ],
+        [
+          0.640411,
+          0.931818
+        ],
+        [
+          0.89726,
+          0.873737
+        ],
+        [
+          0.804795,
+          0.891414
+        ]
+      ]
+    },
+    {
+      "id": "FGW_07",
+      "room": "workshop",
+      "label": "原图三张后墙小工作台",
+      "poly": [
+        [
+          844,
+          230
+        ],
+        [
+          848,
+          227
+        ],
+        [
+          853,
+          237
+        ],
+        [
+          894,
+          225
+        ],
+        [
+          897,
+          234
+        ],
+        [
+          893,
+          273
+        ],
+        [
+          928,
+          284
+        ],
+        [
+          941,
+          323
+        ],
+        [
+          949,
+          318
+        ],
+        [
+          949,
+          282
+        ],
+        [
+          956,
+          281
+        ],
+        [
+          959,
+          291
+        ],
+        [
+          964,
+          291
+        ],
+        [
+          973,
+          277
+        ],
+        [
+          984,
+          282
+        ],
+        [
+          984,
+          297
+        ],
+        [
+          1054,
+          299
+        ],
+        [
+          1090,
+          321
+        ],
+        [
+          1093,
+          334
+        ],
+        [
+          1110,
+          344
+        ],
+        [
+          1209,
+          366
+        ],
+        [
+          1211,
+          381
+        ],
+        [
+          1205,
+          424
+        ],
+        [
+          1217,
+          424
+        ],
+        [
+          1225,
+          436
+        ],
+        [
+          1240,
+          440
+        ],
+        [
+          1239,
+          479
+        ],
+        [
+          1229,
+          480
+        ],
+        [
+          1226,
+          445
+        ],
+        [
+          1204,
+          453
+        ],
+        [
+          1197,
+          461
+        ],
+        [
+          1194,
+          427
+        ],
+        [
+          1141,
+          437
+        ],
+        [
+          1128,
+          441
+        ],
+        [
+          1127,
+          422
+        ],
+        [
+          1083,
+          408
+        ],
+        [
+          1074,
+          394
+        ],
+        [
+          1072,
+          367
+        ],
+        [
+          1045,
+          377
+        ],
+        [
+          1040,
+          414
+        ],
+        [
+          1029,
+          416
+        ],
+        [
+          1027,
+          380
+        ],
+        [
+          969,
+          361
+        ],
+        [
+          970,
+          371
+        ],
+        [
+          957,
+          373
+        ],
+        [
+          951,
+          337
+        ],
+        [
+          940,
+          338
+        ],
+        [
+          933,
+          322
+        ],
+        [
+          900,
+          306
+        ],
+        [
+          898,
+          333
+        ],
+        [
+          887,
+          333
+        ],
+        [
+          883,
+          299
+        ],
+        [
+          850,
+          302
+        ],
+        [
+          844,
+          324
+        ],
+        [
+          835,
+          323
+        ],
+        [
+          837,
+          277
+        ]
+      ],
+      "holes": [],
+      "sourceCrop": [
+        941.0,
+        252.0,
+        324.0,
+        218.0
+      ],
+      "viewportRect": [
+        1065.5741626794259,
+        309.377990430622,
+        372.0574162679426,
+        250.33492822966508
+      ],
+      "fullyOpaqueExactPixels": 26891,
+      "sourceSHA256": "bec3b50488f435bd9f3de30673f1a438708605fb79193a875a742e1943d065fc",
+      "sha256": "4afbc343853c6f106b494139ec6c405fe9d7896ad957c1abaf00ee793ec51ca0",
+      "originalExtractedPath": "res://assets/13_Figma原图拆分/FGW_07_原图三张后墙小工作台.png",
+      "optimizedPath": "res://assets/13_Figma原图拆分/FGW_07_image2透明重制_v003.png",
+      "optimizedSHA256": "996aa7cae6214e6b77df9518e8c0e5f2af424c2c2ba3e7dcb41cf6435df2e5b0",
+      "originalSourceCrop": [
+        833,
+        223,
+        410,
+        260
+      ],
+      "registrationMethod": "source-feature similarity registration",
+      "sourceFeatureInliers": 40,
+      "groundContacts": [
+        [
+          0.026235,
+          0.552752
+        ],
+        [
+          0.320988,
+          0.740826
+        ],
+        [
+          0.708333,
+          0.91055
+        ],
+        [
+          0.888889,
+          0.983945
+        ],
+        [
+          0.953704,
+          0.908257
+        ]
+      ],
+      "sourceRegisteredViewportRect": [
+        1080.5741626794259,
+        289.377990430622,
+        372.0574162679426,
+        250.33492822966508
+      ],
+      "layoutTranslation": [
+        -15.0,
+        20.0
+      ]
+    },
+    {
+      "id": "FGW_08",
+      "room": "workshop",
+      "label": "原图左侧辅助桌与竹筐",
+      "poly": [
+        [
+          326,
+          385
+        ],
+        [
+          363,
+          372
+        ],
+        [
+          405,
+          384
+        ],
+        [
+          426,
+          369
+        ],
+        [
+          427,
+          359
+        ],
+        [
+          442,
+          360
+        ],
+        [
+          447,
+          380
+        ],
+        [
+          451,
+          403
+        ],
+        [
+          437,
+          415
+        ],
+        [
+          429,
+          433
+        ],
+        [
+          412,
+          451
+        ],
+        [
+          365,
+          439
+        ],
+        [
+          335,
+          444
+        ],
+        [
+          325,
+          436
+        ]
+      ],
+      "holes": [],
+      "sourceCrop": [
+        330.0,
+        358.0,
+        117.0,
+        95.0
+      ],
+      "viewportRect": [
+        1488.9473684210527,
+        636.1004784688995,
+        134.35406698564594,
+        109.0909090909091
+      ],
+      "fullyOpaqueExactPixels": 7604,
+      "sourceSHA256": "bec3b50488f435bd9f3de30673f1a438708605fb79193a875a742e1943d065fc",
+      "sha256": "912945f33371efa6c3fcd9d272e352d542f39132fb4a0b48b00be5ce5a2a734b",
+      "originalExtractedPath": "res://assets/13_Figma原图拆分/FGW_08_原图左侧辅助桌与竹筐.png",
+      "optimizedPath": "res://assets/13_Figma原图拆分/FGW_08_image2透明重制_v003.png",
+      "optimizedSHA256": "c1e451886e020a8605e3c037b02b24ff453d893d607121cb4e5be541a760028f",
+      "originalSourceCrop": [
+        323,
+        357,
+        131,
+        97
+      ],
+      "registrationMethod": "manual-source-envelope uniform fit",
+      "sourceFeatureInliers": 5,
+      "sourceRegisteredViewportRect": [
+        378.94736842105266,
+        411.1004784688995,
+        134.35406698564594,
+        109.0909090909091
+      ],
+      "layoutTranslation": [
+        1110,
+        225
+      ],
+      "groundContacts": [
+        [
+          0.055556,
+          0.784211
+        ],
+        [
+          0.508547,
+          0.989474
+        ],
+        [
+          0.923077,
+          0.768421
+        ]
+      ]
+    },
+    {
+      "id": "FGW_09",
+      "room": "workshop",
+      "label": "原图长桌前竹筐",
+      "poly": [
+        [
+          466,
+          453
+        ],
+        [
+          485,
+          445
+        ],
+        [
+          521,
+          446
+        ],
+        [
+          540,
+          455
+        ],
+        [
+          541,
+          478
+        ],
+        [
+          533,
+          496
+        ],
+        [
+          521,
+          504
+        ],
+        [
+          490,
+          502
+        ],
+        [
+          468,
+          491
+        ]
+      ],
+      "holes": [],
+      "sourceCrop": [
+        464.0,
+        441.0,
+        79.0,
+        67.0
+      ],
+      "viewportRect": [
+        570.8229665071771,
+        494.41148325358853,
+        90.7177033492823,
+        76.9377990430622
+      ],
+      "fullyOpaqueExactPixels": 3642,
+      "sourceSHA256": "bec3b50488f435bd9f3de30673f1a438708605fb79193a875a742e1943d065fc",
+      "sha256": "ee3fe693a80c538749b43a9e5896129a52c8f3cfa1564f678c22f93d3ff5f1f1",
+      "originalExtractedPath": "res://assets/13_Figma原图拆分/FGW_09_原图长桌前竹筐.png",
+      "optimizedPath": "res://assets/13_Figma原图拆分/FGW_09_image2透明重制_v003.png",
+      "optimizedSHA256": "a757d889798356780506ead469ebf2d5562c6af30a86afc065c322f1ddebfc6b",
+      "originalSourceCrop": [
+        464,
+        443,
+        80,
+        64
+      ],
+      "registrationMethod": "source-feature similarity registration",
+      "sourceFeatureInliers": 13,
+      "sourceRegisteredViewportRect": [
+        532.8229665071771,
+        506.41148325358853,
+        90.7177033492823,
+        76.9377990430622
+      ],
+      "layoutTranslation": [
+        38,
+        -12
+      ],
+      "groundContacts": [
+        [
+          0.139241,
+          0.902985
+        ],
+        [
+          0.5,
+          0.985075
+        ],
+        [
+          0.860759,
+          0.895522
+        ],
+        [
+          0.5,
+          0.77
+        ]
+      ]
+    },
+    {
+      "id": "FGW_10",
+      "room": "workshop",
+      "label": "原图独立小凳",
+      "poly": [
+        [
+          591,
+          442
+        ],
+        [
+          619,
+          428
+        ],
+        [
+          636,
+          437
+        ],
+        [
+          634,
+          445
+        ],
+        [
+          631,
+          476
+        ],
+        [
+          633,
+          480
+        ],
+        [
+          626,
+          483
+        ],
+        [
+          622,
+          454
+        ],
+        [
+          607,
+          461
+        ],
+        [
+          606,
+          490
+        ],
+        [
+          598,
+          493
+        ],
+        [
+          597,
+          453
+        ],
+        [
+          591,
+          450
+        ]
+      ],
+      "holes": [
+        [
+          [
+            605,
+            465
+          ],
+          [
+            620,
+            457
+          ],
+          [
+            621,
+            468
+          ],
+          [
+            605,
+            478
+          ]
+        ]
+      ],
+      "sourceCrop": [
+        590.0,
+        428.0,
+        48.0,
+        67.0
+      ],
+      "viewportRect": [
+        692.5119617224881,
+        479.48325358851673,
+        55.119617224880386,
+        76.9377990430622
+      ],
+      "fullyOpaqueExactPixels": 1336,
+      "sourceSHA256": "bec3b50488f435bd9f3de30673f1a438708605fb79193a875a742e1943d065fc",
+      "sha256": "cd2f44132e669be8404c3efd5eb9a7db0ae88c2ec013897989f5b62427d7f63c",
+      "originalExtractedPath": "res://assets/13_Figma原图拆分/FGW_10_原图独立小凳.png",
+      "optimizedPath": "res://assets/13_Figma原图拆分/FGW_10_image2透明重制_v003.png",
+      "optimizedSHA256": "862e51f1e52392660409a71dbed47d7800394f4e00895de29cbe79f6ddfc611b",
+      "originalSourceCrop": [
+        589,
+        426,
+        50,
+        70
+      ],
+      "registrationMethod": "manual-source-envelope uniform fit",
+      "sourceFeatureInliers": 19,
+      "sourceRegisteredViewportRect": [
+        677.5119617224881,
+        491.48325358851673,
+        55.119617224880386,
+        76.9377990430622
+      ],
+      "layoutTranslation": [
+        15,
+        -12
+      ],
+      "groundContacts": [
+        [
+          0.041667,
+          0.850746
+        ],
+        [
+          0.395833,
+          0.985075
+        ],
+        [
+          0.927083,
+          0.835821
+        ],
+        [
+          0.677083,
+          0.716418
+        ]
+      ]
+    },
+    {
+      "id": "FGW_11",
+      "room": "workshop",
+      "label": "原图炉前鲜叶竹篓",
+      "poly": [
+        [
+          701,
+          532
+        ],
+        [
+          711,
+          521
+        ],
+        [
+          732,
+          518
+        ],
+        [
+          751,
+          525
+        ],
+        [
+          761,
+          537
+        ],
+        [
+          761,
+          567
+        ],
+        [
+          754,
+          587
+        ],
+        [
+          720,
+          590
+        ],
+        [
+          702,
+          579
+        ]
+      ],
+      "holes": [],
+      "sourceCrop": [
+        699.0,
+        516.0,
+        66.0,
+        76.0
+      ],
+      "viewportRect": [
+        810.6794258373205,
+        582.5358851674641,
+        75.78947368421052,
+        87.27272727272727
+      ],
+      "fullyOpaqueExactPixels": 3623,
+      "sourceSHA256": "bec3b50488f435bd9f3de30673f1a438708605fb79193a875a742e1943d065fc",
+      "sha256": "a22eb23b57d1e55178ec6e434e18787e7b39c06ecefd6c844a3b2bb9606a7b2c",
+      "originalExtractedPath": "res://assets/13_Figma原图拆分/FGW_11_原图炉前鲜叶竹篓.png",
+      "optimizedPath": "res://assets/13_Figma原图拆分/FGW_11_image2透明重制_v003.png",
+      "optimizedSHA256": "d1de9d7e4f465c57179fe8a9017d92664517b6f4546f50d5eabc49ab468b5917",
+      "originalSourceCrop": [
+        699,
+        516,
+        65,
+        77
+      ],
+      "registrationMethod": "source-feature similarity registration",
+      "sourceFeatureInliers": 57,
+      "sourceRegisteredViewportRect": [
+        802.6794258373205,
+        592.5358851674641,
+        75.78947368421052,
+        87.27272727272727
+      ],
+      "layoutTranslation": [
+        8,
+        -10
+      ],
+      "groundContacts": [
+        [
+          0.136364,
+          0.914474
+        ],
+        [
+          0.5,
+          0.986842
+        ],
+        [
+          0.863636,
+          0.914474
+        ],
+        [
+          0.5,
+          0.81
+        ]
+      ]
+    },
+    {
+      "id": "FGW_12",
+      "room": "workshop",
+      "label": "原图揉捻台旁茶篓与小篮",
+      "poly": [
+        [
+          1151,
+          666
+        ],
+        [
+          1166,
+          653
+        ],
+        [
+          1162,
+          637
+        ],
+        [
+          1170,
+          631
+        ],
+        [
+          1185,
+          633
+        ],
+        [
+          1195,
+          651
+        ],
+        [
+          1213,
+          660
+        ],
+        [
+          1230,
+          672
+        ],
+        [
+          1237,
+          687
+        ],
+        [
+          1254,
+          681
+        ],
+        [
+          1281,
+          663
+        ],
+        [
+          1310,
+          671
+        ],
+        [
+          1314,
+          680
+        ],
+        [
+          1308,
+          711
+        ],
+        [
+          1278,
+          724
+        ],
+        [
+          1251,
+          710
+        ],
+        [
+          1236,
+          713
+        ],
+        [
+          1228,
+          735
+        ],
+        [
+          1210,
+          746
+        ],
+        [
+          1180,
+          749
+        ],
+        [
+          1159,
+          736
+        ]
+      ],
+      "holes": [],
+      "sourceCrop": [
+        1149.0,
+        628.0,
+        168.0,
+        122.0
+      ],
+      "viewportRect": [
+        1301.4258373205741,
+        697.1483253588517,
+        192.91866028708134,
+        140.0956937799043
+      ],
+      "fullyOpaqueExactPixels": 10202,
+      "sourceSHA256": "bec3b50488f435bd9f3de30673f1a438708605fb79193a875a742e1943d065fc",
+      "sha256": "c66613cba522f8e72de63032ee66a4027c55344c7258496a64642e4fe4bdb904",
+      "originalExtractedPath": "res://assets/13_Figma原图拆分/FGW_12_原图揉捻台旁茶篓与小篮.png",
+      "optimizedPath": "res://assets/13_Figma原图拆分/FGW_12_image2透明重制_v003.png",
+      "optimizedSHA256": "1f6f03acca9909f87463b46eb2766fc853795b0321c6afde2e53262e3f72b536",
+      "originalSourceCrop": [
+        1149,
+        629,
+        168,
+        123
+      ],
+      "registrationMethod": "source-feature similarity registration",
+      "sourceFeatureInliers": 114,
+      "sourceRegisteredViewportRect": [
+        1319.4258373205741,
+        721.1483253588517,
+        192.91866028708134,
+        140.0956937799043
+      ],
+      "layoutTranslation": [
+        -18,
+        -24
+      ],
+      "groundContacts": [
+        [
+          0.095238,
+          0.938525
+        ],
+        [
+          0.297619,
+          0.991803
+        ],
+        [
+          0.964286,
+          0.745902
+        ],
+        [
+          0.8,
+          0.65
+        ]
+      ]
+    },
+    {
+      "id": "FGW_13",
+      "room": "workshop",
+      "label": "原图后墙挂筛与茶字挂画",
+      "poly": [
+        [
+          908,
+          95
+        ],
+        [
+          979,
+          120
+        ],
+        [
+          979,
+          254
+        ],
+        [
+          907,
+          230
+        ]
+      ],
+      "holes": [],
+      "sourceCrop": [
+        907.0,
+        93.0,
+        75.0,
+        166.0
+      ],
+      "viewportRect": [
+        1041.531100478469,
+        106.79425837320574,
+        86.1244019138756,
+        190.62200956937798
+      ],
+      "fullyOpaqueExactPixels": 9483,
+      "sourceSHA256": "bec3b50488f435bd9f3de30673f1a438708605fb79193a875a742e1943d065fc",
+      "sha256": "7a7fbfdaf197d9dcea42523be5be6940a2a765cfa3b0b9f272e5b80484db8b07",
+      "originalExtractedPath": "res://assets/13_Figma原图拆分/FGW_13_原图后墙挂筛与茶字挂画.png",
+      "optimizedPath": "res://assets/13_Figma原图拆分/FGW_13_image2透明重制_v003.png",
+      "optimizedSHA256": "6b2e0273e47ceb12560e1e88c2909330c0544ca60673b4ce894fc322f9efc18d",
+      "originalSourceCrop": [
+        905,
+        93,
+        77,
+        164
+      ],
+      "registrationMethod": "source-feature similarity registration",
+      "sourceFeatureInliers": 84
+    },
+    {
+      "id": "FGW_14",
+      "room": "workshop",
+      "label": "原图两只墙面竹筛",
+      "poly": [
+        [
+          1047,
+          166
+        ],
+        [
+          1090,
+          164
+        ],
+        [
+          1118,
+          187
+        ],
+        [
+          1134,
+          230
+        ],
+        [
+          1121,
+          262
+        ],
+        [
+          1094,
+          278
+        ],
+        [
+          1064,
+          266
+        ],
+        [
+          1042,
+          237
+        ],
+        [
+          1036,
+          202
+        ]
+      ],
+      "holes": [],
+      "sourceCrop": [
+        1038.0,
+        160.0,
+        89.0,
+        123.0
+      ],
+      "viewportRect": [
+        1191.9617224880383,
+        183.73205741626793,
+        102.20095693779905,
+        141.244019138756
+      ],
+      "fullyOpaqueExactPixels": 7931,
+      "sourceSHA256": "bec3b50488f435bd9f3de30673f1a438708605fb79193a875a742e1943d065fc",
+      "sha256": "2882a13c0728a159ffad7b951879552339f8f3e075b1742da0e29cb5da99f766",
+      "originalExtractedPath": "res://assets/13_Figma原图拆分/FGW_14_原图两只墙面竹筛.png",
+      "optimizedPath": "res://assets/13_Figma原图拆分/FGW_14_image2透明重制_v003.png",
+      "optimizedSHA256": "b56b71ce3e07c4baff9d8230930ccec4698f1772b4864416c02abbd0e924b93b",
+      "originalSourceCrop": [
+        1034,
+        162,
+        103,
+        119
+      ],
+      "registrationMethod": "source-feature similarity registration",
+      "sourceFeatureInliers": 71
+    },
+    {
+      "id": "FGW_15",
+      "room": "workshop",
+      "label": "原图右墙竹筛",
+      "poly": [
+        [
+          1163,
+          219
+        ],
+        [
+          1198,
+          219
+        ],
+        [
+          1223,
+          249
+        ],
+        [
+          1234,
+          291
+        ],
+        [
+          1221,
+          315
+        ],
+        [
+          1199,
+          319
+        ],
+        [
+          1171,
+          306
+        ],
+        [
+          1154,
+          276
+        ],
+        [
+          1148,
+          245
+        ]
+      ],
+      "holes": [],
+      "sourceCrop": [
+        1148.0,
+        218.0,
+        87.0,
+        103.0
+      ],
+      "viewportRect": [
+        1318.2775119617224,
+        250.33492822966508,
+        99.90430622009569,
+        118.27751196172248
+      ],
+      "fullyOpaqueExactPixels": 6050,
+      "sourceSHA256": "bec3b50488f435bd9f3de30673f1a438708605fb79193a875a742e1943d065fc",
+      "sha256": "0bfe1b86cf0d9bce5de3c96a2dfc48fb0b0835d824a6241025e1fca8615ab35a",
+      "originalExtractedPath": "res://assets/13_Figma原图拆分/FGW_15_原图右墙竹筛.png",
+      "optimizedPath": "res://assets/13_Figma原图拆分/FGW_15_image2透明重制_v003.png",
+      "optimizedSHA256": "49aa1ea119dd7bd0008875fe363a72bd2288550b502c2f8f8fc4f3ce51b9299e",
+      "originalSourceCrop": [
+        1146,
+        217,
+        91,
+        105
+      ],
+      "registrationMethod": "manual-source-envelope uniform fit",
+      "sourceFeatureInliers": 14
+    },
+    {
+      "id": "FGU_W1",
+      "room": "workshop",
+      "label": "摊青",
+      "kind": "editable_badge",
+      "sourceCrop": [
+        473,
+        235,
+        61,
+        154
+      ],
+      "viewportRect": [
+        513.1578947368421,
+        284.85645933014354,
+        70.04784688995215,
+        176.8421052631579
+      ],
+      "iconId": "ICO_451",
+      "plateId": "UI_451",
+      "sourceRegisteredViewportRect": [
+        543.1578947368421,
+        269.85645933014354,
+        70.04784688995215,
+        176.8421052631579
+      ],
+      "layoutTranslation": [
+        -30.0,
+        15.0
+      ]
+    },
+    {
+      "id": "FGU_W2",
+      "room": "workshop",
+      "label": "干燥",
+      "kind": "editable_badge",
+      "sourceCrop": [
+        705,
+        113,
+        61,
+        156
+      ],
+      "viewportRect": [
+        889.5693779904307,
+        144.76076555023923,
+        70.04784688995215,
+        179.13875598086125
+      ],
+      "iconId": "ICO_452",
+      "plateId": "UI_451",
+      "sourceRegisteredViewportRect": [
+        809.5693779904307,
+        129.76076555023923,
+        70.04784688995215,
+        179.13875598086125
+      ],
+      "layoutTranslation": [
+        80.0,
+        15.0
+      ]
+    },
+    {
+      "id": "FGU_W3",
+      "room": "workshop",
+      "label": "杀青",
+      "kind": "editable_badge",
+      "sourceCrop": [
+        869,
+        323,
+        63,
+        160
+      ],
+      "viewportRect": [
+        997.8947368421053,
+        370.90909090909093,
+        72.3444976076555,
+        183.73205741626793
+      ],
+      "iconId": "ICO_453",
+      "plateId": "UI_451"
+    },
+    {
+      "id": "FGU_W4",
+      "room": "workshop",
+      "label": "揉捻",
+      "kind": "editable_badge",
+      "sourceCrop": [
+        1047,
+        435,
+        61,
+        156
+      ],
+      "viewportRect": [
+        1202.2966507177034,
+        499.52153110047846,
+        70.04784688995215,
+        179.13875598086125
+      ],
+      "iconId": "ICO_454",
+      "plateId": "UI_451"
+    },
+    {
+      "id": "FGU_W5",
+      "room": "workshop",
+      "label": "筛分",
+      "kind": "editable_badge",
+      "sourceCrop": [
+        1229,
+        294,
+        61,
+        154
+      ],
+      "viewportRect": [
+        1406.2918660287082,
+        357.60765550239233,
+        70.04784688995215,
+        176.8421052631579
+      ],
+      "iconId": "ICO_455",
+      "plateId": "UI_451",
+      "layoutTranslation": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "FGT_01",
+      "room": "teashop",
+      "label": "原图售茶柜台",
+      "poly": [
+        [
+          776,
+          409
+        ],
+        [
+          834,
+          387
+        ],
+        [
+          873,
+          404
+        ],
+        [
+          914,
+          422
+        ],
+        [
+          930,
+          405
+        ],
+        [
+          951,
+          418
+        ],
+        [
+          949,
+          437
+        ],
+        [
+          968,
+          441
+        ],
+        [
+          1022,
+          420
+        ],
+        [
+          1018,
+          406
+        ],
+        [
+          1028,
+          383
+        ],
+        [
+          1038,
+          372
+        ],
+        [
+          1038,
+          354
+        ],
+        [
+          1048,
+          350
+        ],
+        [
+          1056,
+          361
+        ],
+        [
+          1070,
+          359
+        ],
+        [
+          1085,
+          385
+        ],
+        [
+          1095,
+          433
+        ],
+        [
+          1100,
+          480
+        ],
+        [
+          1125,
+          489
+        ],
+        [
+          1157,
+          514
+        ],
+        [
+          1198,
+          531
+        ],
+        [
+          1196,
+          544
+        ],
+        [
+          1190,
+          547
+        ],
+        [
+          1193,
+          604
+        ],
+        [
+          1165,
+          625
+        ],
+        [
+          941,
+          544
+        ],
+        [
+          938,
+          564
+        ],
+        [
+          916,
+          570
+        ],
+        [
+          902,
+          564
+        ],
+        [
+          901,
+          531
+        ],
+        [
+          837,
+          506
+        ],
+        [
+          785,
+          486
+        ]
+      ],
+      "holes": [],
+      "sourceCrop": [
+        777.0,
+        388.0,
+        420.0,
+        238.0
+      ],
+      "viewportRect": [
+        882.2488038277512,
+        455.55023923444975,
+        482.29665071770336,
+        273.30143540669854
+      ],
+      "fullyOpaqueExactPixels": 55192,
+      "sourceSHA256": "9e2fcadba6ee21517c3beec24271134df7441dee60e35f454a785fafe9b1dc1b",
+      "sha256": "1e4ff5a10700b8992abf01e365cdce186db047e045596ade9f527fe50a473ee0",
+      "originalExtractedPath": "res://assets/13_Figma原图拆分/FGT_01_原图售茶柜台与待客人物组合.png",
+      "optimizedPath": "res://assets/13_Figma原图拆分/FGT_01_image2透明重制_v003.png",
+      "optimizedSHA256": "17439001ae8027e68326a3ac17f98fc4942e33373d5397dec97aecb69091579e",
+      "originalSourceCrop": [
+        774,
+        348,
+        427,
+        280
+      ],
+      "registrationMethod": "source-feature similarity registration",
+      "sourceFeatureInliers": 120,
+      "sourceRegisteredViewportRect": [
+        892.2488038277512,
+        445.55023923444975,
+        482.29665071770336,
+        273.30143540669854
+      ],
+      "layoutTranslation": [
+        -10,
+        10
+      ],
+      "groundContacts": [
+        [
+          0.03,
+          0.66
+        ],
+        [
+          0.80119,
+          0.978992
+        ],
+        [
+          0.967857,
+          0.89916
+        ],
+        [
+          0.88,
+          0.7
+        ]
+      ]
+    },
+    {
+      "id": "FGT_02",
+      "room": "teashop",
+      "label": "原图茶柜和储茶罐",
+      "poly": [
+        [
+          1119,
+          307
+        ],
+        [
+          1196,
+          307
+        ],
+        [
+          1208,
+          280
+        ],
+        [
+          1267,
+          284
+        ],
+        [
+          1368,
+          329
+        ],
+        [
+          1404,
+          350
+        ],
+        [
+          1473,
+          377
+        ],
+        [
+          1475,
+          403
+        ],
+        [
+          1465,
+          411
+        ],
+        [
+          1464,
+          552
+        ],
+        [
+          1458,
+          567
+        ],
+        [
+          1427,
+          578
+        ],
+        [
+          1320,
+          534
+        ],
+        [
+          1227,
+          497
+        ],
+        [
+          1192,
+          486
+        ],
+        [
+          1188,
+          422
+        ],
+        [
+          1177,
+          428
+        ],
+        [
+          1147,
+          416
+        ],
+        [
+          1146,
+          361
+        ],
+        [
+          1118,
+          352
+        ]
+      ],
+      "holes": [],
+      "sourceCrop": [
+        1146.0,
+        277.0,
+        278.0,
+        295.0
+      ],
+      "viewportRect": [
+        1260.980861244019,
+        313.0861244019139,
+        319.23444976076553,
+        338.75598086124404
+      ],
+      "fullyOpaqueExactPixels": 63310,
+      "sourceSHA256": "9e2fcadba6ee21517c3beec24271134df7441dee60e35f454a785fafe9b1dc1b",
+      "sha256": "92118f1e1d8c6ee8a1c41f417ee8a9ba8d3214b038f10e8818420ec2cc9da3b1",
+      "originalExtractedPath": "res://assets/13_Figma原图拆分/FGT_02_原图茶柜和储茶罐.png",
+      "optimizedPath": "res://assets/13_Figma原图拆分/FGT_02_image2透明重制_v003.png",
+      "optimizedSHA256": "f5b8eca9cdbc190f361c36e28168e81231a4fefd4574e88d667c936985a6f675",
+      "originalSourceCrop": [
+        1116,
+        278,
+        362,
+        303
+      ],
+      "registrationMethod": "source-feature similarity registration",
+      "sourceFeatureInliers": 134,
+      "sourceRegisteredViewportRect": [
+        1315.980861244019,
+        318.0861244019139,
+        319.23444976076553,
+        338.75598086124404
+      ],
+      "layoutTranslation": [
+        -55.0,
+        -5.0
+      ],
+      "groundContacts": [
+        [
+          0.019784,
+          0.672881
+        ],
+        [
+          0.226619,
+          0.757627
+        ],
+        [
+          0.602518,
+          0.911864
+        ],
+        [
+          0.843525,
+          0.988136
+        ],
+        [
+          0.97482,
+          0.932203
+        ]
+      ]
+    },
+    {
+      "id": "FGT_03",
+      "room": "teashop",
+      "label": "原图左侧雅座桌椅",
+      "poly": [
+        [
+          360,
+          497
+        ],
+        [
+          371,
+          489
+        ],
+        [
+          382,
+          486
+        ],
+        [
+          380,
+          480
+        ],
+        [
+          394,
+          481
+        ],
+        [
+          403,
+          489
+        ],
+        [
+          406,
+          511
+        ],
+        [
+          427,
+          517
+        ],
+        [
+          486,
+          511
+        ],
+        [
+          497,
+          501
+        ],
+        [
+          507,
+          500
+        ],
+        [
+          506,
+          495
+        ],
+        [
+          515,
+          494
+        ],
+        [
+          522,
+          505
+        ],
+        [
+          515,
+          520
+        ],
+        [
+          530,
+          541
+        ],
+        [
+          554,
+          536
+        ],
+        [
+          554,
+          551
+        ],
+        [
+          554,
+          588
+        ],
+        [
+          543,
+          607
+        ],
+        [
+          510,
+          624
+        ],
+        [
+          482,
+          612
+        ],
+        [
+          466,
+          614
+        ],
+        [
+          414,
+          585
+        ],
+        [
+          394,
+          582
+        ],
+        [
+          382,
+          568
+        ],
+        [
+          366,
+          565
+        ],
+        [
+          361,
+          558
+        ],
+        [
+          349,
+          553
+        ],
+        [
+          350,
+          539
+        ],
+        [
+          361,
+          537
+        ]
+      ],
+      "holes": [],
+      "sourceCrop": [
+        348.0,
+        497.0,
+        202.0,
+        129.0
+      ],
+      "viewportRect": [
+        489.61722488038276,
+        505.71770334928226,
+        231.96172248803828,
+        148.13397129186603
+      ],
+      "fullyOpaqueExactPixels": 17145,
+      "sourceSHA256": "9e2fcadba6ee21517c3beec24271134df7441dee60e35f454a785fafe9b1dc1b",
+      "sha256": "c8cbd3327f08fb30d0b59d95740fb476846c7a630348703099a62cf2d758af4f",
+      "originalExtractedPath": "res://assets/13_Figma原图拆分/FGT_03_原图左侧雅座桌椅及坐客.png",
+      "optimizedPath": "res://assets/13_Figma原图拆分/FGT_03_image2透明重制_v003.png",
+      "optimizedSHA256": "051d6ab69b466034567fccacecdbd6f322f1e918ac07cdcf816442e0c79a3a13",
+      "originalSourceCrop": [
+        347,
+        478,
+        210,
+        149
+      ],
+      "registrationMethod": "source-feature similarity registration",
+      "sourceFeatureInliers": 44,
+      "sourceRegisteredViewportRect": [
+        399.61722488038276,
+        570.7177033492823,
+        231.96172248803828,
+        148.13397129186603
+      ],
+      "layoutTranslation": [
+        90,
+        -65
+      ],
+      "groundContacts": [
+        [
+          0.042079,
+          0.786822
+        ],
+        [
+          0.168317,
+          0.910853
+        ],
+        [
+          0.35,
+          0.88
+        ],
+        [
+          0.799505,
+          0.984496
+        ],
+        [
+          0.980198,
+          0.891473
+        ],
+        [
+          0.59901,
+          0.616279
+        ]
+      ]
+    },
+    {
+      "id": "FGT_04",
+      "room": "teashop",
+      "label": "原图前侧雅座桌椅",
+      "poly": [
+        [
+          688,
+          604
+        ],
+        [
+          710,
+          594
+        ],
+        [
+          714,
+          577
+        ],
+        [
+          728,
+          560
+        ],
+        [
+          735,
+          551
+        ],
+        [
+          736,
+          544
+        ],
+        [
+          747,
+          544
+        ],
+        [
+          758,
+          558
+        ],
+        [
+          751,
+          575
+        ],
+        [
+          762,
+          592
+        ],
+        [
+          781,
+          597
+        ],
+        [
+          820,
+          572
+        ],
+        [
+          832,
+          568
+        ],
+        [
+          846,
+          572
+        ],
+        [
+          886,
+          585
+        ],
+        [
+          901,
+          601
+        ],
+        [
+          902,
+          618
+        ],
+        [
+          924,
+          627
+        ],
+        [
+          924,
+          640
+        ],
+        [
+          918,
+          643
+        ],
+        [
+          918,
+          666
+        ],
+        [
+          909,
+          674
+        ],
+        [
+          903,
+          648
+        ],
+        [
+          890,
+          651
+        ],
+        [
+          892,
+          691
+        ],
+        [
+          883,
+          697
+        ],
+        [
+          878,
+          659
+        ],
+        [
+          812,
+          683
+        ],
+        [
+          808,
+          704
+        ],
+        [
+          798,
+          708
+        ],
+        [
+          793,
+          688
+        ],
+        [
+          785,
+          698
+        ],
+        [
+          762,
+          703
+        ],
+        [
+          749,
+          702
+        ],
+        [
+          745,
+          714
+        ],
+        [
+          734,
+          718
+        ],
+        [
+          730,
+          690
+        ],
+        [
+          705,
+          679
+        ],
+        [
+          700,
+          703
+        ],
+        [
+          690,
+          709
+        ],
+        [
+          688,
+          679
+        ]
+      ],
+      "holes": [],
+      "sourceCrop": [
+        690.0,
+        564.0,
+        234.0,
+        155.0
+      ],
+      "viewportRect": [
+        812.3444976076555,
+        622.6555023923445,
+        268.7081339712919,
+        177.99043062200957
+      ],
+      "fullyOpaqueExactPixels": 23395,
+      "sourceSHA256": "9e2fcadba6ee21517c3beec24271134df7441dee60e35f454a785fafe9b1dc1b",
+      "sha256": "8c748118e8a3a0b4100b676889d79e0df5c41296456830aa6bfff457341470cc",
+      "originalExtractedPath": "res://assets/13_Figma原图拆分/FGT_04_原图前侧雅座桌椅及坐客.png",
+      "optimizedPath": "res://assets/13_Figma原图拆分/FGT_04_image2透明重制_v003.png",
+      "optimizedSHA256": "0a9b9906c23b2d449f6e54c23767bae50fce11de15e79c4e024fb4253ff3b341",
+      "originalSourceCrop": [
+        686,
+        542,
+        241,
+        179
+      ],
+      "registrationMethod": "source-feature similarity registration",
+      "sourceFeatureInliers": 61,
+      "sourceRegisteredViewportRect": [
+        792.3444976076555,
+        647.6555023923445,
+        268.7081339712919,
+        177.99043062200957
+      ],
+      "layoutTranslation": [
+        20,
+        -25
+      ],
+      "groundContacts": [
+        [
+          0.021368,
+          0.851613
+        ],
+        [
+          0.190171,
+          0.987097
+        ],
+        [
+          0.536325,
+          0.932258
+        ],
+        [
+          0.84188,
+          0.777419
+        ],
+        [
+          0.967949,
+          0.66129
+        ]
+      ]
+    },
+    {
+      "id": "FGT_05",
+      "room": "teashop",
+      "label": "原图遮阳伞",
+      "poly": [
+        [
+          239,
+          441
+        ],
+        [
+          291,
+          418
+        ],
+        [
+          331,
+          409
+        ],
+        [
+          334,
+          399
+        ],
+        [
+          345,
+          398
+        ],
+        [
+          349,
+          411
+        ],
+        [
+          386,
+          423
+        ],
+        [
+          408,
+          438
+        ],
+        [
+          410,
+          460
+        ],
+        [
+          396,
+          470
+        ],
+        [
+          348,
+          475
+        ],
+        [
+          347,
+          508
+        ],
+        [
+          340,
+          507
+        ],
+        [
+          339,
+          475
+        ],
+        [
+          283,
+          471
+        ],
+        [
+          241,
+          458
+        ]
+      ],
+      "holes": [],
+      "sourceCrop": [
+        239.0,
+        397.0,
+        173.0,
+        113.0
+      ],
+      "viewportRect": [
+        349.44976076555025,
+        490.88516746411483,
+        198.6602870813397,
+        129.76076555023923
+      ],
+      "fullyOpaqueExactPixels": 8304,
+      "sourceSHA256": "9e2fcadba6ee21517c3beec24271134df7441dee60e35f454a785fafe9b1dc1b",
+      "sha256": "616bf6eec1ed876e65cb6a3c55b6bbab74afd8eda748c25b5902660d1b3afc10",
+      "originalExtractedPath": "res://assets/13_Figma原图拆分/FGT_05_原图遮阳伞.png",
+      "optimizedPath": "res://assets/13_Figma原图拆分/FGT_05_image2透明重制_v003.png",
+      "optimizedSHA256": "a260d63733352c582740e2648b79dc9a2aec2da59becbb90d69dafb16e73bda8",
+      "originalSourceCrop": [
+        237,
+        396,
+        176,
+        115
+      ],
+      "registrationMethod": "manual-source-envelope uniform fit",
+      "sourceFeatureInliers": 75,
+      "sourceRegisteredViewportRect": [
+        274.44976076555025,
+        455.88516746411483,
+        198.6602870813397,
+        129.76076555023923
+      ],
+      "layoutTranslation": [
+        75.0,
+        35.0
+      ],
+      "groundContacts": [
+        [
+          0.537572,
+          0.99115
+        ]
+      ]
+    },
+    {
+      "id": "FGT_06",
+      "room": "teashop",
+      "label": "原图前侧盆栽",
+      "poly": [
+        [
+          580,
+          612
+        ],
+        [
+          597,
+          602
+        ],
+        [
+          601,
+          584
+        ],
+        [
+          615,
+          585
+        ],
+        [
+          628,
+          572
+        ],
+        [
+          639,
+          575
+        ],
+        [
+          633,
+          591
+        ],
+        [
+          651,
+          592
+        ],
+        [
+          657,
+          606
+        ],
+        [
+          640,
+          610
+        ],
+        [
+          641,
+          620
+        ],
+        [
+          635,
+          629
+        ],
+        [
+          642,
+          641
+        ],
+        [
+          639,
+          661
+        ],
+        [
+          628,
+          674
+        ],
+        [
+          609,
+          676
+        ],
+        [
+          594,
+          668
+        ],
+        [
+          592,
+          648
+        ],
+        [
+          604,
+          635
+        ],
+        [
+          602,
+          619
+        ]
+      ],
+      "holes": [],
+      "sourceCrop": [
+        580.0,
+        571.0,
+        79.0,
+        107.0
+      ],
+      "viewportRect": [
+        701.0287081339712,
+        610.6937799043062,
+        90.7177033492823,
+        122.87081339712918
+      ],
+      "fullyOpaqueExactPixels": 4005,
+      "sourceSHA256": "9e2fcadba6ee21517c3beec24271134df7441dee60e35f454a785fafe9b1dc1b",
+      "sha256": "f3d9bee98ff4870bd45a0f78917cc710f08ec3cb4624b9bec8733dd87276b718",
+      "originalExtractedPath": "res://assets/13_Figma原图拆分/FGT_06_原图前侧盆栽.png",
+      "optimizedPath": "res://assets/13_Figma原图拆分/FGT_06_image2透明重制_v003.png",
+      "optimizedSHA256": "a4bb78497ce900e0a8a0327bb1159128556d71ad6a7af322c89731a5ad141ef5",
+      "originalSourceCrop": [
+        578,
+        570,
+        82,
+        109
+      ],
+      "registrationMethod": "manual-source-envelope uniform fit",
+      "sourceFeatureInliers": 8,
+      "sourceRegisteredViewportRect": [
+        666.0287081339712,
+        655.6937799043062,
+        90.7177033492823,
+        122.87081339712918
+      ],
+      "layoutTranslation": [
+        35,
+        -45
+      ],
+      "groundContacts": [
+        [
+          0.348101,
+          0.911215
+        ],
+        [
+          0.5,
+          0.990654
+        ],
+        [
+          0.658228,
+          0.962617
+        ]
+      ]
+    },
+    {
+      "id": "FGT_07",
+      "room": "teashop",
+      "label": "原图柱旁盆栽",
+      "poly": [
+        [
+          685,
+          449
+        ],
+        [
+          692,
+          437
+        ],
+        [
+          704,
+          440
+        ],
+        [
+          708,
+          424
+        ],
+        [
+          719,
+          425
+        ],
+        [
+          723,
+          435
+        ],
+        [
+          735,
+          443
+        ],
+        [
+          737,
+          457
+        ],
+        [
+          725,
+          460
+        ],
+        [
+          723,
+          481
+        ],
+        [
+          730,
+          489
+        ],
+        [
+          732,
+          508
+        ],
+        [
+          726,
+          519
+        ],
+        [
+          728,
+          527
+        ],
+        [
+          733,
+          530
+        ],
+        [
+          727,
+          535
+        ],
+        [
+          712,
+          538
+        ],
+        [
+          697,
+          532
+        ],
+        [
+          691,
+          535
+        ],
+        [
+          682,
+          529
+        ],
+        [
+          682,
+          518
+        ],
+        [
+          687,
+          513
+        ],
+        [
+          687,
+          494
+        ],
+        [
+          698,
+          483
+        ],
+        [
+          699,
+          460
+        ]
+      ],
+      "holes": [],
+      "sourceCrop": [
+        681.0,
+        423.0,
+        58.0,
+        117.0
+      ],
+      "viewportRect": [
+        787.0095693779904,
+        473.74162679425837,
+        66.60287081339713,
+        134.35406698564594
+      ],
+      "fullyOpaqueExactPixels": 3831,
+      "sourceSHA256": "9e2fcadba6ee21517c3beec24271134df7441dee60e35f454a785fafe9b1dc1b",
+      "sha256": "4d361e997869692f000c15a6dd0cdb3f75a88c6dc868b0311b8448615b710ab9",
+      "originalExtractedPath": "res://assets/13_Figma原图拆分/FGT_07_原图柱旁盆栽.png",
+      "optimizedPath": "res://assets/13_Figma原图拆分/FGT_07_image2透明重制_v003.png",
+      "optimizedSHA256": "66c225bbe58b8e4c94fd3745dc03c1dc8d30a1cd10840ab205d636af2489fb88",
+      "originalSourceCrop": [
+        680,
+        422,
+        60,
+        119
+      ],
+      "registrationMethod": "manual-source-envelope uniform fit",
+      "sourceFeatureInliers": 71,
+      "sourceRegisteredViewportRect": [
+        782.0095693779904,
+        485.74162679425837,
+        66.60287081339713,
+        134.35406698564594
+      ],
+      "layoutTranslation": [
+        5,
+        -12
+      ],
+      "groundContacts": [
+        [
+          0.103448,
+          0.905983
+        ],
+        [
+          0.431034,
+          0.982906
+        ],
+        [
+          0.896552,
+          0.918803
+        ],
+        [
+          0.672414,
+          0.880342
+        ]
+      ]
+    },
+    {
+      "id": "FGT_08",
+      "room": "teashop",
+      "label": "原图柜后盆栽",
+      "poly": [
+        [
+          830,
+          338
+        ],
+        [
+          842,
+          316
+        ],
+        [
+          852,
+          318
+        ],
+        [
+          860,
+          302
+        ],
+        [
+          871,
+          306
+        ],
+        [
+          873,
+          319
+        ],
+        [
+          888,
+          320
+        ],
+        [
+          890,
+          336
+        ],
+        [
+          866,
+          352
+        ],
+        [
+          869,
+          371
+        ],
+        [
+          866,
+          383
+        ],
+        [
+          873,
+          392
+        ],
+        [
+          862,
+          397
+        ],
+        [
+          843,
+          397
+        ],
+        [
+          837,
+          391
+        ],
+        [
+          839,
+          384
+        ],
+        [
+          833,
+          380
+        ],
+        [
+          832,
+          361
+        ],
+        [
+          842,
+          353
+        ]
+      ],
+      "holes": [],
+      "sourceCrop": [
+        829.0,
+        307.0,
+        63.0,
+        92.0
+      ],
+      "viewportRect": [
+        949.9617224880383,
+        392.53588516746413,
+        72.3444976076555,
+        105.64593301435407
+      ],
+      "fullyOpaqueExactPixels": 3162,
+      "sourceSHA256": "9e2fcadba6ee21517c3beec24271134df7441dee60e35f454a785fafe9b1dc1b",
+      "sha256": "8605e0f95ca58ee85f3146ec6035c9688ab8f0bb78a4278307943f9a21e3c142",
+      "originalExtractedPath": "res://assets/13_Figma原图拆分/FGT_08_原图柜后盆栽.png",
+      "optimizedPath": "res://assets/13_Figma原图拆分/FGT_08_image2透明重制_v003.png",
+      "optimizedSHA256": "248cfa47686755fcefeccfb9fdc36328cec87e3ad36716f17f59e2466ea62daf",
+      "originalSourceCrop": [
+        828,
+        300,
+        65,
+        100
+      ],
+      "registrationMethod": "manual-source-envelope uniform fit",
+      "sourceFeatureInliers": 14,
+      "sourceRegisteredViewportRect": [
+        951.9617224880383,
+        352.53588516746413,
+        72.3444976076555,
+        105.64593301435407
+      ],
+      "layoutTranslation": [
+        -2,
+        40
+      ],
+      "groundContacts": [
+        [
+          0.31746,
+          0.961957
+        ],
+        [
+          0.5,
+          0.98913
+        ],
+        [
+          0.674603,
+          0.918478
+        ]
+      ]
+    },
+    {
+      "id": "FGU_T1",
+      "room": "teashop",
+      "label": "雅座",
+      "kind": "editable_badge",
+      "sourceCrop": [
+        392,
+        355,
+        61,
+        156
+      ],
+      "viewportRect": [
+        540.1435406698565,
+        302.6555023923445,
+        70.04784688995215,
+        179.13875598086125
+      ],
+      "iconId": "ICO_456",
+      "plateId": "UI_451",
+      "sourceRegisteredViewportRect": [
+        450.14354066985646,
+        407.6555023923445,
+        70.04784688995215,
+        179.13875598086125
+      ],
+      "layoutTranslation": [
+        90,
+        -105
+      ]
+    },
+    {
+      "id": "FGU_T2",
+      "room": "teashop",
+      "label": "售卖区",
+      "kind": "editable_badge",
+      "sourceCrop": [
+        903,
+        219,
+        63,
+        153
+      ],
+      "viewportRect": [
+        1036.9377990430621,
+        251.48325358851673,
+        72.3444976076555,
+        175.6937799043062
+      ],
+      "iconId": "ICO_457",
+      "plateId": "UI_451"
+    },
+    {
+      "id": "FGU_T3",
+      "room": "teashop",
+      "label": "茶柜",
+      "kind": "editable_badge",
+      "sourceCrop": [
+        1388,
+        285,
+        61,
+        156
+      ],
+      "viewportRect": [
+        1538.8755980861245,
+        322.27272727272725,
+        70.04784688995215,
+        179.13875598086125
+      ],
+      "iconId": "ICO_458",
+      "plateId": "UI_451",
+      "sourceRegisteredViewportRect": [
+        1593.8755980861245,
+        327.27272727272725,
+        70.04784688995215,
+        179.13875598086125
+      ],
+      "layoutTranslation": [
+        -55.0,
+        -5.0
+      ]
+    }
+  ],
+  "occlusion": "Transparent image2 refinements registered to original furniture. Old full-scene furniture/UI are absent from the empty architecture. Compound seating/workbench groups retain original visible arrangement.",
+  "workshop": {
+    "sourceSHA256": "bec3b50488f435bd9f3de30673f1a438708605fb79193a875a742e1943d065fc",
+    "furnitureParts": 15,
+    "sourceFile": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\13_Figma原图拆分与景深调整\\原始Figma素材\\workshop_people_removed_local_patch.png",
+    "plate": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-204f3eb6-6eea-4dc5-b3e2-c7622cfce002.png",
+    "clearingMasks": [
+      [
+        [
+          35,
+          22
+        ],
+        [
+          171,
+          22
+        ],
+        [
+          171,
+          383
+        ],
+        [
+          35,
+          383
+        ]
+      ],
+      [
+        [
+          1367,
+          15
+        ],
+        [
+          1634,
+          15
+        ],
+        [
+          1634,
+          102
+        ],
+        [
+          1367,
+          102
+        ]
+      ],
+      [
+        [
+          263,
+          798
+        ],
+        [
+          1372,
+          798
+        ],
+        [
+          1372,
+          919
+        ],
+        [
+          263,
+          919
+        ]
+      ]
+    ]
+  },
+  "teashop": {
+    "sourceSHA256": "9e2fcadba6ee21517c3beec24271134df7441dee60e35f454a785fafe9b1dc1b",
+    "furnitureParts": 8,
+    "sourceFile": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\13_Figma原图拆分与景深调整\\原始Figma素材\\teashop_people_removed_local_patch.png",
+    "plate": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-ac856945-a671-467e-965d-b53d91389281.png",
+    "clearingMasks": [
+      [
+        [
+          45,
+          22
+        ],
+        [
+          235,
+          22
+        ],
+        [
+          235,
+          352
+        ],
+        [
+          45,
+          352
+        ]
+      ],
+      [
+        [
+          1346,
+          15
+        ],
+        [
+          1637,
+          15
+        ],
+        [
+          1637,
+          101
+        ],
+        [
+          1346,
+          101
+        ]
+      ],
+      [
+        [
+          51,
+          806
+        ],
+        [
+          1161,
+          806
+        ],
+        [
+          1161,
+          916
+        ],
+        [
+          51,
+          916
+        ]
+      ],
+      [
+        [
+          1320,
+          814
+        ],
+        [
+          1633,
+          814
+        ],
+        [
+          1633,
+          904
+        ],
+        [
+          1320,
+          904
+        ]
+      ],
+      [
+        [
+          763,
+          496
+        ],
+        [
+          829,
+          496
+        ],
+        [
+          829,
+          567
+        ],
+        [
+          763,
+          567
+        ]
+      ]
+    ]
+  },
+  "iconRendering": "22 image2 icons; generated blank tag/panels; all Chinese labels are live Godot text.",
+  "layout": "User-requested translations inside the same isometric floor. Furniture keeps the registered camera and uniform scale; no shear or independent tabletop warp."
+}

@@ -1,0 +1,18 @@
+{
+  "id": "UI_024",
+  "category": "04_UI组件",
+  "functionArea": "通用UI",
+  "label": "成熟提示标记",
+  "plannedFile": "ui_state_ready_v001.png",
+  "batch": "03_UI组件",
+  "targetSize": "512×768",
+  "status": "待生成",
+  "actualSize": "",
+  "relativePath": "",
+  "remarks": "独立符号，配引擎文字说明",
+  "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-f5714e9f-5a22-43c0-ba38-f5ca969859ab.png",
+  "prompt": "Use case: stylized-concept. ONE independent READY-TO-HARVEST status glyph for Chinese ink-light-watercolor game 茶园物语. A clear upright tea sprout silhouette: one long pale green bud in the middle, two broad sage-green young leaves to either side, short stem ending in a small pointed downward tip. Elegant simple painted outline, muted gray-green rim, cream-green interior, minimal vein lines and broad clean washes. A readable symbolic UI mark, not realistic plant scene, not an object in soil. Portrait1024x1536 transparentcanvas, icon centered with safe margins. No badge plate, earth, basket, shine, shadow, glow, noise, letters or extra objects. True alpha PNG background.",
+  "mode": "built-in image_gen",
+  "refs": [],
+  "savedPath": "04_UI组件/ui_state_ready_v001.png"
+}

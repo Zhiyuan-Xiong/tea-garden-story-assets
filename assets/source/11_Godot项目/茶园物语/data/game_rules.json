@@ -1,0 +1,37 @@
+{
+  "version": 2,
+  "terrace_slots": [3, 3, 3, 3, 2],
+  "ordinary_growth_seconds": 55,
+  "teaching_growth_seconds": 8,
+  "daily": [
+    {"targets": [5,3,3,2], "rewards": [30,40,30,20], "bonus": 40},
+    {"targets": [6,3,3,2], "rewards": [35,45,35,25], "bonus": 40},
+    {"targets": [7,4,4,2], "rewards": [40,50,40,30], "bonus": 40},
+    {"targets": [8,4,5,3], "rewards": [45,55,45,35], "bonus": 40},
+    {"targets": [9,5,5,3], "rewards": [50,60,50,40], "bonus": 40}
+  ],
+  "professions": [
+    {"name":"制茶学徒", "xp":0,"practice":"初始身份","counter":"crafted_batches","count":0,"coins":0,"content":"基础制茶与售卖"},
+    {"name":"初级制茶工","xp":160,"practice":"成功制作第一批茶","counter":"crafted_batches","count":1,"coins":25,"content":"新配方学习资格"},
+    {"name":"中级制茶工","xp":600,"practice":"累计成功制茶12批","counter":"crafted_batches","count":12,"coins":45,"content":"器具升级、熟练配方批量加工"},
+    {"name":"高级制茶工","xp":1400,"practice":"累计精准订单15笔","counter":"precise_orders","count":15,"coins":75,"content":"精品订单、品质提升工具"},
+    {"name":"制茶大师","xp":2600,"practice":"累计制作上佳茶20批","counter":"best_batches","count":20,"coins":120,"content":"主题茶会、专属题签与陈设"}
+  ],
+  "recipes": [
+    {"id":"spring","name":"云岫春芽","rank":0,"tasks":0,"raw":1,"counts":[3,6,4],"dry":[6,10],"window":0.24,"price":12,"method":"基础绿茶路线：轻摊、翻炒、揉捻、干燥。1份鲜叶制1份茶。","use":"村民日常茶"},
+    {"id":"dew","name":"山间清露","rank":1,"tasks":4,"raw":2,"counts":[3,4,6],"dry":[5,9],"window":0.22,"price":15,"method":"细揉清香路线：减少翻炒、增加轻揉，5—9秒结束干燥。2份鲜叶制1份茶。","use":"清香茶客与新茶试饮"},
+    {"id":"mist","name":"云间新茗","rank":2,"tasks":12,"raw":2,"counts":[4,6,5],"dry":[7,11],"window":0.20,"price":20,"method":"匀摊成形路线：摊放4次、揉捻5次，7—11秒结束干燥。2份鲜叶制1份茶。","use":"旅人分享订单"},
+    {"id":"summit","name":"云顶佳茗","rank":3,"tasks":24,"raw":3,"counts":[4,7,6],"dry":[8,11],"window":0.18,"price":28,"method":"精品火候路线：翻炒7次、揉捻6次，8—11秒结束干燥。3份鲜叶制1份茶。","use":"精品品鉴订单"},
+    {"id":"artisan","name":"匠心特制茶","rank":4,"tasks":40,"raw":3,"counts":[5,8,6],"dry":[8,10],"window":0.16,"price":36,"method":"匠心定制路线：匀摊5次、翻炒8次，8—10秒结束干燥。3份鲜叶制1份茶。","use":"大师主题茶会"}
+  ],
+  "achievements": [
+    {"id":"first_harvest","name":"第一篓春芽","counter":"total_harvested","count":1,"coins":10,"fertilizer":0,"reward":"10铜钱、采摘手记"},
+    {"id":"first_craft","name":"初识炉火","counter":"crafted_batches","count":1,"coins":15,"fertilizer":0,"reward":"15铜钱、器具记录"},
+    {"id":"first_sale","name":"茶香初迎","counter":"served","count":1,"coins":10,"fertilizer":0,"reward":"10铜钱"},
+    {"id":"know_guest","name":"知客识茶","counter":"precise_orders","count":10,"coins":30,"fertilizer":0,"reward":"徽章、30铜钱"},
+    {"id":"skillful","name":"巧手制茶","counter":"best_batches","count":10,"coins":0,"fertilizer":2,"reward":"徽章、肥料×2"},
+    {"id":"all_terraces","name":"满山茶香","counter":"opened_terraces","count":5,"coins":0,"fertilizer":0,"reward":"茶园纪念题签"},
+    {"id":"five_day","name":"五日新茶","counter":"tasting_guests","count":3,"coins":0,"fertilizer":0,"reward":"纪念陈设、剧情手记"},
+    {"id":"tea_meeting","name":"匠心待客","counter":"meetings","count":1,"coins":0,"fertilizer":0,"reward":"专属成就徽章"}
+  ]
+}

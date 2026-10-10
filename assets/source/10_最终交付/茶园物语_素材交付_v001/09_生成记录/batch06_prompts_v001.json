@@ -1,0 +1,417 @@
+{
+  "date": "2026-10-08",
+  "batch": "06_场景与装饰",
+  "mode": "built-in image_gen",
+  "assets": [
+    {
+      "id": "BLD_101",
+      "category": "03_建筑与场景",
+      "functionArea": "场景分层",
+      "label": "主地图工坊建筑",
+      "plannedFile": "bld_workshop_exterior_v001.png",
+      "batch": "06_场景与装饰",
+      "targetSize": "1536×1024",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "03_建筑与场景/bld_workshop_exterior_v001.png",
+      "remarks": "独立建筑，无人物和导航文字",
+      "prompt": "Use case: stylized-concept. Asset type: one independent transparent PNG for the 2D/2.5D Chinese tea-village game 茶园物语.\nStyle: clean Chinese ink outline with pale hand-painted watercolor fills, harmonizing with the approved references. Simple large clear shapes, controlled sparse brush marks, thin charcoal/brown linework; avoid dense texture or paper grain. Restrained ivory #EEE5D5, sage #83957E, tea green #526C62, charcoal #5C6261, pale timber #967653, bamboo #C5A36F, occasional dusty coral #B76651.\nFor constructed objects use elevated parallel dimetric 2:1 ground axes, diagonal edges slope about ±26.565 degrees, verticals remain vertical, near and far edges stay parallel, no lens perspective. Soft even light, modest internal shading, no cast ground shadow.\nOutput actual RGBA transparency outside the subject. Full silhouette, visible generous transparent margin on ALL four sides; never crop. No background fill, checkerboard, paper sheet, black background, white background, vignette, glow, halo, text, calligraphy, numerals, UI, labels, borders, watermark. No extra props, people, scenery, repeated objects or decorative clutter. Avoid oversaturation, muddy gradients, noise, excessive fiber or woodgrain, photorealism, heavy black outline and strong reflections. Preserve clear edges at small gameplay sizes.\nPrimary request: redraw the workshop in Input1, keeping its compact three-bay Jiangnan architecture, charcoal gable roof, pale timber, central open doorway and two lattice windows. Correct ONLY the ground-plane camera and simplify texturing.\nCamera is essential: match Input2 square table's two equal-angle horizontal plane directions, and Input3 road direction. ALL horizontal ground-plane building edges must be parallel to ONE of two screen directions: (2,1) and (2,-1). Both directions have slope magnitude 0.5, both 26.565 degrees to horizontal. Verticals exactly vertical. Front foundation and lintel run downward toward screen-right at +26.565°; the short right-side foundation goes upward toward screen-right at -26.565°. Do not use the flatter 15-degree front-axis of Input1. Rectangular building can be longer across front but camera axis angles must be equal. Roof pitched surfaces naturally have a different slope, but the roof ridge follows the long ground axis. No perspective convergence.\nEntire building alone on real transparent RGBA. No extra subject, no road/table from references, no furniture or signs or surrounding land. Uniform clean hand-painted pale-watercolor, very light controlled texture. Landscape target1536×1024, leave 5% transparency around all sides.",
+      "references": [
+        "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-565eff9d-1d73-4a6f-bd7a-9d829bde8e90.png",
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\06_道具与图标\\prp_tea_table_empty_v001.png",
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\02_地形与植物\\ter_path_earth_straight_v001.png"
+      ],
+      "mode": "built-in image_gen",
+      "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-edb0067f-de01-4765-894f-433fa55c8b0f.png",
+      "savedPath": "03_建筑与场景/bld_workshop_exterior_v001.png",
+      "destination": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\03_建筑与场景\\bld_workshop_exterior_v001.png"
+    },
+    {
+      "id": "BLD_102",
+      "category": "03_建筑与场景",
+      "functionArea": "场景分层",
+      "label": "主地图茶铺建筑",
+      "plannedFile": "bld_teashop_exterior_v001.png",
+      "batch": "06_场景与装饰",
+      "targetSize": "1536×1024",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "03_建筑与场景/bld_teashop_exterior_v001.png",
+      "remarks": "独立建筑",
+      "prompt": "Use case: stylized-concept. Asset type: one independent transparent PNG for the 2D/2.5D Chinese tea-village game 茶园物语.\nStyle: clean Chinese ink outline with pale hand-painted watercolor fills, harmonizing with the approved references. Simple large clear shapes, controlled sparse brush marks, thin charcoal/brown linework; avoid dense texture or paper grain. Restrained ivory #EEE5D5, sage #83957E, tea green #526C62, charcoal #5C6261, pale timber #967653, bamboo #C5A36F, occasional dusty coral #B76651.\nFor constructed objects use elevated parallel dimetric 2:1 ground axes, diagonal edges slope about ±26.565 degrees, verticals remain vertical, near and far edges stay parallel, no lens perspective. Soft even light, modest internal shading, no cast ground shadow.\nOutput actual RGBA transparency outside the subject. Full silhouette, visible generous transparent margin on ALL four sides; never crop. No background fill, checkerboard, paper sheet, black background, white background, vignette, glow, halo, text, calligraphy, numerals, UI, labels, borders, watermark. No extra props, people, scenery, repeated objects or decorative clutter. Avoid oversaturation, muddy gradients, noise, excessive fiber or woodgrain, photorealism, heavy black outline and strong reflections. Preserve clear edges at small gameplay sizes.\nPrimary request: ONLY a compact traditional Jiangnan riverside tea shop exterior for the navigation map, independent single building on transparent background. Input1 is architectural atmosphere reference; Input2 establishes this village's pale timber and charcoal tile construction; Input3 defines parallel ground axes and camera.\nSubject: single-storey two-bay tea house, broad low charcoal tiled hip-gable roof with subtly upturned corners, ivory plaster between pale timber frames, one broad OPEN serving doorway and one simple lattice window, small integral timber veranda floor on low square piers. Empty opening with plain muted interior, no furniture baked in. Tea shop distinguished from workshop by ivory panels and a modest veranda. No lake, river, bank, boat, bridge, lantern, sign, hanging scroll, tea equipment, countertop, furniture, vegetation or people.\nComposition: landscape1536×1024, whole compact building centered with generous transparent margins. Elevated parallel 2:1 axes, front baseline descends toward screen-right about26.6°, right side ascends toward screen-right about26.6°, vertical posts vertical, no vanishing point. Use clean simplified tile rows, restrained material details. Building only, no surrounding terrain island or shadow.",
+      "references": [
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\01_Figma参考\\figma_teashop_20261008.png",
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\03_建筑与场景\\bld_workshop_exterior_v001.png",
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\06_道具与图标\\prp_tea_table_empty_v001.png"
+      ],
+      "mode": "built-in image_gen",
+      "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-95fbbb28-0c85-472b-8562-e5c80fd4cfeb.png",
+      "savedPath": "03_建筑与场景/bld_teashop_exterior_v001.png",
+      "destination": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\03_建筑与场景\\bld_teashop_exterior_v001.png"
+    },
+    {
+      "id": "BLD_105",
+      "category": "03_建筑与场景",
+      "functionArea": "场景分层",
+      "label": "工坊建筑壳",
+      "plannedFile": "bld_workshop_shell_v001.png",
+      "batch": "06_场景与装饰",
+      "targetSize": "1920×1080",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "03_建筑与场景/bld_workshop_shell_v001.png",
+      "remarks": "屋顶/前遮挡分层另补，不烘焙器具",
+      "prompt": "Use case: stylized-concept. Asset type: one independent transparent PNG for the 2D/2.5D Chinese tea-village game 茶园物语.\nStyle: clean Chinese ink outline with pale hand-painted watercolor fills, harmonizing with the approved references. Simple large clear shapes, controlled sparse brush marks, thin charcoal/brown linework; avoid dense texture or paper grain. Restrained ivory #EEE5D5, sage #83957E, tea green #526C62, charcoal #5C6261, pale timber #967653, bamboo #C5A36F, occasional dusty coral #B76651.\nFor constructed objects use elevated parallel dimetric 2:1 ground axes, diagonal edges slope about ±26.565 degrees, verticals remain vertical, near and far edges stay parallel, no lens perspective. Soft even light, modest internal shading, no cast ground shadow.\nOutput actual RGBA transparency outside the subject. Full silhouette, visible generous transparent margin on ALL four sides; never crop. No background fill, checkerboard, paper sheet, black background, white background, vignette, glow, halo, text, calligraphy, numerals, UI, labels, borders, watermark. No extra props, people, scenery, repeated objects or decorative clutter. Avoid oversaturation, muddy gradients, noise, excessive fiber or woodgrain, photorealism, heavy black outline and strong reflections. Preserve clear edges at small gameplay sizes.\nEdit target Input1: this EMPTY roofless workshop floor and two back walls. Keep its structural design, camera, timber/stone relationship and complete emptiness. Improve framing: draw the ENTIRE shell noticeably SMALLER, occupying only about75% of canvas WIDTH and75% of canvas HEIGHT, centered. Add very generous real transparent margin on ALL sides. Reconstruct the full front foundation corner if needed so the very lowest stone edge is complete and at least80 pixels above bottom on a target1920×1080 canvas. Absolutely no structural element touches the boundary. No opaque canvas outside.\nSimplify plank surface to smooth pale wash with a few soft low-contrast strokes rather than dense fine parallel woodgrain. Keep all architectural edges thin and clear. No roof, front wall, foreground rail, furniture, tools, people, UI or any new objects. Output an independent actual transparent PNG architectural shell, wide1920×1080 composition.",
+      "references": [
+        "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-01384204-fcce-4758-8e47-30bc3d941fae.png"
+      ],
+      "mode": "built-in image_gen",
+      "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-89501ecb-20f2-4333-b3d5-b89d8f838bec.png",
+      "savedPath": "03_建筑与场景/bld_workshop_shell_v001.png",
+      "destination": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\03_建筑与场景\\bld_workshop_shell_v001.png"
+    },
+    {
+      "id": "BLD_106",
+      "category": "03_建筑与场景",
+      "functionArea": "场景分层",
+      "label": "茶铺建筑壳",
+      "plannedFile": "bld_teashop_shell_v001.png",
+      "batch": "06_场景与装饰",
+      "targetSize": "1920×1080",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "03_建筑与场景/bld_teashop_shell_v001.png",
+      "remarks": "无人物柜台茶具",
+      "prompt": "Use case: stylized-concept. Asset type: one independent transparent PNG for the 2D/2.5D Chinese tea-village game 茶园物语.\nStyle: clean Chinese ink outline with pale hand-painted watercolor fills, harmonizing with the approved references. Simple large clear shapes, controlled sparse brush marks, thin charcoal/brown linework; avoid dense texture or paper grain. Restrained ivory #EEE5D5, sage #83957E, tea green #526C62, charcoal #5C6261, pale timber #967653, bamboo #C5A36F, occasional dusty coral #B76651.\nFor constructed objects use elevated parallel dimetric 2:1 ground axes, diagonal edges slope about ±26.565 degrees, verticals remain vertical, near and far edges stay parallel, no lens perspective. Soft even light, modest internal shading, no cast ground shadow.\nOutput actual RGBA transparency outside the subject. Full silhouette, visible generous transparent margin on ALL four sides; never crop. No background fill, checkerboard, paper sheet, black background, white background, vignette, glow, halo, text, calligraphy, numerals, UI, labels, borders, watermark. No extra props, people, scenery, repeated objects or decorative clutter. Avoid oversaturation, muddy gradients, noise, excessive fiber or woodgrain, photorealism, heavy black outline and strong reflections. Preserve clear edges at small gameplay sizes.\nPrimary request: completely EMPTY roofless riverside tea-shop architectural shell, one independent transparent PNG. Input1 defines EXACT footprint projection, camera, framing and pale wooden floor; Input2 supplies tea-house structural character only, never copy its furniture, people, water, boat, greenery, words or UI.\nKeep the Input1 rectangular2:1 floor and elevated parallel camera with generous transparent padding, subject only75% canvas width/height. Change rear walls to warm ivory plaster panels framed by pale timber, one simple modest lattice window per wall. Two rear walls meet at rear center, simple vertical structural posts. Floor boards smooth restrained pale wash, not dense woodgrain. Thin timber platform rim and a few SHORT square support piers integral beneath floor, suggesting riverside construction. The whole floor empty, no furnishings or wall artwork. NO roof, front wall, foreground railing or foreground pillars. No stairs extending off the canvas.\nWide1920×1080 composition; complete platform front corner and all piers at least60px inside canvas. No water, shoreline, ground shadow, lantern, sign, leaves, plants, jars, tools, tables, seating, tea equipment or people. This is an empty staging shell for separately added assets, not a complete rendered tea shop scene.",
+      "references": [
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\03_建筑与场景\\bld_workshop_shell_v001.png",
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\01_Figma参考\\figma_teashop_20261008.png"
+      ],
+      "mode": "built-in image_gen",
+      "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-72002e01-2f75-44cf-8ad2-ae9438484f5e.png",
+      "savedPath": "03_建筑与场景/bld_teashop_shell_v001.png",
+      "destination": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\03_建筑与场景\\bld_teashop_shell_v001.png"
+    },
+    {
+      "id": "BLD_103",
+      "category": "03_建筑与场景",
+      "functionArea": "场景分层",
+      "label": "休憩亭",
+      "plannedFile": "bld_pavilion_v001.png",
+      "batch": "06_场景与装饰",
+      "targetSize": "1536×1024",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "03_建筑与场景/bld_pavilion_v001.png",
+      "remarks": "独立建筑",
+      "prompt": "Use case: stylized-concept. Asset type: one independent transparent PNG for the 2D/2.5D Chinese tea-village game 茶园物语.\nStyle: clean Chinese ink outline with pale hand-painted watercolor fills, harmonizing with the approved references. Simple large clear shapes, controlled sparse brush marks, thin charcoal/brown linework; avoid dense texture or paper grain. Restrained ivory #EEE5D5, sage #83957E, tea green #526C62, charcoal #5C6261, pale timber #967653, bamboo #C5A36F, occasional dusty coral #B76651.\nFor constructed objects use elevated parallel dimetric 2:1 ground axes, diagonal edges slope about ±26.565 degrees, verticals remain vertical, near and far edges stay parallel, no lens perspective. Soft even light, modest internal shading, no cast ground shadow.\nOutput actual RGBA transparency outside the subject. Full silhouette, visible generous transparent margin on ALL four sides; never crop. No background fill, checkerboard, paper sheet, black background, white background, vignette, glow, halo, text, calligraphy, numerals, UI, labels, borders, watermark. No extra props, people, scenery, repeated objects or decorative clutter. Avoid oversaturation, muddy gradients, noise, excessive fiber or woodgrain, photorealism, heavy black outline and strong reflections. Preserve clear edges at small gameplay sizes.\nPrimary request: ONLY one small open Jiangnan tea-village resting pavilion, inspired by the pavilion architecture in Input1 but isolated with far fewer details. Input2 defines local charcoal tiles and pale timber; Input3 defines the 2:1 elevated parallel camera.\nSubject: simple four-post square open pavilion, muted charcoal-grey hip roof with slight upward eaves, pale timber posts, low basic timber rail on two rear sides, empty floor on thin pale-stone square plinth with two modest integral steps at front. Roof and all columns fully visible. No chairs, table, benches, tea cups, lanterns, signs, people, flowers, trees, rocks, land or water. One complete structural pavilion only.\nSquare ground footprint in 2:1 dimetric axes, floor front/back parallel, vertical columns upright. Match existing architecture brush and color. Roof rows clean and simplified rather than densely textured. Entire pavilion centered in landscape1536×1024 with enough transparent space at roof tip and step ends, occupies less than80% width/height. Internal shading low contrast, no ground shadow or halo.",
+      "references": [
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\01_Figma参考\\figma_map_20261008.png",
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\03_建筑与场景\\bld_workshop_exterior_v001.png",
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\06_道具与图标\\prp_tea_table_empty_v001.png"
+      ],
+      "mode": "built-in image_gen",
+      "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-ae925ede-63ff-4c16-9f0e-b078b99a513b.png",
+      "savedPath": "03_建筑与场景/bld_pavilion_v001.png",
+      "destination": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\03_建筑与场景\\bld_pavilion_v001.png"
+    },
+    {
+      "id": "BLD_104",
+      "category": "03_建筑与场景",
+      "functionArea": "场景分层",
+      "label": "木桥",
+      "plannedFile": "bld_bridge_v001.png",
+      "batch": "06_场景与装饰",
+      "targetSize": "1536×1024",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "03_建筑与场景/bld_bridge_v001.png",
+      "remarks": "无水背景",
+      "prompt": "Use case: stylized-concept. Asset type: one independent transparent PNG for the 2D/2.5D Chinese tea-village game 茶园物语.\nStyle: clean Chinese ink outline with pale hand-painted watercolor fills, harmonizing with the approved references. Simple large clear shapes, controlled sparse brush marks, thin charcoal/brown linework; avoid dense texture or paper grain. Restrained ivory #EEE5D5, sage #83957E, tea green #526C62, charcoal #5C6261, pale timber #967653, bamboo #C5A36F, occasional dusty coral #B76651.\nFor constructed objects use elevated parallel dimetric 2:1 ground axes, diagonal edges slope about ±26.565 degrees, verticals remain vertical, near and far edges stay parallel, no lens perspective. Soft even light, modest internal shading, no cast ground shadow.\nOutput actual RGBA transparency outside the subject. Full silhouette, visible generous transparent margin on ALL four sides; never crop. No background fill, checkerboard, paper sheet, black background, white background, vignette, glow, halo, text, calligraphy, numerals, UI, labels, borders, watermark. No extra props, people, scenery, repeated objects or decorative clutter. Avoid oversaturation, muddy gradients, noise, excessive fiber or woodgrain, photorealism, heavy black outline and strong reflections. Preserve clear edges at small gameplay sizes.\nPrimary request: one short gently arched pale timber footbridge as a transparent standalone bridge asset. Input1 fixes the LONG diagonal direction: bridge runs from bottom-left to top-right, axis screen(2,-1), about-26.565degrees, same direction as road. Input2 fixes the cross-axis wood style and parallel camera. Input3 bridge mood ONLY; generate timber bridge rather than copying its stone structure.\nSubject: simple shallow curved plank walkway, modest paired wooden rails along both sides, three or four upright posts per rail, clean rectangular joinery, small low wooden support feet integral at either end. Visible front-left entrance, deck and arch underside. Entire bridge alone. No stones, stone arch, water, island, riverbank, grass, lantern, people, flowers or sign. No floating reflection/shadow below.\nElevated parallel2:1 projection, both ground directions±26.6deg, bridge rail repeats do not shrink toward far end. Thin muted brown outlines, warm pale timber wash with few low-contrast grain marks. Landscape1536×1024; centered, generous padding, occupies less than80% canvas width/height.",
+      "references": [
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\02_地形与植物\\ter_path_earth_straight_v001.png",
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\06_道具与图标\\prp_tea_table_empty_v001.png",
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\01_Figma参考\\figma_map_20261008.png"
+      ],
+      "mode": "built-in image_gen",
+      "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-caa47b6c-feab-4110-baaa-cc858d693695.png",
+      "savedPath": "03_建筑与场景/bld_bridge_v001.png",
+      "destination": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\03_建筑与场景\\bld_bridge_v001.png"
+    },
+    {
+      "id": "DEC_102",
+      "category": "03_建筑与场景",
+      "functionArea": "场景分层",
+      "label": "木栏杆段",
+      "plannedFile": "dec_fence_wood_v001.png",
+      "batch": "06_场景与装饰",
+      "targetSize": "1536×1024",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "03_建筑与场景/dec_fence_wood_v001.png",
+      "remarks": "同轴测",
+      "prompt": "Use case: stylized-concept. Asset type: one independent transparent PNG for the 2D/2.5D Chinese tea-village game 茶园物语.\nStyle: clean Chinese ink outline with pale hand-painted watercolor fills, harmonizing with the approved references. Simple large clear shapes, controlled sparse brush marks, thin charcoal/brown linework; avoid dense texture or paper grain. Restrained ivory #EEE5D5, sage #83957E, tea green #526C62, charcoal #5C6261, pale timber #967653, bamboo #C5A36F, occasional dusty coral #B76651.\nFor constructed objects use elevated parallel dimetric 2:1 ground axes, diagonal edges slope about ±26.565 degrees, verticals remain vertical, near and far edges stay parallel, no lens perspective. Soft even light, modest internal shading, no cast ground shadow.\nOutput actual RGBA transparency outside the subject. Full silhouette, visible generous transparent margin on ALL four sides; never crop. No background fill, checkerboard, paper sheet, black background, white background, vignette, glow, halo, text, calligraphy, numerals, UI, labels, borders, watermark. No extra props, people, scenery, repeated objects or decorative clutter. Avoid oversaturation, muddy gradients, noise, excessive fiber or woodgrain, photorealism, heavy black outline and strong reflections. Preserve clear edges at small gameplay sizes.\nPrimary request: ONLY one straight wooden railing section as a transparent standalone reusable asset. Input1 defines timber joinery and pale brown paint, Input2 defines same long direction and ground camera. Do NOT include bridge, wall or their foundations.\nSubject: THREE simple upright square timber posts, small flat square caps, TWO continuous straight horizontal timber rails linking all three posts in a single straight line. Same post/rail heights and thickness at both ends. Slightly weathered pale wooden wash with minimal broad texture; thin brown linework, clearly readable silhouette. Post bottoms flat, no stone sockets, soil, platform, decking, plants, leaves, lights, flags, people or shadows.\nLong axis bottom-left to top-right exactly like the retaining wall, projected rise about1 for every2 horizontal units. Vertical posts vertical, short crossbeam thickness uses other 2:1 diagonal, no convergence. Entire section landscape1536×1024, centered less than80% canvas width, generous actual transparent padding. This is a SINGLE two-bay railing section, no second duplicate, no multi-angle sheet.",
+      "references": [
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\03_建筑与场景\\bld_bridge_v001.png",
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\02_地形与植物\\ter_retaining_wall_v002.png"
+      ],
+      "mode": "built-in image_gen",
+      "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-39307764-f70f-4edd-91c1-2665663a91a7.png",
+      "savedPath": "03_建筑与场景/dec_fence_wood_v001.png",
+      "destination": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\03_建筑与场景\\dec_fence_wood_v001.png"
+    },
+    {
+      "id": "BG_101",
+      "category": "03_建筑与场景",
+      "functionArea": "场景分层",
+      "label": "远山透明层",
+      "plannedFile": "bg_mountains_layer_v001.png",
+      "batch": "06_场景与装饰",
+      "targetSize": "1920×1080",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "03_建筑与场景/bg_mountains_layer_v001.png",
+      "remarks": "只有山体，不带 UI 建筑人物",
+      "prompt": "Use case: stylized-concept. Asset type: one independent transparent PNG for the 2D/2.5D Chinese tea-village game 茶园物语.\nStyle: clean Chinese ink outline with pale hand-painted watercolor fills, harmonizing with the approved references. Simple large clear shapes, controlled sparse brush marks, thin charcoal/brown linework; avoid dense texture or paper grain. Restrained ivory #EEE5D5, sage #83957E, tea green #526C62, charcoal #5C6261, pale timber #967653, bamboo #C5A36F, occasional dusty coral #B76651.\nFor constructed objects use elevated parallel dimetric 2:1 ground axes, diagonal edges slope about ±26.565 degrees, verticals remain vertical, near and far edges stay parallel, no lens perspective. Soft even light, modest internal shading, no cast ground shadow.\nOutput actual RGBA transparency outside the subject. Full silhouette, visible generous transparent margin on ALL four sides; never crop. No background fill, checkerboard, paper sheet, black background, white background, vignette, glow, halo, text, calligraphy, numerals, UI, labels, borders, watermark. No extra props, people, scenery, repeated objects or decorative clutter. Avoid oversaturation, muddy gradients, noise, excessive fiber or woodgrain, photorealism, heavy black outline and strong reflections. Preserve clear edges at small gameplay sizes.\nEdit Input1 into a CLEANER more restrained wide distant mountain transparent layer. Keep its general sage mountain silhouette layout and handpainted mood, but redraw all mountain surfaces as large smooth pale watercolor color planes with only a FEW broad soft diagonal brush strokes. Remove dense blotches, mottling, stippling, tiny contour dots, fibrous grain and microtexture. Thin subtle silhouette outline only. Limit the visible shapes to five broad main peak masses with a few lighter rear silhouettes.\nComposition correction: shrink the entire mountain group to ONLY75% of target1920×1080 canvas WIDTH and40% HEIGHT, centered horizontally in lower-middle. Leave at least12% TRUE TRANSPARENT EMPTY margin on LEFT and RIGHT. No ridge or wash touches any canvas edge. Remove any opaque pale fog stripe below; just short gentle alpha fade at the base of mountains. No clouds, sun, sky, water, tree, rock extra, building, text, UI or frame. Actual RGBA transparency surrounding the isolated mountain ridge.",
+      "references": [
+        "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-7bf972cd-ec5f-4b12-a345-d07d9c1aed5c.png"
+      ],
+      "mode": "built-in image_gen",
+      "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-837de940-169a-4145-8f79-1a2514a06f06.png",
+      "savedPath": "03_建筑与场景/bg_mountains_layer_v001.png",
+      "destination": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\03_建筑与场景\\bg_mountains_layer_v001.png"
+    },
+    {
+      "id": "BG_102",
+      "category": "03_建筑与场景",
+      "functionArea": "场景分层",
+      "label": "水面透明层",
+      "plannedFile": "bg_water_layer_v001.png",
+      "batch": "06_场景与装饰",
+      "targetSize": "1920×1080",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "03_建筑与场景/bg_water_layer_v001.png",
+      "remarks": "无舟桥建筑",
+      "prompt": "Use case: stylized-concept. Asset type: one independent transparent PNG for the 2D/2.5D Chinese tea-village game 茶园物语.\nStyle: clean Chinese ink outline with pale hand-painted watercolor fills, harmonizing with the approved references. Simple large clear shapes, controlled sparse brush marks, thin charcoal/brown linework; avoid dense texture or paper grain. Restrained ivory #EEE5D5, sage #83957E, tea green #526C62, charcoal #5C6261, pale timber #967653, bamboo #C5A36F, occasional dusty coral #B76651.\nFor constructed objects use elevated parallel dimetric 2:1 ground axes, diagonal edges slope about ±26.565 degrees, verticals remain vertical, near and far edges stay parallel, no lens perspective. Soft even light, modest internal shading, no cast ground shadow.\nOutput actual RGBA transparency outside the subject. Full silhouette, visible generous transparent margin on ALL four sides; never crop. No background fill, checkerboard, paper sheet, black background, white background, vignette, glow, halo, text, calligraphy, numerals, UI, labels, borders, watermark. No extra props, people, scenery, repeated objects or decorative clutter. Avoid oversaturation, muddy gradients, noise, excessive fiber or woodgrain, photorealism, heavy black outline and strong reflections. Preserve clear edges at small gameplay sizes.\nPrimary request: ONLY one calm pale sage-blue water-surface patch, isolated on genuinely transparent RGBA. Input1 is water color and sparse ripples reference ONLY; absolutely remove every object and all words/UI. Input2 defines elevated parallel view.\nSubject: gently curving elongated pool/river WATER shape, overall flattened broad elliptical patch oriented from bottom-left to top-right. Entire shape fills central70% width and40% height on wide1920×1080 target. Flat smooth muted blue-grey/sage translucent watercolor fill, a few widely spaced subtle ivory ripple arcs and short flowing curved lines; maximum about12 distinct ripple strokes. Water body readable on an ivory scene background. Its irregular soft shoreline-shaped edge fades only a little via alpha and is fully inside canvas. No rim or bank surrounding it. Rounded ends, no crop at edges.\nNO sky, mountain, bank, ground, island, rocks, plants, lotus, boat, pier, bridge, building, people, reflection of objects, sun, border or text. No busy ocean waves, froth, glitter, noise, grain, muddy blooms or strong dark shading. No surrounding fog or glow. Single water layer only, not a full landscape or seamless texture.",
+      "references": [
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\01_Figma参考\\figma_teashop_20261008.png",
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\06_道具与图标\\prp_tea_table_empty_v001.png"
+      ],
+      "mode": "built-in image_gen",
+      "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-72c146fe-ea1a-4684-a255-fc46d99e9c75.png",
+      "savedPath": "03_建筑与场景/bg_water_layer_v001.png",
+      "destination": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\03_建筑与场景\\bg_water_layer_v001.png"
+    },
+    {
+      "id": "BG_103",
+      "category": "03_建筑与场景",
+      "functionArea": "场景分层",
+      "label": "云纹透明层",
+      "plannedFile": "bg_cloud_layer_v001.png",
+      "batch": "06_场景与装饰",
+      "targetSize": "1920×1080",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "03_建筑与场景/bg_cloud_layer_v001.png",
+      "remarks": "克制留白，无全屏噪点",
+      "prompt": "Use case: stylized-concept. Asset type: one independent transparent PNG for the 2D/2.5D Chinese tea-village game 茶园物语.\nStyle: clean Chinese ink outline with pale hand-painted watercolor fills, harmonizing with the approved references. Simple large clear shapes, controlled sparse brush marks, thin charcoal/brown linework; avoid dense texture or paper grain. Restrained ivory #EEE5D5, sage #83957E, tea green #526C62, charcoal #5C6261, pale timber #967653, bamboo #C5A36F, occasional dusty coral #B76651.\nFor constructed objects use elevated parallel dimetric 2:1 ground axes, diagonal edges slope about ±26.565 degrees, verticals remain vertical, near and far edges stay parallel, no lens perspective. Soft even light, modest internal shading, no cast ground shadow.\nOutput actual RGBA transparency outside the subject. Full silhouette, visible generous transparent margin on ALL four sides; never crop. No background fill, checkerboard, paper sheet, black background, white background, vignette, glow, halo, text, calligraphy, numerals, UI, labels, borders, watermark. No extra props, people, scenery, repeated objects or decorative clutter. Avoid oversaturation, muddy gradients, noise, excessive fiber or woodgrain, photorealism, heavy black outline and strong reflections. Preserve clear edges at small gameplay sizes.\nPrimary request: ONLY one restrained horizontal auspicious Chinese cloud ribbon as an independent transparent layer, inspired by the pale ivory cloud motifs and faint ochre contour in Input1. Ignore all the rest of the input including mountains and map UI.\nSubject: a SINGLE gently meandering pale ivory mist ribbon, long horizontally, two understated curling hook ends and one broad flowing bend in the middle. Fine light bamboo-ochre contour along upper/lower edge, very low contrast and slightly hand-brushed, NOT bright metallic gold. Broad clean milky-ivory translucent fill, minimal texture, slim silhouette with lots of interior open space. No circles/sun, no cartoon puff piles, no multiple separate clouds, no glitter, no ornament symbols, no black or grey storm cloud.\nWide target1920×1080. Centered ONLY65–75% width and20–25% height. All ribbon contours and end curls fully within canvas, transparent padding on ALL sides. Fill is actual cloud shape, outside entirely RGBA transparent, not an ivory paper backdrop. No mountains, water, buildings, people, text, frame, logo, shadow, glow or noise. This is an airy foreground/background decorative mist layer and must feel gentle and restrained.",
+      "references": [
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\01_Figma参考\\figma_map_20261008.png"
+      ],
+      "mode": "built-in image_gen",
+      "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-d8982c87-20e1-4a88-bfba-cc2c75b7bc08.png",
+      "savedPath": "03_建筑与场景/bg_cloud_layer_v001.png",
+      "destination": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\03_建筑与场景\\bg_cloud_layer_v001.png"
+    },
+    {
+      "id": "DEC_101",
+      "category": "03_建筑与场景",
+      "functionArea": "场景分层",
+      "label": "灯笼",
+      "plannedFile": "dec_lantern_v001.png",
+      "batch": "06_场景与装饰",
+      "targetSize": "768×1024",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "03_建筑与场景/dec_lantern_v001.png",
+      "remarks": "透明装饰单体",
+      "prompt": "Use case: stylized-concept. Asset type: one independent transparent PNG for the 2D/2.5D Chinese tea-village game 茶园物语.\nStyle: clean Chinese ink outline with pale hand-painted watercolor fills, harmonizing with the approved references. Simple large clear shapes, controlled sparse brush marks, thin charcoal/brown linework; avoid dense texture or paper grain. Restrained ivory #EEE5D5, sage #83957E, tea green #526C62, charcoal #5C6261, pale timber #967653, bamboo #C5A36F, occasional dusty coral #B76651.\nFor constructed objects use elevated parallel dimetric 2:1 ground axes, diagonal edges slope about ±26.565 degrees, verticals remain vertical, near and far edges stay parallel, no lens perspective. Soft even light, modest internal shading, no cast ground shadow.\nOutput actual RGBA transparency outside the subject. Full silhouette, visible generous transparent margin on ALL four sides; never crop. No background fill, checkerboard, paper sheet, black background, white background, vignette, glow, halo, text, calligraphy, numerals, UI, labels, borders, watermark. No extra props, people, scenery, repeated objects or decorative clutter. Avoid oversaturation, muddy gradients, noise, excessive fiber or woodgrain, photorealism, heavy black outline and strong reflections. Preserve clear edges at small gameplay sizes.\nPrimary request: ONLY one simple hanging Jiangnan paper lantern, independent actual transparent PNG. Input1 references tea-shop lantern form and gentle restrained color, Input2 defines pale timber tone and elevated parallel 2:1 camera.\nSubject: a tall modest octagonal/cylindrical off-white paper lantern with pale brown timber top and bottom circular/octagonal frames, four or six sparse thin straight vertical ribs, short single small hanging loop and cord at top, one very short cream knot/tassel at bottom. Paper solid softly warm ivory with a few very soft brush washes, matte clean finish, no lettering or symbols or embroidery. Unlit lantern, no radiating glow. View slight three-quarter elevated angle, visible top cap follows same parallel game camera. Thin brown linework.\nPortrait target768×1024, the ONE whole lantern centered, occupies around65% width and75% height, cord tip and bottom tassel complete with ample transparent margins. NO beam, pole, bracket, wall, building, floor, other lantern, flames, wires spreading outside, foliage, sign or people. No halo or shadow.",
+      "references": [
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\01_Figma参考\\figma_teashop_20261008.png",
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\06_道具与图标\\prp_tea_table_empty_v001.png"
+      ],
+      "mode": "built-in image_gen",
+      "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-a4be1b87-6bda-4eeb-aba0-18a8463c7b31.png",
+      "savedPath": "03_建筑与场景/dec_lantern_v001.png",
+      "destination": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\03_建筑与场景\\dec_lantern_v001.png"
+    },
+    {
+      "id": "DEC_103",
+      "category": "03_建筑与场景",
+      "functionArea": "场景分层",
+      "label": "临水荷花",
+      "plannedFile": "dec_lotus_v001.png",
+      "batch": "06_场景与装饰",
+      "targetSize": "1024×1024",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "03_建筑与场景/dec_lotus_v001.png",
+      "remarks": "无水面底",
+      "prompt": "Use case: stylized-concept. Asset type: one independent transparent PNG for the 2D/2.5D Chinese tea-village game 茶园物语.\nStyle: clean Chinese ink outline with pale hand-painted watercolor fills, harmonizing with the approved references. Simple large clear shapes, controlled sparse brush marks, thin charcoal/brown linework; avoid dense texture or paper grain. Restrained ivory #EEE5D5, sage #83957E, tea green #526C62, charcoal #5C6261, pale timber #967653, bamboo #C5A36F, occasional dusty coral #B76651.\nFor constructed objects use elevated parallel dimetric 2:1 ground axes, diagonal edges slope about ±26.565 degrees, verticals remain vertical, near and far edges stay parallel, no lens perspective. Soft even light, modest internal shading, no cast ground shadow.\nOutput actual RGBA transparency outside the subject. Full silhouette, visible generous transparent margin on ALL four sides; never crop. No background fill, checkerboard, paper sheet, black background, white background, vignette, glow, halo, text, calligraphy, numerals, UI, labels, borders, watermark. No extra props, people, scenery, repeated objects or decorative clutter. Avoid oversaturation, muddy gradients, noise, excessive fiber or woodgrain, photorealism, heavy black outline and strong reflections. Preserve clear edges at small gameplay sizes.\nPrimary request: ONLY one small clean lotus plant cluster for independent overlay onto the water layer. Input1 references the pale lotus flowers and muted sage leaves at the tea-house water edge, but no other content from the input.\nSubject: THREE broad round lotus leaves at different low heights, one subtly cupped leaf, one OPEN soft ivory-pink lotus flower and one small closed bud on simple thin stems, all arranged as a compact single connected plant cluster. Leaves muted tea/sage green with a few understated radial veins, petals mostly ivory with faint dusty pink tips and small bamboo yellow center. Whole stems visible down to a shared low planting baseline; no exposed tangled roots. Elevated three-quarter game view, low leaves foreshortened cleanly at approx2:1 horizontal ellipse, no dramatic perspective.\nSquare target1024×1024, plant cluster centered occupying at most75% canvas width/height. Leaf edges, petals, stems fully intact, generous transparent padding. NO water surface at all, ripple, shoreline, pot, soil, rocks, grass, surrounding other plants, insects, animals, people or text. No floating extra separate petals. Smooth clean watercolor fills with very few brush strokes, gentle thin outlines, no paper grain or excessive leaf texture. Actual RGBA transparent exterior.",
+      "references": [
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\01_Figma参考\\figma_teashop_20261008.png"
+      ],
+      "mode": "built-in image_gen",
+      "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-a711c763-b95e-4a19-a550-1e3595893701.png",
+      "savedPath": "03_建筑与场景/dec_lotus_v001.png",
+      "destination": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\03_建筑与场景\\dec_lotus_v001.png"
+    },
+    {
+      "id": "PLT_106",
+      "category": "03_建筑与场景",
+      "functionArea": "场景分层",
+      "label": "景观松树",
+      "plannedFile": "plt_pine_tree_v001.png",
+      "batch": "06_场景与装饰",
+      "targetSize": "1024×1536",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "03_建筑与场景/plt_pine_tree_v001.png",
+      "remarks": "独立植物，无岩石",
+      "prompt": "Use case: stylized-concept. Asset type: one independent transparent PNG for the 2D/2.5D Chinese tea-village game 茶园物语.\nStyle: clean Chinese ink outline with pale hand-painted watercolor fills, harmonizing with the approved references. Simple large clear shapes, controlled sparse brush marks, thin charcoal/brown linework; avoid dense texture or paper grain. Restrained ivory #EEE5D5, sage #83957E, tea green #526C62, charcoal #5C6261, pale timber #967653, bamboo #C5A36F, occasional dusty coral #B76651.\nFor constructed objects use elevated parallel dimetric 2:1 ground axes, diagonal edges slope about ±26.565 degrees, verticals remain vertical, near and far edges stay parallel, no lens perspective. Soft even light, modest internal shading, no cast ground shadow.\nOutput actual RGBA transparency outside the subject. Full silhouette, visible generous transparent margin on ALL four sides; never crop. No background fill, checkerboard, paper sheet, black background, white background, vignette, glow, halo, text, calligraphy, numerals, UI, labels, borders, watermark. No extra props, people, scenery, repeated objects or decorative clutter. Avoid oversaturation, muddy gradients, noise, excessive fiber or woodgrain, photorealism, heavy black outline and strong reflections. Preserve clear edges at small gameplay sizes.\nPrimary request: ONLY one mature Jiangnan landscape pine tree, fully independent actual transparent PNG, no ground. Input1 provides the gently irregular pine silhouettes of the tea village; Input2 establishes clean sage foliage watercolor and thin brown linework, but do not include lotus parts.\nSubject: one gracefully bending brown-grey trunk, modest natural curves, a few visible main branches, FIVE to SEVEN broad horizontal umbrella-shaped soft sage/tea-green pine-needle canopy masses. Silhouette airy with clear negative gaps between the large canopy layers. Needles indicated by a few grouped short strokes along edges, NOT thousands of tiny individual needles. Sparse broad trunk strokes, no dense bark fissures. Root base simple visible short flared trunk end, not a huge exposed root system.\nFull-size scenery tree, NOT miniature bonsai. Mild elevated3/4 game view compatible with dimetric village. Portrait1024×1536, canopy and roots occupy at most75% canvas width and80% height; generous transparent padding on all sides. Entire top branch tips and trunk base complete.\nNo soil, rock, pot, planter, stump platform, grass, shrubs, moss, other trees, hanging objects, lantern, people, birds, cloud, gold ornament, text or cast shadow. Low saturation, strong readable trunk/canopy silhouette, no muddiness or stippling.",
+      "references": [
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\01_Figma参考\\figma_map_20261008.png",
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\03_建筑与场景\\dec_lotus_v001.png"
+      ],
+      "mode": "built-in image_gen",
+      "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-3eb0fb02-d08a-448c-a89b-76a5a4a5caf6.png",
+      "savedPath": "03_建筑与场景/plt_pine_tree_v001.png",
+      "destination": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\03_建筑与场景\\plt_pine_tree_v001.png"
+    },
+    {
+      "id": "PLT_107",
+      "category": "03_建筑与场景",
+      "functionArea": "场景分层",
+      "label": "淡红树",
+      "plannedFile": "plt_red_tree_v001.png",
+      "batch": "06_场景与装饰",
+      "targetSize": "1024×1536",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "03_建筑与场景/plt_red_tree_v001.png",
+      "remarks": "少量朱红，不高饱和",
+      "prompt": "Use case: stylized-concept. Asset type: one independent transparent PNG for the 2D/2.5D Chinese tea-village game 茶园物语.\nStyle: clean Chinese ink outline with pale hand-painted watercolor fills, harmonizing with the approved references. Simple large clear shapes, controlled sparse brush marks, thin charcoal/brown linework; avoid dense texture or paper grain. Restrained ivory #EEE5D5, sage #83957E, tea green #526C62, charcoal #5C6261, pale timber #967653, bamboo #C5A36F, occasional dusty coral #B76651.\nFor constructed objects use elevated parallel dimetric 2:1 ground axes, diagonal edges slope about ±26.565 degrees, verticals remain vertical, near and far edges stay parallel, no lens perspective. Soft even light, modest internal shading, no cast ground shadow.\nOutput actual RGBA transparency outside the subject. Full silhouette, visible generous transparent margin on ALL four sides; never crop. No background fill, checkerboard, paper sheet, black background, white background, vignette, glow, halo, text, calligraphy, numerals, UI, labels, borders, watermark. No extra props, people, scenery, repeated objects or decorative clutter. Avoid oversaturation, muddy gradients, noise, excessive fiber or woodgrain, photorealism, heavy black outline and strong reflections. Preserve clear edges at small gameplay sizes.\nEdit Input1 pale dusty-red tree: keep the same standalone tree design and muted pink/coral-grey palette, branching silhouette and clean Chinese pale watercolor mood. Correct the framing and transparent border.\nRedraw the entire tree SMALLER and more slender, its crown only65% of portrait1024×1536 canvas WIDTH, full tree only75% HEIGHT, CENTERED horizontally and vertically. Leave a minimum15% completely EMPTY RGBA-alpha-zero margin on left and right, and12% on top and bottom. Root tips and every twig fully intact. Outside the tree must be entirely transparent, including all four corners; no stray paint, splatter, translucent particles, haze, glow or stray edge specks.\nReduce microtexture: large soft pale coral leaf masses, fewer tiny leaf marks and just a few broad bark strokes, still handpainted rather than plastic. Thin brown/grey outline. No changes to subject identity, no added flowers, pine needles, ground, soil, rock, pot, other trees, shadow, sky, cloud, text or UI. Output one independent true transparent PNG with full uncropped contour.",
+      "references": [
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\03_建筑与场景\\plt_red_tree_v001.png"
+      ],
+      "mode": "built-in image_gen",
+      "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-c381895a-761a-4e4a-aa52-23d8855cd353.png",
+      "savedPath": "03_建筑与场景/plt_red_tree_v001.png",
+      "destination": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\03_建筑与场景\\plt_red_tree_v001.png",
+      "referencesAtGeneration": [
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\03_建筑与场景\\plt_red_tree_v001.png"
+      ],
+      "referenceCopies": [
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\09_生成记录\\第06批_场景与装饰\\未采用样稿\\PLT_107_attempt_04.png"
+      ]
+    }
+  ],
+  "rejectedVariants": [
+    {
+      "id": "BLD_101",
+      "category": "03_建筑与场景",
+      "functionArea": "场景分层",
+      "label": "主地图工坊建筑",
+      "plannedFile": "bld_workshop_exterior_v001.png",
+      "batch": "06_场景与装饰",
+      "targetSize": "1536×1024",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "",
+      "remarks": "独立建筑，无人物和导航文字",
+      "prompt": "Use case: stylized-concept. Asset type: one independent transparent PNG for the 2D/2.5D Chinese tea-village game 茶园物语.\nStyle: clean Chinese ink outline with pale hand-painted watercolor fills, harmonizing with the approved references. Simple large clear shapes, controlled sparse brush marks, thin charcoal/brown linework; avoid dense texture or paper grain. Restrained ivory #EEE5D5, sage #83957E, tea green #526C62, charcoal #5C6261, pale timber #967653, bamboo #C5A36F, occasional dusty coral #B76651.\nFor constructed objects use elevated parallel dimetric 2:1 ground axes, diagonal edges slope about ±26.565 degrees, verticals remain vertical, near and far edges stay parallel, no lens perspective. Soft even light, modest internal shading, no cast ground shadow.\nOutput actual RGBA transparency outside the subject. Full silhouette, visible generous transparent margin on ALL four sides; never crop. No background fill, checkerboard, paper sheet, black background, white background, vignette, glow, halo, text, calligraphy, numerals, UI, labels, borders, watermark. No extra props, people, scenery, repeated objects or decorative clutter. Avoid oversaturation, muddy gradients, noise, excessive fiber or woodgrain, photorealism, heavy black outline and strong reflections. Preserve clear edges at small gameplay sizes.\nPrimary request: create ONLY a small single-storey traditional Jiangnan tea-making workshop exterior, an independent map destination building. Input 1 is architecture/style reference ONLY; remove its entire environment, UI, lettering and contents. Input 2 establishes the game's parallel camera, pale timber and clean brushwork, not an extra object.\nSubject: compact three-bay rectangular workshop with a charcoal-grey clay tile gabled roof, modest upturned eave tips, timber posts and board walls, two simple lattice windows and one open central doorway whose interior is empty/dark muted grey. A short integral pale-stone threshold only. No porch furniture, chimney, planted garden, trees, jars, baskets, tools, signage, lantern or people. The whole building is the ONLY subject. Roof tile rows simplified at moderate density.\nComposition: landscape canvas target1536×1024. Entire building centered at 75–85% canvas width with generous transparent padding. Visible front facade along axis rising toward screen-right and short right side along the other diagonal, camera and 2:1 ground-plane axes match Input 2. No landscape ground island. Useful at small navigation-map scale.",
+      "references": [
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\01_Figma参考\\figma_workshop_20261008.png",
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\06_道具与图标\\prp_tea_table_empty_v001.png"
+      ],
+      "mode": "built-in image_gen",
+      "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-565eff9d-1d73-4a6f-bd7a-9d829bde8e90.png",
+      "reason": "房屋地面两组轴向角度不够一致；重做为2:1轴测",
+      "retainedCopy": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\09_生成记录\\第06批_场景与装饰\\未采用样稿\\BLD_101_attempt_01.png"
+    },
+    {
+      "id": "BLD_105",
+      "category": "03_建筑与场景",
+      "functionArea": "场景分层",
+      "label": "工坊建筑壳",
+      "plannedFile": "bld_workshop_shell_v001.png",
+      "batch": "06_场景与装饰",
+      "targetSize": "1920×1080",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "",
+      "remarks": "屋顶/前遮挡分层另补，不烘焙器具",
+      "prompt": "Use case: stylized-concept. Asset type: one independent transparent PNG for the 2D/2.5D Chinese tea-village game 茶园物语.\nStyle: clean Chinese ink outline with pale hand-painted watercolor fills, harmonizing with the approved references. Simple large clear shapes, controlled sparse brush marks, thin charcoal/brown linework; avoid dense texture or paper grain. Restrained ivory #EEE5D5, sage #83957E, tea green #526C62, charcoal #5C6261, pale timber #967653, bamboo #C5A36F, occasional dusty coral #B76651.\nFor constructed objects use elevated parallel dimetric 2:1 ground axes, diagonal edges slope about ±26.565 degrees, verticals remain vertical, near and far edges stay parallel, no lens perspective. Soft even light, modest internal shading, no cast ground shadow.\nOutput actual RGBA transparency outside the subject. Full silhouette, visible generous transparent margin on ALL four sides; never crop. No background fill, checkerboard, paper sheet, black background, white background, vignette, glow, halo, text, calligraphy, numerals, UI, labels, borders, watermark. No extra props, people, scenery, repeated objects or decorative clutter. Avoid oversaturation, muddy gradients, noise, excessive fiber or woodgrain, photorealism, heavy black outline and strong reflections. Preserve clear edges at small gameplay sizes.\nPrimary request: a completely EMPTY roofless cutaway tea-workshop architectural shell, ONLY structural architecture. Input1 gives Jiangnan timber workshop atmosphere, ignore EVERY UI, letter, worker, container, processing tool, decoration and all scenery. Input2 is the precise floor-axis and pale wood style reference.\nStructure: a large rectangular pale timber plank floor on a thin pale-stone foundation; two rear walls meeting at the top center, one simple timber-board wall on screen-left and one muted sage-grey stone-and-timber wall on screen-right, a few structural posts and plain lattice openings. NO ROOF anywhere, NO front wall, NO front railing and NO foreground posts. Front two edges open completely so future independent workers and equipment stay visible. Keep 65% of footprint visually empty clear floor. No racks, tables, chairs, tools, baskets, leaves, scroll, sign, lantern, curtains, plants, chimney or people.\nElevated parallel dimetric view, exact2:1 projected diamond floor (both ground-axis slopes±0.5), no vanishing point, equal tile/plank width front/back. Clean thin structural lines and minimal plank texture. Wide horizontal target1920×1080. Whole shell has transparent padding on all sides, floor bottom corner within canvas, rear wall silhouette complete. Entire exterior transparent; not a fully opaque rectangular scene.",
+      "references": [
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\01_Figma参考\\figma_workshop_20261008.png",
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\06_道具与图标\\prp_tea_table_empty_v001.png"
+      ],
+      "mode": "built-in image_gen",
+      "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-01384204-fcce-4758-8e47-30bc3d941fae.png",
+      "reason": "建筑壳下角贴近画布边缘，需缩小主体并增加留白",
+      "retainedCopy": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\09_生成记录\\第06批_场景与装饰\\未采用样稿\\BLD_105_attempt_02.png"
+    },
+    {
+      "id": "BG_101",
+      "category": "03_建筑与场景",
+      "functionArea": "场景分层",
+      "label": "远山透明层",
+      "plannedFile": "bg_mountains_layer_v001.png",
+      "batch": "06_场景与装饰",
+      "targetSize": "1920×1080",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "",
+      "remarks": "只有山体，不带 UI 建筑人物",
+      "prompt": "Use case: stylized-concept. Asset type: one independent transparent PNG for the 2D/2.5D Chinese tea-village game 茶园物语.\nStyle: clean Chinese ink outline with pale hand-painted watercolor fills, harmonizing with the approved references. Simple large clear shapes, controlled sparse brush marks, thin charcoal/brown linework; avoid dense texture or paper grain. Restrained ivory #EEE5D5, sage #83957E, tea green #526C62, charcoal #5C6261, pale timber #967653, bamboo #C5A36F, occasional dusty coral #B76651.\nFor constructed objects use elevated parallel dimetric 2:1 ground axes, diagonal edges slope about ±26.565 degrees, verticals remain vertical, near and far edges stay parallel, no lens perspective. Soft even light, modest internal shading, no cast ground shadow.\nOutput actual RGBA transparency outside the subject. Full silhouette, visible generous transparent margin on ALL four sides; never crop. No background fill, checkerboard, paper sheet, black background, white background, vignette, glow, halo, text, calligraphy, numerals, UI, labels, borders, watermark. No extra props, people, scenery, repeated objects or decorative clutter. Avoid oversaturation, muddy gradients, noise, excessive fiber or woodgrain, photorealism, heavy black outline and strong reflections. Preserve clear edges at small gameplay sizes.\nPrimary request: ONLY a wide distant mountain ridge layer for this tea village, actual RGBA transparent background. Input1 is subdued Jiangnan mountain mood, Input2 clean simple pale watercolor brush reference. Never copy their scenery/UI/ground or decorative outline clouds.\nSubject: one continuous gentle undulating mountain-ridge group, five broad peaks across a wide horizontal band; muted sage-grey silhouettes with a few pale ivory wash facets and very sparse restrained ink contour strokes. Soft lighter far silhouettes behind main ridge allowed within this single mountain layer. Highest peak slightly left of center, middle-right lower, good broad readable skyline. NO trees, rocks separately, paths, clouds, mist object, rivers, buildings, sun, birds, gold lines or lettering.\nComposition: wide target1920×1080, ridge group ONLY in middle-lower horizontal band, span80% canvas width and35–45% height, transparent air above, full peak tips and side ends with at least6% empty transparent margin. Lower base dissolves very gently through alpha into transparency, no opaque fog stripe or paper-colored background rectangle. The mountains themselves retain readable sage forms with large smooth color areas and minimal textures. Distant landscape painted frontal, not a 3D rock island. No black/white backdrop, strong outline, glow or sprawling haze.",
+      "references": [
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\01_Figma参考\\figma_map_20261008.png",
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\04_UI组件\\ui_ornament_mountain_v001.png"
+      ],
+      "mode": "built-in image_gen",
+      "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-7bf972cd-ec5f-4b12-a345-d07d9c1aed5c.png",
+      "reason": "远山样稿纹理偏密、左右留白不足；降低纹理密度并增加留白",
+      "retainedCopy": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\09_生成记录\\第06批_场景与装饰\\未采用样稿\\BG_101_attempt_03.png"
+    },
+    {
+      "id": "PLT_107",
+      "category": "03_建筑与场景",
+      "functionArea": "场景分层",
+      "label": "淡红树",
+      "plannedFile": "plt_red_tree_v001.png",
+      "batch": "06_场景与装饰",
+      "targetSize": "1024×1536",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "03_建筑与场景/plt_red_tree_v001.png",
+      "remarks": "少量朱红，不高饱和",
+      "prompt": "Use case: stylized-concept. Asset type: one independent transparent PNG for the 2D/2.5D Chinese tea-village game 茶园物语.\nStyle: clean Chinese ink outline with pale hand-painted watercolor fills, harmonizing with the approved references. Simple large clear shapes, controlled sparse brush marks, thin charcoal/brown linework; avoid dense texture or paper grain. Restrained ivory #EEE5D5, sage #83957E, tea green #526C62, charcoal #5C6261, pale timber #967653, bamboo #C5A36F, occasional dusty coral #B76651.\nFor constructed objects use elevated parallel dimetric 2:1 ground axes, diagonal edges slope about ±26.565 degrees, verticals remain vertical, near and far edges stay parallel, no lens perspective. Soft even light, modest internal shading, no cast ground shadow.\nOutput actual RGBA transparency outside the subject. Full silhouette, visible generous transparent margin on ALL four sides; never crop. No background fill, checkerboard, paper sheet, black background, white background, vignette, glow, halo, text, calligraphy, numerals, UI, labels, borders, watermark. No extra props, people, scenery, repeated objects or decorative clutter. Avoid oversaturation, muddy gradients, noise, excessive fiber or woodgrain, photorealism, heavy black outline and strong reflections. Preserve clear edges at small gameplay sizes.\nPrimary request: ONLY one pale dusty-red deciduous landscape tree, independent transparent PNG. Input1 fixes the tree family scale, gentle trunk curves and restrained ink/watercolor style. Input2 shows sparse dusty coral foliage accent trees, not the rest of the map.\nSubject: ONE medium-height naturally branching slender brown-grey trunk, three main branch forks, an airy slightly asymmetric crown built from FOUR or FIVE broad rounded leaf-cluster masses. Foliage predominantly very muted soft clay-rose, dusty coral and warm ivory-pink #C69A8A/#D9B4A2, occasional subdued rusty accents only. Absolutely no vivid scarlet, orange or saturated red. Suggest a few individual leaves along outer silhouette and branch gaps, do not fill surfaces with thousands of tiny leaf markings. Clean soft large watercolor washes, clear negative gaps through crown. Trunk just a few broad bark strokes and thin gentle outlines.\nPortrait1024×1536. Entire tree including upper crown, lateral twig tips and simple flared root end fits centered at70–75% canvas width and80%height with generous real transparent padding. Same mild elevated game view as pine. No pine needles, pot, rock, soil, grass, other plants, fallen leaves on ground, lantern, bird, flowers, person, sky, cloud, text or ground shadow. No watercolor splatter around the object.",
+      "references": [
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\03_建筑与场景\\plt_pine_tree_v001.png",
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\01_Figma参考\\figma_map_20261008.png"
+      ],
+      "mode": "built-in image_gen",
+      "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-739e6d9b-9b43-481b-813a-5a5532542942.png",
+      "savedPath": "03_建筑与场景/plt_red_tree_v001.png",
+      "destination": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\03_建筑与场景\\plt_red_tree_v001.png",
+      "reason": "右侧留白不足，左下角alpha1，已重新生成",
+      "retainedCopy": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\09_生成记录\\第06批_场景与装饰\\未采用样稿\\PLT_107_attempt_04.png"
+    }
+  ],
+  "notes": [
+    "真实透明PNG，保留生成原始alpha和实际尺寸。",
+    "建筑壳为屋顶隐藏的空结构，前遮挡与独立屋顶后续另补；不是已搭建的Godot场景。",
+    "轴测方向以已有道路与道具为参考，仍需后续引擎中摆放验证。"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "UI_022",
+  "category": "04_UI组件",
+  "functionArea": "通用UI",
+  "label": "成长进度轨道",
+  "plannedFile": "ui_progress_track_v001.png",
+  "batch": "03_UI组件",
+  "targetSize": "1024×512",
+  "status": "待生成",
+  "actualSize": "",
+  "relativePath": "",
+  "remarks": "填充单独图片",
+  "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-4f874f6f-b848-40c0-91a6-6f437a03664f.png",
+  "prompt": "Use case: ui-mockup. Asset: ONE isolated painted raster UI component for Chinese traditional tea game 茶园物语. Flat front-view 2D, crisp simple silhouette, ivory #f5efdf paper, muted bamboo-brown #9c8058 thin double keyline, restrained sage #829276. Soft ink-and-light-watercolor broad washes only; very clean, no grain, mottled texture, cracks, muddy haze, shine or saturation. Blank central area, no words, characters, numbers, logos, leaves, bamboo, mountain, clouds, stamp, scene, added buttons or extra object. True alpha PNG outside shape, safe margins, no glow, shadow or checkerboard. An EMPTY PROGRESS TRACK only. One very thin horizontal capsule strip, pale desaturated taupe interior with narrow bamboo-brown rim. Aspectabout10:1, length1250,height120 centered on1536x1024canvas. Simple parallel sides and round ends, no ticks, divisions, numbers, text, green fill, decoration or end caps.",
+  "mode": "built-in image_gen",
+  "refs": [],
+  "savedPath": "04_UI组件/ui_progress_track_v001.png"
+}

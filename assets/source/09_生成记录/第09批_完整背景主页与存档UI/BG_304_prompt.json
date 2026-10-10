@@ -1,0 +1,22 @@
+{
+  "id": "BG_304",
+  "category": "03_建筑与场景",
+  "label": "云岫茶园空背景",
+  "plannedFile": "bg_garden_rich_empty_v004.png",
+  "functionArea": "完整背景",
+  "transparent": false,
+  "targetSize": "1920×1080",
+  "batch": "09_完整背景主页与存档UI",
+  "status": "待生成",
+  "actualSize": "",
+  "relativePath": "03_建筑与场景/bg_garden_rich_empty_v004.png",
+  "remarks": "完整静态背景PNG；无UI、人物及可操作物；预留独立素材摆放区域；按用户最新要求提亮、去颗粒、减少表面纹理与细碎描线；颜色以用户提供的亮灰雅致参考为准，避免薄荷绿、亮青蓝和粉橙；最新校色：在亮灰版基础上饱和度约提高25%，明度与低纹理不变",
+  "prompt": "Use case: precise-object-edit. EDIT TARGET: the supplied light-gray Chinese game background. User's latest exact request: raise overall SATURATION by about25% RELATIVE TO THIS LIGHT-GRAY VERSION, because it looks slightly too gray.\nMake a controlled subtle color-strength increase only, roughly saturation×1.25 rather than adding25 percentage points. Preserve HIGH LUMINANCE, light-gray ivory sky, gray-sage green plants, gray-teal river, ash/honey taupe wood, and dusty apricot accents. Let green foliage, pale teal water and warm wood be a little more distinguishable. Calm elegant color remains restrained. Keep all geometry, composition, scene objects and open areas exactly as target. Keep brightness, contrast, ink outlines and clean low-texture surface rendering.\nNo darkening, no white haze, no vivid cyan, electric mint, orange, candy pink, muddy brown, speckle, grain, noisy woodgrain, new tiny details, added objects, people, UI, words, logo or watermark. Fully opaque16:9 scene, no screenshot borders. This is an approximately25% color correction with unchanged layout, not a new painting composition.Garden. Preserve3 empty terraces, pavilion and stream. Raise muted sage-green foliage, gray-teal water and dusty apricot tree accents moderately, about25% relative saturation increase. Terrace tops stay very light warm ivory-gray, stonebanks clean pale slate-gray, pavilion wood slightly warmer light ash taupe. Preserve crisp quiet broad fields with minimal texture. Keep empty garden surfaces.",
+  "references": [
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\03_建筑与场景\\bg_garden_rich_empty_v003.png"
+  ],
+  "mode": "built-in image_gen saturation approximately +25% from gray version",
+  "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-644454ff-f45d-487b-aff8-6df53a852348.png",
+  "savedPath": "03_建筑与场景/bg_garden_rich_empty_v004.png",
+  "destination": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\03_建筑与场景\\bg_garden_rich_empty_v004.png"
+}

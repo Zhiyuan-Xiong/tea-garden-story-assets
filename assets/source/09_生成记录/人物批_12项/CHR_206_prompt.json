@@ -1,0 +1,22 @@
+{
+  "id": "CHR_206",
+  "category": "05_人物",
+  "functionArea": "人物",
+  "label": "品茶熟客场景小人",
+  "plannedFile": "chr_customer_regular_scene_v001.png",
+  "batch": "05_人物与茶铺",
+  "targetSize": "1024×1024",
+  "status": "待生成",
+  "actualSize": "",
+  "relativePath": "",
+  "remarks": "以立绘为参考",
+  "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-8d908638-0f64-4062-bbe4-c2182770da7d.png",
+  "prompt": "Use case: stylized-concept. One isolated hand-painted 2D character asset for 茶园物语, a gentle traditional Chinese tea-village game. Chinese ink outlines and pale watercolor wash matching approved protagonist art. Thin warm-grey/brown outlines, simple clean broad washes, minimal clothing folds, no grain/no noisy mottling/no dense texture/no muddy haze/no oversaturation/no hard black outline/no glossy render. Palette muted sage/tea greens, ivory, pale brown, oatmeal, charcoal-grey, restrained clay rose. Skin soft natural peach, no strong blush or shiny highlight. Complete SINGLE character, full body including hair and both feet, generous true transparent alpha margin on all sides. Transparent gaps between limbs, no background color, no drawn checkerboard, no ground/shadow plate or halo. No environment, furniture, tea plants, handheld cups, trays, tools, weapons, writing, numbers, labels or watermarks. Fixed clothing accessories such as pendant and cloth bag belong to the character. Calm friendly expressions. Keep hand anatomy simple and natural. Character family stylized about3.5heads tall for full-body dialogue portraits, about3heads for scene sprites; never photorealistic. Scene sprites use a consistent elevated parallel-axonometric camera and three-quarter front-left facing, head top slightly visible, feet on the same implied horizontal plane, no converging perspective. Portraits use near frontal three-quarter pose. No animation sheet or multiple copies.\nUse case for conversion: identity-preserve.\nSUBJECT: Image1 is REGULAR TEA CUSTOMER identity portrait; Image2 shared SCENE camera. Convert SAME calm middle-aged gentleman into a about3-head tall simplified scene sprite. Preserve grey hair with silver temples in a compact topknot, narrow gentle eyes, thin little grey moustache, dark grey-SAGE long robe, ivory crossed collar and visible pale inner hem, dark-grey tied sash, brown-grey shoes. Both EMPTY hands tucked together inside sleeves in the same composed gesture as Image1. Keep mature face clues and small smile, not a bearded elder or young boy. Three-quarter FRONT-LEFT elevated parallel camera with feet planted. Simplify washes/folds, no handheld teacup, fan, cane, book or extra ornament. One complete body on1024x1024truealpha canvas.",
+  "mode": "built-in image_gen",
+  "references": [
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\05_人物\\chr_customer_regular_portrait_v001.png",
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\05_人物\\chr_protagonist_scene_idle_v001.png"
+  ],
+  "savedPath": "05_人物/chr_customer_regular_scene_v001.png",
+  "destination": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\05_人物\\chr_customer_regular_scene_v001.png"
+}

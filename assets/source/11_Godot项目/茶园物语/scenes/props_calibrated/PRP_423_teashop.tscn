@@ -1,0 +1,20 @@
+[gd_scene load_steps=3 format=3]
+[ext_resource type="Texture2D" path="res://assets/12_第一轮场景调整/prp_tea_table_dimetric_v002.png" id="1"]
+[sub_resource type="AtlasTexture" id="Atlas"]
+atlas = ExtResource("1")
+region = Rect2(300,116,937,805)
+filter_clip = true
+[node name="PRP_423_GroundCenter" type="Node2D"]
+transform = Transform2D(1,0.1394051,0,0.7246745,0,0)
+metadata/asset_id = "PRP_423"
+metadata/reference_room = "teashop"
+[node name="Image" type="TextureRect" parent="."]
+offset_left = -127.248666
+offset_top = -167.2742796
+offset_right = 128.751334
+offset_bottom = 52.6616862
+mouse_filter = 2
+texture_filter = 4
+texture = SubResource("Atlas")
+expand_mode = 1
+stretch_mode = 0

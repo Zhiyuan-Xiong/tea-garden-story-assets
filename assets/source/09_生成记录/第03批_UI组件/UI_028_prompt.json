@@ -1,0 +1,18 @@
+{
+  "id": "UI_028",
+  "category": "04_UI组件",
+  "functionArea": "通用UI",
+  "label": "良好品质印记",
+  "plannedFile": "ui_quality_good_v001.png",
+  "batch": "03_UI组件",
+  "targetSize": "512×512",
+  "status": "待生成",
+  "actualSize": "",
+  "relativePath": "",
+  "remarks": "不能仅靠颜色区分",
+  "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-4ec0439f-19a6-4cf5-9960-f6bb0d1c4d45.png",
+  "prompt": "Use case: ui-mockup. ONE independent QUALITY EMBLEM for Chinese ink/light-watercolor tea game 茶园物语. Square1024x1024transparentcanvas, centered front-view flat emblem occupying60%width/height. Clean ivory interior, thin softly hand-painted double rim, subdued muted colors, extremely sparse broad watercolor washes, simple large silhouette clear at small size. A symbolic quality badge only; NO written grade, words, numbers, Chinese characters, seal script, calligraphy, star, ribbon, tassel, 3D shine, metal texture, noisy grain, saturation, shadow or glow. Alpha transparent outside badge, not backdrop or checkerboard. GOOD quality: a rounded-corner DIAMOND ivory medallion with subdued bamboo-brown double outline; TWO distinct tea leaves joined at short central stem, filledsage-green, simple onevein each. Diamond silhouette must differ clearly from normalcircle.",
+  "mode": "built-in image_gen",
+  "refs": [],
+  "savedPath": "04_UI组件/ui_quality_good_v001.png"
+}

@@ -1,0 +1,1086 @@
+{
+  "date": "2026-10-08",
+  "packageRoot": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\10_最终交付\\茶园物语_素材交付_v001",
+  "scope": "只补背景、场景和UI；6项手记插画保留待制作",
+  "mode": "built-in image_gen",
+  "assets": 118,
+  "uniqueIds": 118,
+  "newAssets": 12,
+  "categories": {
+    "02_地形与植物": 11,
+    "04_UI组件": 38,
+    "05_人物": 13,
+    "06_道具与图标": 35,
+    "03_建筑与场景": 21
+  },
+  "pendingHandbookItems": 6,
+  "allCopiesByteIdentical": true,
+  "allPNGsHaveAlpha": true,
+  "godotBuilt": false,
+  "errors": [],
+  "files": [
+    {
+      "id": "TER_101",
+      "file": "02_地形与植物/ter_soil_plot_empty_v001.png",
+      "width": 1536,
+      "height": 1024,
+      "hasAlpha": true,
+      "sha256": "6fa4ae7b5a9d8f16e815e882a3d450e4d7d42f8aa59e7982927e4861b8da8f88",
+      "bytes": 1412467
+    },
+    {
+      "id": "PLT_101",
+      "file": "02_地形与植物/plt_tea_bush_mature_v002.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "sha256": "57cfc5cb8d375de6a371ce4006b5998e19e835b9a1d6a2f35f54263c873d5227",
+      "bytes": 1432939
+    },
+    {
+      "id": "UI_001",
+      "file": "04_UI组件/ui_popup_base_v001.png",
+      "width": 1536,
+      "height": 1024,
+      "hasAlpha": true,
+      "sha256": "a9486db109870a769ef3dc71e49af6aa8b63d4575af5b827dc3ccb41152fdb96",
+      "bytes": 1253540
+    },
+    {
+      "id": "CHR_001",
+      "file": "05_人物/chr_protagonist_portrait_neutral_v001.png",
+      "width": 1024,
+      "height": 1536,
+      "hasAlpha": true,
+      "sha256": "9c12e7054c9df5aea8981deb107660cee5dd3ec7276f3045a7f52cf669ae7911",
+      "bytes": 1726138
+    },
+    {
+      "id": "PRP_101",
+      "file": "06_道具与图标/prp_bamboo_basket_empty_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "sha256": "8fbdec08719cc4838b205f1221a42bd848f7231ea0f384208e7433cd723f9d6b",
+      "bytes": 1367909
+    },
+    {
+      "id": "PLT_102",
+      "file": "02_地形与植物/plt_tea_bush_seedling_v002.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "sha256": "8c836b10b84927a73d9ebac32b2fbba2c08519767fe544c3c4ffda32f315d2a9",
+      "bytes": 365880
+    },
+    {
+      "id": "PLT_103",
+      "file": "02_地形与植物/plt_tea_bush_growing_v002.png",
+      "width": 1349,
+      "height": 1166,
+      "hasAlpha": true,
+      "sha256": "13cc2b4da354e1785a6a5200df23aa1d79b3cf3fd2816fd128a587a76ca6d02f",
+      "bytes": 947775
+    },
+    {
+      "id": "PLT_104",
+      "file": "02_地形与植物/plt_tea_bush_harvested_v002.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "sha256": "9dbcf3569d5cbab14a527a988043af83e409b1f37542fef6075ea1c3d0fbca90",
+      "bytes": 1066497
+    },
+    {
+      "id": "TER_102",
+      "file": "02_地形与植物/ter_path_earth_straight_v001.png",
+      "width": 1536,
+      "height": 1024,
+      "hasAlpha": true,
+      "sha256": "3a82395916c142ef7eb01ccfb62b20afbf225b689dce186301f4297233637104",
+      "bytes": 1338868
+    },
+    {
+      "id": "TER_103",
+      "file": "02_地形与植物/ter_path_stone_straight_v001.png",
+      "width": 1536,
+      "height": 1024,
+      "hasAlpha": true,
+      "sha256": "2f134c6a0c25f5a81439341b10bc731dc3866d2cc0b5e0082890b50de17921f9",
+      "bytes": 1581811
+    },
+    {
+      "id": "TER_104",
+      "file": "02_地形与植物/ter_retaining_wall_v002.png",
+      "width": 1536,
+      "height": 1024,
+      "hasAlpha": true,
+      "sha256": "0677be3ff37113c6cddb35a0553dbabd6b77039bac2c0211713fe07b0ac823ca",
+      "bytes": 1687789
+    },
+    {
+      "id": "TER_105",
+      "file": "02_地形与植物/ter_rock_sage_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "sha256": "5b864f63eafa9023808f0a1fdfb04a92d413a1e894105cc773a33eb8a0f01544",
+      "bytes": 995793
+    },
+    {
+      "id": "PLT_105",
+      "file": "02_地形与植物/plt_bamboo_cluster_v001.png",
+      "width": 1024,
+      "height": 1536,
+      "hasAlpha": true,
+      "sha256": "d8483e8a00d68b2871301a59a89e853f955b8500d3dc23271b4ac2ce901ecb90",
+      "bytes": 1843959
+    },
+    {
+      "id": "PRP_102",
+      "file": "06_道具与图标/prp_seed_bag_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "sha256": "4f7518215a86143d0316cfcdadf1041326a23f914ea06ee048527e7e554e42e9",
+      "bytes": 1351507
+    },
+    {
+      "id": "PRP_103",
+      "file": "06_道具与图标/prp_fresh_tea_leaves_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "sha256": "0c1110257e3d8c1906da15be2bbfef3be2ddf5aa069dcb0d1c9d1572de34ab5e",
+      "bytes": 889987
+    },
+    {
+      "id": "PRP_104",
+      "file": "06_道具与图标/prp_fertilizer_bag_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "sha256": "9c0baef919d2bb52d243d38873b1fb1085ad630b6c18750a782c0ae9ca8afb3d",
+      "bytes": 1386799
+    },
+    {
+      "id": "PRP_105",
+      "file": "06_道具与图标/prp_picking_manual_closed_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "sha256": "814db969d9bec4f65df58874503266aa3b9e9f6908b5c5ee00dc36a62406081b",
+      "bytes": 1050719
+    },
+    {
+      "id": "PRP_106",
+      "file": "06_道具与图标/prp_satchel_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "sha256": "336f0b904301738449a35f2be433805c952a4825c46a10ad1e32d1dac5f14212",
+      "bytes": 1309546
+    },
+    {
+      "id": "ICO_101",
+      "file": "06_道具与图标/ico_seeds_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "sha256": "c2236c6c4d26e2839cc993e8d3412ef4f324663c19d7116753c2dc12eb4b2bd4",
+      "bytes": 734207
+    },
+    {
+      "id": "ICO_102",
+      "file": "06_道具与图标/ico_inventory_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "sha256": "d0a8f32520c568b9d73d2562bbc61efc4c9e98f1348dac55a0e52efef30ddd13",
+      "bytes": 868170
+    },
+    {
+      "id": "ICO_103",
+      "file": "06_道具与图标/ico_basket_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "sha256": "03461542c805bcc0a28d27d69d64e1779e9498dab42854e104ad8379d4b1591e",
+      "bytes": 1155659
+    },
+    {
+      "id": "ICO_104",
+      "file": "06_道具与图标/ico_fertilizer_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "sha256": "dc06efc65a566693c6127d558c892d9b1f03c93c17e5adbf6a3a347ed4a4f284",
+      "bytes": 1115300
+    },
+    {
+      "id": "ICO_105",
+      "file": "06_道具与图标/ico_picking_manual_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "sha256": "b0bbeae9933e302e14b79c153f415859aa3e36fd119402e75f9df7392372e6aa",
+      "bytes": 733905
+    },
+    {
+      "id": "ICO_106",
+      "file": "04_UI组件/ico_journal_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "sha256": "52ce2b512d922a2af74a997bd78bc2b37fabc8ec017346626e39e66a41ca2db7",
+      "bytes": 1356587
+    },
+    {
+      "id": "ICO_107",
+      "file": "04_UI组件/ico_settings_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "sha256": "e965096aa1ef4269cd91466fa835ba8b43e73af14aa63d71e115aace66174f24",
+      "bytes": 596558
+    },
+    {
+      "id": "UI_002",
+      "file": "04_UI组件/ui_title_plaque_v001.png",
+      "width": 1536,
+      "height": 1024,
+      "hasAlpha": true,
+      "sha256": "61c481183e855b4755d3610c01400f6253a92df8866f588d29b786023b531c91",
+      "bytes": 1105809
+    },
+    {
+      "id": "UI_003",
+      "file": "04_UI组件/ui_item_card_v001.png",
+      "width": 1024,
+      "height": 1536,
+      "hasAlpha": true,
+      "sha256": "a892ef57eafa2a37e1de4c28b0cdfa33be568c471ef26dcd23067512a45e45d5",
+      "bytes": 1227596
+    },
+    {
+      "id": "UI_004",
+      "file": "04_UI组件/ui_item_selection_v001.png",
+      "width": 1024,
+      "height": 1536,
+      "hasAlpha": true,
+      "sha256": "8be487fc4531d4d9e13412bdfb8d4997ec3f6b5fa8c642f2ab4ce7565c0016f1",
+      "bytes": 889737
+    },
+    {
+      "id": "UI_005",
+      "file": "04_UI组件/ui_toolbar_base_v001.png",
+      "width": 1536,
+      "height": 1024,
+      "hasAlpha": true,
+      "sha256": "ae5f7b0a2374d2fc37a50b0417403f4a26dafe1ff8ba3c4291b11a22736b73dd",
+      "bytes": 821148
+    },
+    {
+      "id": "UI_006",
+      "file": "04_UI组件/ui_resource_base_v001.png",
+      "width": 1536,
+      "height": 1024,
+      "hasAlpha": true,
+      "sha256": "18e6a71c330ea256b6d0ef4d824dc36cb7374fa166bb4fbc1c786de2c71687c6",
+      "bytes": 811338
+    },
+    {
+      "id": "UI_007",
+      "file": "04_UI组件/ui_tooltip_base_v001.png",
+      "width": 1942,
+      "height": 809,
+      "hasAlpha": true,
+      "sha256": "087430b4947edfcafae966359b1aaf02beaebb1b254e12efebf23ee0ccd98c76",
+      "bytes": 556095
+    },
+    {
+      "id": "UI_008",
+      "file": "04_UI组件/ui_dialogue_base_v001.png",
+      "width": 1536,
+      "height": 1024,
+      "hasAlpha": true,
+      "sha256": "d0e1ea0087805c57e7ff268a624dbc06cfb095644ee7047d072f7c2e6ff2e46e",
+      "bytes": 818456
+    },
+    {
+      "id": "UI_009",
+      "file": "04_UI组件/ui_quantity_base_v001.png",
+      "width": 2172,
+      "height": 724,
+      "hasAlpha": true,
+      "sha256": "ef28f0a82b6cb4ef6845fcb25bea79388f7228898cdd48218a739ddc377eeb9b",
+      "bytes": 801572
+    },
+    {
+      "id": "UI_010",
+      "file": "04_UI组件/ui_button_normal_v001.png",
+      "width": 1536,
+      "height": 1024,
+      "hasAlpha": true,
+      "sha256": "84388a08e87d0433b981e963da65ec8af10ace26d2102758e50be0ab2e0ca36f",
+      "bytes": 944495
+    },
+    {
+      "id": "UI_011",
+      "file": "04_UI组件/ui_button_hover_v001.png",
+      "width": 1536,
+      "height": 1024,
+      "hasAlpha": true,
+      "sha256": "ebda47663db54cca891fe94f3cecd19f9ec7d67c20a5d1e606fba48f1622959f",
+      "bytes": 963761
+    },
+    {
+      "id": "UI_012",
+      "file": "04_UI组件/ui_button_pressed_v001.png",
+      "width": 1536,
+      "height": 1024,
+      "hasAlpha": true,
+      "sha256": "8dac93f447533f1a9768fd632452e42708db708613b96b8d6563545e151d8693",
+      "bytes": 933047
+    },
+    {
+      "id": "UI_013",
+      "file": "04_UI组件/ui_button_disabled_v001.png",
+      "width": 1536,
+      "height": 1024,
+      "hasAlpha": true,
+      "sha256": "d718dd7b603aab78dbccc6dfc0fbf43ae8a19cd50db2c35ce4cfae6cb6e58b7c",
+      "bytes": 886840
+    },
+    {
+      "id": "UI_014",
+      "file": "04_UI组件/ui_icon_circle_base_v002.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "sha256": "95c077959dcf1da313a92866ebe4f5055eb6ca2b8495bef987bf148810acb08d",
+      "bytes": 918333
+    },
+    {
+      "id": "UI_015",
+      "file": "04_UI组件/ui_close_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "sha256": "f9491ee6c23e246d2c959abf793fad8df47428cc415506c35bb4b9ee876c13ae",
+      "bytes": 238460
+    },
+    {
+      "id": "UI_016",
+      "file": "04_UI组件/ui_back_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "sha256": "00cbac22f3a53bac7248d39949409ba1bb68015682052984a9c7ce18f999df7b",
+      "bytes": 172381
+    },
+    {
+      "id": "UI_017",
+      "file": "04_UI组件/ui_confirm_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "sha256": "bb11bfbc437ddfd552f295a51fe11b7e82249c3213fe4099fd39876f5b8ad10e",
+      "bytes": 182626
+    },
+    {
+      "id": "UI_018",
+      "file": "04_UI组件/ui_plus_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "sha256": "c6f81d2a04952c3a775de4372a90ced575e7d300800e1f7ff810e928db0130a9",
+      "bytes": 141361
+    },
+    {
+      "id": "UI_019",
+      "file": "04_UI组件/ui_minus_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "sha256": "0653ee9903b71d47311127f8b18761dff85feb89f5f9496ca161d71ea4379ddc",
+      "bytes": 105510
+    },
+    {
+      "id": "UI_020",
+      "file": "04_UI组件/ui_tab_inactive_v001.png",
+      "width": 1874,
+      "height": 839,
+      "hasAlpha": true,
+      "sha256": "b08f7c36dc61f615bab693880d105430fbcb9ff7f28f4dbe2fd7bdca5a8940cb",
+      "bytes": 767674
+    },
+    {
+      "id": "UI_021",
+      "file": "04_UI组件/ui_tab_active_v001.png",
+      "width": 1875,
+      "height": 839,
+      "hasAlpha": true,
+      "sha256": "d158d388736779b68d5e183c9149565c8d3bba38298961db1de136c9ec3023d0",
+      "bytes": 602186
+    },
+    {
+      "id": "UI_022",
+      "file": "04_UI组件/ui_progress_track_v001.png",
+      "width": 1536,
+      "height": 1024,
+      "hasAlpha": true,
+      "sha256": "46f0f94ea37d9d6ce3c27b06171a8605f62c187461f95aed68f90da1b52aef5e",
+      "bytes": 752054
+    },
+    {
+      "id": "UI_023",
+      "file": "04_UI组件/ui_progress_fill_v001.png",
+      "width": 1536,
+      "height": 1024,
+      "hasAlpha": true,
+      "sha256": "a5c07c93bb13a22091ba8a5d678c1c3daa9ec34ab238560833b69a011269cde6",
+      "bytes": 799267
+    },
+    {
+      "id": "UI_024",
+      "file": "04_UI组件/ui_state_ready_v001.png",
+      "width": 1024,
+      "height": 1536,
+      "hasAlpha": true,
+      "sha256": "a729a7b4f11ffe19d5ffa2e6e239c8ae297c1a7d331c16a3ca09ae4763451ac0",
+      "bytes": 1540520
+    },
+    {
+      "id": "UI_025",
+      "file": "04_UI组件/ui_state_finished_v001.png",
+      "width": 1024,
+      "height": 1536,
+      "hasAlpha": true,
+      "sha256": "9ec53a5f4ea2bc76441a2b2dc13fed60e1f5cc8e8cd33b5157606336282d7265",
+      "bytes": 1231513
+    },
+    {
+      "id": "UI_026",
+      "file": "04_UI组件/ui_order_bubble_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "sha256": "f870a3e984d8004ed7f28e20b3d6da785ed8d0967f06d06604027a483463c7ff",
+      "bytes": 1419590
+    },
+    {
+      "id": "UI_027",
+      "file": "04_UI组件/ui_quality_normal_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "sha256": "500c0fd8b18114900c824435d077d6d5b50bed0fc7cf295e50cd0e93b9f12fda",
+      "bytes": 1253762
+    },
+    {
+      "id": "UI_028",
+      "file": "04_UI组件/ui_quality_good_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "sha256": "ee2cb03f1cca6756699f5a3d009d711d8c6def6232ecc567157135330b1b69b8",
+      "bytes": 1418408
+    },
+    {
+      "id": "UI_029",
+      "file": "04_UI组件/ui_quality_best_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "sha256": "fd02228b5377538ad80c72edd197bd0c6c87bf091ec6b269409e786dcee6117d",
+      "bytes": 1404857
+    },
+    {
+      "id": "UI_030",
+      "file": "04_UI组件/ui_popup_plain_v001.png",
+      "width": 1536,
+      "height": 1024,
+      "hasAlpha": true,
+      "sha256": "53a2bb8a20b32f50c2c34e4dbaf79e835bff1ef971e6355724ff5f2836a10041",
+      "bytes": 1037188
+    },
+    {
+      "id": "UI_031",
+      "file": "04_UI组件/ui_ornament_bamboo_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "sha256": "b4fc44074ddb2a7f4c945d708003b9578bbed01de5698ebe591dbf8c53edfe81",
+      "bytes": 576465
+    },
+    {
+      "id": "UI_032",
+      "file": "04_UI组件/ui_ornament_mountain_v001.png",
+      "width": 1536,
+      "height": 1024,
+      "hasAlpha": true,
+      "sha256": "e5ae4c8a889f31748bfddef8bdd19351da442daac7db6af4b394ca0cef50d72b",
+      "bytes": 1419591
+    },
+    {
+      "id": "PRP_201",
+      "file": "06_道具与图标/prp_bamboo_tray_empty_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "sha256": "2851407060748ee14f0e5cfdea5a6f9696ea0440a2de31d5d2296bb240bcda03",
+      "bytes": 936112
+    },
+    {
+      "id": "PRP_202",
+      "file": "06_道具与图标/prp_leaves_spread_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "sha256": "a20ec9e91920ea9590dbe090880d44f5a5b5e2e9858237d6f217a517f2c761b6",
+      "bytes": 663742
+    },
+    {
+      "id": "PRP_203",
+      "file": "06_道具与图标/prp_iron_wok_empty_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "sha256": "78ca388014d64a930b4b9571b86605048749889e38112666b68d6351095d4c36",
+      "bytes": 1003958
+    },
+    {
+      "id": "PRP_204",
+      "file": "06_道具与图标/prp_stove_base_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "sha256": "2922ef73ee0011add4ed389e4ad745df0249ca3956f1703c8da4d80852537fa0",
+      "bytes": 1317343
+    },
+    {
+      "id": "PRP_205",
+      "file": "06_道具与图标/prp_rolling_table_v001.png",
+      "width": 1536,
+      "height": 1024,
+      "hasAlpha": true,
+      "sha256": "21d8ea0695a0046872c56f14a9ac4e3ec07883c6fcfd287f709a04f3b97b93dd",
+      "bytes": 1790449
+    },
+    {
+      "id": "PRP_206",
+      "file": "06_道具与图标/prp_leaves_rolled_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "sha256": "dd3823756544f370e8c1cb6b45d804e81e24d5503b20c82a81d607c97e068aeb",
+      "bytes": 892900
+    },
+    {
+      "id": "PRP_207",
+      "file": "06_道具与图标/prp_drying_rack_empty_v001.png",
+      "width": 1024,
+      "height": 1536,
+      "hasAlpha": true,
+      "sha256": "5e89964cb1b75b4062debffa4ff013d69860ee9b788276cdcbc6781e21ca80fc",
+      "bytes": 2174827
+    },
+    {
+      "id": "PRP_208",
+      "file": "06_道具与图标/prp_leaves_dried_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "sha256": "2e8804114ef943cae147c969f6089d6338a20586352e8217d7eeaaff8850a682",
+      "bytes": 895556
+    },
+    {
+      "id": "PRP_209",
+      "file": "06_道具与图标/prp_tea_jar_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "sha256": "b896ccef28adb10fad4b32e15bfd8168530418897dd5e4a5a810db6de66e2ff1",
+      "bytes": 691211
+    },
+    {
+      "id": "PRP_210",
+      "file": "06_道具与图标/prp_workshop_stool_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "sha256": "e2614eaf56eec0d5e11a623afcb149b5347a6ca6319a6c50982b5798482bdc82",
+      "bytes": 833154
+    },
+    {
+      "id": "ICO_201",
+      "file": "06_道具与图标/ico_tools_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "sha256": "f2cfb374dad155378b19c9d41798c154e6b5bab4b54a95ac4b0ed88f81c338bc",
+      "bytes": 687102
+    },
+    {
+      "id": "FX_201",
+      "file": "06_道具与图标/fx_fire_low_v001.png",
+      "width": 1024,
+      "height": 1536,
+      "hasAlpha": true,
+      "sha256": "fc9ac386e3feca8320f9d64ef63c40b95788dced80e7358e0767ea369512308b",
+      "bytes": 850694
+    },
+    {
+      "id": "FX_202",
+      "file": "06_道具与图标/fx_fire_medium_v001.png",
+      "width": 1024,
+      "height": 1536,
+      "hasAlpha": true,
+      "sha256": "2d97ce6a6a3f46f81b1a380aeb2d51f240b8e0745d21052b65a6f01b7af853bc",
+      "bytes": 1396541
+    },
+    {
+      "id": "FX_203",
+      "file": "06_道具与图标/fx_fire_high_v001.png",
+      "width": 1024,
+      "height": 1536,
+      "hasAlpha": true,
+      "sha256": "f441c06e8668eeba1a5a58106122a64464bbcb479799c621d1540017537f3949",
+      "bytes": 1716817
+    },
+    {
+      "id": "PRP_301",
+      "file": "06_道具与图标/prp_teapot_celadon_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "sha256": "45d680c492aaf49809ce37d369dbbf86e041527fcd03f6f49af30c235cb16888",
+      "bytes": 616334
+    },
+    {
+      "id": "PRP_302",
+      "file": "06_道具与图标/prp_teacup_empty_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "sha256": "76e8f7378afa135752a322d4976ec327e5f17b56686c3daca220248ccc12750d",
+      "bytes": 785196
+    },
+    {
+      "id": "PRP_303",
+      "file": "06_道具与图标/prp_tea_liquid_overlay_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "sha256": "db7063c860f6d4af9616a7915dc64c2da1af92a16dee0c92268837ebc8856d8a",
+      "bytes": 396184
+    },
+    {
+      "id": "PRP_304",
+      "file": "06_道具与图标/prp_tea_table_empty_v001.png",
+      "width": 1536,
+      "height": 1024,
+      "hasAlpha": true,
+      "sha256": "130c7260db39dadb4d5500ad70dc51d7953f16c66e44850c11e83cb2fb55df51",
+      "bytes": 1665893
+    },
+    {
+      "id": "PRP_305",
+      "file": "06_道具与图标/prp_tea_chair_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "sha256": "650f927af9539e321cc21cac5edb7f46b9f6f2b0713910df9efe0b3808cf2c2f",
+      "bytes": 769238
+    },
+    {
+      "id": "PRP_306",
+      "file": "06_道具与图标/prp_shop_counter_empty_v001.png",
+      "width": 1536,
+      "height": 1024,
+      "hasAlpha": true,
+      "sha256": "cd233097c61465a275ac44717fd34e98d6475b80652d3b197f671805727b1a40",
+      "bytes": 1779932
+    },
+    {
+      "id": "PRP_307",
+      "file": "06_道具与图标/prp_shop_cabinet_empty_v001.png",
+      "width": 1024,
+      "height": 1536,
+      "hasAlpha": true,
+      "sha256": "c8377fd54eaab22d258d8e51ceeb03d36258c205fe203502bb5187eb20eed246",
+      "bytes": 1994799
+    },
+    {
+      "id": "PRP_308",
+      "file": "06_道具与图标/prp_copper_coin_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "sha256": "fb984920db7812d02af5f151e8875b923513bdc3719b625b374f4edcb2c622ea",
+      "bytes": 760902
+    },
+    {
+      "id": "PRP_309",
+      "file": "06_道具与图标/prp_account_book_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "sha256": "e808c5e09aa2918820e22d7dcaf26b99aa82b7c244787cb22dc8323170bf8ed5",
+      "bytes": 1116102
+    },
+    {
+      "id": "ICO_301",
+      "file": "06_道具与图标/ico_shop_manage_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "sha256": "0416a26d8f278bed52e387268088a50ba528c700d35b5c4f43a5d52beacb3450",
+      "bytes": 852125
+    },
+    {
+      "id": "CHR_002",
+      "file": "05_人物/chr_protagonist_scene_idle_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "sha256": "358d6c37efda86f8c97ada474b877b21b34df0f90bee13a12336f40fafe589b2",
+      "bytes": 740748
+    },
+    {
+      "id": "CHR_003",
+      "file": "05_人物/chr_protagonist_scene_picking_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "sha256": "69f2be21d44caf13f3a2caf00b5059136c7a4ba1541be8def07ce5a1b20cc668",
+      "bytes": 836442
+    },
+    {
+      "id": "CHR_004",
+      "file": "05_人物/chr_protagonist_scene_processing_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "sha256": "21889ebb4bc3f745808ffae0a5ff019b2c0a77c49efa0e97080fb31eae44efa2",
+      "bytes": 828432
+    },
+    {
+      "id": "CHR_005",
+      "file": "05_人物/chr_protagonist_scene_serving_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "sha256": "d453f3bb22ef76fe9f4ddab1d3830bcc6bccdb1462d99029a76582662b824624",
+      "bytes": 723819
+    },
+    {
+      "id": "CHR_101",
+      "file": "05_人物/chr_companion_portrait_v001.png",
+      "width": 1024,
+      "height": 1536,
+      "hasAlpha": true,
+      "sha256": "077ca0d5c891fd08dae7a54bef20415e4e527bf3822a9439b7bdd7bc513be7a4",
+      "bytes": 1641037
+    },
+    {
+      "id": "CHR_102",
+      "file": "05_人物/chr_companion_scene_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "sha256": "67756fe7d2bdc1162c279e30148420554ea64bf99a1d22de3cb71f29059e022a",
+      "bytes": 619098
+    },
+    {
+      "id": "CHR_201",
+      "file": "05_人物/chr_customer_villager_portrait_v001.png",
+      "width": 1024,
+      "height": 1536,
+      "hasAlpha": true,
+      "sha256": "bb0a7309454474e06968a343c7e6001008ef294b7740762ec694425c1d9884af",
+      "bytes": 1713471
+    },
+    {
+      "id": "CHR_202",
+      "file": "05_人物/chr_customer_villager_scene_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "sha256": "0076e6bb5c71b453de5399f4409441387ebf571aae8e91eba08e71143ace4743",
+      "bytes": 768858
+    },
+    {
+      "id": "CHR_203",
+      "file": "05_人物/chr_customer_traveler_portrait_v001.png",
+      "width": 1024,
+      "height": 1536,
+      "hasAlpha": true,
+      "sha256": "efce803bad546d9c5f9e582255f4c08bc532485e6a41b02de08f7c954dd3cb33",
+      "bytes": 1629724
+    },
+    {
+      "id": "CHR_204",
+      "file": "05_人物/chr_customer_traveler_scene_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "sha256": "1841779795bb91269567bbfeffde6e2fbba8eaf99e3aeba4d8a1804bea54726e",
+      "bytes": 707689
+    },
+    {
+      "id": "CHR_205",
+      "file": "05_人物/chr_customer_regular_portrait_v001.png",
+      "width": 1024,
+      "height": 1536,
+      "hasAlpha": true,
+      "sha256": "124df9b2c6b86c108a62f4d335d4d5c6d40691431fad5b6e33a4c74722c50419",
+      "bytes": 1603887
+    },
+    {
+      "id": "CHR_206",
+      "file": "05_人物/chr_customer_regular_scene_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "sha256": "1b1c5f654df10659e2442437b565e4da4d8933f36376f8a23b5ce4625e6cc342",
+      "bytes": 661801
+    },
+    {
+      "id": "BG_101",
+      "file": "03_建筑与场景/bg_mountains_layer_v001.png",
+      "width": 1672,
+      "height": 941,
+      "hasAlpha": true,
+      "sha256": "c796c620148136abaa7544bd75d5b4e0d0bd9bcba8daa0477456fbe8ce1e3a7a",
+      "bytes": 574362
+    },
+    {
+      "id": "BG_102",
+      "file": "03_建筑与场景/bg_water_layer_v001.png",
+      "width": 1672,
+      "height": 941,
+      "hasAlpha": true,
+      "sha256": "84408278a60e131970a0d4e48dc16e9a02786ea86ab94f51151180ca58a7fb9f",
+      "bytes": 743211
+    },
+    {
+      "id": "BG_103",
+      "file": "03_建筑与场景/bg_cloud_layer_v001.png",
+      "width": 1672,
+      "height": 941,
+      "hasAlpha": true,
+      "sha256": "a57bc525ec4a9efc5294cdb63d609fbd0538ec9e69bc9e6c28246eb50f723c0f",
+      "bytes": 237886
+    },
+    {
+      "id": "BLD_101",
+      "file": "03_建筑与场景/bld_workshop_exterior_v001.png",
+      "width": 1536,
+      "height": 1024,
+      "hasAlpha": true,
+      "sha256": "e2a531d9e761786616dadaad81817f0a3b77eca953e827d4dd4d13a2a87ae240",
+      "bytes": 1953154
+    },
+    {
+      "id": "BLD_102",
+      "file": "03_建筑与场景/bld_teashop_exterior_v001.png",
+      "width": 1536,
+      "height": 1024,
+      "hasAlpha": true,
+      "sha256": "5b68119ce7be5fcbe2f8b67a85ea59aaf913130a8284a11992c7dda0f5218756",
+      "bytes": 2056889
+    },
+    {
+      "id": "BLD_103",
+      "file": "03_建筑与场景/bld_pavilion_v001.png",
+      "width": 1536,
+      "height": 1024,
+      "hasAlpha": true,
+      "sha256": "1a436f268d53b7a3cc1e594311a779a422c7b2d1a3f91804a46ae4f382aceac4",
+      "bytes": 1638698
+    },
+    {
+      "id": "BLD_104",
+      "file": "03_建筑与场景/bld_bridge_v001.png",
+      "width": 1536,
+      "height": 1024,
+      "hasAlpha": true,
+      "sha256": "925b3c59d1facbdbb2aff95b8f670ef92392977cbc726d5241fec4b435c6081b",
+      "bytes": 1374898
+    },
+    {
+      "id": "BLD_105",
+      "file": "03_建筑与场景/bld_workshop_shell_v001.png",
+      "width": 1672,
+      "height": 941,
+      "hasAlpha": true,
+      "sha256": "5449358e8da49fe547e929d50506b91ae3e44369fbaa5c0ca96cef864f19e533",
+      "bytes": 985522
+    },
+    {
+      "id": "BLD_106",
+      "file": "03_建筑与场景/bld_teashop_shell_v001.png",
+      "width": 1672,
+      "height": 941,
+      "hasAlpha": true,
+      "sha256": "9fb997c3c562364b891a21b58496e3aba924a8e231dcc2092de8b7ccbcb81ff5",
+      "bytes": 1005705
+    },
+    {
+      "id": "DEC_101",
+      "file": "03_建筑与场景/dec_lantern_v001.png",
+      "width": 1086,
+      "height": 1448,
+      "hasAlpha": true,
+      "sha256": "aaee1b27ddd871134e6e11ec85f181df18adca9b87eaf94b07201b1db623eb4a",
+      "bytes": 579409
+    },
+    {
+      "id": "DEC_102",
+      "file": "03_建筑与场景/dec_fence_wood_v001.png",
+      "width": 1536,
+      "height": 1024,
+      "hasAlpha": true,
+      "sha256": "e0465d4e59a5762dad6da6a255a33147a14a83c4c75d7a3a5ce5afa4462f20bf",
+      "bytes": 1193959
+    },
+    {
+      "id": "DEC_103",
+      "file": "03_建筑与场景/dec_lotus_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "sha256": "ac366b83414309854944ce4885fcb363ad8fe7031d73485fdba8ed2b89450012",
+      "bytes": 835173
+    },
+    {
+      "id": "PLT_106",
+      "file": "03_建筑与场景/plt_pine_tree_v001.png",
+      "width": 1024,
+      "height": 1536,
+      "hasAlpha": true,
+      "sha256": "12a7bf7d5e823affc4ff6b48b62a6c7b949e9f03183dd52d8fb479853126e206",
+      "bytes": 1862294
+    },
+    {
+      "id": "PLT_107",
+      "file": "03_建筑与场景/plt_red_tree_v001.png",
+      "width": 1024,
+      "height": 1536,
+      "hasAlpha": true,
+      "sha256": "f09f409fe4844f72fd927e6162ad215ab8d6ac81e15dc9641dda97cd3668d5ff",
+      "bytes": 1701149
+    },
+    {
+      "id": "BG_201",
+      "file": "03_建筑与场景/bg_title_landscape_layer_v001.png",
+      "width": 1672,
+      "height": 941,
+      "hasAlpha": true,
+      "sha256": "262275d3afa2f556a92b42f132f7edf44e95a73abe91e3f59925503fa2cd4a5e",
+      "bytes": 1111940
+    },
+    {
+      "id": "BG_202",
+      "file": "03_建筑与场景/bg_village_ground_base_v001.png",
+      "width": 1672,
+      "height": 941,
+      "hasAlpha": true,
+      "sha256": "efc4662d904c78368c59327c0df8ef25a558aaf315bb6ec90708ba50ead89db4",
+      "bytes": 964953
+    },
+    {
+      "id": "BG_203",
+      "file": "03_建筑与场景/bg_garden_terraces_base_v001.png",
+      "width": 1672,
+      "height": 941,
+      "hasAlpha": true,
+      "sha256": "fb8284a6dc2f1d10ce1e8439f0956c1cf1d7547c5c964ead3087e8901dd888fe",
+      "bytes": 1025945
+    },
+    {
+      "id": "TER_201",
+      "file": "02_地形与植物/ter_steps_stone_v001.png",
+      "width": 1536,
+      "height": 1024,
+      "hasAlpha": true,
+      "sha256": "89d9410a62b44e8a4f9624b089e1c7e0b971f6e4c5665d193b82ccd7b6dbe25b",
+      "bytes": 1715819
+    },
+    {
+      "id": "BLD_201",
+      "file": "03_建筑与场景/bld_workshop_rear_eaves_v001.png",
+      "width": 1672,
+      "height": 941,
+      "hasAlpha": true,
+      "sha256": "bce0fb2d6e8f21c13b61631ffefaa168f47471505fc66070d2ed4b2cb15d72a9",
+      "bytes": 442933
+    },
+    {
+      "id": "BLD_202",
+      "file": "03_建筑与场景/bld_teashop_rear_eaves_v001.png",
+      "width": 1671,
+      "height": 941,
+      "hasAlpha": true,
+      "sha256": "a10cdc3df8437c81ca57c6cebee20c5cb0f71db7586550f60fd33e1f655f9997",
+      "bytes": 589662
+    },
+    {
+      "id": "DEC_201",
+      "file": "03_建筑与场景/dec_fence_wood_axis_b_v001.png",
+      "width": 1536,
+      "height": 1024,
+      "hasAlpha": true,
+      "sha256": "d7cd8fea59ad9db2704fc9113dfee12554d06eeac4542d70f683ee5a35d891b2",
+      "bytes": 1312224
+    },
+    {
+      "id": "BLD_203",
+      "file": "03_建筑与场景/bld_garden_gate_v001.png",
+      "width": 1536,
+      "height": 1024,
+      "hasAlpha": true,
+      "sha256": "58e10eb091aca43efd1e184597c102ab890dd17fdf43dbf25d408ba6cfe28329",
+      "bytes": 1496032
+    },
+    {
+      "id": "UI_033",
+      "file": "04_UI组件/ui_slider_thumb_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "sha256": "b273c9522f30e897a4e141436af2a312ad25fe07ba20dbbbf2925aba59dd0368",
+      "bytes": 692810
+    },
+    {
+      "id": "UI_034",
+      "file": "04_UI组件/ui_checkbox_base_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "sha256": "0514cdca544ff0b17eecfbbfd1347911a09f18c0236a95c17a9a4014bac138ca",
+      "bytes": 366982
+    },
+    {
+      "id": "UI_035",
+      "file": "04_UI组件/ui_checkbox_check_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "sha256": "9d4b5756072ecbd225fb3eaeb29c8bad691ccd09755b15b47010e8a184ca286e",
+      "bytes": 142091
+    },
+    {
+      "id": "ICO_108",
+      "file": "04_UI组件/ico_day_calendar_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "sha256": "f1b3608667900aad6f140b1c2e399f79de634bfcc6208e866b26d240ded54fb1",
+      "bytes": 603905
+    }
+  ],
+  "pass": true
+}

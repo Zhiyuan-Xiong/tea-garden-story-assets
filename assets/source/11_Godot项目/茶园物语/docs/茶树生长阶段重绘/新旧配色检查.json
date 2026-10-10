@@ -1,0 +1,26 @@
+[
+  {
+    "id": "PLT_101",
+    "old_mean_saturation": 57.49935731297282,
+    "new_mean_saturation": 31.685169779928913,
+    "png_original_hash_matches": true
+  },
+  {
+    "id": "PLT_102",
+    "old_mean_saturation": 56.731347920183076,
+    "new_mean_saturation": 35.57445486660982,
+    "png_original_hash_matches": true
+  },
+  {
+    "id": "PLT_103",
+    "old_mean_saturation": 49.50939919134254,
+    "new_mean_saturation": 31.16113350836669,
+    "png_original_hash_matches": true
+  },
+  {
+    "id": "PLT_104",
+    "old_mean_saturation": 47.80678761338755,
+    "new_mean_saturation": 27.264851390342926,
+    "png_original_hash_matches": true
+  }
+]

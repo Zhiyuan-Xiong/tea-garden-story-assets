@@ -1,0 +1,20 @@
+[gd_scene load_steps=3 format=3]
+[ext_resource type="Texture2D" path="res://assets/12_第一轮场景调整/prp_killgreen_stove_wok_dimetric_v002.png" id="1"]
+[sub_resource type="AtlasTexture" id="Atlas"]
+atlas = ExtResource("1")
+region = Rect2(138,129,1136,957)
+filter_clip = true
+[node name="PRP_432_GroundCenter" type="Node2D"]
+transform = Transform2D(1,0.0261193,0,0.6888729,0,0)
+metadata/asset_id = "PRP_432"
+metadata/reference_room = "workshop"
+[node name="Image" type="TextureRect" parent="."]
+offset_left = -128.2253521
+offset_top = -149.915493
+offset_right = 127.7746479
+offset_bottom = 65.7464789
+mouse_filter = 2
+texture_filter = 4
+texture = SubResource("Atlas")
+expand_mode = 1
+stretch_mode = 0

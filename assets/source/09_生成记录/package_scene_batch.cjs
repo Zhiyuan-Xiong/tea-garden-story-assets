@@ -1,0 +1,64 @@
+
+const fs=require('fs'),path=require('path');
+const root="D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材";
+const read=p=>JSON.parse(fs.readFileSync(path.join(root,p),'utf8').replace(/^\uFEFF/,''));
+const write=(p,v)=>fs.writeFileSync(path.join(root,p),JSON.stringify(v,null,2)+'\n','utf8');
+const m=read('00_规范与清单/library_manifest_v008.json');
+const {added}=read('09_生成记录/batch06_preview_data_v001.json');
+const before=[...m.sampleAssets,...m.generatedAssets];
+if(before.length!==92||added.length!==14)throw Error('Unexpected baseline/count');
+if(added.some(a=>before.some(b=>b.id===a.id)))throw Error('Duplicate asset id');
+const map=new Map(added.map(a=>[a.id,a]));
+for(const p of m.plan){
+ const a=map.get(p.id);if(!a)continue;
+ p.status='已生成v001／透明检查通过';p.actualSize=a.width+'×'+a.height;p.relativePath=a.relativePath;
+ p.remarks+=(p.remarks?'；':'')+'独立透明PNG；分层与近似锚点见场景素材分层与锚点参考_v001.json，后续在Godot中摆放验证。';
+}
+m.generatedAssets.push(...added);
+const all=[...m.sampleAssets,...m.generatedAssets],pending=m.plan.filter(p=>!p.relativePath);
+const categories=[...new Set(all.map(a=>a.category||a.relativePath.split('/')[0]))];
+const physical=categories.flatMap(c=>fs.readdirSync(path.join(root,c)).filter(n=>/\.png$/i.test(n)).map(n=>c+'/'+n));
+m.updated='2026-10-08';
+m.scope='逐批生产独立透明PNG；已完成茶园、通用UI、工坊、茶铺、人物及场景装饰素材。保留历史修订版本，不搭建Godot。人物为静态姿态；空建筑壳的独立屋顶与前遮挡后续另补。';
+Object.assign(m.counts,{generatedBatch06:14,generatedTotal:all.length,activeAssetItems:all.length,plannedTotal:m.plan.length,pendingItems:pending.length,physicalAssetPNGs:physical.length});
+m.allGeneratedStatus='当前106项素材已生成，第06批新增14项场景与装饰；首版112项清单剩余6项手记插画。素材生产不等于Godot场景或动画已完成。';
+m.revisionHistory.push({date:'2026-10-08',request:'继续生成下一批素材。',batch:'06_场景与装饰',ids:added.map(a=>a.id),prompts:'09_生成记录/batch06_prompts_v001.json',qa:'09_生成记录/batch06_alpha_check_v001.json',positions:'00_规范与清单/场景素材分层与锚点参考_v001.json',preview:'08_预览/第06批_场景与装饰/00_第06批素材总览_v001.png',compositePreview:'08_预览/第06批_场景与装饰/01_场景分层组合预览_v001.png'});
+const cols=['id','category','functionArea','label','plannedFile','batch','targetSize','status','actualSize','relativePath','remarks'];
+const cell=v=>'"'+String(v??'').replaceAll('"','""')+'"';
+fs.writeFileSync(path.join(root,'00_规范与清单/素材制作清单_v009.csv'),'\uFEFF'+[cols.map(cell).join(','),...m.plan.map(p=>cols.map(k=>cell(p[k])).join(','))].join('\r\n')+'\r\n','utf8');
+write('00_规范与清单/library_manifest_v009.json',m);
+let html=fs.readFileSync(path.join(root,'素材库预览_v008.html'),'utf8');
+const mat=html.match(/const assets=(\[.*?\]);const el/s);if(!mat)throw Error('Gallery data missing');
+const old=JSON.parse(mat[1]);if(old.length!==92)throw Error('Unexpected gallery baseline');
+const assets=[...old,...added.map(a=>({id:a.id,label:a.label,width:a.width,height:a.height,path:a.relativePath,batch:a.batch,revision:''}))];
+html=html.replace(mat[0],'const assets='+JSON.stringify(assets)+';const el');
+const replace=(a,b)=>{if(!html.includes(a))throw Error('Replacement not found: '+a);html=html.replaceAll(a,b);};
+replace('v008','v009');
+replace('人物批 新增12项 · 点击任一图片查看独立 PNG','第06批 场景与装饰新增14项 · 点击任一图片查看独立 PNG');
+replace('当前素材 92 项','当前素材 106 项');
+replace('剩余 20 项','剩余 6 项');
+replace('本批 人物素材已加入 · 静态姿态与身份对照已整理','本批 场景与装饰已加入 · 建筑与山水分层预览已整理');
+replace('全部92项','全部106项');
+replace('<button type="button" data-batch="05_人物与茶铺">','<button type="button" data-batch="06_场景与装饰">第06批14项</button><button type="button" data-batch="05_人物与茶铺">');
+replace('(a.batch==="05_人物与茶铺"?','(a.batch==="06_场景与装饰"?"第06批新增":a.batch==="05_人物与茶铺"?');
+replace(' / 92 张',' / 106 张');
+replace('下一个批次：场景与装饰，共14项。','下一个批次：手记插画，共6项。');
+replace('<div class="links">','<div class="links"><a href="08_预览/第06批_场景与装饰/00_第06批素材总览_v001.png">第06批 · 14项图片总览</a><a href="08_预览/第06批_场景与装饰/01_场景分层组合预览_v001.png">场景分层组合预览</a><a href="08_预览/第06批_场景与装饰/02_浅深底透明检查_v001.png">浅深底透明对照</a><a href="09_生成记录/batch06_prompts_v001.json">第06批生成记录</a><a href="00_规范与清单/场景素材分层与锚点参考_v001.json">场景分层与锚点参考</a>');
+replace('预览棋盘格用于展示透明区域。','预览棋盘格用于展示透明区域。远山、水面、云纹与建筑分别保存；空场景壳可另层加入家具与人物。');
+fs.writeFileSync(path.join(root,'素材库预览_v009.html'),html,'utf8');
+fs.writeFileSync(path.join(root,'素材库预览.html'),html,'utf8');
+const delivery={date:'2026-10-08',builtInMode:'image_gen',batch:'06_场景与装饰',newAssets:added.length,activeAssets:all.length,uniqueIds:new Set(all.map(a=>a.id)).size,planTotal:m.plan.length,pendingTotal:pending.length,pendingByBatch:Object.fromEntries([...new Set(pending.map(p=>p.batch))].map(b=>[b,pending.filter(p=>p.batch===b).length])),physicalAssetPNGs:physical.length,retainedPreviousPNGVersions:m.counts.retainedPreviousPNGVersions,missingActiveFiles:all.filter(a=>!fs.existsSync(path.join(root,a.relativePath))).map(a=>a.relativePath),allNewAlphaPassed:added.every(a=>a.alphaCheck.pass),rejectedDraftsOutsideAssetCategories:4,godotBuilt:false};
+delivery.pass=delivery.newAssets===14&&delivery.activeAssets===106&&delivery.uniqueIds===106&&delivery.pendingTotal===6&&delivery.physicalAssetPNGs===112&&!delivery.missingActiveFiles.length&&delivery.allNewAlphaPassed;
+write('09_生成记录/batch06_delivery_check_v001.json',delivery);
+const prompts=read('09_生成记录/batch06_prompts_v001.json');
+for(let i=0;i<prompts.rejectedVariants.length;i++){
+ const r=prompts.rejectedVariants[i];
+ if(!r.retainedCopy)r.retainedCopy=path.join(root,'09_生成记录/第06批_场景与装饰/未采用样稿',r.id+'_attempt_'+String(i+1).padStart(2,'0')+'.png');
+}
+const red=prompts.assets.find(x=>x.id==='PLT_107');
+red.referencesAtGeneration=red.references;
+red.referenceCopies=[path.join(root,'09_生成记录/第06批_场景与装饰/未采用样稿/PLT_107_attempt_04.png')];
+write('09_生成记录/batch06_prompts_v001.json',prompts);
+write('09_生成记录/第06批_场景与装饰/PLT_107_prompt.json',red);
+console.log(JSON.stringify(delivery));
+if(!delivery.pass)process.exitCode=1;

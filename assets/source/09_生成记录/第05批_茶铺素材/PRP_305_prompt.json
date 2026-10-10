@@ -1,0 +1,23 @@
+{
+  "id": "PRP_305",
+  "category": "06_道具与图标",
+  "functionArea": "临水茶铺",
+  "label": "座椅",
+  "plannedFile": "prp_tea_chair_v001.png",
+  "batch": "05_茶铺素材",
+  "targetSize": "1024×1024",
+  "status": "待生成",
+  "actualSize": "",
+  "relativePath": "",
+  "remarks": "独立家具",
+  "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-a72856ae-48be-4da0-bf85-c181aa25b4e5.png",
+  "prompt": "Create one independent production-ready 2D sprite for Chinese healing management game 茶园物语. Chinese ink and pale watercolor handpainting matching the supplied approved game assets. Clean broad quiet washes, thin warm grey/brown hand-drawn edges, very few material lines; no grain/no noisy dense texture/no muddy haze/no oversaturation/no harsh black outline/no glossy photographic material. Ivory, muted sage celadon, bamboo beige, warm pale wood brown, charcoal. Use parallel axonometric elevated camera, rectangular long ground edges slope up-right26degrees, short edges down-right30degrees, verticals stayvertical. No converging camera. True alpha transparent outside object, no checkerboard drawing, ground, shadow plate or glow. Complete isolated subject centered with transparent margins. No room, landscape, characters, baked labels, Chinese writing, numbers, watermarks, UI backplate or extra unrelated objects. Figma reference is only brush/palette and the requested object's design; never recreate whole screen. Refer to approved jar/table for controlled drawing and color. Formal sprite must be separable for Godot.\nSUBJECT: ONE small traditional wooden teashop side chair with straight sturdy legs, simple rectangular seat, upright modest backrest with only two vertical slim slats and one gently rounded horizontal top rail. No arms. Pale warm brown wood matching counter. Chair faces towards front-left of camera, elevated parallel axonometric view, seat axes26degrees up-right30degrees down-right, vertical legs/backremainvertical. No cushion, cloth, occupant, table or decoration. Entire single chair visible on1024x1024transparentcanvas. Clear readable outline.",
+  "mode": "built-in image_gen",
+  "references": [
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\01_Figma参考\\figma_teashop_20261008.png",
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\06_道具与图标\\prp_shop_counter_empty_v001.png",
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\02_地形与植物\\ter_path_stone_straight_v001.png"
+  ],
+  "savedPath": "06_道具与图标/prp_tea_chair_v001.png",
+  "destination": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\06_道具与图标\\prp_tea_chair_v001.png"
+}

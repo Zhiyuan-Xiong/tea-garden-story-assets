@@ -1,0 +1,20 @@
+{
+  "id": "UI_004",
+  "category": "04_UI组件",
+  "functionArea": "通用UI",
+  "label": "卡片选择描边",
+  "plannedFile": "ui_item_selection_v001.png",
+  "batch": "03_UI组件",
+  "targetSize": "768×1024",
+  "status": "待生成",
+  "actualSize": "",
+  "relativePath": "",
+  "remarks": "内心透明，叠加层",
+  "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-54c26255-8552-41f6-8c49-07f61df6cbd1.png",
+  "prompt": "Use case: precise-object-edit. Image1 is our blank item card. Produce ONLY its selected outline overlay. Keep the exact portrait1024x1536canvas and position of its border. Completely REMOVE the ivory interior fill: the ENTIRE middle is true alpha0 transparent. Keep only a narrow subdued sage-green selected rim and small solid leaf-free diamond notches in the four corners. This is a hollow frame overlay, not another paper card. Background both outside and INSIDE fully transparent, no glow or shadow, no paper, no letters, no objects. Thin clean Chinese painted line aesthetic, no noise.",
+  "mode": "built-in image_gen",
+  "refs": [
+    "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-4d2f76a8-7f09-4036-af18-4eed56ebef43.png"
+  ],
+  "savedPath": "04_UI组件/ui_item_selection_v001.png"
+}

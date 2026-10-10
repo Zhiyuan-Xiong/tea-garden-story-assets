@@ -1,0 +1,92 @@
+{
+  "date": "2026-10-09",
+  "functional_checks_passed": 84,
+  "furniture_and_thought_checks_passed": 116,
+  "total_checks_passed": 200,
+  "failed": [],
+  "native_text_checks": 1235,
+  "native_frame_checks": 529,
+  "native_text_issues": [],
+  "native_frame_issues": [],
+  "missing_chinese_glyphs": {},
+  "runtime_errors_by_log": {
+    "round2_final_layout_functional.log": [],
+    "round2_furniture_thought_gpu.log": [],
+    "round2_final_capture.log": []
+  },
+  "gpu_capture_count": 38,
+  "gpu_captures": [
+    "res://docs/第二轮调整/实际画面/garden.png",
+    "res://docs/第二轮调整/实际画面/garden_character_thought.png",
+    "res://docs/第二轮调整/实际画面/guide_drying.png",
+    "res://docs/第二轮调整/实际画面/guide_fixation.png",
+    "res://docs/第二轮调整/实际画面/guide_rolling.png",
+    "res://docs/第二轮调整/实际画面/guide_sorting.png",
+    "res://docs/第二轮调整/实际画面/guide_spread.png",
+    "res://docs/第二轮调整/实际画面/home.png",
+    "res://docs/第二轮调整/实际画面/loading.png",
+    "res://docs/第二轮调整/实际画面/panel_basket.png",
+    "res://docs/第二轮调整/实际画面/panel_confirm.png",
+    "res://docs/第二轮调整/实际画面/panel_fertilizer.png",
+    "res://docs/第二轮调整/实际画面/panel_info.png",
+    "res://docs/第二轮调整/实际画面/panel_inventory.png",
+    "res://docs/第二轮调整/实际画面/panel_journal.png",
+    "res://docs/第二轮调整/实际画面/panel_manual.png",
+    "res://docs/第二轮调整/实际画面/panel_order.png",
+    "res://docs/第二轮调整/实际画面/panel_plant.png",
+    "res://docs/第二轮调整/实际画面/panel_recipe.png",
+    "res://docs/第二轮调整/实际画面/panel_saves.png",
+    "res://docs/第二轮调整/实际画面/panel_seeds.png",
+    "res://docs/第二轮调整/实际画面/panel_settings.png",
+    "res://docs/第二轮调整/实际画面/panel_shop.png",
+    "res://docs/第二轮调整/实际画面/panel_tools.png",
+    "res://docs/第二轮调整/实际画面/panel_welcome.png",
+    "res://docs/第二轮调整/实际画面/processing_0.png",
+    "res://docs/第二轮调整/实际画面/processing_1.png",
+    "res://docs/第二轮调整/实际画面/processing_2.png",
+    "res://docs/第二轮调整/实际画面/processing_3.png",
+    "res://docs/第二轮调整/实际画面/processing_4.png",
+    "res://docs/第二轮调整/实际画面/teashop.png",
+    "res://docs/第二轮调整/实际画面/teashop_character_thought.png",
+    "res://docs/第二轮调整/实际画面/teashop_floor_edit.png",
+    "res://docs/第二轮调整/实际画面/tooltip.png",
+    "res://docs/第二轮调整/实际画面/village.png",
+    "res://docs/第二轮调整/实际画面/workshop.png",
+    "res://docs/第二轮调整/实际画面/workshop_character_thought.png",
+    "res://docs/第二轮调整/实际画面/workshop_floor_edit.png"
+  ],
+  "floor_furniture_groups": 20,
+  "all_default_ground_contact_polygons_on_floor": true,
+  "all_default_ground_footprints_clear": true,
+  "preview_paths": {
+    "javascript_syntax": "passed",
+    "asset_paths_checked": 199,
+    "page_links_checked": 25,
+    "missing_paths": []
+  },
+  "preview_browser_render": [
+    {
+      "title": "茶园物语 · 素材库v012",
+      "count": "71 / 199 项",
+      "images": 71,
+      "broken": [],
+      "errors": []
+    },
+    {
+      "title": "茶园物语 · 游戏内调整预览",
+      "images": 8,
+      "broken": [],
+      "errors": []
+    }
+  ],
+  "features": [
+    "按景深放大茶园、工坊与茶铺的六位场景人物，保留脚底落地点",
+    "原生文本内心气泡：间歇出现，人物点击触发，按角色与游戏状态切换",
+    "气泡避让人物与界面，弹窗或家具布置时暂停",
+    "20组地面家具支持透明像素选中、拖动、地面网格吸附、越界与落地重叠限制",
+    "松手保存布局，重进空间恢复，支持恢复默认摆放",
+    "制茶弹窗关闭时清理状态监听，重复关闭不触发循环刷新"
+  ],
+  "invideo_status": "按用户要求暂停；本轮未再次调用 InVideo",
+  "furniture_scope": "按23个透明家具分组登记；组合内桌椅与叶盘未再拆为逐张单件"
+}

@@ -1,0 +1,233 @@
+{
+  "project": "茶园物语",
+  "date": "2026-10-08",
+  "batch": "05_茶铺素材",
+  "mode": "built-in image_gen",
+  "total": 10,
+  "assets": [
+    {
+      "id": "ICO_301",
+      "category": "06_道具与图标",
+      "functionArea": "临水茶铺",
+      "label": "茶铺管理图标",
+      "plannedFile": "ico_shop_manage_v001.png",
+      "batch": "05_茶铺素材",
+      "targetSize": "512×512",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "",
+      "remarks": "独立图标",
+      "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-93d2c20a-3cf8-42d7-8265-e85474e563cf.png",
+      "prompt": "Create one independent production-ready 2D sprite for Chinese healing management game 茶园物语. Chinese ink and pale watercolor handpainting matching the supplied approved game assets. Clean broad quiet washes, thin warm grey/brown hand-drawn edges, very few material lines; no grain/no noisy dense texture/no muddy haze/no oversaturation/no harsh black outline/no glossy photographic material. Ivory, muted sage celadon, bamboo beige, warm pale wood brown, charcoal. Use parallel axonometric elevated camera, rectangular long ground edges slope up-right26degrees, short edges down-right30degrees, verticals stayvertical. No converging camera. True alpha transparent outside object, no checkerboard drawing, ground, shadow plate or glow. Complete isolated subject centered with transparent margins. No room, landscape, characters, baked labels, Chinese writing, numbers, watermarks, UI backplate or extra unrelated objects. Figma reference is only brush/palette and the requested object's design; never recreate whole screen. Refer to approved jar/table for controlled drawing and color. Formal sprite must be separable for Godot.\nSUBJECT: ONE simplified traditional wooden ABACUS as teashop management entry icon. Front-facing flat rectangle, muted bamboo-brown frame with FIVE vertical thin rods and simple rounded dark brown beads, one horizontal divider, coarse simplified bead pattern readable at64px. Pale warm brown/ivory broad handpainted washes same palette as basket icon, very sparse texture. Single abacus symbol only; no coins, cups, person, desk, circular UI backplate, text, labels, numbers or decoration. Requested512squarecanvas with generous alpha margin, not a photoreal calculator.",
+      "mode": "built-in image_gen",
+      "references": [
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\06_道具与图标\\ico_basket_v001.png",
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\01_Figma参考\\figma_teashop_20261008.png"
+      ],
+      "savedPath": "06_道具与图标/ico_shop_manage_v001.png",
+      "destination": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\06_道具与图标\\ico_shop_manage_v001.png"
+    },
+    {
+      "id": "PRP_301",
+      "category": "06_道具与图标",
+      "functionArea": "临水茶铺",
+      "label": "茶壶",
+      "plannedFile": "prp_teapot_celadon_v001.png",
+      "batch": "05_茶铺素材",
+      "targetSize": "1024×1024",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "",
+      "remarks": "一个独立器皿",
+      "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-a6f9109b-970b-4c54-9e49-5584fcec785a.png",
+      "prompt": "Create one independent production-ready 2D sprite for Chinese healing management game 茶园物语. Chinese ink and pale watercolor handpainting matching the supplied approved game assets. Clean broad quiet washes, thin warm grey/brown hand-drawn edges, very few material lines; no grain/no noisy dense texture/no muddy haze/no oversaturation/no harsh black outline/no glossy photographic material. Ivory, muted sage celadon, bamboo beige, warm pale wood brown, charcoal. Use parallel axonometric elevated camera, rectangular long ground edges slope up-right26degrees, short edges down-right30degrees, verticals stayvertical. No converging camera. True alpha transparent outside object, no checkerboard drawing, ground, shadow plate or glow. Complete isolated subject centered with transparent margins. No room, landscape, characters, baked labels, Chinese writing, numbers, watermarks, UI backplate or extra unrelated objects. Figma reference is only brush/palette and the requested object's design; never recreate whole screen. Refer to approved jar/table for controlled drawing and color. Formal sprite must be separable for Godot.\nSUBJECT: ONE small closed celadon tea pot: rounded squat body, modest domed fitted lid with little knob, graceful short spout pointing LEFT, simple rounded loop handle RIGHT. Muted sage-grey ceramic exactly like approved tea jar, ivory subtle brush highlight with no shiny high contrast. Simple undecorated teapot, no loose leaves, no pouring water, no cup, no tray, no cloth or flower. Same elevated view as the jar, top of lid visible as oval. Requested1024x1024canvas.",
+      "mode": "built-in image_gen",
+      "references": [
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\01_Figma参考\\figma_teashop_20261008.png",
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\06_道具与图标\\prp_tea_jar_v001.png"
+      ],
+      "savedPath": "06_道具与图标/prp_teapot_celadon_v001.png",
+      "destination": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\06_道具与图标\\prp_teapot_celadon_v001.png"
+    },
+    {
+      "id": "PRP_302",
+      "category": "06_道具与图标",
+      "functionArea": "临水茶铺",
+      "label": "空茶杯",
+      "plannedFile": "prp_teacup_empty_v001.png",
+      "batch": "05_茶铺素材",
+      "targetSize": "1024×1024",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "",
+      "remarks": "茶汤层另出",
+      "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-554d0c5f-6fe8-448d-9a1c-761790c58a35.png",
+      "prompt": "Create one independent production-ready 2D sprite for Chinese healing management game 茶园物语. Chinese ink and pale watercolor handpainting matching the supplied approved game assets. Clean broad quiet washes, thin warm grey/brown hand-drawn edges, very few material lines; no grain/no noisy dense texture/no muddy haze/no oversaturation/no harsh black outline/no glossy photographic material. Ivory, muted sage celadon, bamboo beige, warm pale wood brown, charcoal. Use parallel axonometric elevated camera, rectangular long ground edges slope up-right26degrees, short edges down-right30degrees, verticals stayvertical. No converging camera. True alpha transparent outside object, no checkerboard drawing, ground, shadow plate or glow. Complete isolated subject centered with transparent margins. No room, landscape, characters, baked labels, Chinese writing, numbers, watermarks, UI backplate or extra unrelated objects. Figma reference is only brush/palette and the requested object's design; never recreate whole screen. Refer to approved jar/table for controlled drawing and color. Formal sprite must be separable for Godot.\nSUBJECT: ONE completely EMPTY small Chinese handleless teacup/tea bowl, flared thin oval rim, round gently tapered celadon body with small ring foot, same sage-grey ceramic palette as approved jar. Elevated camera showing deep EMPTY ivory ceramic interior; clearly visible bowl depth and empty center, NO tea liquid, tea leaves, steam, saucer or spoon. Minimal material washes and clean brush edge. Cup alone on1024x1024transparentcanvas, width around700pixels, centered.",
+      "mode": "built-in image_gen",
+      "references": [
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\01_Figma参考\\figma_teashop_20261008.png",
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\06_道具与图标\\prp_tea_jar_v001.png"
+      ],
+      "savedPath": "06_道具与图标/prp_teacup_empty_v001.png",
+      "destination": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\06_道具与图标\\prp_teacup_empty_v001.png"
+    },
+    {
+      "id": "PRP_303",
+      "category": "06_道具与图标",
+      "functionArea": "临水茶铺",
+      "label": "茶汤叠加层",
+      "plannedFile": "prp_tea_liquid_overlay_v001.png",
+      "batch": "05_茶铺素材",
+      "targetSize": "1024×1024",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "",
+      "remarks": "匹配杯口位置，透明外缘",
+      "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-c42683b7-a375-42a2-af05-ae14772e62f1.png",
+      "prompt": "Create one independent production-ready 2D sprite for Chinese healing management game 茶园物语. Chinese ink and pale watercolor handpainting matching the supplied approved game assets. Clean broad quiet washes, thin warm grey/brown hand-drawn edges, very few material lines; no grain/no noisy dense texture/no muddy haze/no oversaturation/no harsh black outline/no glossy photographic material. Ivory, muted sage celadon, bamboo beige, warm pale wood brown, charcoal. Use parallel axonometric elevated camera, rectangular long ground edges slope up-right26degrees, short edges down-right30degrees, verticals stayvertical. No converging camera. True alpha transparent outside object, no checkerboard drawing, ground, shadow plate or glow. Complete isolated subject centered with transparent margins. No room, landscape, characters, baked labels, Chinese writing, numbers, watermarks, UI backplate or extra unrelated objects. Figma reference is only brush/palette and the requested object's design; never recreate whole screen. Refer to approved jar/table for controlled drawing and color. Formal sprite must be separable for Godot.\nSUBJECT: Generate ONLY a removable tea LIQUID SURFACE overlay for supplied empty cup. Cup is GEOMETRY guide only: output ZERO cup, rim, ceramic body, foot, saucer, steam or background. Output one clean horizontal elliptical tea surface in pale transparent golden-green straw amber, softly watercolor-painted but clear, a single broad ivory curved reflection. This is basic green tea, light low-saturation yellow/green liquor, not dark orange or brown. No leaf floating, no bubbles, particles or noise. Keep square1254canvas; center liquid oval around(625,555), about665wide280high, with fully alpha-transparent outer space. Ellipse perspective must match cup mouth. Just liquid, no oval ceramic border or outline stroke.",
+      "mode": "built-in image_gen",
+      "references": [
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\06_道具与图标\\prp_teacup_empty_v001.png"
+      ],
+      "savedPath": "06_道具与图标/prp_tea_liquid_overlay_v001.png",
+      "destination": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\06_道具与图标\\prp_tea_liquid_overlay_v001.png"
+    },
+    {
+      "id": "PRP_304",
+      "category": "06_道具与图标",
+      "functionArea": "临水茶铺",
+      "label": "空茶桌",
+      "plannedFile": "prp_tea_table_empty_v001.png",
+      "batch": "05_茶铺素材",
+      "targetSize": "1536×1024",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "",
+      "remarks": "无壶杯顾客",
+      "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-b4b15d67-609f-4ddf-8dd9-0eae8ac7c6c5.png",
+      "prompt": "Create one independent production-ready 2D sprite for Chinese healing management game 茶园物语. Chinese ink and pale watercolor handpainting matching the supplied approved game assets. Clean broad quiet washes, thin warm grey/brown hand-drawn edges, very few material lines; no grain/no noisy dense texture/no muddy haze/no oversaturation/no harsh black outline/no glossy photographic material. Ivory, muted sage celadon, bamboo beige, warm pale wood brown, charcoal. Use parallel axonometric elevated camera, rectangular long ground edges slope up-right26degrees, short edges down-right30degrees, verticals stayvertical. No converging camera. True alpha transparent outside object, no checkerboard drawing, ground, shadow plate or glow. Complete isolated subject centered with transparent margins. No room, landscape, characters, baked labels, Chinese writing, numbers, watermarks, UI backplate or extra unrelated objects. Figma reference is only brush/palette and the requested object's design; never recreate whole screen. Refer to approved jar/table for controlled drawing and color. Formal sprite must be separable for Godot.\nSUBJECT: ONE EMPTY square wooden tea table for two guests, flat thick top made of three broad planks, four sturdy straight legs, simple apron and modest lower braces. Same pale warm brown as counter. Square footprint viewed parallel axonometric, first edge up-right26degrees and other down-right30degrees, no converging perspective. NO chair attached, NO pots, cups, tea trays, food, placemat, person or decorations. Requested1536x1024canvas, entire table with feet visible and safe margins. Minimal grain, broad clean quiet washes.",
+      "mode": "built-in image_gen",
+      "references": [
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\01_Figma参考\\figma_teashop_20261008.png",
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\06_道具与图标\\prp_shop_counter_empty_v001.png",
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\02_地形与植物\\ter_path_stone_straight_v001.png"
+      ],
+      "savedPath": "06_道具与图标/prp_tea_table_empty_v001.png",
+      "destination": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\06_道具与图标\\prp_tea_table_empty_v001.png"
+    },
+    {
+      "id": "PRP_305",
+      "category": "06_道具与图标",
+      "functionArea": "临水茶铺",
+      "label": "座椅",
+      "plannedFile": "prp_tea_chair_v001.png",
+      "batch": "05_茶铺素材",
+      "targetSize": "1024×1024",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "",
+      "remarks": "独立家具",
+      "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-a72856ae-48be-4da0-bf85-c181aa25b4e5.png",
+      "prompt": "Create one independent production-ready 2D sprite for Chinese healing management game 茶园物语. Chinese ink and pale watercolor handpainting matching the supplied approved game assets. Clean broad quiet washes, thin warm grey/brown hand-drawn edges, very few material lines; no grain/no noisy dense texture/no muddy haze/no oversaturation/no harsh black outline/no glossy photographic material. Ivory, muted sage celadon, bamboo beige, warm pale wood brown, charcoal. Use parallel axonometric elevated camera, rectangular long ground edges slope up-right26degrees, short edges down-right30degrees, verticals stayvertical. No converging camera. True alpha transparent outside object, no checkerboard drawing, ground, shadow plate or glow. Complete isolated subject centered with transparent margins. No room, landscape, characters, baked labels, Chinese writing, numbers, watermarks, UI backplate or extra unrelated objects. Figma reference is only brush/palette and the requested object's design; never recreate whole screen. Refer to approved jar/table for controlled drawing and color. Formal sprite must be separable for Godot.\nSUBJECT: ONE small traditional wooden teashop side chair with straight sturdy legs, simple rectangular seat, upright modest backrest with only two vertical slim slats and one gently rounded horizontal top rail. No arms. Pale warm brown wood matching counter. Chair faces towards front-left of camera, elevated parallel axonometric view, seat axes26degrees up-right30degrees down-right, vertical legs/backremainvertical. No cushion, cloth, occupant, table or decoration. Entire single chair visible on1024x1024transparentcanvas. Clear readable outline.",
+      "mode": "built-in image_gen",
+      "references": [
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\01_Figma参考\\figma_teashop_20261008.png",
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\06_道具与图标\\prp_shop_counter_empty_v001.png",
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\02_地形与植物\\ter_path_stone_straight_v001.png"
+      ],
+      "savedPath": "06_道具与图标/prp_tea_chair_v001.png",
+      "destination": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\06_道具与图标\\prp_tea_chair_v001.png"
+    },
+    {
+      "id": "PRP_306",
+      "category": "06_道具与图标",
+      "functionArea": "临水茶铺",
+      "label": "柜台",
+      "plannedFile": "prp_shop_counter_empty_v001.png",
+      "batch": "05_茶铺素材",
+      "targetSize": "1536×1024",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "",
+      "remarks": "无器具角色",
+      "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-d6440ea0-0323-4b44-8966-43ccfc915c03.png",
+      "prompt": "Create one independent production-ready 2D sprite for Chinese healing management game 茶园物语. Chinese ink and pale watercolor handpainting matching the supplied approved game assets. Clean broad quiet washes, thin warm grey/brown hand-drawn edges, very few material lines; no grain/no noisy dense texture/no muddy haze/no oversaturation/no harsh black outline/no glossy photographic material. Ivory, muted sage celadon, bamboo beige, warm pale wood brown, charcoal. Use parallel axonometric elevated camera, rectangular long ground edges slope up-right26degrees, short edges down-right30degrees, verticals stayvertical. No converging camera. True alpha transparent outside object, no checkerboard drawing, ground, shadow plate or glow. Complete isolated subject centered with transparent margins. No room, landscape, characters, baked labels, Chinese writing, numbers, watermarks, UI backplate or extra unrelated objects. Figma reference is only brush/palette and the requested object's design; never recreate whole screen. Refer to approved jar/table for controlled drawing and color. Formal sprite must be separable for Godot.\nSUBJECT: ONE EMPTY traditional wood teashop counter, waist-high long rectangular block, thick broad flat wooden top, front paneled in only three broad simple rectangular wood panels, closed plain side, simple plinth feet. Pale muted warm-brown wood matching worktable, very few broad plank seams, no distressed grain, no carving. Entire long top EMPTY, no pots, cups, cash register, abacus, cloth, books, person or room. Elevated parallel axonometry especially align to road long edge26degrees up-right and short30degrees down-right, keep opposite edges parallel. Requested1536x1024canvas with safe margins.",
+      "mode": "built-in image_gen",
+      "references": [
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\01_Figma参考\\figma_teashop_20261008.png",
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\06_道具与图标\\prp_rolling_table_v001.png",
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\02_地形与植物\\ter_path_stone_straight_v001.png"
+      ],
+      "savedPath": "06_道具与图标/prp_shop_counter_empty_v001.png",
+      "destination": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\06_道具与图标\\prp_shop_counter_empty_v001.png"
+    },
+    {
+      "id": "PRP_307",
+      "category": "06_道具与图标",
+      "functionArea": "临水茶铺",
+      "label": "空茶柜",
+      "plannedFile": "prp_shop_cabinet_empty_v001.png",
+      "batch": "05_茶铺素材",
+      "targetSize": "1024×1536",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "",
+      "remarks": "罐子独立",
+      "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-c116fd9a-ae14-438a-a75b-dff3c6fd283f.png",
+      "prompt": "Create one independent production-ready 2D sprite for Chinese healing management game 茶园物语. Chinese ink and pale watercolor handpainting matching the supplied approved game assets. Clean broad quiet washes, thin warm grey/brown hand-drawn edges, very few material lines; no grain/no noisy dense texture/no muddy haze/no oversaturation/no harsh black outline/no glossy photographic material. Ivory, muted sage celadon, bamboo beige, warm pale wood brown, charcoal. Use parallel axonometric elevated camera, rectangular long ground edges slope up-right26degrees, short edges down-right30degrees, verticals stayvertical. No converging camera. True alpha transparent outside object, no checkerboard drawing, ground, shadow plate or glow. Complete isolated subject centered with transparent margins. No room, landscape, characters, baked labels, Chinese writing, numbers, watermarks, UI backplate or extra unrelated objects. Figma reference is only brush/palette and the requested object's design; never recreate whole screen. Refer to approved jar/table for controlled drawing and color. Formal sprite must be separable for Godot.\nSUBJECT: ONE EMPTY freestanding traditional wooden tea storage cabinet, upright tall rectangular shelf/cabinet, three open shelf tiers above two small closed base drawers. Upper unit has only one central vertical divider creating six EMPTY roomy compartments. Same restrained pale woodbrown as counter. Open shelves entirely empty: no jars, bowls, bags, books, labels or characters. No carved ornament, no wall or room. Elevated parallel axonometric axes26deg up-right30deg down-right, verticalpostsvertical, no narrowing towards distance. Requested portrait1024x1536canvas with transparent margins around entire cabinet and feet.",
+      "mode": "built-in image_gen",
+      "references": [
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\01_Figma参考\\figma_teashop_20261008.png",
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\06_道具与图标\\prp_shop_counter_empty_v001.png",
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\02_地形与植物\\ter_path_stone_straight_v001.png"
+      ],
+      "savedPath": "06_道具与图标/prp_shop_cabinet_empty_v001.png",
+      "destination": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\06_道具与图标\\prp_shop_cabinet_empty_v001.png"
+    },
+    {
+      "id": "PRP_308",
+      "category": "06_道具与图标",
+      "functionArea": "临水茶铺",
+      "label": "铜钱",
+      "plannedFile": "prp_copper_coin_v001.png",
+      "batch": "05_茶铺素材",
+      "targetSize": "1024×1024",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "",
+      "remarks": "首版唯一经营货币",
+      "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-ee58cf65-b7ba-4c4c-9c3f-ee34554ce37c.png",
+      "prompt": "Create one independent production-ready 2D sprite for Chinese healing management game 茶园物语. Chinese ink and pale watercolor handpainting matching the supplied approved game assets. Clean broad quiet washes, thin warm grey/brown hand-drawn edges, very few material lines; no grain/no noisy dense texture/no muddy haze/no oversaturation/no harsh black outline/no glossy photographic material. Ivory, muted sage celadon, bamboo beige, warm pale wood brown, charcoal. Use parallel axonometric elevated camera, rectangular long ground edges slope up-right26degrees, short edges down-right30degrees, verticals stayvertical. No converging camera. True alpha transparent outside object, no checkerboard drawing, ground, shadow plate or glow. Complete isolated subject centered with transparent margins. No room, landscape, characters, baked labels, Chinese writing, numbers, watermarks, UI backplate or extra unrelated objects. Figma reference is only brush/palette and the requested object's design; never recreate whole screen. Refer to approved jar/table for controlled drawing and color. Formal sprite must be separable for Godot.\nSUBJECT: ONE old-style copper coin, circular disc with true open square hole in its center, a thin slightly raised outer rim and very subtle worn matte copper-gold shading. No inscriptions or words, no denomination numerals or emblem. View almost front-facing for UI readability with only modest thickness at lower rim, not strong perspective. Muted dull copper #b5a06b, no bright yellow metallic shine, no heavy rust/no grain. Single coin only, no stacks or pouch. Square1024canvas with clear centered hole transparent alpha, no opaque black square.",
+      "mode": "built-in image_gen",
+      "references": [
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\01_Figma参考\\figma_teashop_20261008.png",
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\06_道具与图标\\ico_basket_v001.png"
+      ],
+      "savedPath": "06_道具与图标/prp_copper_coin_v001.png",
+      "destination": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\06_道具与图标\\prp_copper_coin_v001.png"
+    },
+    {
+      "id": "PRP_309",
+      "category": "06_道具与图标",
+      "functionArea": "临水茶铺",
+      "label": "账本",
+      "plannedFile": "prp_account_book_v001.png",
+      "batch": "05_茶铺素材",
+      "targetSize": "1024×1024",
+      "status": "待生成",
+      "actualSize": "",
+      "relativePath": "",
+      "remarks": "不烘焙正文数字",
+      "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-9f20c926-bb1e-48a3-848c-ef2d9242fce2.png",
+      "prompt": "Create one independent production-ready 2D sprite for Chinese healing management game 茶园物语. Chinese ink and pale watercolor handpainting matching the supplied approved game assets. Clean broad quiet washes, thin warm grey/brown hand-drawn edges, very few material lines; no grain/no noisy dense texture/no muddy haze/no oversaturation/no harsh black outline/no glossy photographic material. Ivory, muted sage celadon, bamboo beige, warm pale wood brown, charcoal. Use parallel axonometric elevated camera, rectangular long ground edges slope up-right26degrees, short edges down-right30degrees, verticals stayvertical. No converging camera. True alpha transparent outside object, no checkerboard drawing, ground, shadow plate or glow. Complete isolated subject centered with transparent margins. No room, landscape, characters, baked labels, Chinese writing, numbers, watermarks, UI backplate or extra unrelated objects. Figma reference is only brush/palette and the requested object's design; never recreate whole screen. Refer to approved jar/table for controlled drawing and color. Formal sprite must be separable for Godot.\nSUBJECT: ONE CLOSED Chinese traditional thread-bound accounting ledger. Muted terracotta-brown cloth-paper cover, ivory page edge, simple cotton binding along LEFT spine with4 sparse stitches. Narrow small blank ivory title strip on top cover, entirely NO words, numerals or marks. Slight elevated parallel axonometric view, rectangular book plane axes26degrees up-right30degrees down-right. Match simple clean brushwork of approved manual; no calligraphy, loose pages, pen, abacus, coins, ribbon, tassel or other props. Single ledger only on1024canvas.",
+      "mode": "built-in image_gen",
+      "references": [
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\01_Figma参考\\figma_teashop_20261008.png",
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\06_道具与图标\\prp_picking_manual_closed_v001.png"
+      ],
+      "savedPath": "06_道具与图标/prp_account_book_v001.png",
+      "destination": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\06_道具与图标\\prp_account_book_v001.png"
+    }
+  ],
+  "qa": "09_生成记录/batch05_alpha_check_v001.json"
+}

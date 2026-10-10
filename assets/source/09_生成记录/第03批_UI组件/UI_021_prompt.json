@@ -1,0 +1,20 @@
+{
+  "id": "UI_021",
+  "category": "04_UI组件",
+  "functionArea": "通用UI",
+  "label": "页签选中底板",
+  "plannedFile": "ui_tab_active_v001.png",
+  "batch": "03_UI组件",
+  "targetSize": "768×512",
+  "status": "待生成",
+  "actualSize": "",
+  "relativePath": "",
+  "remarks": "同尺寸",
+  "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-19cbe72a-5d45-4278-9f4a-1457ef950a8d.png",
+  "prompt": "Use case: precise-object-edit. Image1 is our blank inactive tab. Produce its ACTIVE state. Preserve Image1 canvas, exact contour, horizontal position, lower straight edge, clipped top corners and thin double border. Only change ivory center to muted bamboo-brown fill, border inner line to ivory. Center still COMPLETELY EMPTY. Clearly distinguish active from inactive, no leaf or logo, no text, no characters or extra marks. Clean Chinese ink-light-watercolor flat 2D UI, no grain, cast shadow or glow. True alpha outside.",
+  "mode": "built-in image_gen",
+  "refs": [
+    "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-17043f52-c1db-4741-af95-fa9e24ebdff1.png"
+  ],
+  "savedPath": "04_UI组件/ui_tab_active_v001.png"
+}

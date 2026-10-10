@@ -1,0 +1,21 @@
+{
+  "id": "PRP_202",
+  "category": "06_道具与图标",
+  "functionArea": "制茶工坊",
+  "label": "摊放鲜叶层",
+  "plannedFile": "prp_leaves_spread_v001.png",
+  "batch": "04_工坊素材",
+  "targetSize": "1024×1024",
+  "status": "待生成",
+  "actualSize": "",
+  "relativePath": "",
+  "remarks": "无容器，与竹匾坐标匹配",
+  "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-60c35e24-b296-4d0d-aaba-1a6e3bac538a.png",
+  "prompt": "Create one isolated production-ready 2D game sprite for 茶园物语. Chinese ink and pale watercolor hand-painted style, restrained thin warm-grey brush outlines, clean broad washes, very sparse material marks. Match the approved reference palette: ivory, muted bamboo beige, pale brown, sage/tea green, charcoal grey. No noise, no paper grain, no dense texture, no muddy wash, no photographic surface, no oversaturation. Parallel axonometric camera, elevated view; long horizontal ground axis slopes up-right about 26 degrees, perpendicular short axis down-right about 30 degrees; verticals remain vertical, no vanishing points. Soft material shading only, no ground/shadow plate. TRUE transparent alpha background; no background color, no checkerboard drawn in image. One complete centered object with generous transparent margin. No scene, people, text, labels, UI, decorations or unrelated objects. Figma image is only palette/brush and workshop object inspiration; never reproduce its whole room, baked UI or people. Basket reference is palette and controlled brushwork only. Requested canvas is 1024x1024 unless stated otherwise.\nSUBJECT: Generate ONLY a removable thin layer of fresh green tea leaves for the empty tray shown in the input. The input tray is a GEOMETRY GUIDE: output must contain ZERO bamboo tray, ZERO rim, ZERO base, ZERO tabletop and ZERO shadow. Keep input canvas1254x1254 and empty margin. Place around 35 recognizable fresh tea shoots scattered sparsely across a flat horizontal oval bounded approximately x=240..1030,y=470..770, centered around(635,620), covering the input tray's INSIDE region only. Transparent gaps between leaves. Shoots have broad lance-shaped leaves and small buds, soft muted tea green #7f996d with a few pale fresh tips; healthy flat leaf silhouettes, restrained simple veins, no speckled foliage texture. Same elevated orthographic camera. This is ONE intended ingredient-overlay asset composed of leaves only, not a sheet of individual icons. No full tea plant, flowers or brown dry leaves.",
+  "mode": "built-in image_gen",
+  "references": [
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\06_道具与图标\\prp_bamboo_tray_empty_v001.png"
+  ],
+  "savedPath": "06_道具与图标/prp_leaves_spread_v001.png",
+  "destination": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\06_道具与图标\\prp_leaves_spread_v001.png"
+}

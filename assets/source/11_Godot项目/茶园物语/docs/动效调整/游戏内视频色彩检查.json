@@ -1,0 +1,60 @@
+{
+  "passed": true,
+  "native_Godot_decoder_verified": true,
+  "scenes": [
+    {
+      "room": "home",
+      "decoder_mean_rgb_error": 1.176,
+      "decoder_rgb_bias": [
+        0.8920000195503235,
+        1.2339999675750732,
+        1.4010000228881836
+      ]
+    },
+    {
+      "room": "loading",
+      "decoder_mean_rgb_error": 0.918,
+      "decoder_rgb_bias": [
+        0.5009999871253967,
+        1.0570000410079956,
+        1.1970000267028809
+      ]
+    },
+    {
+      "room": "village",
+      "decoder_mean_rgb_error": 1.026,
+      "decoder_rgb_bias": [
+        0.8489999771118164,
+        1.0379999876022339,
+        1.1890000104904175
+      ]
+    },
+    {
+      "room": "garden",
+      "decoder_mean_rgb_error": 1.097,
+      "decoder_rgb_bias": [
+        0.9020000100135803,
+        1.0980000495910645,
+        1.2890000343322754
+      ]
+    },
+    {
+      "room": "workshop",
+      "decoder_mean_rgb_error": 1.146,
+      "decoder_rgb_bias": [
+        0.9409999847412109,
+        1.1230000257492065,
+        1.3559999465942383
+      ]
+    },
+    {
+      "room": "teashop",
+      "decoder_mean_rgb_error": 1.053,
+      "decoder_rgb_bias": [
+        0.843999981880188,
+        1.0099999904632568,
+        1.305999994277954
+      ]
+    }
+  ]
+}

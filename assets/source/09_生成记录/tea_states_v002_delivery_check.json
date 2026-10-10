@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-08",
+  "newTransparentPNGs": 4,
+  "alphaPassed": 4,
+  "currentAssetItems": 23,
+  "previousVersionsPreserved": true,
+  "revised": [
+    {
+      "id": "PLT_101",
+      "path": "02_地形与植物/plt_tea_bush_mature_v002.png"
+    },
+    {
+      "id": "PLT_102",
+      "path": "02_地形与植物/plt_tea_bush_seedling_v002.png"
+    },
+    {
+      "id": "PLT_103",
+      "path": "02_地形与植物/plt_tea_bush_growing_v002.png"
+    },
+    {
+      "id": "PLT_104",
+      "path": "02_地形与植物/plt_tea_bush_harvested_v002.png"
+    }
+  ],
+  "previews": [
+    {
+      "file": "01_茶树状态新旧对照_v002.png",
+      "width": 1920,
+      "height": 1519,
+      "cards": 8,
+      "images": 8,
+      "overflow": []
+    },
+    {
+      "file": "02_茶树四状态展示_v002.png",
+      "width": 1920,
+      "height": 1287,
+      "cards": 4,
+      "images": 8,
+      "overflow": []
+    }
+  ]
+}

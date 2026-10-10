@@ -1,0 +1,30 @@
+{
+  "indexed_assets_checked": 208,
+  "preview_controls": "six game views, front/back layering, light/dark alpha and narrow layout passed",
+  "pages": [
+    {
+      "filename": "茶村自由布置预览.html",
+      "page_errors": [],
+      "broken_images": [],
+      "missing_links": []
+    },
+    {
+      "filename": "素材库预览.html",
+      "page_errors": [],
+      "broken_images": [],
+      "missing_links": []
+    },
+    {
+      "filename": "游戏内调整预览.html",
+      "page_errors": [],
+      "broken_images": [],
+      "missing_links": []
+    },
+    {
+      "filename": "茶村配景调整预览.html",
+      "page_errors": [],
+      "broken_images": [],
+      "missing_links": []
+    }
+  ]
+}

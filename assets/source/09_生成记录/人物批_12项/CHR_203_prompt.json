@@ -1,0 +1,22 @@
+{
+  "id": "CHR_203",
+  "category": "05_人物",
+  "functionArea": "人物",
+  "label": "旅人立绘",
+  "plannedFile": "chr_customer_traveler_portrait_v001.png",
+  "batch": "05_人物与茶铺",
+  "targetSize": "1024×1536",
+  "status": "待生成",
+  "actualSize": "",
+  "relativePath": "",
+  "remarks": "首版客人，服装简洁",
+  "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-c79af777-0117-43a8-9ba5-5651121aae9e.png",
+  "prompt": "Use case: stylized-concept. One isolated hand-painted 2D character asset for 茶园物语, a gentle traditional Chinese tea-village game. Chinese ink outlines and pale watercolor wash matching approved protagonist art. Thin warm-grey/brown outlines, simple clean broad washes, minimal clothing folds, no grain/no noisy mottling/no dense texture/no muddy haze/no oversaturation/no hard black outline/no glossy render. Palette muted sage/tea greens, ivory, pale brown, oatmeal, charcoal-grey, restrained clay rose. Skin soft natural peach, no strong blush or shiny highlight. Complete SINGLE character, full body including hair and both feet, generous true transparent alpha margin on all sides. Transparent gaps between limbs, no background color, no drawn checkerboard, no ground/shadow plate or halo. No environment, furniture, tea plants, handheld cups, trays, tools, weapons, writing, numbers, labels or watermarks. Fixed clothing accessories such as pendant and cloth bag belong to the character. Calm friendly expressions. Keep hand anatomy simple and natural. Character family stylized about3.5heads tall for full-body dialogue portraits, about3heads for scene sprites; never photorealistic. Scene sprites use a consistent elevated parallel-axonometric camera and three-quarter front-left facing, head top slightly visible, feet on the same implied horizontal plane, no converging perspective. Portraits use near frontal three-quarter pose. No animation sheet or multiple copies.\nSUBJECT: Images1 and2 are approved STYLE/BRUSH/PROPORTION references only, not faces to copy. Generate ONE NEW TRAVELER CUSTOMER full-body dialogue portrait: a curious friendly young adult man, slender taller silhouette, dark-brown hair partly visible under a plain broad muted straw-bamboo hat, not a conical festival hat. One clearly readable hat with just6 broad radial marks, no dense weave. Quiet warm brown eyes, relaxed modest smile. Muted grey-BLUE short travel robe over ivory crossed collar, pale warm-grey narrow loose trousers, plain brown cloth ankle shoes, one fixed TAN cloth crossbody travel satchel hanging LEFT hip. Hands EMPTY, one rests on strap, other relaxed. Same pale ink watercolor character family, clothing folds very sparse. No walking stick, umbrella, bedroll, weapons, cup or ground. Whole body1024x1536portraitcanvas.",
+  "mode": "built-in image_gen",
+  "references": [
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\05_人物\\chr_protagonist_portrait_neutral_v001.png",
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\05_人物\\chr_companion_portrait_v001.png"
+  ],
+  "savedPath": "05_人物/chr_customer_traveler_portrait_v001.png",
+  "destination": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\05_人物\\chr_customer_traveler_portrait_v001.png"
+}

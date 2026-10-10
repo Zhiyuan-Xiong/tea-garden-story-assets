@@ -1,0 +1,70 @@
+{
+  "source_title": "River Flute",
+  "artist": "Kevin MacLeod (incompetech.com)",
+  "source_url": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1900005",
+  "download_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/River%20Flute.mp3",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "source_sha256": "a634cacde2883fb83b161e15b3489c3d7b43180e49aa3428345d28b0b5a20feb",
+  "output_sha256": "5055b48afaa2d962854f8a6f4b758d13b576ac86c6c95901f42421edaa5774fe",
+  "changes": "Trimmed opening/closing fades; 8-second tail/head crossfade; gentle gain/soft peak control; Vorbis encoding.",
+  "source_decoded_seconds": 1228.0685714285714,
+  "loop_seconds": 1150.0685714285714,
+  "sample_rate": 44100,
+  "channels": 2,
+  "output_bytes": 14602962,
+  "peak_dbfs": -2.23,
+  "rms_dbfs": -23.63,
+  "loop_boundary_jump": [
+    0.0013279877603054047,
+    0.001066570170223713
+  ],
+  "adjacent_sample_difference_99_9_percentile": 0.04964065179228783,
+  "finite_samples": true,
+  "source_window_levels": [
+    {
+      "start": 0,
+      "rms_db": -46.62
+    },
+    {
+      "start": 8,
+      "rms_db": -27.58
+    },
+    {
+      "start": 20,
+      "rms_db": -29.58
+    },
+    {
+      "start": 40,
+      "rms_db": -21.97
+    },
+    {
+      "start": 60,
+      "rms_db": -23.12
+    },
+    {
+      "start": 120,
+      "rms_db": -31.56
+    },
+    {
+      "start": 300,
+      "rms_db": -36.18
+    },
+    {
+      "start": 600,
+      "rms_db": -26.82
+    },
+    {
+      "start": 900,
+      "rms_db": -27.47
+    },
+    {
+      "start": 1200,
+      "rms_db": -34.74
+    },
+    {
+      "start": 1218,
+      "rms_db": -53.48
+    }
+  ]
+}

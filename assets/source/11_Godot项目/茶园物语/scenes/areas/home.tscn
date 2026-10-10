@@ -1,0 +1,17 @@
+[gd_scene load_steps=3 format=3]
+[ext_resource type="Script" path="res://scripts/areas/area_view.gd" id="1"]
+[ext_resource type="Texture2D" path="res://assets/13_Figma原图拆分/bg_home_figma_fade_v002.png" id="2"]
+[node name="home" type="Control"]
+layout_mode = 0
+offset_right = 1920.0
+offset_bottom = 1080.0
+script = ExtResource("1")
+area = "home"
+[node name="Background" type="TextureRect" parent="."]
+layout_mode = 0
+offset_right = 1920.0
+offset_bottom = 1080.0
+mouse_filter = 2
+texture = ExtResource("2")
+expand_mode = 1
+stretch_mode = 0

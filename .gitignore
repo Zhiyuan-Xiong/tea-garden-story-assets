@@ -1,0 +1,32 @@
+# Godot/import cache (keep project.godot, .uid and import settings)
+**/.godot/
+**/.git/
+**/node_modules/
+**/__pycache__/
+**/.pytest_cache/
+**/.cache/
+*.pyc
+*.tmp
+*.temp
+*.bak
+*.lnk
+Thumbs.db
+desktop.ini
+.DS_Store
+.env
+.env.*
+!.env.example
+!.env.sample
+*.pem
+*.key
+*.p12
+*.pfx
+**/saves/
+**/player_saves/
+**/user_data/
+# Historical QA logs in assets/source are intentional evidence.
+/runtime-logs/
+
+# Never restore the excluded source fonts.
+Title_TangXianBinSong.otf*
+User_Body.ttf*

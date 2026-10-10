@@ -1,0 +1,158 @@
+{
+  "tool": "built-in image_gen",
+  "revision": "v003",
+  "original_rgba_preserved": true,
+  "assets": [
+    {
+      "id": "PLT_101",
+      "label": "成熟茶树",
+      "source": "C:/Users/24586/.codex/generated_images/01a11cae-e24d-7041-a410-2288c7c54b91/exec-a287fb06-db91-467a-af20-929ac7946457.png",
+      "prompt": "Use case: stylized-concept. Asset type: one independent transparent mature tea shrub sprite, the master design for a four-stage tea-growth set in a Chinese pale-watercolor garden game. Input image 1 is the CURRENT painting and subdued palette reference (rounded-leaf ornamental shrub): follow its broad clean watercolor washes and soft grey-sage values, NOT its leaf species. Input image 2 is the CURRENT scene style reference only. Input image 3 is the OLD tea plant for botanical identification only; replace its excessive leaf detail, dark woody texture and bright lime buds. Primary request: completely redraw ONE mature harvest-ready Camellia sinensis tea bush in the current refined, calm Chinese ink and pale mineral-watercolor style. It must unmistakably be a tea shrub: restrained elongated oval leaves with gently pointed tips, a small number of fresh paired tea shoots. Build the coherent asymmetrical low domed canopy from about 9–12 broad connected leaf masses; use roughly 25–40 large simplified visible tea leaves, mainly silhouette leaves and a few overlapping front leaves, NOT hundreds of individually outlined leaves. Very short understated warm-grey-brown forked woody base, mostly hidden by the low foliage. Rounded broad silhouette about 1.7–1.9 times wider than full plant height. Muted dusty grey-sage, celadon and chalk olive leaves; fresh shoots are quiet pale sage-cream, never yellow or neon lime. Thin warm grey ink contours, broad calm 2–3-tone paint shapes, gentle edge clarity, minimal vein marks only on a few major front leaves, almost no grain. Clean and readable at 110–150 pixels wide in-game, lighter contrast than architecture, softly integrated with the backdrop without blurring. Entire complete unclipped plant, with generous transparent margins. Bottom rooted base centered, natural slight elevated game view. Genuine RGBA transparent exterior and gaps, no shadow matte. No flowers, berries, soil, ground slab, pot, rocks, props, other plants, labels, text, watermark, collage, sprite sheet, over-detailed texture, speckles, noise, muddy colors, saturated green, black outlines, glossy 3D or photorealism. Only one plant.",
+      "project_file": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\11_Godot项目\\茶园物语\\assets\\17_茶树生长阶段\\PLT_101_成熟茶树_v003.png",
+      "library_file": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\17_茶树生长阶段\\PLT_101_成熟茶树_v003.png",
+      "previous_asset": {
+        "path": "res://assets/02_地形与植物/plt_tea_bush_mature_v002.png",
+        "width": 1254,
+        "height": 1254,
+        "bbox": [
+          28,
+          255,
+          1241,
+          1061
+        ],
+        "label": "成熟茶树",
+        "transparent": true
+      },
+      "sha256": "c44f7d0e2c2e7b4a6ffac6ff882a7f10c75805c365ddaac811b7a86b780d6204",
+      "bbox": [
+        54,
+        175,
+        1491,
+        874
+      ],
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "reference_paths": [
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\11_Godot项目\\茶园物语\\assets\\16_茶村自由布置植物\\DEC_461_圆叶矮灌木_v001.png",
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\11_Godot项目\\茶园物语\\docs\\茶树生长阶段重绘\\茶村旧茶树.png",
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\11_Godot项目\\茶园物语\\assets\\02_地形与植物\\plt_tea_bush_mature_v002.png"
+      ]
+    },
+    {
+      "id": "PLT_102",
+      "label": "茶树幼苗",
+      "subject": "ONE young Camellia sinensis seedling derived from the master shrub, with a very short warm-grey slender main stem and 5–7 simplified elongated oval tea leaves, slightly asymmetrical paired arrangement, one small quiet pale-sage terminal bud. No thick forked mature trunk. A sparse but coherent small plant; each leaf readable when this plant is rendered only 35–45 pixels tall. Keep its physical size visibly juvenile, leaves of the same shape and palette as the mature reference. No sprawling exposed roots, no floating leaves.",
+      "prompt": "Use case: stylized-concept. Asset type: one independent transparent tea-growth-stage sprite for the same Chinese tea-garden game. Image 1 is the NEW master mature tea shrub: preserve its tea species, simplified leaf language, dusty grey-sage/celadon/chalk-olive palette, soft warm-grey contours, and almost texture-free broad watercolor paint shapes. Image 2 is the established broad-leaf painting reference; image 3 is the game scene style reference ONLY. Keep the family visually consistent with image 1. Leaves should be elongated oval with gently pointed tips, quiet overlapping masses, never round ornamental oak lobes. Muted, clean, slightly pale colors, very little pigment grain, no black outlines, only a few subtle major vein marks. Keep the woody base short and understated, centered at the bottom. Complete unclipped silhouette with generous transparent margins; genuine RGBA transparent exterior and natural gaps. Slight elevated game view consistent with the master. Only ONE standalone plant, no sprite sheet. No soil slab, patch of ground, pot, rocks, extra objects, flowers, berries, water, buildings, people, text, labels, watermark, glow, shadow matte, noise, speckles, excessive texture, muddy paint, saturated lime-green, blur, glossy 3D or photorealism. Stage subject: ONE young Camellia sinensis seedling derived from the master shrub, with a very short warm-grey slender main stem and 5–7 simplified elongated oval tea leaves, slightly asymmetrical paired arrangement, one small quiet pale-sage terminal bud. No thick forked mature trunk. A sparse but coherent small plant; each leaf readable when this plant is rendered only 35–45 pixels tall. Keep its physical size visibly juvenile, leaves of the same shape and palette as the mature reference. No sprawling exposed roots, no floating leaves.",
+      "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-6da312a9-2229-466d-87c5-4975ed8d9815.png",
+      "project_file": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\11_Godot项目\\茶园物语\\assets\\17_茶树生长阶段\\PLT_102_茶树幼苗_v003.png",
+      "library_file": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\17_茶树生长阶段\\PLT_102_茶树幼苗_v003.png",
+      "previous_asset": {
+        "path": "res://assets/02_地形与植物/plt_tea_bush_seedling_v002.png",
+        "width": 1254,
+        "height": 1254,
+        "bbox": [
+          366,
+          604,
+          954,
+          1130
+        ],
+        "label": "茶树幼苗",
+        "transparent": true
+      },
+      "sha256": "fa772a4bf45c883fd2700e7ed9743c52be58f8a143399d98178c2541281ebb56",
+      "bbox": [
+        397,
+        201,
+        1211,
+        875
+      ],
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "reference_paths": [
+        "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-a287fb06-db91-467a-af20-929ac7946457.png",
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\11_Godot项目\\茶园物语\\assets\\16_茶村自由布置植物\\DEC_461_圆叶矮灌木_v001.png",
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\11_Godot项目\\茶园物语\\docs\\茶树生长阶段重绘\\茶村旧茶树.png"
+      ]
+    },
+    {
+      "id": "PLT_103",
+      "label": "茶树生长中",
+      "subject": "ONE intermediate growing Camellia sinensis tea bush, between the seedling and mature master. A compact modest rounded canopy about 70–75 percent as developed as the master, fewer leaf masses, around 15–25 large simplified oval leaves, short small forked woody base, two understated new pale-sage shoots. Match the master base orientation and leaf design. The canopy must remain less wide and less dense than the mature shrub, with no extensive twig detail.",
+      "prompt": "Use case: stylized-concept. Asset type: one independent transparent tea-growth-stage sprite for the same Chinese tea-garden game. Image 1 is the NEW master mature tea shrub: preserve its tea species, simplified leaf language, dusty grey-sage/celadon/chalk-olive palette, soft warm-grey contours, and almost texture-free broad watercolor paint shapes. Image 2 is the established broad-leaf painting reference; image 3 is the game scene style reference ONLY. Keep the family visually consistent with image 1. Leaves should be elongated oval with gently pointed tips, quiet overlapping masses, never round ornamental oak lobes. Muted, clean, slightly pale colors, very little pigment grain, no black outlines, only a few subtle major vein marks. Keep the woody base short and understated, centered at the bottom. Complete unclipped silhouette with generous transparent margins; genuine RGBA transparent exterior and natural gaps. Slight elevated game view consistent with the master. Only ONE standalone plant, no sprite sheet. No soil slab, patch of ground, pot, rocks, extra objects, flowers, berries, water, buildings, people, text, labels, watermark, glow, shadow matte, noise, speckles, excessive texture, muddy paint, saturated lime-green, blur, glossy 3D or photorealism. Stage subject: ONE intermediate growing Camellia sinensis tea bush, between the seedling and mature master. A compact modest rounded canopy about 70–75 percent as developed as the master, fewer leaf masses, around 15–25 large simplified oval leaves, short small forked woody base, two understated new pale-sage shoots. Match the master base orientation and leaf design. The canopy must remain less wide and less dense than the mature shrub, with no extensive twig detail.",
+      "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-ff6b66ca-0c64-438b-b87f-498816b34880.png",
+      "project_file": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\11_Godot项目\\茶园物语\\assets\\17_茶树生长阶段\\PLT_103_茶树生长中_v003.png",
+      "library_file": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\17_茶树生长阶段\\PLT_103_茶树生长中_v003.png",
+      "previous_asset": {
+        "path": "res://assets/02_地形与植物/plt_tea_bush_growing_v002.png",
+        "width": 1349,
+        "height": 1166,
+        "bbox": [
+          107,
+          260,
+          1270,
+          1032
+        ],
+        "label": "茶树生长中",
+        "transparent": true
+      },
+      "sha256": "86de6e5b5f547c77217c902e2462006beb9a8c4613877f9d3f909ef50163e9b3",
+      "bbox": [
+        227,
+        177,
+        1314,
+        854
+      ],
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "reference_paths": [
+        "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-a287fb06-db91-467a-af20-929ac7946457.png",
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\11_Godot项目\\茶园物语\\assets\\16_茶村自由布置植物\\DEC_461_圆叶矮灌木_v001.png",
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\11_Godot项目\\茶园物语\\docs\\茶树生长阶段重绘\\茶村旧茶树.png"
+      ]
+    },
+    {
+      "id": "PLT_104",
+      "label": "茶树采摘后",
+      "subject": "ONE freshly harvested version of EXACTLY the same mature tea shrub as image 1. Preserve the mature shrub's short woody base, broad canopy width, orientation and major leafy mass placement. Remove the upright pale new tea shoots from the crown and sides, replacing those pick points with a few small clean gaps and lower calm rounded tea-leaf tips. Keep the healthy grey-sage mature leaves, full established bush rather than bare sticks. Canopy is subtly 10–15 percent lower and slightly tidier after picking, with NO bright new harvest-ready tips. Do not shrink it back into a seedling or change its underlying bush identity.",
+      "prompt": "Use case: stylized-concept. Asset type: one independent transparent tea-growth-stage sprite for the same Chinese tea-garden game. Image 1 is the NEW master mature tea shrub: preserve its tea species, simplified leaf language, dusty grey-sage/celadon/chalk-olive palette, soft warm-grey contours, and almost texture-free broad watercolor paint shapes. Image 2 is the established broad-leaf painting reference; image 3 is the game scene style reference ONLY. Keep the family visually consistent with image 1. Leaves should be elongated oval with gently pointed tips, quiet overlapping masses, never round ornamental oak lobes. Muted, clean, slightly pale colors, very little pigment grain, no black outlines, only a few subtle major vein marks. Keep the woody base short and understated, centered at the bottom. Complete unclipped silhouette with generous transparent margins; genuine RGBA transparent exterior and natural gaps. Slight elevated game view consistent with the master. Only ONE standalone plant, no sprite sheet. No soil slab, patch of ground, pot, rocks, extra objects, flowers, berries, water, buildings, people, text, labels, watermark, glow, shadow matte, noise, speckles, excessive texture, muddy paint, saturated lime-green, blur, glossy 3D or photorealism. Stage subject: ONE freshly harvested version of EXACTLY the same mature tea shrub as image 1. Preserve the mature shrub's short woody base, broad canopy width, orientation and major leafy mass placement. Remove the upright pale new tea shoots from the crown and sides, replacing those pick points with a few small clean gaps and lower calm rounded tea-leaf tips. Keep the healthy grey-sage mature leaves, full established bush rather than bare sticks. Canopy is subtly 10–15 percent lower and slightly tidier after picking, with NO bright new harvest-ready tips. Do not shrink it back into a seedling or change its underlying bush identity.",
+      "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-f04144c3-c442-4152-9e87-1322d2aee37f.png",
+      "project_file": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\11_Godot项目\\茶园物语\\assets\\17_茶树生长阶段\\PLT_104_茶树采摘后_v003.png",
+      "library_file": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\17_茶树生长阶段\\PLT_104_茶树采摘后_v003.png",
+      "previous_asset": {
+        "path": "res://assets/02_地形与植物/plt_tea_bush_harvested_v002.png",
+        "width": 1254,
+        "height": 1254,
+        "bbox": [
+          19,
+          471,
+          1235,
+          1062
+        ],
+        "label": "茶树采摘后",
+        "transparent": true
+      },
+      "sha256": "b8c9f1d34fa6837749e3a7ae2feb5852687f6b8fa865fc281d5087591330b274",
+      "bbox": [
+        47,
+        220,
+        1495,
+        879
+      ],
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "reference_paths": [
+        "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-a287fb06-db91-467a-af20-929ac7946457.png",
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\11_Godot项目\\茶园物语\\assets\\16_茶村自由布置植物\\DEC_461_圆叶矮灌木_v001.png",
+        "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\11_Godot项目\\茶园物语\\docs\\茶树生长阶段重绘\\茶村旧茶树.png"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "source_file": "1cPCIaLhLXtaOPqhBSUQ67",
+  "source_frame": "2:2",
+  "raw_asset_sha256_unchanged": true,
+  "original_assets_installed": 4,
+  "ellipse_and_pennant_rectangles_exact": true,
+  "pixel_mean_absolute_error_0_to_255": 1.1676,
+  "pixels_with_rgb_error_under_8_percent": 97.71,
+  "raster_note": "Figma 4× export is downsampled for QA only. Figma/browser and Godot texture resampling produce minor pixel differences. Exported frame is never used as a game asset.",
+  "model": {
+    "checks": 232,
+    "failures": [],
+    "passed": true
+  },
+  "native_ui": {
+    "checks": 346,
+    "failures": [],
+    "passed": true
+  },
+  "checks_total": 578,
+  "engine_mouse_picking_all_14_centres": true,
+  "adult_canopy_preserved_during_regrowth": true
+}

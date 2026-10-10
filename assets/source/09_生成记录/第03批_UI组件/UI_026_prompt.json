@@ -1,0 +1,18 @@
+{
+  "id": "UI_026",
+  "category": "04_UI组件",
+  "functionArea": "通用UI",
+  "label": "顾客等待提示气泡",
+  "plannedFile": "ui_order_bubble_v001.png",
+  "batch": "03_UI组件",
+  "targetSize": "512×512",
+  "status": "待生成",
+  "actualSize": "",
+  "relativePath": "",
+  "remarks": "茶品图标另叠",
+  "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-d0e502bd-6a78-404d-b9f4-52e428506913.png",
+  "prompt": "Use case: ui-mockup. ONE empty CUSTOMER-ORDER SPEECH BUBBLE backing for Chinese ink-light-watercolor game. Ivory softly rounded square with one short downward triangle tail at bottom center, thin muted bamboo-brown double rim. Entire inside EMPTY and quiet to later overlay a separate tea icon. Frontviewflat2D, clean broad wash, minimal texture. Square1024x1024transparentcanvas, bubble about740wide720high centered, safe margin. No cup, tea leaf, text, punctuation, dots, number, badge, ornament, glow, shadow, haze, noise or extra objects. True alpha PNG outsidebubble.",
+  "mode": "built-in image_gen",
+  "refs": [],
+  "savedPath": "04_UI组件/ui_order_bubble_v001.png"
+}

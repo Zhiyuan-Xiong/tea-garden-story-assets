@@ -1,0 +1,79 @@
+{
+  "passed": true,
+  "cadence": {
+    "observed_fps": 30,
+    "p95_interval_ms": 33.40000000000009
+  },
+  "scenes": [
+    {
+      "scene": "home",
+      "duration": 8,
+      "width": 1920,
+      "height": 1080,
+      "loop": true,
+      "quality": {
+        "total": 8,
+        "dropped": 0
+      }
+    },
+    {
+      "scene": "loading",
+      "duration": 8,
+      "width": 1920,
+      "height": 1080,
+      "loop": true,
+      "quality": {
+        "total": 8,
+        "dropped": 0
+      }
+    },
+    {
+      "scene": "village",
+      "duration": 8,
+      "width": 1920,
+      "height": 1080,
+      "loop": true,
+      "quality": {
+        "total": 8,
+        "dropped": 0
+      }
+    },
+    {
+      "scene": "garden",
+      "duration": 8,
+      "width": 1920,
+      "height": 1080,
+      "loop": true,
+      "quality": {
+        "total": 8,
+        "dropped": 0
+      }
+    },
+    {
+      "scene": "workshop",
+      "duration": 8,
+      "width": 1920,
+      "height": 1080,
+      "loop": true,
+      "quality": {
+        "total": 8,
+        "dropped": 0
+      }
+    },
+    {
+      "scene": "teashop",
+      "duration": 8,
+      "width": 1920,
+      "height": 1080,
+      "loop": true,
+      "quality": {
+        "total": 7,
+        "dropped": 0
+      }
+    }
+  ],
+  "actual_loop_boundary_passed": true,
+  "pause_and_scrub_passed": true,
+  "page_errors": [],
+  "broken_images": []
+}

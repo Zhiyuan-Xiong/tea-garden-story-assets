@@ -1,0 +1,2043 @@
+{
+  "TER_101": {
+    "path": "res://assets/02_地形与植物/ter_soil_plot_empty_v001.png",
+    "width": 1536,
+    "height": 1024,
+    "bbox": [
+      81,
+      214,
+      1455,
+      834
+    ],
+    "label": "空土地底块",
+    "transparent": true
+  },
+  "PLT_101": {
+    "path": "res://assets/02_地形与植物/plt_tea_bush_mature_v002.png",
+    "width": 1254,
+    "height": 1254,
+    "bbox": [
+      28,
+      255,
+      1241,
+      1061
+    ],
+    "label": "成熟茶树",
+    "transparent": true
+  },
+  "UI_001": {
+    "path": "res://assets/04_UI组件/ui_popup_base_v001.png",
+    "width": 1536,
+    "height": 1024,
+    "bbox": [
+      19,
+      111,
+      1516,
+      885
+    ],
+    "label": "通用弹窗底板",
+    "transparent": true
+  },
+  "CHR_001": {
+    "path": "res://assets/05_人物/chr_protagonist_portrait_neutral_v001.png",
+    "width": 1024,
+    "height": 1536,
+    "bbox": [
+      261,
+      16,
+      781,
+      1513
+    ],
+    "label": "主角对话立绘",
+    "transparent": true
+  },
+  "PRP_101": {
+    "path": "res://assets/06_道具与图标/prp_bamboo_basket_empty_v001.png",
+    "width": 1254,
+    "height": 1254,
+    "bbox": [
+      161,
+      202,
+      1092,
+      1059
+    ],
+    "label": "空竹篓",
+    "transparent": true
+  },
+  "PLT_102": {
+    "path": "res://assets/02_地形与植物/plt_tea_bush_seedling_v002.png",
+    "width": 1254,
+    "height": 1254,
+    "bbox": [
+      366,
+      604,
+      954,
+      1130
+    ],
+    "label": "茶树幼苗",
+    "transparent": true
+  },
+  "PLT_103": {
+    "path": "res://assets/02_地形与植物/plt_tea_bush_growing_v002.png",
+    "width": 1349,
+    "height": 1166,
+    "bbox": [
+      107,
+      260,
+      1270,
+      1032
+    ],
+    "label": "茶树生长中",
+    "transparent": true
+  },
+  "PLT_104": {
+    "path": "res://assets/02_地形与植物/plt_tea_bush_harvested_v002.png",
+    "width": 1254,
+    "height": 1254,
+    "bbox": [
+      19,
+      471,
+      1235,
+      1062
+    ],
+    "label": "茶树采摘后",
+    "transparent": true
+  },
+  "TER_102": {
+    "path": "res://assets/02_地形与植物/ter_path_earth_straight_v001.png",
+    "width": 1536,
+    "height": 1024,
+    "bbox": [
+      84,
+      204,
+      1452,
+      887
+    ],
+    "label": "土路直段",
+    "transparent": true
+  },
+  "TER_103": {
+    "path": "res://assets/02_地形与植物/ter_path_stone_straight_v001.png",
+    "width": 1536,
+    "height": 1024,
+    "bbox": [
+      24,
+      158,
+      1514,
+      940
+    ],
+    "label": "石路直段",
+    "transparent": true
+  },
+  "TER_104": {
+    "path": "res://assets/02_地形与植物/ter_retaining_wall_v002.png",
+    "width": 1536,
+    "height": 1024,
+    "bbox": [
+      188,
+      111,
+      1423,
+      940
+    ],
+    "label": "低矮挡土石墙",
+    "transparent": true
+  },
+  "TER_105": {
+    "path": "res://assets/02_地形与植物/ter_rock_sage_v001.png",
+    "width": 1254,
+    "height": 1254,
+    "bbox": [
+      84,
+      368,
+      1192,
+      954
+    ],
+    "label": "景观石",
+    "transparent": true
+  },
+  "PLT_105": {
+    "path": "res://assets/02_地形与植物/plt_bamboo_cluster_v001.png",
+    "width": 1024,
+    "height": 1536,
+    "bbox": [
+      60,
+      59,
+      985,
+      1434
+    ],
+    "label": "竹丛",
+    "transparent": true
+  },
+  "PRP_102": {
+    "path": "res://assets/06_道具与图标/prp_seed_bag_v001.png",
+    "width": 1254,
+    "height": 1254,
+    "bbox": [
+      219,
+      179,
+      1052,
+      1101
+    ],
+    "label": "种子布袋",
+    "transparent": true
+  },
+  "PRP_103": {
+    "path": "res://assets/06_道具与图标/prp_fresh_tea_leaves_v001.png",
+    "width": 1254,
+    "height": 1254,
+    "bbox": [
+      33,
+      150,
+      1221,
+      1103
+    ],
+    "label": "鲜叶",
+    "transparent": true
+  },
+  "PRP_104": {
+    "path": "res://assets/06_道具与图标/prp_fertilizer_bag_v001.png",
+    "width": 1254,
+    "height": 1254,
+    "bbox": [
+      119,
+      169,
+      1136,
+      1118
+    ],
+    "label": "肥料布袋",
+    "transparent": true
+  },
+  "PRP_105": {
+    "path": "res://assets/06_道具与图标/prp_picking_manual_closed_v001.png",
+    "width": 1254,
+    "height": 1254,
+    "bbox": [
+      157,
+      201,
+      1110,
+      1060
+    ],
+    "label": "采摘说明书",
+    "transparent": true
+  },
+  "PRP_106": {
+    "path": "res://assets/06_道具与图标/prp_satchel_v001.png",
+    "width": 1254,
+    "height": 1254,
+    "bbox": [
+      243,
+      72,
+      1115,
+      1184
+    ],
+    "label": "背包道具",
+    "transparent": true
+  },
+  "ICO_101": {
+    "path": "res://assets/06_道具与图标/ico_seeds_v001.png",
+    "width": 1254,
+    "height": 1254,
+    "bbox": [
+      269,
+      306,
+      1013,
+      1008
+    ],
+    "label": "种子入口图标",
+    "transparent": true
+  },
+  "ICO_102": {
+    "path": "res://assets/06_道具与图标/ico_inventory_v001.png",
+    "width": 1254,
+    "height": 1254,
+    "bbox": [
+      260,
+      163,
+      1055,
+      1141
+    ],
+    "label": "背包入口图标",
+    "transparent": true
+  },
+  "ICO_103": {
+    "path": "res://assets/06_道具与图标/ico_basket_v001.png",
+    "width": 1254,
+    "height": 1254,
+    "bbox": [
+      138,
+      255,
+      1120,
+      1067
+    ],
+    "label": "茶篓入口图标",
+    "transparent": true
+  },
+  "ICO_104": {
+    "path": "res://assets/06_道具与图标/ico_fertilizer_v001.png",
+    "width": 1254,
+    "height": 1254,
+    "bbox": [
+      129,
+      175,
+      1124,
+      1132
+    ],
+    "label": "化肥入口图标",
+    "transparent": true
+  },
+  "ICO_105": {
+    "path": "res://assets/06_道具与图标/ico_picking_manual_v001.png",
+    "width": 1254,
+    "height": 1254,
+    "bbox": [
+      233,
+      269,
+      1061,
+      1020
+    ],
+    "label": "说明书入口图标",
+    "transparent": true
+  },
+  "ICO_106": {
+    "path": "res://assets/04_UI组件/ico_journal_v001.png",
+    "width": 1254,
+    "height": 1254,
+    "bbox": [
+      49,
+      240,
+      1204,
+      1015
+    ],
+    "label": "制茶手记图标",
+    "transparent": true
+  },
+  "ICO_107": {
+    "path": "res://assets/04_UI组件/ico_settings_v001.png",
+    "width": 1254,
+    "height": 1254,
+    "bbox": [
+      160,
+      177,
+      1091,
+      1081
+    ],
+    "label": "设置图标",
+    "transparent": true
+  },
+  "UI_002": {
+    "path": "res://assets/04_UI组件/ui_title_plaque_v001.png",
+    "width": 1536,
+    "height": 1024,
+    "bbox": [
+      85,
+      365,
+      1450,
+      651
+    ],
+    "label": "标题题签底板",
+    "transparent": true
+  },
+  "UI_003": {
+    "path": "res://assets/04_UI组件/ui_item_card_v001.png",
+    "width": 1024,
+    "height": 1536,
+    "bbox": [
+      64,
+      67,
+      959,
+      1467
+    ],
+    "label": "物品卡片底板",
+    "transparent": true
+  },
+  "UI_004": {
+    "path": "res://assets/04_UI组件/ui_item_selection_v001.png",
+    "width": 1024,
+    "height": 1536,
+    "bbox": [
+      65,
+      67,
+      958,
+      1467
+    ],
+    "label": "卡片选择描边",
+    "transparent": true
+  },
+  "UI_005": {
+    "path": "res://assets/04_UI组件/ui_toolbar_base_v001.png",
+    "width": 1536,
+    "height": 1024,
+    "bbox": [
+      68,
+      391,
+      1468,
+      613
+    ],
+    "label": "工具栏底板",
+    "transparent": true
+  },
+  "UI_006": {
+    "path": "res://assets/04_UI组件/ui_resource_base_v001.png",
+    "width": 1536,
+    "height": 1024,
+    "bbox": [
+      68,
+      392,
+      1468,
+      614
+    ],
+    "label": "资源栏底板",
+    "transparent": true
+  },
+  "UI_007": {
+    "path": "res://assets/04_UI组件/ui_tooltip_base_v001.png",
+    "width": 1942,
+    "height": 809,
+    "bbox": [
+      203,
+      176,
+      1738,
+      632
+    ],
+    "label": "小提示底板",
+    "transparent": true
+  },
+  "UI_008": {
+    "path": "res://assets/04_UI组件/ui_dialogue_base_v001.png",
+    "width": 1536,
+    "height": 1024,
+    "bbox": [
+      69,
+      392,
+      1467,
+      614
+    ],
+    "label": "对话底板",
+    "transparent": true
+  },
+  "UI_009": {
+    "path": "res://assets/04_UI组件/ui_quantity_base_v001.png",
+    "width": 2172,
+    "height": 724,
+    "bbox": [
+      119,
+      219,
+      2053,
+      503
+    ],
+    "label": "数量选择底板",
+    "transparent": true
+  },
+  "UI_010": {
+    "path": "res://assets/04_UI组件/ui_button_normal_v001.png",
+    "width": 1536,
+    "height": 1024,
+    "bbox": [
+      162,
+      388,
+      1372,
+      627
+    ],
+    "label": "操作按钮默认",
+    "transparent": true
+  },
+  "UI_011": {
+    "path": "res://assets/04_UI组件/ui_button_hover_v001.png",
+    "width": 1536,
+    "height": 1024,
+    "bbox": [
+      112,
+      388,
+      1423,
+      627
+    ],
+    "label": "操作按钮悬停",
+    "transparent": true
+  },
+  "UI_012": {
+    "path": "res://assets/04_UI组件/ui_button_pressed_v001.png",
+    "width": 1536,
+    "height": 1024,
+    "bbox": [
+      163,
+      388,
+      1372,
+      628
+    ],
+    "label": "操作按钮按下",
+    "transparent": true
+  },
+  "UI_013": {
+    "path": "res://assets/04_UI组件/ui_button_disabled_v001.png",
+    "width": 1536,
+    "height": 1024,
+    "bbox": [
+      134,
+      386,
+      1401,
+      627
+    ],
+    "label": "操作按钮禁用",
+    "transparent": true
+  },
+  "UI_014": {
+    "path": "res://assets/04_UI组件/ui_icon_circle_base_v002.png",
+    "width": 1254,
+    "height": 1254,
+    "bbox": [
+      96,
+      97,
+      1156,
+      1147
+    ],
+    "label": "圆形图标底板",
+    "transparent": true
+  },
+  "UI_015": {
+    "path": "res://assets/04_UI组件/ui_close_v001.png",
+    "width": 1254,
+    "height": 1254,
+    "bbox": [
+      330,
+      345,
+      924,
+      912
+    ],
+    "label": "关闭图标",
+    "transparent": true
+  },
+  "UI_016": {
+    "path": "res://assets/04_UI组件/ui_back_v001.png",
+    "width": 1254,
+    "height": 1254,
+    "bbox": [
+      263,
+      389,
+      990,
+      890
+    ],
+    "label": "返回图标",
+    "transparent": true
+  },
+  "UI_017": {
+    "path": "res://assets/04_UI组件/ui_confirm_v001.png",
+    "width": 1254,
+    "height": 1254,
+    "bbox": [
+      321,
+      386,
+      993,
+      918
+    ],
+    "label": "确认图标",
+    "transparent": true
+  },
+  "UI_018": {
+    "path": "res://assets/04_UI组件/ui_plus_v001.png",
+    "width": 1254,
+    "height": 1254,
+    "bbox": [
+      361,
+      371,
+      893,
+      882
+    ],
+    "label": "数量增加图标",
+    "transparent": true
+  },
+  "UI_019": {
+    "path": "res://assets/04_UI组件/ui_minus_v001.png",
+    "width": 1254,
+    "height": 1254,
+    "bbox": [
+      356,
+      578,
+      897,
+      666
+    ],
+    "label": "数量减少图标",
+    "transparent": true
+  },
+  "UI_020": {
+    "path": "res://assets/04_UI组件/ui_tab_inactive_v001.png",
+    "width": 1874,
+    "height": 839,
+    "bbox": [
+      204,
+      211,
+      1670,
+      620
+    ],
+    "label": "页签默认底板",
+    "transparent": true
+  },
+  "UI_021": {
+    "path": "res://assets/04_UI组件/ui_tab_active_v001.png",
+    "width": 1875,
+    "height": 839,
+    "bbox": [
+      203,
+      207,
+      1672,
+      613
+    ],
+    "label": "页签选中底板",
+    "transparent": true
+  },
+  "UI_022": {
+    "path": "res://assets/04_UI组件/ui_progress_track_v001.png",
+    "width": 1536,
+    "height": 1024,
+    "bbox": [
+      109,
+      465,
+      1427,
+      557
+    ],
+    "label": "成长进度轨道",
+    "transparent": true
+  },
+  "UI_023": {
+    "path": "res://assets/04_UI组件/ui_progress_fill_v001.png",
+    "width": 1536,
+    "height": 1024,
+    "bbox": [
+      111,
+      468,
+      1424,
+      554
+    ],
+    "label": "成长进度填充",
+    "transparent": true
+  },
+  "UI_024": {
+    "path": "res://assets/04_UI组件/ui_state_ready_v001.png",
+    "width": 1024,
+    "height": 1536,
+    "bbox": [
+      36,
+      133,
+      987,
+      1341
+    ],
+    "label": "成熟提示标记",
+    "transparent": true
+  },
+  "UI_025": {
+    "path": "res://assets/04_UI组件/ui_state_finished_v001.png",
+    "width": 1024,
+    "height": 1536,
+    "bbox": [
+      171,
+      393,
+      853,
+      1161
+    ],
+    "label": "加工完成提示标记",
+    "transparent": true
+  },
+  "UI_026": {
+    "path": "res://assets/04_UI组件/ui_order_bubble_v001.png",
+    "width": 1254,
+    "height": 1254,
+    "bbox": [
+      76,
+      132,
+      1177,
+      1121
+    ],
+    "label": "顾客等待提示气泡",
+    "transparent": true
+  },
+  "UI_027": {
+    "path": "res://assets/04_UI组件/ui_quality_normal_v001.png",
+    "width": 1254,
+    "height": 1254,
+    "bbox": [
+      147,
+      145,
+      1107,
+      1102
+    ],
+    "label": "普通品质印记",
+    "transparent": true
+  },
+  "UI_028": {
+    "path": "res://assets/04_UI组件/ui_quality_good_v001.png",
+    "width": 1254,
+    "height": 1254,
+    "bbox": [
+      35,
+      48,
+      1215,
+      1207
+    ],
+    "label": "良好品质印记",
+    "transparent": true
+  },
+  "UI_029": {
+    "path": "res://assets/04_UI组件/ui_quality_best_v001.png",
+    "width": 1254,
+    "height": 1254,
+    "bbox": [
+      89,
+      96,
+      1164,
+      1140
+    ],
+    "label": "上佳品质印记",
+    "transparent": true
+  },
+  "UI_030": {
+    "path": "res://assets/04_UI组件/ui_popup_plain_v001.png",
+    "width": 1536,
+    "height": 1024,
+    "bbox": [
+      74,
+      99,
+      1461,
+      920
+    ],
+    "label": "可缩放无装饰面板",
+    "transparent": true
+  },
+  "UI_031": {
+    "path": "res://assets/04_UI组件/ui_ornament_bamboo_v001.png",
+    "width": 1254,
+    "height": 1254,
+    "bbox": [
+      41,
+      17,
+      1237,
+      1196
+    ],
+    "label": "竹叶角饰",
+    "transparent": true
+  },
+  "UI_032": {
+    "path": "res://assets/04_UI组件/ui_ornament_mountain_v001.png",
+    "width": 1536,
+    "height": 1024,
+    "bbox": [
+      33,
+      211,
+      1508,
+      726
+    ],
+    "label": "水墨山角饰",
+    "transparent": true
+  },
+  "PRP_201": {
+    "path": "res://assets/06_道具与图标/prp_bamboo_tray_empty_v001.png",
+    "width": 1254,
+    "height": 1254,
+    "bbox": [
+      120,
+      363,
+      1143,
+      903
+    ],
+    "label": "空竹匾",
+    "transparent": true
+  },
+  "PRP_202": {
+    "path": "res://assets/06_道具与图标/prp_leaves_spread_v001.png",
+    "width": 1254,
+    "height": 1254,
+    "bbox": [
+      116,
+      371,
+      1157,
+      886
+    ],
+    "label": "摊放鲜叶层",
+    "transparent": true
+  },
+  "PRP_203": {
+    "path": "res://assets/06_道具与图标/prp_iron_wok_empty_v001.png",
+    "width": 1254,
+    "height": 1254,
+    "bbox": [
+      57,
+      355,
+      1203,
+      983
+    ],
+    "label": "空炒锅",
+    "transparent": true
+  },
+  "PRP_204": {
+    "path": "res://assets/06_道具与图标/prp_stove_base_v001.png",
+    "width": 1254,
+    "height": 1254,
+    "bbox": [
+      88,
+      266,
+      1183,
+      1126
+    ],
+    "label": "炉台",
+    "transparent": true
+  },
+  "PRP_205": {
+    "path": "res://assets/06_道具与图标/prp_rolling_table_v001.png",
+    "width": 1536,
+    "height": 1024,
+    "bbox": [
+      74,
+      82,
+      1489,
+      975
+    ],
+    "label": "揉捻工作台",
+    "transparent": true
+  },
+  "PRP_206": {
+    "path": "res://assets/06_道具与图标/prp_leaves_rolled_v001.png",
+    "width": 1254,
+    "height": 1254,
+    "bbox": [
+      100,
+      415,
+      1156,
+      873
+    ],
+    "label": "揉捻叶层",
+    "transparent": true
+  },
+  "PRP_207": {
+    "path": "res://assets/06_道具与图标/prp_drying_rack_empty_v001.png",
+    "width": 1024,
+    "height": 1536,
+    "bbox": [
+      120,
+      120,
+      916,
+      1431
+    ],
+    "label": "空晾架",
+    "transparent": true
+  },
+  "PRP_208": {
+    "path": "res://assets/06_道具与图标/prp_leaves_dried_v001.png",
+    "width": 1254,
+    "height": 1254,
+    "bbox": [
+      71,
+      444,
+      1187,
+      858
+    ],
+    "label": "干茶叶层",
+    "transparent": true
+  },
+  "PRP_209": {
+    "path": "res://assets/06_道具与图标/prp_tea_jar_v001.png",
+    "width": 1254,
+    "height": 1254,
+    "bbox": [
+      307,
+      294,
+      945,
+      964
+    ],
+    "label": "成品茶罐",
+    "transparent": true
+  },
+  "PRP_210": {
+    "path": "res://assets/06_道具与图标/prp_workshop_stool_v001.png",
+    "width": 1254,
+    "height": 1254,
+    "bbox": [
+      209,
+      223,
+      1071,
+      1073
+    ],
+    "label": "木凳",
+    "transparent": true
+  },
+  "ICO_201": {
+    "path": "res://assets/06_道具与图标/ico_tools_v001.png",
+    "width": 1254,
+    "height": 1254,
+    "bbox": [
+      240,
+      274,
+      1058,
+      1019
+    ],
+    "label": "器具入口图标",
+    "transparent": true
+  },
+  "FX_201": {
+    "path": "res://assets/06_道具与图标/fx_fire_low_v001.png",
+    "width": 1024,
+    "height": 1536,
+    "bbox": [
+      309,
+      876,
+      755,
+      1302
+    ],
+    "label": "炉火低档",
+    "transparent": true
+  },
+  "FX_202": {
+    "path": "res://assets/06_道具与图标/fx_fire_medium_v001.png",
+    "width": 1024,
+    "height": 1536,
+    "bbox": [
+      122,
+      325,
+      938,
+      1335
+    ],
+    "label": "炉火中档",
+    "transparent": true
+  },
+  "FX_203": {
+    "path": "res://assets/06_道具与图标/fx_fire_high_v001.png",
+    "width": 1024,
+    "height": 1536,
+    "bbox": [
+      107,
+      42,
+      954,
+      1461
+    ],
+    "label": "炉火高档",
+    "transparent": true
+  },
+  "PRP_301": {
+    "path": "res://assets/06_道具与图标/prp_teapot_celadon_v001.png",
+    "width": 1254,
+    "height": 1254,
+    "bbox": [
+      198,
+      363,
+      1077,
+      930
+    ],
+    "label": "茶壶",
+    "transparent": true
+  },
+  "PRP_302": {
+    "path": "res://assets/06_道具与图标/prp_teacup_empty_v001.png",
+    "width": 1254,
+    "height": 1254,
+    "bbox": [
+      219,
+      293,
+      1036,
+      1011
+    ],
+    "label": "空茶杯",
+    "transparent": true
+  },
+  "PRP_303": {
+    "path": "res://assets/06_道具与图标/prp_tea_liquid_overlay_v001.png",
+    "width": 1254,
+    "height": 1254,
+    "bbox": [
+      208,
+      484,
+      1047,
+      850
+    ],
+    "label": "茶汤叠加层",
+    "transparent": true
+  },
+  "PRP_304": {
+    "path": "res://assets/06_道具与图标/prp_tea_table_empty_v001.png",
+    "width": 1536,
+    "height": 1024,
+    "bbox": [
+      228,
+      63,
+      1310,
+      969
+    ],
+    "label": "空茶桌",
+    "transparent": true
+  },
+  "PRP_305": {
+    "path": "res://assets/06_道具与图标/prp_tea_chair_v001.png",
+    "width": 1254,
+    "height": 1254,
+    "bbox": [
+      309,
+      117,
+      966,
+      1160
+    ],
+    "label": "座椅",
+    "transparent": true
+  },
+  "PRP_306": {
+    "path": "res://assets/06_道具与图标/prp_shop_counter_empty_v001.png",
+    "width": 1536,
+    "height": 1024,
+    "bbox": [
+      80,
+      81,
+      1484,
+      971
+    ],
+    "label": "柜台",
+    "transparent": true
+  },
+  "PRP_307": {
+    "path": "res://assets/06_道具与图标/prp_shop_cabinet_empty_v001.png",
+    "width": 1024,
+    "height": 1536,
+    "bbox": [
+      78,
+      62,
+      966,
+      1489
+    ],
+    "label": "空茶柜",
+    "transparent": true
+  },
+  "PRP_308": {
+    "path": "res://assets/06_道具与图标/prp_copper_coin_v001.png",
+    "width": 1254,
+    "height": 1254,
+    "bbox": [
+      280,
+      279,
+      971,
+      962
+    ],
+    "label": "铜钱",
+    "transparent": true
+  },
+  "PRP_309": {
+    "path": "res://assets/06_道具与图标/prp_account_book_v001.png",
+    "width": 1254,
+    "height": 1254,
+    "bbox": [
+      138,
+      163,
+      1125,
+      1080
+    ],
+    "label": "账本",
+    "transparent": true
+  },
+  "ICO_301": {
+    "path": "res://assets/06_道具与图标/ico_shop_manage_v001.png",
+    "width": 1254,
+    "height": 1254,
+    "bbox": [
+      186,
+      356,
+      1068,
+      965
+    ],
+    "label": "茶铺管理图标",
+    "transparent": true
+  },
+  "CHR_002": {
+    "path": "res://assets/05_人物/chr_protagonist_scene_idle_v001.png",
+    "width": 1254,
+    "height": 1254,
+    "bbox": [
+      396,
+      40,
+      835,
+      1216
+    ],
+    "label": "主角场景站姿",
+    "transparent": true
+  },
+  "CHR_003": {
+    "path": "res://assets/05_人物/chr_protagonist_scene_picking_v001.png",
+    "width": 1254,
+    "height": 1254,
+    "bbox": [
+      287,
+      61,
+      964,
+      1202
+    ],
+    "label": "主角采摘姿态",
+    "transparent": true
+  },
+  "CHR_004": {
+    "path": "res://assets/05_人物/chr_protagonist_scene_processing_v001.png",
+    "width": 1254,
+    "height": 1254,
+    "bbox": [
+      321,
+      34,
+      908,
+      1230
+    ],
+    "label": "主角制茶姿态",
+    "transparent": true
+  },
+  "CHR_005": {
+    "path": "res://assets/05_人物/chr_protagonist_scene_serving_v001.png",
+    "width": 1254,
+    "height": 1254,
+    "bbox": [
+      397,
+      40,
+      837,
+      1207
+    ],
+    "label": "主角上茶姿态",
+    "transparent": true
+  },
+  "CHR_101": {
+    "path": "res://assets/05_人物/chr_companion_portrait_v001.png",
+    "width": 1024,
+    "height": 1536,
+    "bbox": [
+      141,
+      11,
+      812,
+      1524
+    ],
+    "label": "教学同伴立绘",
+    "transparent": true
+  },
+  "CHR_102": {
+    "path": "res://assets/05_人物/chr_companion_scene_v001.png",
+    "width": 1254,
+    "height": 1254,
+    "bbox": [
+      452,
+      79,
+      826,
+      1201
+    ],
+    "label": "教学同伴场景小人",
+    "transparent": true
+  },
+  "CHR_201": {
+    "path": "res://assets/05_人物/chr_customer_villager_portrait_v001.png",
+    "width": 1024,
+    "height": 1536,
+    "bbox": [
+      242,
+      51,
+      806,
+      1500
+    ],
+    "label": "村民客人立绘",
+    "transparent": true
+  },
+  "CHR_202": {
+    "path": "res://assets/05_人物/chr_customer_villager_scene_v001.png",
+    "width": 1254,
+    "height": 1254,
+    "bbox": [
+      424,
+      80,
+      868,
+      1202
+    ],
+    "label": "村民客人场景小人",
+    "transparent": true
+  },
+  "CHR_203": {
+    "path": "res://assets/05_人物/chr_customer_traveler_portrait_v001.png",
+    "width": 1024,
+    "height": 1536,
+    "bbox": [
+      267,
+      23,
+      764,
+      1504
+    ],
+    "label": "旅人立绘",
+    "transparent": true
+  },
+  "CHR_204": {
+    "path": "res://assets/05_人物/chr_customer_traveler_scene_v001.png",
+    "width": 1254,
+    "height": 1254,
+    "bbox": [
+      388,
+      46,
+      849,
+      1210
+    ],
+    "label": "旅人场景小人",
+    "transparent": true
+  },
+  "CHR_205": {
+    "path": "res://assets/05_人物/chr_customer_regular_portrait_v001.png",
+    "width": 1024,
+    "height": 1536,
+    "bbox": [
+      272,
+      12,
+      790,
+      1526
+    ],
+    "label": "品茶熟客立绘",
+    "transparent": true
+  },
+  "CHR_206": {
+    "path": "res://assets/05_人物/chr_customer_regular_scene_v001.png",
+    "width": 1254,
+    "height": 1254,
+    "bbox": [
+      425,
+      60,
+      817,
+      1216
+    ],
+    "label": "品茶熟客场景小人",
+    "transparent": true
+  },
+  "BG_101": {
+    "path": "res://assets/03_建筑与场景/bg_mountains_layer_v001.png",
+    "width": 1672,
+    "height": 941,
+    "bbox": [
+      85,
+      333,
+      1574,
+      673
+    ],
+    "label": "远山透明层",
+    "transparent": true
+  },
+  "BG_102": {
+    "path": "res://assets/03_建筑与场景/bg_water_layer_v001.png",
+    "width": 1672,
+    "height": 941,
+    "bbox": [
+      46,
+      230,
+      1632,
+      757
+    ],
+    "label": "水面透明层",
+    "transparent": true
+  },
+  "BG_103": {
+    "path": "res://assets/03_建筑与场景/bg_cloud_layer_v001.png",
+    "width": 1672,
+    "height": 941,
+    "bbox": [
+      120,
+      372,
+      1599,
+      570
+    ],
+    "label": "云纹透明层",
+    "transparent": true
+  },
+  "BLD_101": {
+    "path": "res://assets/03_建筑与场景/bld_workshop_exterior_v001.png",
+    "width": 1536,
+    "height": 1024,
+    "bbox": [
+      151,
+      75,
+      1446,
+      973
+    ],
+    "label": "主地图工坊建筑",
+    "transparent": true
+  },
+  "BLD_102": {
+    "path": "res://assets/03_建筑与场景/bld_teashop_exterior_v001.png",
+    "width": 1536,
+    "height": 1024,
+    "bbox": [
+      133,
+      63,
+      1444,
+      999
+    ],
+    "label": "主地图茶铺建筑",
+    "transparent": true
+  },
+  "BLD_103": {
+    "path": "res://assets/03_建筑与场景/bld_pavilion_v001.png",
+    "width": 1536,
+    "height": 1024,
+    "bbox": [
+      270,
+      70,
+      1264,
+      926
+    ],
+    "label": "休憩亭",
+    "transparent": true
+  },
+  "BLD_104": {
+    "path": "res://assets/03_建筑与场景/bld_bridge_v001.png",
+    "width": 1536,
+    "height": 1024,
+    "bbox": [
+      302,
+      175,
+      1306,
+      848
+    ],
+    "label": "木桥",
+    "transparent": true
+  },
+  "BLD_105": {
+    "path": "res://assets/03_建筑与场景/bld_workshop_shell_v001.png",
+    "width": 1672,
+    "height": 941,
+    "bbox": [
+      270,
+      119,
+      1404,
+      824
+    ],
+    "label": "工坊建筑壳",
+    "transparent": true
+  },
+  "BLD_106": {
+    "path": "res://assets/03_建筑与场景/bld_teashop_shell_v001.png",
+    "width": 1672,
+    "height": 941,
+    "bbox": [
+      265,
+      61,
+      1414,
+      886
+    ],
+    "label": "茶铺建筑壳",
+    "transparent": true
+  },
+  "DEC_101": {
+    "path": "res://assets/03_建筑与场景/dec_lantern_v001.png",
+    "width": 1086,
+    "height": 1448,
+    "bbox": [
+      336,
+      86,
+      749,
+      1359
+    ],
+    "label": "灯笼",
+    "transparent": true
+  },
+  "DEC_102": {
+    "path": "res://assets/03_建筑与场景/dec_fence_wood_v001.png",
+    "width": 1536,
+    "height": 1024,
+    "bbox": [
+      312,
+      173,
+      1281,
+      830
+    ],
+    "label": "木栏杆段",
+    "transparent": true
+  },
+  "DEC_103": {
+    "path": "res://assets/03_建筑与场景/dec_lotus_v001.png",
+    "width": 1254,
+    "height": 1254,
+    "bbox": [
+      152,
+      210,
+      1104,
+      1083
+    ],
+    "label": "临水荷花",
+    "transparent": true
+  },
+  "PLT_106": {
+    "path": "res://assets/03_建筑与场景/plt_pine_tree_v001.png",
+    "width": 1024,
+    "height": 1536,
+    "bbox": [
+      50,
+      207,
+      988,
+      1391
+    ],
+    "label": "景观松树",
+    "transparent": true
+  },
+  "PLT_107": {
+    "path": "res://assets/03_建筑与场景/plt_red_tree_v001.png",
+    "width": 1024,
+    "height": 1536,
+    "bbox": [
+      141,
+      233,
+      919,
+      1331
+    ],
+    "label": "淡红树",
+    "transparent": true
+  },
+  "BG_201": {
+    "path": "res://assets/03_建筑与场景/bg_title_landscape_layer_v001.png",
+    "width": 1672,
+    "height": 941,
+    "bbox": [
+      0,
+      222,
+      1671,
+      880
+    ],
+    "label": "标题页山水背景画层",
+    "transparent": true
+  },
+  "BG_202": {
+    "path": "res://assets/03_建筑与场景/bg_village_ground_base_v001.png",
+    "width": 1672,
+    "height": 941,
+    "bbox": [
+      110,
+      176,
+      1562,
+      824
+    ],
+    "label": "主地图地面底层",
+    "transparent": true
+  },
+  "BG_203": {
+    "path": "res://assets/03_建筑与场景/bg_garden_terraces_base_v001.png",
+    "width": 1672,
+    "height": 941,
+    "bbox": [
+      121,
+      161,
+      1550,
+      834
+    ],
+    "label": "茶园台地底层",
+    "transparent": true
+  },
+  "TER_201": {
+    "path": "res://assets/02_地形与植物/ter_steps_stone_v001.png",
+    "width": 1536,
+    "height": 1024,
+    "bbox": [
+      274,
+      80,
+      1380,
+      934
+    ],
+    "label": "石阶单体",
+    "transparent": true
+  },
+  "BLD_201": {
+    "path": "res://assets/03_建筑与场景/bld_workshop_rear_eaves_v001.png",
+    "width": 1672,
+    "height": 941,
+    "bbox": [
+      159,
+      223,
+      1514,
+      644
+    ],
+    "label": "工坊后侧屋檐分件",
+    "transparent": true
+  },
+  "BLD_202": {
+    "path": "res://assets/03_建筑与场景/bld_teashop_rear_eaves_v001.png",
+    "width": 1671,
+    "height": 941,
+    "bbox": [
+      78,
+      212,
+      1593,
+      732
+    ],
+    "label": "茶铺后侧屋檐分件",
+    "transparent": true
+  },
+  "DEC_201": {
+    "path": "res://assets/03_建筑与场景/dec_fence_wood_axis_b_v001.png",
+    "width": 1536,
+    "height": 1024,
+    "bbox": [
+      198,
+      157,
+      1337,
+      925
+    ],
+    "label": "木栏杆另一轴向",
+    "transparent": true
+  },
+  "BLD_203": {
+    "path": "res://assets/03_建筑与场景/bld_garden_gate_v001.png",
+    "width": 1536,
+    "height": 1024,
+    "bbox": [
+      264,
+      73,
+      1279,
+      972
+    ],
+    "label": "茶园入口木门",
+    "transparent": true
+  },
+  "UI_033": {
+    "path": "res://assets/04_UI组件/ui_slider_thumb_v001.png",
+    "width": 1254,
+    "height": 1254,
+    "bbox": [
+      251,
+      251,
+      1000,
+      997
+    ],
+    "label": "设置滑块手柄",
+    "transparent": true
+  },
+  "UI_034": {
+    "path": "res://assets/04_UI组件/ui_checkbox_base_v001.png",
+    "width": 1254,
+    "height": 1254,
+    "bbox": [
+      362,
+      376,
+      890,
+      886
+    ],
+    "label": "复选框空底板",
+    "transparent": true
+  },
+  "UI_035": {
+    "path": "res://assets/04_UI组件/ui_checkbox_check_v001.png",
+    "width": 1254,
+    "height": 1254,
+    "bbox": [
+      347,
+      405,
+      935,
+      901
+    ],
+    "label": "复选框选中勾",
+    "transparent": true
+  },
+  "ICO_108": {
+    "path": "res://assets/04_UI组件/ico_day_calendar_v001.png",
+    "width": 1254,
+    "height": 1254,
+    "bbox": [
+      304,
+      282,
+      949,
+      971
+    ],
+    "label": "日数日历图标",
+    "transparent": true
+  },
+  "BG_301": {
+    "path": "res://assets/03_建筑与场景/bg_home_panorama_rich_v004.png",
+    "width": 1672,
+    "height": 941,
+    "bbox": [
+      0,
+      0,
+      1671,
+      940
+    ],
+    "label": "主页茶村全景空背景",
+    "transparent": false
+  },
+  "BG_302": {
+    "path": "res://assets/03_建筑与场景/bg_loading_landscape_rich_v004.png",
+    "width": 1672,
+    "height": 941,
+    "bbox": [
+      0,
+      0,
+      1671,
+      940
+    ],
+    "label": "载入山水空背景",
+    "transparent": false
+  },
+  "BG_303": {
+    "path": "res://assets/03_建筑与场景/bg_village_map_rich_empty_v004.png",
+    "width": 1672,
+    "height": 941,
+    "bbox": [
+      0,
+      0,
+      1671,
+      940
+    ],
+    "label": "茶村主地图空背景",
+    "transparent": false
+  },
+  "BG_304": {
+    "path": "res://assets/03_建筑与场景/bg_garden_rich_empty_v004.png",
+    "width": 1672,
+    "height": 941,
+    "bbox": [
+      0,
+      0,
+      1671,
+      940
+    ],
+    "label": "云雾茶园空背景",
+    "transparent": false
+  },
+  "BG_305": {
+    "path": "res://assets/03_建筑与场景/bg_workshop_rich_empty_v004.png",
+    "width": 1672,
+    "height": 941,
+    "bbox": [
+      0,
+      0,
+      1671,
+      940
+    ],
+    "label": "制茶工坊空背景",
+    "transparent": false
+  },
+  "BG_306": {
+    "path": "res://assets/03_建筑与场景/bg_teashop_rich_empty_v004.png",
+    "width": 1672,
+    "height": 941,
+    "bbox": [
+      0,
+      0,
+      1671,
+      940
+    ],
+    "label": "临水茶铺空背景",
+    "transparent": false
+  },
+  "LOG_301": {
+    "path": "res://assets/04_UI组件/logo_teagarden_original_clear_v001.png",
+    "width": 843,
+    "height": 614,
+    "bbox": [
+      0,
+      0,
+      842,
+      613
+    ],
+    "label": "原版茶园物语高清Logo",
+    "transparent": true
+  },
+  "PRP_401": {
+    "path": "res://assets/06_道具与图标/prp_loading_gaiwan_v001.png",
+    "width": 1254,
+    "height": 1254,
+    "bbox": [
+      154,
+      220,
+      1100,
+      1074
+    ],
+    "label": "载入盖碗",
+    "transparent": true
+  },
+  "PRP_402": {
+    "path": "res://assets/06_道具与图标/prp_loading_bamboo_tray_v001.png",
+    "width": 1774,
+    "height": 887,
+    "bbox": [
+      105,
+      152,
+      1710,
+      818
+    ],
+    "label": "载入长竹托盘",
+    "transparent": true
+  },
+  "PRP_403": {
+    "path": "res://assets/06_道具与图标/prp_tea_flower_branch_v001.png",
+    "width": 1254,
+    "height": 1254,
+    "bbox": [
+      113,
+      201,
+      1202,
+      1102
+    ],
+    "label": "茶花枝装饰",
+    "transparent": true
+  },
+  "UI_036": {
+    "path": "res://assets/04_UI组件/ui_loading_track_v001.png",
+    "width": 2172,
+    "height": 724,
+    "bbox": [
+      109,
+      300,
+      2063,
+      421
+    ],
+    "label": "加载条空轨道",
+    "transparent": true
+  },
+  "UI_037": {
+    "path": "res://assets/04_UI组件/ui_loading_fill_v001.png",
+    "width": 2172,
+    "height": 724,
+    "bbox": [
+      112,
+      303,
+      2059,
+      419
+    ],
+    "label": "加载条填充",
+    "transparent": true
+  },
+  "UI_038": {
+    "path": "res://assets/04_UI组件/ui_loading_divider_v001.png",
+    "width": 2172,
+    "height": 724,
+    "bbox": [
+      97,
+      322,
+      2074,
+      401
+    ],
+    "label": "载入题字装饰横线",
+    "transparent": true
+  },
+  "ICO_401": {
+    "path": "res://assets/04_UI组件/ico_tea_sprout_menu_v001.png",
+    "width": 1536,
+    "height": 1024,
+    "bbox": [
+      349,
+      191,
+      1218,
+      841
+    ],
+    "label": "芽叶图标",
+    "transparent": true
+  },
+  "UI_040": {
+    "path": "res://assets/04_UI组件/ui_home_button_normal_v001.png",
+    "width": 2112,
+    "height": 744,
+    "bbox": [
+      312,
+      226,
+      1799,
+      517
+    ],
+    "label": "主页绿按钮默认",
+    "transparent": true
+  },
+  "UI_041": {
+    "path": "res://assets/04_UI组件/ui_home_button_hover_v001.png",
+    "width": 2112,
+    "height": 744,
+    "bbox": [
+      313,
+      221,
+      1796,
+      513
+    ],
+    "label": "主页绿按钮悬停",
+    "transparent": true
+  },
+  "UI_042": {
+    "path": "res://assets/04_UI组件/ui_home_button_pressed_v001.png",
+    "width": 2112,
+    "height": 744,
+    "bbox": [
+      304,
+      220,
+      1788,
+      511
+    ],
+    "label": "主页绿按钮按下",
+    "transparent": true
+  },
+  "UI_043": {
+    "path": "res://assets/04_UI组件/ui_home_button_disabled_v001.png",
+    "width": 2112,
+    "height": 745,
+    "bbox": [
+      310,
+      221,
+      1798,
+      516
+    ],
+    "label": "主页绿按钮禁用",
+    "transparent": true
+  },
+  "UI_044": {
+    "path": "res://assets/04_UI组件/ui_save_slot_base_v001.png",
+    "width": 2109,
+    "height": 745,
+    "bbox": [
+      228,
+      219,
+      1880,
+      531
+    ],
+    "label": "存档槽横卡底板",
+    "transparent": true
+  },
+  "UI_045": {
+    "path": "res://assets/04_UI组件/ui_save_slot_selection_v001.png",
+    "width": 2111,
+    "height": 745,
+    "bbox": [
+      168,
+      202,
+      1942,
+      541
+    ],
+    "label": "存档槽选中描边",
+    "transparent": true
+  },
+  "UI_046": {
+    "path": "res://assets/04_UI组件/ui_save_thumbnail_frame_v001.png",
+    "width": 1448,
+    "height": 1086,
+    "bbox": [
+      145,
+      191,
+      1303,
+      880
+    ],
+    "label": "存档缩略图空框",
+    "transparent": true
+  },
+  "ICO_402": {
+    "path": "res://assets/04_UI组件/ico_save_scroll_v001.png",
+    "width": 1536,
+    "height": 1024,
+    "bbox": [
+      316,
+      162,
+      1219,
+      827
+    ],
+    "label": "保存存档图标",
+    "transparent": true
+  },
+  "ICO_403": {
+    "path": "res://assets/04_UI组件/ico_load_scroll_v001.png",
+    "width": 1536,
+    "height": 1024,
+    "bbox": [
+      276,
+      121,
+      1259,
+      861
+    ],
+    "label": "读取存档图标",
+    "transparent": true
+  },
+  "ICO_404": {
+    "path": "res://assets/04_UI组件/ico_home_pavilion_v001.png",
+    "width": 1536,
+    "height": 1024,
+    "bbox": [
+      304,
+      193,
+      1231,
+      815
+    ],
+    "label": "返回主页图标",
+    "transparent": true
+  },
+  "BG_311": {
+    "path": "res://assets/12_第一轮场景调整/bg_home_soft_bright_v005.png",
+    "width": 1672,
+    "height": 941,
+    "bbox": [
+      0,
+      0,
+      1671,
+      940
+    ],
+    "label": "BG_311",
+    "transparent": false
+  },
+  "BG_312": {
+    "path": "res://assets/12_第一轮场景调整/bg_loading_soft_bright_v005.png",
+    "width": 1672,
+    "height": 941,
+    "bbox": [
+      0,
+      0,
+      1671,
+      940
+    ],
+    "label": "BG_312",
+    "transparent": false
+  },
+  "PRP_411": {
+    "path": "res://assets/12_第一轮场景调整/prp_loading_reference_still_life_v001.png",
+    "width": 1435,
+    "height": 1096,
+    "bbox": [
+      2,
+      84,
+      1407,
+      929
+    ],
+    "label": "PRP_411",
+    "transparent": true
+  },
+  "PRP_421": {
+    "path": "res://assets/12_第一轮场景调整/prp_shop_counter_dimetric_v002.png",
+    "width": 1536,
+    "height": 1024,
+    "bbox": [
+      64,
+      119,
+      1470,
+      982
+    ],
+    "label": "PRP_421",
+    "transparent": true
+  },
+  "PRP_422": {
+    "path": "res://assets/12_第一轮场景调整/prp_shop_shelf_dimetric_v002.png",
+    "width": 1200,
+    "height": 1311,
+    "bbox": [
+      251,
+      94,
+      974,
+      1238
+    ],
+    "label": "PRP_422",
+    "transparent": true
+  },
+  "PRP_423": {
+    "path": "res://assets/12_第一轮场景调整/prp_tea_table_dimetric_v002.png",
+    "width": 1536,
+    "height": 1024,
+    "bbox": [
+      300,
+      116,
+      1236,
+      920
+    ],
+    "label": "PRP_423",
+    "transparent": true
+  },
+  "PRP_424": {
+    "path": "res://assets/12_第一轮场景调整/prp_tea_chair_front_dimetric_v002.png",
+    "width": 1536,
+    "height": 1024,
+    "bbox": [
+      452,
+      40,
+      1094,
+      954
+    ],
+    "label": "PRP_424",
+    "transparent": true
+  },
+  "PRP_425": {
+    "path": "res://assets/12_第一轮场景调整/prp_tea_chair_back_dimetric_v003.png",
+    "width": 1536,
+    "height": 1024,
+    "bbox": [
+      409,
+      35,
+      1123,
+      988
+    ],
+    "label": "PRP_425",
+    "transparent": true
+  },
+  "PRP_431": {
+    "path": "res://assets/12_第一轮场景调整/prp_rolling_table_dimetric_v002.png",
+    "width": 1536,
+    "height": 1024,
+    "bbox": [
+      145,
+      87,
+      1382,
+      968
+    ],
+    "label": "PRP_431",
+    "transparent": true
+  },
+  "PRP_432": {
+    "path": "res://assets/12_第一轮场景调整/prp_killgreen_stove_wok_dimetric_v002.png",
+    "width": 1376,
+    "height": 1143,
+    "bbox": [
+      138,
+      129,
+      1273,
+      1085
+    ],
+    "label": "PRP_432",
+    "transparent": true
+  },
+  "PRP_433": {
+    "path": "res://assets/12_第一轮场景调整/prp_drying_rack_dimetric_v002.png",
+    "width": 1230,
+    "height": 1278,
+    "bbox": [
+      263,
+      132,
+      965,
+      1157
+    ],
+    "label": "PRP_433",
+    "transparent": true
+  },
+  "PRP_434": {
+    "path": "res://assets/12_第一轮场景调整/prp_work_stool_dimetric_v002.png",
+    "width": 1374,
+    "height": 1145,
+    "bbox": [
+      296,
+      244,
+      1081,
+      992
+    ],
+    "label": "PRP_434",
+    "transparent": true
+  },
+  "PRP_435": {
+    "path": "res://assets/12_第一轮场景调整/prp_fresh_leaf_tray_dimetric_v002.png",
+    "width": 1536,
+    "height": 1024,
+    "bbox": [
+      107,
+      199,
+      1429,
+      830
+    ],
+    "label": "PRP_435",
+    "transparent": true
+  },
+  "BLD_111": {
+    "path": "res://assets/12_第一轮场景调整/bld_map_workshop_soft_perspective_v002.png",
+    "width": 1672,
+    "height": 941,
+    "bbox": [
+      135,
+      197,
+      1587,
+      792
+    ],
+    "label": "BLD_111",
+    "transparent": true
+  },
+  "BLD_112": {
+    "path": "res://assets/12_第一轮场景调整/bld_map_teashop_soft_perspective_v002.png",
+    "width": 1536,
+    "height": 1024,
+    "bbox": [
+      35,
+      196,
+      1503,
+      883
+    ],
+    "label": "BLD_112",
+    "transparent": true
+  }
+}

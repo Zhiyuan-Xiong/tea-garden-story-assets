@@ -1,0 +1,544 @@
+{
+  "added": [
+    {
+      "id": "BG_201",
+      "name": "bg_title_landscape_layer_v001",
+      "label": "标题页山水背景画层",
+      "category": "03_建筑与场景",
+      "batch": "08_背景场景与UI补充",
+      "relativePath": "03_建筑与场景/bg_title_landscape_layer_v001.png",
+      "status": "已生成v001",
+      "width": 1672,
+      "height": 941,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 937330,
+        "borderNonzeroPixels": 720,
+        "borderPixelsAlpha16": 517,
+        "warning": "保留原始alpha；边缘存在少量alpha小于16的像素。"
+      },
+      "visibleBBoxAlpha16": [
+        0,
+        222,
+        1671,
+        880
+      ],
+      "solidBBoxAlpha128": [
+        0,
+        223,
+        1671,
+        852
+      ],
+      "approxAnchor": [
+        835.5,
+        551
+      ],
+      "anchorMeaning": "图层可见范围中心",
+      "sha256": "262275d3afa2f556a92b42f132f7edf44e95a73abe91e3f59925503fa2cd4a5e",
+      "assetKind": "背景",
+      "positionReference": "00_规范与清单/终版补充素材分层与锚点参考_v001.json",
+      "reviewNotes": "无文字与交互对象，纸色底由界面另设；原始RGBA尺寸保留。静态组合预览，后续需在Godot中调整对位。标题背景画层左右山体有意延伸至画布边缘。"
+    },
+    {
+      "id": "BG_202",
+      "name": "bg_village_ground_base_v001",
+      "label": "主地图地面底层",
+      "category": "03_建筑与场景",
+      "batch": "08_背景场景与UI补充",
+      "relativePath": "03_建筑与场景/bg_village_ground_base_v001.png",
+      "status": "已生成v001",
+      "width": 1672,
+      "height": 941,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1002225,
+        "borderNonzeroPixels": 23,
+        "borderPixelsAlpha16": 0,
+        "warning": "保留原始alpha；边缘存在少量alpha小于16的像素。"
+      },
+      "visibleBBoxAlpha16": [
+        110,
+        176,
+        1562,
+        824
+      ],
+      "solidBBoxAlpha128": [
+        111,
+        177,
+        1561,
+        823
+      ],
+      "approxAnchor": [
+        836,
+        500
+      ],
+      "anchorMeaning": "图层可见范围中心",
+      "sha256": "efc4662d904c78368c59327c0df8ef25a558aaf315bb6ec90708ba50ead89db4",
+      "assetKind": "背景",
+      "positionReference": "00_规范与清单/终版补充素材分层与锚点参考_v001.json",
+      "reviewNotes": "无建筑、道路、水面与植物；原始RGBA尺寸保留。静态组合预览，后续需在Godot中调整对位。"
+    },
+    {
+      "id": "BG_203",
+      "name": "bg_garden_terraces_base_v001",
+      "label": "茶园台地底层",
+      "category": "03_建筑与场景",
+      "batch": "08_背景场景与UI补充",
+      "relativePath": "03_建筑与场景/bg_garden_terraces_base_v001.png",
+      "status": "已生成v001",
+      "width": 1672,
+      "height": 941,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 980860,
+        "borderNonzeroPixels": 11,
+        "borderPixelsAlpha16": 0,
+        "warning": "保留原始alpha；边缘存在少量alpha小于16的像素。"
+      },
+      "visibleBBoxAlpha16": [
+        121,
+        161,
+        1550,
+        834
+      ],
+      "solidBBoxAlpha128": [
+        122,
+        162,
+        1549,
+        833
+      ],
+      "approxAnchor": [
+        835.5,
+        497.5
+      ],
+      "anchorMeaning": "图层可见范围中心",
+      "sha256": "fb8284a6dc2f1d10ce1e8439f0956c1cf1d7547c5c964ead3087e8901dd888fe",
+      "assetKind": "背景",
+      "positionReference": "00_规范与清单/终版补充素材分层与锚点参考_v001.json",
+      "reviewNotes": "空台地，不烘焙茶树、土块与挡土墙；原始RGBA尺寸保留。静态组合预览，后续需在Godot中调整对位。"
+    },
+    {
+      "id": "TER_201",
+      "name": "ter_steps_stone_v001",
+      "label": "石阶单体",
+      "category": "02_地形与植物",
+      "batch": "08_背景场景与UI补充",
+      "relativePath": "02_地形与植物/ter_steps_stone_v001.png",
+      "status": "已生成v001",
+      "width": 1536,
+      "height": 1024,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1029897,
+        "borderNonzeroPixels": 14,
+        "borderPixelsAlpha16": 0,
+        "warning": "保留原始alpha；边缘存在少量alpha小于16的像素。"
+      },
+      "visibleBBoxAlpha16": [
+        274,
+        80,
+        1380,
+        934
+      ],
+      "solidBBoxAlpha128": [
+        275,
+        81,
+        1379,
+        933
+      ],
+      "approxAnchor": [
+        707,
+        933
+      ],
+      "anchorMeaning": "底部接地点近似位置",
+      "sha256": "89d9410a62b44e8a4f9624b089e1c7e0b971f6e4c5665d193b82ccd7b6dbe25b",
+      "assetKind": "场景分件",
+      "positionReference": "00_规范与清单/终版补充素材分层与锚点参考_v001.json",
+      "reviewNotes": "与地形及道路共用轴测方向；原始RGBA尺寸保留。静态组合预览，后续需在Godot中调整对位。"
+    },
+    {
+      "id": "BLD_201",
+      "name": "bld_workshop_rear_eaves_v001",
+      "label": "工坊后侧屋檐分件",
+      "category": "03_建筑与场景",
+      "batch": "08_背景场景与UI补充",
+      "relativePath": "03_建筑与场景/bld_workshop_rear_eaves_v001.png",
+      "status": "已生成v001",
+      "width": 1672,
+      "height": 941,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1411056,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        159,
+        223,
+        1514,
+        644
+      ],
+      "solidBBoxAlpha128": [
+        160,
+        224,
+        1513,
+        643
+      ],
+      "approxAnchor": [
+        836.5,
+        433.5
+      ],
+      "anchorMeaning": "图层可见范围中心",
+      "sha256": "bce0fb2d6e8f21c13b61631ffefaa168f47471505fc66070d2ed4b2cb15d72a9",
+      "assetKind": "场景分件",
+      "positionReference": "00_规范与清单/终版补充素材分层与锚点参考_v001.json",
+      "reviewNotes": "切开展示用后侧屋檐，内部操作区露出；原始RGBA尺寸保留。静态组合预览，后续需在Godot中调整对位。"
+    },
+    {
+      "id": "BLD_202",
+      "name": "bld_teashop_rear_eaves_v001",
+      "label": "茶铺后侧屋檐分件",
+      "category": "03_建筑与场景",
+      "batch": "08_背景场景与UI补充",
+      "relativePath": "03_建筑与场景/bld_teashop_rear_eaves_v001.png",
+      "status": "已生成v001",
+      "width": 1671,
+      "height": 941,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1335676,
+        "borderNonzeroPixels": 1,
+        "borderPixelsAlpha16": 0,
+        "warning": "保留原始alpha；边缘存在少量alpha小于16的像素。"
+      },
+      "visibleBBoxAlpha16": [
+        78,
+        212,
+        1593,
+        732
+      ],
+      "solidBBoxAlpha128": [
+        78,
+        213,
+        1592,
+        732
+      ],
+      "approxAnchor": [
+        835.5,
+        472
+      ],
+      "anchorMeaning": "图层可见范围中心",
+      "sha256": "a10cdc3df8437c81ca57c6cebee20c5cb0f71db7586550f60fd33e1f655f9997",
+      "assetKind": "场景分件",
+      "positionReference": "00_规范与清单/终版补充素材分层与锚点参考_v001.json",
+      "reviewNotes": "切开展示用后侧屋檐，内部操作区露出；原始RGBA尺寸保留。静态组合预览，后续需在Godot中调整对位。"
+    },
+    {
+      "id": "DEC_201",
+      "name": "dec_fence_wood_axis_b_v001",
+      "label": "木栏杆另一轴向",
+      "category": "03_建筑与场景",
+      "batch": "08_背景场景与UI补充",
+      "relativePath": "03_建筑与场景/dec_fence_wood_axis_b_v001.png",
+      "status": "已生成v001",
+      "width": 1536,
+      "height": 1024,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1305596,
+        "borderNonzeroPixels": 8,
+        "borderPixelsAlpha16": 0,
+        "warning": "保留原始alpha；边缘存在少量alpha小于16的像素。"
+      },
+      "visibleBBoxAlpha16": [
+        198,
+        157,
+        1337,
+        925
+      ],
+      "solidBBoxAlpha128": [
+        199,
+        158,
+        1336,
+        925
+      ],
+      "approxAnchor": [
+        1276,
+        925
+      ],
+      "anchorMeaning": "底部接地点近似位置",
+      "sha256": "d7cd8fea59ad9db2704fc9113dfee12554d06eeac4542d70f683ee5a35d891b2",
+      "assetKind": "场景分件",
+      "positionReference": "00_规范与清单/终版补充素材分层与锚点参考_v001.json",
+      "reviewNotes": "配合已有栏杆，供前后遮挡单独摆放；原始RGBA尺寸保留。静态组合预览，后续需在Godot中调整对位。"
+    },
+    {
+      "id": "BLD_203",
+      "name": "bld_garden_gate_v001",
+      "label": "茶园入口木门",
+      "category": "03_建筑与场景",
+      "batch": "08_背景场景与UI补充",
+      "relativePath": "03_建筑与场景/bld_garden_gate_v001.png",
+      "status": "已生成v001",
+      "width": 1536,
+      "height": 1024,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1187989,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        264,
+        73,
+        1279,
+        972
+      ],
+      "solidBBoxAlpha128": [
+        264,
+        74,
+        1278,
+        971
+      ],
+      "approxAnchor": [
+        939,
+        971
+      ],
+      "anchorMeaning": "底部接地点近似位置",
+      "sha256": "58e10eb091aca43efd1e184597c102ab890dd17fdf43dbf25d408ba6cfe28329",
+      "assetKind": "场景分件",
+      "positionReference": "00_规范与清单/终版补充素材分层与锚点参考_v001.json",
+      "reviewNotes": "空题板供引擎另设茶园名称；原始RGBA尺寸保留。静态组合预览，后续需在Godot中调整对位。"
+    },
+    {
+      "id": "UI_033",
+      "name": "ui_slider_thumb_v001",
+      "label": "设置滑块手柄",
+      "category": "04_UI组件",
+      "batch": "08_背景场景与UI补充",
+      "relativePath": "04_UI组件/ui_slider_thumb_v001.png",
+      "status": "已生成v001",
+      "width": 1254,
+      "height": 1254,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1128247,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        251,
+        251,
+        1000,
+        997
+      ],
+      "solidBBoxAlpha128": [
+        252,
+        252,
+        1000,
+        996
+      ],
+      "approxAnchor": [
+        625.5,
+        624
+      ],
+      "anchorMeaning": "图层可见范围中心",
+      "sha256": "b273c9522f30e897a4e141436af2a312ad25fe07ba20dbbbf2925aba59dd0368",
+      "assetKind": "UI补充",
+      "positionReference": "00_规范与清单/终版补充素材分层与锚点参考_v001.json",
+      "reviewNotes": "轨道和填充复用UI_022、UI_023；原始RGBA尺寸保留。静态组合预览，后续需在Godot中调整对位。"
+    },
+    {
+      "id": "UI_034",
+      "name": "ui_checkbox_base_v001",
+      "label": "复选框空底板",
+      "category": "04_UI组件",
+      "batch": "08_背景场景与UI补充",
+      "relativePath": "04_UI组件/ui_checkbox_base_v001.png",
+      "status": "已生成v001",
+      "width": 1254,
+      "height": 1254,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1308062,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        362,
+        376,
+        890,
+        886
+      ],
+      "solidBBoxAlpha128": [
+        363,
+        377,
+        889,
+        885
+      ],
+      "approxAnchor": [
+        626,
+        631
+      ],
+      "anchorMeaning": "图层可见范围中心",
+      "sha256": "0514cdca544ff0b17eecfbbfd1347911a09f18c0236a95c17a9a4014bac138ca",
+      "assetKind": "UI补充",
+      "positionReference": "00_规范与清单/终版补充素材分层与锚点参考_v001.json",
+      "reviewNotes": "选中勾与文字独立；原始RGBA尺寸保留。静态组合预览，后续需在Godot中调整对位。"
+    },
+    {
+      "id": "UI_035",
+      "name": "ui_checkbox_check_v001",
+      "label": "复选框选中勾",
+      "category": "04_UI组件",
+      "batch": "08_背景场景与UI补充",
+      "relativePath": "04_UI组件/ui_checkbox_check_v001.png",
+      "status": "已生成v001",
+      "width": 1254,
+      "height": 1254,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1509287,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        347,
+        405,
+        935,
+        901
+      ],
+      "solidBBoxAlpha128": [
+        348,
+        406,
+        934,
+        900
+      ],
+      "approxAnchor": [
+        641,
+        653
+      ],
+      "anchorMeaning": "图层可见范围中心",
+      "sha256": "9d4b5756072ecbd225fb3eaeb29c8bad691ccd09755b15b47010e8a184ca286e",
+      "assetKind": "UI补充",
+      "positionReference": "00_规范与清单/终版补充素材分层与锚点参考_v001.json",
+      "reviewNotes": "独立透明勾号，设置页使用；原始RGBA尺寸保留。静态组合预览，后续需在Godot中调整对位。"
+    },
+    {
+      "id": "ICO_108",
+      "name": "ico_day_calendar_v001",
+      "label": "日数日历图标",
+      "category": "04_UI组件",
+      "batch": "08_背景场景与UI补充",
+      "relativePath": "04_UI组件/ico_day_calendar_v001.png",
+      "status": "已生成v001",
+      "width": 1254,
+      "height": 1254,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1164595,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        304,
+        282,
+        949,
+        971
+      ],
+      "solidBBoxAlpha128": [
+        305,
+        283,
+        949,
+        970
+      ],
+      "approxAnchor": [
+        626.5,
+        626.5
+      ],
+      "anchorMeaning": "图层可见范围中心",
+      "sha256": "f1b3608667900aad6f140b1c2e399f79de634bfcc6208e866b26d240ded54fb1",
+      "assetKind": "UI补充",
+      "positionReference": "00_规范与清单/终版补充素材分层与锚点参考_v001.json",
+      "reviewNotes": "无数字，日数由引擎显示；原始RGBA尺寸保留。静态组合预览，后续需在Godot中调整对位。"
+    }
+  ]
+}

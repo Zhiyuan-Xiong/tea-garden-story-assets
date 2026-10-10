@@ -1,0 +1,20 @@
+{
+  "id": "UI_011",
+  "category": "04_UI组件",
+  "functionArea": "通用UI",
+  "label": "操作按钮悬停",
+  "plannedFile": "ui_button_hover_v001.png",
+  "batch": "03_UI组件",
+  "targetSize": "1024×512",
+  "status": "待生成",
+  "actualSize": "",
+  "relativePath": "",
+  "remarks": "轻微提亮边框",
+  "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-34459875-c749-4df7-bf74-c0f12ef4a4ae.png",
+  "prompt": "Use case: precise-object-edit. Image1 is the ONLY edit target, the approved empty NORMAL button for 茶园物语. Generate exactly one HOVER: make the brown center about18%lighter and warmer; lighten the thin ivory keyline, retain readable contrast, no glow. button variant. PRESERVE Image1 native1536x1024 canvas, same bounding box, same symmetric contour, same edge thickness, same position. Change only color/edge shading for the specified state. The button must still be blank; NO words, numbers, symbols, leaves, extra decorations. Flat front-view ink-light-watercolor UI, minimal texture; no noise, muddy fog or oversaturation. True alpha background, NO checkerboard, glow, cast shadow or haze; clean cutout outside identical contour. State change: HOVER: make the brown center about18%lighter and warmer; lighten the thin ivory keyline, retain readable contrast, no glow.",
+  "mode": "built-in image_gen",
+  "refs": [
+    "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-01dfd440-4242-4c0c-bf03-6b4a9d1de9a3.png"
+  ],
+  "savedPath": "04_UI组件/ui_button_hover_v001.png"
+}

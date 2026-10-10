@@ -1,0 +1,18 @@
+{
+  "id": "UI_009",
+  "category": "04_UI组件",
+  "functionArea": "通用UI",
+  "label": "数量选择底板",
+  "plannedFile": "ui_quantity_base_v001.png",
+  "batch": "03_UI组件",
+  "targetSize": "1024×512",
+  "status": "待生成",
+  "actualSize": "",
+  "relativePath": "",
+  "remarks": "不带加减、数量",
+  "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-9d2dc4c3-8ec8-499a-9dda-74b8e8613fbb.png",
+  "prompt": "Use case: ui-mockup. One standalone EMPTY quantity selector backing for Chinese ink-light-watercolor game. A very shallow ivory/beige capsule, front-view2D, shape ratioabout5:1, fine single muted bamboo-brown rim with softly rounded ends. Entire inside blank continuous paper beige, no plus, minus, numbers, dividers, sockets or circles. Canvas1536x1024, object about1000x200 centered. Clean flat areas, subtle hand-painted edge, no dense texture/grain/glow/shadow. True alpha transparent outside, no extra objects, ornaments, letters or labels.",
+  "mode": "built-in image_gen",
+  "refs": [],
+  "savedPath": "04_UI组件/ui_quantity_base_v001.png"
+}

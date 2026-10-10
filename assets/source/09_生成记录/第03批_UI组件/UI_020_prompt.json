@@ -1,0 +1,18 @@
+{
+  "id": "UI_020",
+  "category": "04_UI组件",
+  "functionArea": "通用UI",
+  "label": "页签默认底板",
+  "plannedFile": "ui_tab_inactive_v001.png",
+  "batch": "03_UI组件",
+  "targetSize": "768×512",
+  "status": "待生成",
+  "actualSize": "",
+  "relativePath": "",
+  "remarks": "不带文字",
+  "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-17043f52-c1db-4741-af95-fa9e24ebdff1.png",
+  "prompt": "Use case: ui-mockup. Asset: ONE isolated painted raster UI component for Chinese traditional tea game 茶园物语. Flat front-view 2D, crisp simple silhouette, ivory #f5efdf paper, muted bamboo-brown #9c8058 thin double keyline, restrained sage #829276. Soft ink-and-light-watercolor broad washes only; very clean, no grain, mottled texture, cracks, muddy haze, shine or saturation. Blank central area, no words, characters, numbers, logos, leaves, bamboo, mountain, clouds, stamp, scene, added buttons or extra object. True alpha PNG outside shape, safe margins, no glow, shadow or checkerboard. An INACTIVE blank tab backing. Broad small ivory rectangle with two clipped/slightly rounded top corners and a completely straight lower edge, thin bamboo-brown rim, horizontal 2:1 silhouette. Canvas1536x1024, tab width850,height380 centered. No symbol or leaf.",
+  "mode": "built-in image_gen",
+  "refs": [],
+  "savedPath": "04_UI组件/ui_tab_inactive_v001.png"
+}

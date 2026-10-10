@@ -1,0 +1,26 @@
+const fs=require('fs'),path=require('path'),crypto=require('crypto');
+const sharp=require('C:/Users/24586/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/sharp');
+const root="D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材",ids=["BG_301","BG_302","BG_303","BG_304","BG_305","BG_306","LOG_301","PRP_401","PRP_402","PRP_403","UI_036","UI_037","UI_038","ICO_401","UI_040","UI_041","UI_042","UI_043","UI_044","UI_045","UI_046","ICO_402","ICO_403","ICO_404"],read=p=>JSON.parse(fs.readFileSync(path.join(root,p),'utf8').replace(/^\uFEFF/,'')),write=(p,v)=>fs.writeFileSync(path.join(root,p),JSON.stringify(v,null,2)+'\n');
+(async()=>{
+const m=read('00_规范与清单/library_manifest_v010.json'),qa=read('09_生成记录/batch09_alpha_check_v001.json'),history=read('09_生成记录/batch09_superseded_backgrounds_v001.json');
+if(!qa.pass)throw Error('QA not passed');
+const records=ids.map(id=>read('09_生成记录/第09批_完整背景主页与存档UI/'+id+'_prompt.json'));
+const previous=await Promise.all(history.assets.map(async a=>{const p=a.relativePath,meta=await sharp(path.join(root,p)).metadata();return {id:a.id,relativePath:p,width:meta.width,height:meta.height,sha256:crypto.createHash('sha256').update(fs.readFileSync(path.join(root,p))).digest('hex')};}));
+const added=records.map(p=>{const a=qa.assets.find(x=>x.id===p.id);return {id:p.id,name:p.plannedFile.replace(/\.png$/,''),label:p.id==='LOG_301'?'原版茶园物语高清Logo':p.label,category:p.category,batch:p.batch,relativePath:a.file,status:p.id==='LOG_301'?'原版源PNG／无重绘':p.id.startsWith('BG_')?'已修订v004／配色校正':'已生成v001',width:a.width,height:a.height,transparent:p.transparent,alphaCheck:a.alphaCheck,visibleBBoxAlpha16:a.visibleBBoxAlpha16,solidBBoxAlpha128:a.solidBBoxAlpha128,approxAnchor:a.approxAnchor,anchorMeaning:a.anchorMeaning,sha256:a.sha256,assetKind:p.functionArea,positionReference:'00_规范与清单/完整背景主页存档UI位置参考_v001.json',mode:p.mode,previousVersions:previous.filter(x=>x.id===p.id),reviewNotes:p.id==='LOG_301'?'直接使用Figma最高分辨率原版透明PNG，保留原笔画、云纹、茶杯及印章，未重绘。':p.remarks+'；原始尺寸保留。BG_301主页背景中的静态陈设不可独立点击；可操作角色、植物、道具和UI使用独立分件。饱和度25%为生成式近似校色。'};});
+const allBefore=[...m.sampleAssets,...m.generatedAssets];if(allBefore.length!==118||added.some(a=>allBefore.some(b=>b.id===a.id)))throw Error('Baseline or duplicate ID');
+m.generatedAssets.push(...added);
+const keys=['id','category','label','plannedFile','functionArea','targetSize','batch','remarks'];
+m.plan.push(...records.map(p=>{const a=added.find(x=>x.id===p.id),v=Object.fromEntries(keys.map(k=>[k,p[k]]));v.label=a.label;v.remarks=a.reviewNotes;return {...v,status:a.status,actualSize:a.width+'×'+a.height,relativePath:a.relativePath,transparent:a.transparent};}));
+const all=[...m.sampleAssets,...m.generatedAssets],pending=m.plan.filter(x=>!x.relativePath);
+const dirs=['02_地形与植物','03_建筑与场景','04_UI组件','05_人物','06_道具与图标'];const physical=dirs.reduce((n,d)=>n+fs.readdirSync(path.join(root,d)).filter(f=>f.endsWith('.png')).length,0);
+Object.assign(m.counts,{generatedCompleteBackgroundHomeSaveUI:24,generatedTotal:all.length,activeAssetItems:all.length,plannedTotal:m.plan.length,pendingItems:pending.length,physicalAssetPNGs:physical,retainedPreviousPNGVersions:physical-all.length,completeOpaqueBackgrounds:6,transparentCurrentAssets:136});
+m.updated='2026-10-09';m.scope='完整主页、载入页、茶村、茶园、工坊、茶铺背景和剩余UI；包含存档、读档及覆盖确认界面素材。原版Logo直接使用源PNG。未搭建Godot；6项手记插画仍按用户要求保留待制作。';
+m.allGeneratedStatus='142项当前素材；本批24项含6张完整背景和18项透明组件。148项计划中6项手记插画未制作，保留在后续范围。';
+m.currentPalette={direction:'明亮雅致的灰绿水墨淡彩，保留适量色彩',revision:'以亮灰版为基准，整体饱和度约增加25%；保留明度，减少颗粒与纹理。',measurement:'生成式近似校色，非数学滤镜精确数值。'};
+m.revisionHistory.push({date:m.updated,request:'丰富整体场景，主页及载入按Figma构图；原版Logo；存档读档只做UI；提亮去噪后在亮灰版上补回约25%饱和度。',batch:'09_完整背景主页与存档UI',ids:added.map(x=>x.id),prompts:'09_生成记录/batch09_prompts_v001.json',qa:'09_生成记录/batch09_alpha_check_v001.json',positions:'00_规范与清单/完整背景主页存档UI位置参考_v001.json',preview:'08_预览/第09批_完整背景主页与存档UI/00_本批24项素材总览_v001.png',previousBackgrounds:history.assets.length,originalLogoPreserved:true});
+const cols=['id','category','functionArea','label','plannedFile','batch','targetSize','status','actualSize','relativePath','remarks'],cell=v=>'"'+String(v??'').replaceAll('"','""')+'"';
+fs.writeFileSync(path.join(root,'00_规范与清单/素材制作清单_v011.csv'),'\uFEFF'+[cols.map(cell).join(','),...m.plan.map(p=>cols.map(k=>cell(p[k])).join(','))].join('\r\n')+'\r\n');
+write('00_规范与清单/library_manifest_v011.json',m);write('09_生成记录/batch09_preview_data_v001.json',{added});
+write('09_生成记录/batch09_prompts_v001.json',{date:m.updated,mode:'built-in image_gen；Logo例外为Figma原版PNG提取',scope:m.scope,colorIntent:m.currentPalette,assets:records,previousRevisions:history});
+console.log(JSON.stringify({active:all.length,new:added.length,planned:m.plan.length,pending:pending.length,retained:physical-all.length,physical}));
+})().catch(e=>{console.error(e);process.exitCode=1});

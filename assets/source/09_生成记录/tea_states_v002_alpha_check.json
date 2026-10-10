@@ -1,0 +1,297 @@
+{
+  "date": "2026-10-08",
+  "revision": "茶树状态v002",
+  "originalsPreserved": true,
+  "newCount": 4,
+  "passed": 4,
+  "assets": [
+    {
+      "id": "PLT_102",
+      "label": "茶树幼苗",
+      "version": "v001",
+      "file": "02_地形与植物/plt_tea_bush_seedling_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "cornersAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparentPixels": 1418267,
+      "visiblePixels": 130975,
+      "alphaArea": 124563.5,
+      "visibleBBox": [
+        312,
+        430,
+        992,
+        1025
+      ],
+      "visibleSize": [
+        681,
+        596
+      ],
+      "rootApprox": [
+        642,
+        1025
+      ],
+      "border16": 0,
+      "borderNonzero": 0,
+      "sha256": "7eead7325ab81223ba8cfbc59cced7fc47d3a06790ce968be2927c60774d7cd5",
+      "pass": true
+    },
+    {
+      "id": "PLT_102",
+      "label": "茶树幼苗",
+      "version": "v002",
+      "file": "02_地形与植物/plt_tea_bush_seedling_v002.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "cornersAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparentPixels": 1452322,
+      "visiblePixels": 101024,
+      "alphaArea": 95580.9,
+      "visibleBBox": [
+        366,
+        604,
+        954,
+        1130
+      ],
+      "visibleSize": [
+        589,
+        527
+      ],
+      "rootApprox": [
+        654,
+        1130
+      ],
+      "border16": 0,
+      "borderNonzero": 0,
+      "sha256": "8c836b10b84927a73d9ebac32b2fbba2c08519767fe544c3c4ffda32f315d2a9",
+      "pass": true
+    },
+    {
+      "id": "PLT_103",
+      "label": "茶树生长中",
+      "version": "v001",
+      "file": "02_地形与植物/plt_tea_bush_growing_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "cornersAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparentPixels": 1040413,
+      "visiblePixels": 512358,
+      "alphaArea": 502118.3,
+      "visibleBBox": [
+        30,
+        280,
+        1242,
+        1031
+      ],
+      "visibleSize": [
+        1213,
+        752
+      ],
+      "rootApprox": [
+        634,
+        1031
+      ],
+      "border16": 0,
+      "borderNonzero": 0,
+      "sha256": "ddac8ce4ca6ca25aa99a21ffd665c26f18197455449185213eff7f1692271ef2",
+      "pass": true
+    },
+    {
+      "id": "PLT_103",
+      "label": "茶树生长中",
+      "version": "v002",
+      "file": "02_地形与植物/plt_tea_bush_growing_v002.png",
+      "width": 1349,
+      "height": 1166,
+      "hasAlpha": true,
+      "cornersAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparentPixels": 1182102,
+      "visiblePixels": 340733,
+      "alphaArea": 323091.9,
+      "visibleBBox": [
+        107,
+        260,
+        1270,
+        1032
+      ],
+      "visibleSize": [
+        1164,
+        773
+      ],
+      "rootApprox": [
+        720,
+        1032
+      ],
+      "border16": 0,
+      "borderNonzero": 2,
+      "sha256": "13cc2b4da354e1785a6a5200df23aa1d79b3cf3fd2816fd128a587a76ca6d02f",
+      "pass": true
+    },
+    {
+      "id": "PLT_101",
+      "label": "成熟茶树",
+      "version": "v001",
+      "file": "02_地形与植物/plt_tea_bush_mature_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "cornersAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparentPixels": 1043223,
+      "visiblePixels": 503904,
+      "alphaArea": 492439.6,
+      "visibleBBox": [
+        32,
+        283,
+        1239,
+        1029
+      ],
+      "visibleSize": [
+        1208,
+        747
+      ],
+      "rootApprox": [
+        633,
+        1029
+      ],
+      "border16": 0,
+      "borderNonzero": 15,
+      "sha256": "48f32b751209860261cd942a84a919511c84a601159cf26c0b9dfdfed9ec8175",
+      "pass": true
+    },
+    {
+      "id": "PLT_101",
+      "label": "成熟茶树",
+      "version": "v002",
+      "file": "02_地形与植物/plt_tea_bush_mature_v002.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "cornersAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparentPixels": 968429,
+      "visiblePixels": 576696,
+      "alphaArea": 565668.9,
+      "visibleBBox": [
+        28,
+        255,
+        1241,
+        1061
+      ],
+      "visibleSize": [
+        1214,
+        807
+      ],
+      "rootApprox": [
+        642,
+        1061
+      ],
+      "border16": 0,
+      "borderNonzero": 7,
+      "sha256": "57cfc5cb8d375de6a371ce4006b5998e19e835b9a1d6a2f35f54263c873d5227",
+      "pass": true
+    },
+    {
+      "id": "PLT_104",
+      "label": "茶树采摘后",
+      "version": "v001",
+      "file": "02_地形与植物/plt_tea_bush_harvested_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "cornersAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparentPixels": 1041019,
+      "visiblePixels": 512674,
+      "alphaArea": 502374.9,
+      "visibleBBox": [
+        31,
+        301,
+        1244,
+        1030
+      ],
+      "visibleSize": [
+        1214,
+        730
+      ],
+      "rootApprox": [
+        635,
+        1030
+      ],
+      "border16": 0,
+      "borderNonzero": 5,
+      "sha256": "92b37589499eee1cd5b295f443b2a1fcf1a2abab475dd3797268d08103e76a45",
+      "pass": true
+    },
+    {
+      "id": "PLT_104",
+      "label": "茶树采摘后",
+      "version": "v002",
+      "file": "02_地形与植物/plt_tea_bush_harvested_v002.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "cornersAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparentPixels": 1129766,
+      "visiblePixels": 421584,
+      "alphaArea": 411770.6,
+      "visibleBBox": [
+        19,
+        471,
+        1235,
+        1062
+      ],
+      "visibleSize": [
+        1217,
+        592
+      ],
+      "rootApprox": [
+        643,
+        1062
+      ],
+      "border16": 0,
+      "borderNonzero": 7,
+      "sha256": "9dbcf3569d5cbab14a527a988043af83e409b1f37542fef6075ea1c3d0fbca90",
+      "pass": true
+    }
+  ]
+}

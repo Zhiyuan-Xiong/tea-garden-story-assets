@@ -1,0 +1,20 @@
+[gd_scene load_steps=3 format=3]
+[ext_resource type="Texture2D" path="res://assets/12_第一轮场景调整/prp_work_stool_dimetric_v002.png" id="1"]
+[sub_resource type="AtlasTexture" id="Atlas"]
+atlas = ExtResource("1")
+region = Rect2(296,244,786,749)
+filter_clip = true
+[node name="PRP_434_GroundCenter" type="Node2D"]
+transform = Transform2D(1,0.0762488,0,0.7043679,0,0)
+metadata/asset_id = "PRP_434"
+metadata/reference_room = "workshop"
+[node name="Image" type="TextureRect" parent="."]
+offset_left = -126.697201
+offset_top = -194.7684478
+offset_right = 129.302799
+offset_bottom = 49.1806616
+mouse_filter = 2
+texture_filter = 4
+texture = SubResource("Atlas")
+expand_mode = 1
+stretch_mode = 0

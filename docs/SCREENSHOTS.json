@@ -1,0 +1,54 @@
+{
+  "description": "沿用已公开网页中的 Godot 实机截图副本，未重新生成画面；历史截图记录原制作状态，公开工程使用 Noto Sans SC。",
+  "files": [
+    {
+      "repository": "previews/game-home.webp",
+      "sha256": "779b21d3da6df4e8736ec3adb6457857aae4b2eb93c7b341f00747db699106ca",
+      "bytes": 243760,
+      "source_reference": "game-home.webp",
+      "caption": "游戏首页 · 山水入口与原始书法标识"
+    },
+    {
+      "repository": "previews/village-current.webp",
+      "sha256": "51e777f1028250eb9f3b8ce3915ea0e9c5c9329343903d27834b403153858322",
+      "bytes": 291460,
+      "source_reference": "village-current.webp",
+      "caption": "茶村 · 建筑入口、悬挂题签与装饰树群"
+    },
+    {
+      "repository": "previews/garden-current.webp",
+      "sha256": "0ddbfd6868e70ea132e3e8c71a38342c78d2b94d3e7f40b138ee06a329c8cc08",
+      "bytes": 289308,
+      "source_reference": "garden-current.webp",
+      "caption": "云雾茶园 · 五层十四位与逐株状态"
+    },
+    {
+      "repository": "previews/workshop-current.webp",
+      "sha256": "d173821cab2945a472b21a65eb18f6992b648ac7d1c5f98f5cef1a73144ca7da",
+      "bytes": 319364,
+      "source_reference": "workshop-current.webp",
+      "caption": "制茶工坊 · 五道工序与今日待办"
+    },
+    {
+      "repository": "previews/teashop-current.webp",
+      "sha256": "546866d3812dd377fb917d8cbbbc2cefeea23d30b05f4c455dfef3b8bbaab844",
+      "bytes": 292770,
+      "source_reference": "teashop-current.webp",
+      "caption": "临水茶铺 · 订单与交付路径"
+    },
+    {
+      "repository": "previews/layout-current.webp",
+      "sha256": "4dbf5b7bc63bd73facaaa5ee8c960efd986672c03d5b7a73e19cdfb2f136a49f",
+      "bytes": 293304,
+      "source_reference": "layout-current.webp",
+      "caption": "自由布置 · 植物、图层与可恢复调整"
+    },
+    {
+      "repository": "previews/summary.webp",
+      "sha256": "c6d1421bcac1b933ff42da4c4bd6d1f5f26e7033f7886ac2f1fe329c3e0579bb",
+      "bytes": 148118,
+      "source_reference": "summary.webp",
+      "caption": "阶段结算 · 五日经营与成长反馈"
+    }
+  ]
+}

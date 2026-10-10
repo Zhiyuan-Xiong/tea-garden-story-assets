@@ -1,0 +1,51 @@
+{
+  "tool": "built-in image_gen",
+  "transparent_background": true,
+  "palette_reference": "docs/动效调整/village_motion.png",
+  "assets": [
+    {
+      "id": "DEC_451",
+      "project_path": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\11_Godot项目\\茶园物语\\assets\\15_茶村配景与入口\\DEC_451_淡彩水墨松树_v001.png",
+      "library_path": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\15_茶村配景与入口\\DEC_451_淡彩水墨松树_v001.png",
+      "generation_source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-6cd9db87-dc9f-4daf-be51-37c49c9241e0.png",
+      "prompt": "Use case: precise-object-edit. Refine one full naturally rooted pine from the existing pine silhouette, using the village screenshot as palette-only reference. Clean traditional Chinese ink and pale mineral watercolor, grey-sage and chalk olive canopies, thin warm grey-brown trunk, broad calm washes, restrained texture. Lighter contrast than architecture. Genuine transparent RGBA gaps and exterior, complete root and crown. No matte, glow, vignette, painted rectangle, noise, grain, muddy color, oversaturation, 3D, blur, extra objects, text, or cutout scraps."
+    },
+    {
+      "id": "DEC_452",
+      "project_path": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\11_Godot项目\\茶园物语\\assets\\15_茶村配景与入口\\DEC_452_淡彩水墨杂树_v001.png",
+      "library_path": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\15_茶村配景与入口\\DEC_452_淡彩水墨杂树_v001.png",
+      "generation_source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-57048c43-0017-48aa-be24-70be309effa9.png",
+      "prompt": "Use case: stylized-concept. One delicate broadleaf tree with airy irregular crown and slender branching trunk, sparse pale peach mixed with grey-sage and ivory foliage, full root. Village screenshot is style and palette reference only. Traditional Chinese ink and pale mineral watercolor, thin clean contours, broad calm paint shapes, subtle pigment, less contrast than foreground architecture. Genuine transparent RGBA outside and between branches, generous padding. No noise, grain, excessive texture, dirty or muddy color, oversaturation, photography, 3D, blur, extras, people, buildings, furniture, icons, text, debris, or sprite sheet."
+    },
+    {
+      "id": "DEC_453",
+      "project_path": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\11_Godot项目\\茶园物语\\assets\\15_茶村配景与入口\\DEC_453_低矮花叶灌木_v001.png",
+      "library_path": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\15_茶村配景与入口\\DEC_453_低矮花叶灌木_v001.png",
+      "generation_source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-7a575a58-605e-4b28-8533-4c4447438356.png",
+      "prompt": "Use case: stylized-concept. One low compact asymmetrical ornamental shrub patch with connected rounded grey-sage leaf tufts and understated stems, sparse tiny ivory blossoms, roughly three times wider than tall. Village screenshot is style and palette reference only. Traditional Chinese ink and pale mineral watercolor, thin clean contours, broad calm washes, subtle pigment, subdued grey-sage, warm grey-brown and ivory. Transparent RGBA outside and gaps, generous padding. No soil slab, noise, grain, excessive texture, muddy color, oversaturation, photography, 3D, blur, extras, people, buildings, furniture, icons, text, debris, or sprite sheet."
+    },
+    {
+      "id": "DEC_454",
+      "project_path": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\11_Godot项目\\茶园物语\\assets\\15_茶村配景与入口\\DEC_454_临水低矮草叶_v001.png",
+      "library_path": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\15_茶村配景与入口\\DEC_454_临水低矮草叶_v001.png",
+      "generation_source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-562e1080-b119-433d-bc21-bfa5d5668050.png",
+      "prompt": "Use case: stylized-concept. One low wide waterside plant tuft, short dusty olive and grey-sage gently curved grasses with pale broad leaves, roughly three times wider than tall. Village screenshot is style and palette reference only. Traditional Chinese ink and pale mineral watercolor, thin clean contours, broad calm washes, subtle pigment. Transparent RGBA outside and gaps, generous padding. No flowers, rocks, pot, water, ground patch, noise, grain, excessive texture, muddy color, oversaturation, photography, 3D, blur, extras, people, buildings, furniture, icons, text, debris, or sprite sheet."
+    },
+    {
+      "id": "DEC_455",
+      "project_path": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\11_Godot项目\\茶园物语\\assets\\15_茶村配景与入口\\DEC_455_连贯低矮叶团_v002.png",
+      "library_path": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\15_茶村配景与入口\\DEC_455_连贯低矮叶团_v002.png",
+      "generation_source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-4d9ce7df-2e78-480f-a76b-b434c8f782b8.png",
+      "prompt": "Use case: precise-object-edit. Completely simplify the original shrub into ONE continuous low compact asymmetrical mound of 12–18 broad overlapping rounded leaf masses in three gently connected clusters, about 2.8 times wider than tall. Image 1 is the shrub edit target; image 2 is only the village palette and small-scale style reference. Designed to read cleanly at 100–140 pixels wide and 30–45 pixels high. Restrained dusty grey-sage, chalk olive and pale celadon, two or three broad quiet pale watercolor tonal layers and only a few gentle ink accents. Keep the complete connected base and generous genuine RGBA transparent padding. No tiny separate leaves, scattered twig networks, flowers, spikes, leaf veins, speckles, dots, paper grain, noise, excess texture, muddy or saturated color, matte, halo, roots, soil, rocks, planters, buildings, text, extras, or sprite sheet."
+    }
+  ],
+  "active_scenery_assets": [
+    "DEC_451",
+    "DEC_452",
+    "DEC_455"
+  ],
+  "replaced_planting_assets": [
+    "DEC_453",
+    "DEC_454"
+  ]
+}

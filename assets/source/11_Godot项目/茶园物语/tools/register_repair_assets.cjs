@@ -1,0 +1,7 @@
+const fs=require('fs'),path=require('path'),sharp=require('sharp');
+const root=process.argv[2],out=process.argv[3],specs=JSON.parse(fs.readFileSync(path.join(root,'docs/第一轮调整/选用素材.json'),'utf8'));
+(async()=>{fs.mkdirSync(out,{recursive:true});const dest=path.join(root,'assets/12_第一轮场景调整');fs.mkdirSync(dest,{recursive:true});
+const catalog=JSON.parse(fs.readFileSync(path.join(root,'data/asset_catalog.json'),'utf8'));
+const receipt=[];for(const s of specs){for(const p of [path.join(out,s.name),path.join(dest,s.name)])fs.copyFileSync(s.path,p); const {data,info}=await sharp(s.path).ensureAlpha().raw().toBuffer({resolveWithObject:true});const bbox=[info.width,info.height,-1,-1];let clear=0;for(let y=0;y<info.height;y++)for(let x=0;x<info.width;x++){const a=data[(y*info.width+x)*4+3];if(a===0)clear++;if(a>32){bbox[0]=Math.min(bbox[0],x);bbox[1]=Math.min(bbox[1],y);bbox[2]=Math.max(bbox[2],x);bbox[3]=Math.max(bbox[3],y);}}
+const entry={path:'res://assets/12_第一轮场景调整/'+s.name,width:info.width,height:info.height,bbox,label:s.id,transparent:!s.id.startsWith('BG_')};catalog[s.id]=entry;receipt.push({id:s.id,...entry,transparentFraction:clear/(info.width*info.height)});}
+fs.writeFileSync(path.join(root,'data/asset_catalog.json'),JSON.stringify(catalog,null,2));fs.writeFileSync(path.join(root,'docs/第一轮调整/素材核对.json'),JSON.stringify(receipt,null,2));console.log(JSON.stringify({count:receipt.length,catalog:Object.keys(catalog).length,receipt}));})();

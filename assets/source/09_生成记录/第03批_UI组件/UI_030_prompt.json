@@ -1,0 +1,18 @@
+{
+  "id": "UI_030",
+  "category": "04_UI组件",
+  "functionArea": "通用UI",
+  "label": "可缩放无装饰面板",
+  "plannedFile": "ui_popup_plain_v001.png",
+  "batch": "03_UI组件",
+  "targetSize": "1536×1024",
+  "status": "待生成",
+  "actualSize": "",
+  "relativePath": "",
+  "remarks": "九宫格候选，后续单独验证",
+  "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-a2dc2797-63bb-489c-9572-ad09544ef3e9.png",
+  "prompt": "Use case: ui-mockup. Asset: ONE isolated painted raster UI component for Chinese traditional tea game 茶园物语. Flat front-view 2D, crisp simple silhouette, ivory #f5efdf paper, muted bamboo-brown #9c8058 thin double keyline, restrained sage #829276. Soft ink-and-light-watercolor broad washes only; very clean, no grain, mottled texture, cracks, muddy haze, shine or saturation. Blank central area, no words, characters, numbers, logos, leaves, bamboo, mountain, clouds, stamp, scene, added buttons or extra object. True alpha PNG outside shape, safe margins, no glow, shadow or checkerboard. One LARGE plain panel suitable for later nine-slice experimentation. Landscape1536x1024canvas; rectangle x85..1451,y100..924. Plain gently rounded corners, thin double bamboo-brown border uniform along all sides, blank ivory center with nearly uniform color. NO scalloped lobes, no ornaments, no variable-size decoration, no cloudlike silhouette. Border and corners legible but thin.",
+  "mode": "built-in image_gen",
+  "refs": [],
+  "savedPath": "04_UI组件/ui_popup_plain_v001.png"
+}

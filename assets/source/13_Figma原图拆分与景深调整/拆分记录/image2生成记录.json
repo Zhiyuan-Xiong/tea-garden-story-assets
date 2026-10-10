@@ -1,0 +1,389 @@
+{
+  "pieces": [
+    {
+      "id": "FGW_01",
+      "label": "摊青长桌与原有叶盘",
+      "room": "workshop",
+      "input": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\13_Figma原图拆分与景深调整\\逐件重制输入\\FGW_01_原图位置输入.png",
+      "sourceCrop": [
+        356,
+        302,
+        361,
+        184
+      ],
+      "path": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-48ef02a1-83d4-4e4c-ae6b-86f48daf88aa.png",
+      "prompt": "Use case: background-extraction / precise-object-edit. The attached crop is an exact Figma source position for a Chinese ink-watercolor game. Extract and refine ONLY the long spreading worktable and its three leaf-filled round trays only; exclude stools, baskets, railing and surrounding tables. Actual transparent background. Remove all floorboards, walls, architecture, other furniture, detached fragments, white edges and random speckles; open gaps between legs must be transparent. Preserve the target's original silhouette, tabletop slope, camera angle, visible legs, proportions, canvas registration and relative positions. DO NOT move, rotate, recenter, enlarge, rearrange or redesign the target; keep it in the same source canvas with the same margins. Do not invent missing parts or add objects. Make delicate brush edges slightly clearer and smooth out excess texture. Bright elegant restrained desaturated light-gray sage, pale warm wood and ivory palette, NOT brown-orange or saturated yellow/green. Thin gentle contours, clean smooth watercolor wash, greatly reduced grain and wood/bamboo texture, no muddiness, no heavy contrast or shadows. No new text, no labels, no frame. This is an edit of the original furniture, not a new independently designed furniture piece."
+    },
+    {
+      "id": "FGW_02",
+      "label": "原图竹制晾架",
+      "room": "workshop",
+      "input": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\13_Figma原图拆分与景深调整\\逐件重制输入\\FGW_02_原图位置输入.png",
+      "sourceCrop": [
+        631,
+        144,
+        209,
+        231
+      ],
+      "path": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-dc83ca7c-f338-4cee-a3cb-1daff4af9f73.png",
+      "prompt": "Use case: background-extraction / precise-object-edit. The attached crop is an exact Figma source position for a Chinese ink-watercolor game. Extract and refine ONLY the double bamboo drying-rack assembly and its trays only; exclude table in front, baskets, wall and floor. Actual transparent background. Remove all floorboards, walls, architecture, other furniture, detached fragments, white edges and random speckles; open gaps between legs must be transparent. Preserve the target's original silhouette, tabletop slope, camera angle, visible legs, proportions, canvas registration and relative positions. DO NOT move, rotate, recenter, enlarge, rearrange or redesign the target; keep it in the same source canvas with the same margins. Do not invent missing parts or add objects. Make delicate brush edges slightly clearer and smooth out excess texture. Bright elegant restrained desaturated light-gray sage, pale warm wood and ivory palette, NOT brown-orange or saturated yellow/green. Thin gentle contours, clean smooth watercolor wash, greatly reduced grain and wood/bamboo texture, no muddiness, no heavy contrast or shadows. No new text, no labels, no frame. This is an edit of the original furniture, not a new independently designed furniture piece."
+    },
+    {
+      "id": "FGW_03",
+      "label": "杀青炉",
+      "room": "workshop",
+      "input": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\13_Figma原图拆分与景深调整\\逐件重制输入\\FGW_03_原图位置输入.png",
+      "sourceCrop": [
+        736,
+        371,
+        184,
+        230
+      ],
+      "path": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-1ccdd565-dc1c-433b-a1ac-19f04c1d9e45.png",
+      "prompt": "Use case: background-extraction / precise-object-edit. The attached crop is an exact Figma source position for a Chinese ink-watercolor game. Extract and refine ONLY the charcoal stove, wok, leaf contents and attached firewood only; exclude stools and baskets. Actual transparent background. Remove all floorboards, walls, architecture, other furniture, detached fragments, white edges and random speckles; open gaps between legs must be transparent. Preserve the target's original silhouette, tabletop slope, camera angle, visible legs, proportions, canvas registration and relative positions. DO NOT move, rotate, recenter, enlarge, rearrange or redesign the target; keep it in the same source canvas with the same margins. Do not invent missing parts or add objects. Make delicate brush edges slightly clearer and smooth out excess texture. Bright elegant restrained desaturated light-gray sage, pale warm wood and ivory palette, NOT brown-orange or saturated yellow/green. Thin gentle contours, clean smooth watercolor wash, greatly reduced grain and wood/bamboo texture, no muddiness, no heavy contrast or shadows. No new text, no labels, no frame. This is an edit of the original furniture, not a new independently designed furniture piece."
+    },
+    {
+      "id": "FGW_04",
+      "label": "揉捻台",
+      "room": "workshop",
+      "input": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\13_Figma原图拆分与景深调整\\逐件重制输入\\FGW_04_原图位置输入.png",
+      "sourceCrop": [
+        959,
+        497,
+        318,
+        236
+      ],
+      "path": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-1ac56794-636a-4d6a-a53f-8687ffc4597a.png",
+      "prompt": "Use case: background-extraction / precise-object-edit. The attached crop is an exact Figma source position for a Chinese ink-watercolor game. Extract and refine ONLY the rolling worktable with its leaf-filled round tray, small bowls and hanging white cloth only; exclude nearby baskets and stools. Actual transparent background. Remove all floorboards, walls, architecture, other furniture, detached fragments, white edges and random speckles; open gaps between legs must be transparent. Preserve the target's original silhouette, tabletop slope, camera angle, visible legs, proportions, canvas registration and relative positions. DO NOT move, rotate, recenter, enlarge, rearrange or redesign the target; keep it in the same source canvas with the same margins. Do not invent missing parts or add objects. Make delicate brush edges slightly clearer and smooth out excess texture. Bright elegant restrained desaturated light-gray sage, pale warm wood and ivory palette, NOT brown-orange or saturated yellow/green. Thin gentle contours, clean smooth watercolor wash, greatly reduced grain and wood/bamboo texture, no muddiness, no heavy contrast or shadows. No new text, no labels, no frame. This is an edit of the original furniture, not a new independently designed furniture piece."
+    },
+    {
+      "id": "FGW_05",
+      "label": "原图筛分筒",
+      "room": "workshop",
+      "input": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\13_Figma原图拆分与景深调整\\逐件重制输入\\FGW_05_原图位置输入.png",
+      "sourceCrop": [
+        1220,
+        346,
+        179,
+        219
+      ],
+      "path": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-51896fc1-804e-4ec3-8a8a-7e1a09ed9fef.png",
+      "prompt": "Use case: background-extraction / precise-object-edit. The attached crop is an exact Figma source position for a Chinese ink-watercolor game. Extract and refine ONLY the curved wooden sieve-drum machine only; exclude baskets, shelves and background. Actual transparent background. Remove all floorboards, walls, architecture, other furniture, detached fragments, white edges and random speckles; open gaps between legs must be transparent. Preserve the target's original silhouette, tabletop slope, camera angle, visible legs, proportions, canvas registration and relative positions. DO NOT move, rotate, recenter, enlarge, rearrange or redesign the target; keep it in the same source canvas with the same margins. Do not invent missing parts or add objects. Make delicate brush edges slightly clearer and smooth out excess texture. Bright elegant restrained desaturated light-gray sage, pale warm wood and ivory palette, NOT brown-orange or saturated yellow/green. Thin gentle contours, clean smooth watercolor wash, greatly reduced grain and wood/bamboo texture, no muddiness, no heavy contrast or shadows. No new text, no labels, no frame. This is an edit of the original furniture, not a new independently designed furniture piece."
+    },
+    {
+      "id": "FGW_06",
+      "label": "原图秤盘与支架",
+      "room": "workshop",
+      "input": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\13_Figma原图拆分与景深调整\\逐件重制输入\\FGW_06_原图位置输入.png",
+      "sourceCrop": [
+        1418,
+        468,
+        144,
+        189
+      ],
+      "path": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-0ca65375-d980-4047-8101-250372519911.png",
+      "prompt": "Use case: background-extraction / precise-object-edit. The attached crop is an exact Figma source position for a Chinese ink-watercolor game. Extract and refine ONLY the weighing stand with beam, hanging cords and tea pan only; exclude railing, pots and shelves. Actual transparent background. Remove all floorboards, walls, architecture, other furniture, detached fragments, white edges and random speckles; open gaps between legs must be transparent. Preserve the target's original silhouette, tabletop slope, camera angle, visible legs, proportions, canvas registration and relative positions. DO NOT move, rotate, recenter, enlarge, rearrange or redesign the target; keep it in the same source canvas with the same margins. Do not invent missing parts or add objects. Make delicate brush edges slightly clearer and smooth out excess texture. Bright elegant restrained desaturated light-gray sage, pale warm wood and ivory palette, NOT brown-orange or saturated yellow/green. Thin gentle contours, clean smooth watercolor wash, greatly reduced grain and wood/bamboo texture, no muddiness, no heavy contrast or shadows. No new text, no labels, no frame. This is an edit of the original furniture, not a new independently designed furniture piece."
+    },
+    {
+      "id": "FGW_07",
+      "label": "原图三张后墙小工作台",
+      "room": "workshop",
+      "input": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\13_Figma原图拆分与景深调整\\逐件重制输入\\FGW_07_原图位置输入.png",
+      "sourceCrop": [
+        833,
+        223,
+        410,
+        260
+      ],
+      "path": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-b938bf82-acfb-46ae-83fc-4e0b1cc1d5ec.png",
+      "prompt": "Use case: background-extraction / precise-object-edit. The attached crop is an exact Figma source position for a Chinese ink-watercolor game. Extract and refine ONLY the three small rear-wall worktables, shelves and original attached utensils, kept in their original relative positions only. Actual transparent background. Remove all floorboards, walls, architecture, other furniture, detached fragments, white edges and random speckles; open gaps between legs must be transparent. Preserve the target's original silhouette, tabletop slope, camera angle, visible legs, proportions, canvas registration and relative positions. DO NOT move, rotate, recenter, enlarge, rearrange or redesign the target; keep it in the same source canvas with the same margins. Do not invent missing parts or add objects. Make delicate brush edges slightly clearer and smooth out excess texture. Bright elegant restrained desaturated light-gray sage, pale warm wood and ivory palette, NOT brown-orange or saturated yellow/green. Thin gentle contours, clean smooth watercolor wash, greatly reduced grain and wood/bamboo texture, no muddiness, no heavy contrast or shadows. No new text, no labels, no frame. This is an edit of the original furniture, not a new independently designed furniture piece."
+    },
+    {
+      "id": "FGW_08",
+      "label": "原图左侧辅助桌与竹筐",
+      "room": "workshop",
+      "input": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\13_Figma原图拆分与景深调整\\逐件重制输入\\FGW_08_原图位置输入.png",
+      "sourceCrop": [
+        323,
+        357,
+        131,
+        97
+      ],
+      "path": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-c989bd19-9bd7-4a67-8762-2eb25b54d922.png",
+      "prompt": "Use case: background-extraction / precise-object-edit. The attached crop is an exact Figma source position for a Chinese ink-watercolor game. Extract and refine ONLY the small auxiliary wooden side table with the small bamboo container only. Actual transparent background. Remove all floorboards, walls, architecture, other furniture, detached fragments, white edges and random speckles; open gaps between legs must be transparent. Preserve the target's original silhouette, tabletop slope, camera angle, visible legs, proportions, canvas registration and relative positions. DO NOT move, rotate, recenter, enlarge, rearrange or redesign the target; keep it in the same source canvas with the same margins. Do not invent missing parts or add objects. Make delicate brush edges slightly clearer and smooth out excess texture. Bright elegant restrained desaturated light-gray sage, pale warm wood and ivory palette, NOT brown-orange or saturated yellow/green. Thin gentle contours, clean smooth watercolor wash, greatly reduced grain and wood/bamboo texture, no muddiness, no heavy contrast or shadows. No new text, no labels, no frame. This is an edit of the original furniture, not a new independently designed furniture piece."
+    },
+    {
+      "id": "FGW_09",
+      "label": "原图长桌前竹筐",
+      "room": "workshop",
+      "input": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\13_Figma原图拆分与景深调整\\逐件重制输入\\FGW_09_原图位置输入.png",
+      "sourceCrop": [
+        464,
+        443,
+        80,
+        64
+      ],
+      "path": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-915aa10a-4f2b-46be-acaa-af889cd7995c.png",
+      "prompt": "Use case: background-extraction / precise-object-edit. The attached crop is an exact Figma source position for a Chinese ink-watercolor game. Extract and refine ONLY the large bamboo basket centered in the crop only. Actual transparent background. Remove all floorboards, walls, architecture, other furniture, detached fragments, white edges and random speckles; open gaps between legs must be transparent. Preserve the target's original silhouette, tabletop slope, camera angle, visible legs, proportions, canvas registration and relative positions. DO NOT move, rotate, recenter, enlarge, rearrange or redesign the target; keep it in the same source canvas with the same margins. Do not invent missing parts or add objects. Make delicate brush edges slightly clearer and smooth out excess texture. Bright elegant restrained desaturated light-gray sage, pale warm wood and ivory palette, NOT brown-orange or saturated yellow/green. Thin gentle contours, clean smooth watercolor wash, greatly reduced grain and wood/bamboo texture, no muddiness, no heavy contrast or shadows. No new text, no labels, no frame. This is an edit of the original furniture, not a new independently designed furniture piece."
+    },
+    {
+      "id": "FGW_10",
+      "label": "原图独立小凳",
+      "room": "workshop",
+      "input": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\13_Figma原图拆分与景深调整\\逐件重制输入\\FGW_10_原图位置输入.png",
+      "sourceCrop": [
+        589,
+        426,
+        50,
+        70
+      ],
+      "path": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-77f88f29-acd2-49cc-8305-ca6ffb5f1313.png",
+      "prompt": "Use case: background-extraction / precise-object-edit. The attached crop is an exact Figma source position for a Chinese ink-watercolor game. Extract and refine ONLY the small wooden stool centered in the crop only. Actual transparent background. Remove all floorboards, walls, architecture, other furniture, detached fragments, white edges and random speckles; open gaps between legs must be transparent. Preserve the target's original silhouette, tabletop slope, camera angle, visible legs, proportions, canvas registration and relative positions. DO NOT move, rotate, recenter, enlarge, rearrange or redesign the target; keep it in the same source canvas with the same margins. Do not invent missing parts or add objects. Make delicate brush edges slightly clearer and smooth out excess texture. Bright elegant restrained desaturated light-gray sage, pale warm wood and ivory palette, NOT brown-orange or saturated yellow/green. Thin gentle contours, clean smooth watercolor wash, greatly reduced grain and wood/bamboo texture, no muddiness, no heavy contrast or shadows. No new text, no labels, no frame. This is an edit of the original furniture, not a new independently designed furniture piece."
+    },
+    {
+      "id": "FGW_11",
+      "label": "原图炉前鲜叶竹篓",
+      "room": "workshop",
+      "input": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\13_Figma原图拆分与景深调整\\逐件重制输入\\FGW_11_原图位置输入.png",
+      "sourceCrop": [
+        699,
+        516,
+        65,
+        77
+      ],
+      "path": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-1a05b8cf-719a-4ac8-8479-730c06e15d12.png",
+      "prompt": "Use case: background-extraction / precise-object-edit. The attached crop is an exact Figma source position for a Chinese ink-watercolor game. Extract and refine ONLY the leaf-filled bamboo basket centered in the crop only. Actual transparent background. Remove all floorboards, walls, architecture, other furniture, detached fragments, white edges and random speckles; open gaps between legs must be transparent. Preserve the target's original silhouette, tabletop slope, camera angle, visible legs, proportions, canvas registration and relative positions. DO NOT move, rotate, recenter, enlarge, rearrange or redesign the target; keep it in the same source canvas with the same margins. Do not invent missing parts or add objects. Make delicate brush edges slightly clearer and smooth out excess texture. Bright elegant restrained desaturated light-gray sage, pale warm wood and ivory palette, NOT brown-orange or saturated yellow/green. Thin gentle contours, clean smooth watercolor wash, greatly reduced grain and wood/bamboo texture, no muddiness, no heavy contrast or shadows. No new text, no labels, no frame. This is an edit of the original furniture, not a new independently designed furniture piece."
+    },
+    {
+      "id": "FGW_12",
+      "label": "原图揉捻台旁茶篓与小篮",
+      "room": "workshop",
+      "input": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\13_Figma原图拆分与景深调整\\逐件重制输入\\FGW_12_原图位置输入.png",
+      "sourceCrop": [
+        1149,
+        629,
+        168,
+        123
+      ],
+      "path": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-9a82709f-b7c1-46e5-9c37-e186dbf8c6d1.png",
+      "prompt": "Use case: background-extraction / precise-object-edit. The attached crop is an exact Figma source position for a Chinese ink-watercolor game. Extract and refine ONLY the round handled tea basket and the small rectangular basket in front of it only, kept at the exact relative positions. Actual transparent background. Remove all floorboards, walls, architecture, other furniture, detached fragments, white edges and random speckles; open gaps between legs must be transparent. Preserve the target's original silhouette, tabletop slope, camera angle, visible legs, proportions, canvas registration and relative positions. DO NOT move, rotate, recenter, enlarge, rearrange or redesign the target; keep it in the same source canvas with the same margins. Do not invent missing parts or add objects. Make delicate brush edges slightly clearer and smooth out excess texture. Bright elegant restrained desaturated light-gray sage, pale warm wood and ivory palette, NOT brown-orange or saturated yellow/green. Thin gentle contours, clean smooth watercolor wash, greatly reduced grain and wood/bamboo texture, no muddiness, no heavy contrast or shadows. No new text, no labels, no frame. This is an edit of the original furniture, not a new independently designed furniture piece."
+    },
+    {
+      "id": "FGW_13",
+      "label": "原图后墙挂筛与茶字挂画",
+      "room": "workshop",
+      "input": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\13_Figma原图拆分与景深调整\\逐件重制输入\\FGW_13_原图位置输入.png",
+      "sourceCrop": [
+        905,
+        93,
+        77,
+        164
+      ],
+      "path": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-ad5129c4-978c-4e14-a91c-575748321dda.png",
+      "prompt": "Use case: background-extraction / precise-object-edit. The attached crop is an exact Figma source position for a Chinese ink-watercolor game. Extract and refine ONLY the tea-calligraphy hanging scroll only; preserve the original Chinese calligraphy already in this artwork, remove wood wall. Actual transparent background. Remove all floorboards, walls, architecture, other furniture, detached fragments, white edges and random speckles; open gaps between legs must be transparent. Preserve the target's original silhouette, tabletop slope, camera angle, visible legs, proportions, canvas registration and relative positions. DO NOT move, rotate, recenter, enlarge, rearrange or redesign the target; keep it in the same source canvas with the same margins. Do not invent missing parts or add objects. Make delicate brush edges slightly clearer and smooth out excess texture. Bright elegant restrained desaturated light-gray sage, pale warm wood and ivory palette, NOT brown-orange or saturated yellow/green. Thin gentle contours, clean smooth watercolor wash, greatly reduced grain and wood/bamboo texture, no muddiness, no heavy contrast or shadows. No new text, no labels, no frame. This is an edit of the original furniture, not a new independently designed furniture piece."
+    },
+    {
+      "id": "FGW_14",
+      "label": "原图两只墙面竹筛",
+      "room": "workshop",
+      "input": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\13_Figma原图拆分与景深调整\\逐件重制输入\\FGW_14_原图位置输入.png",
+      "sourceCrop": [
+        1034,
+        162,
+        103,
+        119
+      ],
+      "path": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-a1ffd7e4-ba3b-400f-80c8-3e37dbb01a21.png",
+      "prompt": "Use case: background-extraction / precise-object-edit. The attached crop is an exact Figma source position for a Chinese ink-watercolor game. Extract and refine ONLY the large circular bamboo sieve only; remove wall, architecture and other objects. Actual transparent background. Remove all floorboards, walls, architecture, other furniture, detached fragments, white edges and random speckles; open gaps between legs must be transparent. Preserve the target's original silhouette, tabletop slope, camera angle, visible legs, proportions, canvas registration and relative positions. DO NOT move, rotate, recenter, enlarge, rearrange or redesign the target; keep it in the same source canvas with the same margins. Do not invent missing parts or add objects. Make delicate brush edges slightly clearer and smooth out excess texture. Bright elegant restrained desaturated light-gray sage, pale warm wood and ivory palette, NOT brown-orange or saturated yellow/green. Thin gentle contours, clean smooth watercolor wash, greatly reduced grain and wood/bamboo texture, no muddiness, no heavy contrast or shadows. No new text, no labels, no frame. This is an edit of the original furniture, not a new independently designed furniture piece."
+    },
+    {
+      "id": "FGW_15",
+      "label": "原图右墙竹筛",
+      "room": "workshop",
+      "input": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\13_Figma原图拆分与景深调整\\逐件重制输入\\FGW_15_原图位置输入.png",
+      "sourceCrop": [
+        1146,
+        217,
+        91,
+        105
+      ],
+      "path": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-1a7c2612-789c-4daf-99aa-17a1d9b20be5.png",
+      "prompt": "Use case: background-extraction / precise-object-edit. The attached crop is an exact Figma source position for a Chinese ink-watercolor game. Extract and refine ONLY the second smaller circular bamboo sieve only; remove wall, architecture and other objects. Actual transparent background. Remove all floorboards, walls, architecture, other furniture, detached fragments, white edges and random speckles; open gaps between legs must be transparent. Preserve the target's original silhouette, tabletop slope, camera angle, visible legs, proportions, canvas registration and relative positions. DO NOT move, rotate, recenter, enlarge, rearrange or redesign the target; keep it in the same source canvas with the same margins. Do not invent missing parts or add objects. Make delicate brush edges slightly clearer and smooth out excess texture. Bright elegant restrained desaturated light-gray sage, pale warm wood and ivory palette, NOT brown-orange or saturated yellow/green. Thin gentle contours, clean smooth watercolor wash, greatly reduced grain and wood/bamboo texture, no muddiness, no heavy contrast or shadows. No new text, no labels, no frame. This is an edit of the original furniture, not a new independently designed furniture piece."
+    },
+    {
+      "id": "FGT_01",
+      "label": "原图售茶柜台",
+      "room": "teashop",
+      "input": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\13_Figma原图拆分与景深调整\\逐件重制输入\\FGT_01_原图位置输入.png",
+      "sourceCrop": [
+        774,
+        348,
+        427,
+        280
+      ],
+      "path": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-d4cd2986-04fc-4133-8116-b23fee48a172.png",
+      "prompt": "Use case: background-extraction / precise-object-edit. The attached crop is an exact Figma source position for a Chinese ink-watercolor game. Extract and refine ONLY the long tea-sales counter with original teapots and utensils on its top only; exclude rear cupboard, floor and any people. Actual transparent background. Remove all floorboards, walls, architecture, other furniture, detached fragments, white edges and random speckles; open gaps between legs must be transparent. Preserve the target's original silhouette, tabletop slope, camera angle, visible legs, proportions, canvas registration and relative positions. DO NOT move, rotate, recenter, enlarge, rearrange or redesign the target; keep it in the same source canvas with the same margins. Do not invent missing parts or add objects. Make delicate brush edges slightly clearer and smooth out excess texture. Bright elegant restrained desaturated light-gray sage, pale warm wood and ivory palette, NOT brown-orange or saturated yellow/green. Thin gentle contours, clean smooth watercolor wash, greatly reduced grain and wood/bamboo texture, no muddiness, no heavy contrast or shadows. No new text, no labels, no frame. This is an edit of the original furniture, not a new independently designed furniture piece."
+    },
+    {
+      "id": "FGT_02",
+      "label": "原图茶柜和储茶罐",
+      "room": "teashop",
+      "input": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\13_Figma原图拆分与景深调整\\逐件重制输入\\FGT_02_原图位置输入.png",
+      "sourceCrop": [
+        1116,
+        278,
+        362,
+        303
+      ],
+      "path": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-c32eee35-c56b-41d3-9bed-e1e2799f9d30.png",
+      "prompt": "Use case: background-extraction / precise-object-edit. The attached crop is an exact Figma source position for a Chinese ink-watercolor game. Extract and refine ONLY the rear tea-storage cupboard with its shelves, drawers and tea jars only; exclude walls, floor and foreground counter. Actual transparent background. Remove all floorboards, walls, architecture, other furniture, detached fragments, white edges and random speckles; open gaps between legs must be transparent. Preserve the target's original silhouette, tabletop slope, camera angle, visible legs, proportions, canvas registration and relative positions. DO NOT move, rotate, recenter, enlarge, rearrange or redesign the target; keep it in the same source canvas with the same margins. Do not invent missing parts or add objects. Make delicate brush edges slightly clearer and smooth out excess texture. Bright elegant restrained desaturated light-gray sage, pale warm wood and ivory palette, NOT brown-orange or saturated yellow/green. Thin gentle contours, clean smooth watercolor wash, greatly reduced grain and wood/bamboo texture, no muddiness, no heavy contrast or shadows. No new text, no labels, no frame. This is an edit of the original furniture, not a new independently designed furniture piece."
+    },
+    {
+      "id": "FGT_03",
+      "label": "原图左侧雅座桌椅",
+      "room": "teashop",
+      "input": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\13_Figma原图拆分与景深调整\\逐件重制输入\\FGT_03_原图位置输入.png",
+      "sourceCrop": [
+        347,
+        478,
+        210,
+        149
+      ],
+      "path": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-8b3e36aa-27e5-4f16-99f0-653734a19f32.png",
+      "prompt": "Use case: background-extraction / precise-object-edit. The attached crop is an exact Figma source position for a Chinese ink-watercolor game. Extract and refine ONLY the left tea table with the teaware and its original surrounding chairs only; exclude umbrella, railing and floor. Actual transparent background. Remove all floorboards, walls, architecture, other furniture, detached fragments, white edges and random speckles; open gaps between legs must be transparent. Preserve the target's original silhouette, tabletop slope, camera angle, visible legs, proportions, canvas registration and relative positions. DO NOT move, rotate, recenter, enlarge, rearrange or redesign the target; keep it in the same source canvas with the same margins. Do not invent missing parts or add objects. Make delicate brush edges slightly clearer and smooth out excess texture. Bright elegant restrained desaturated light-gray sage, pale warm wood and ivory palette, NOT brown-orange or saturated yellow/green. Thin gentle contours, clean smooth watercolor wash, greatly reduced grain and wood/bamboo texture, no muddiness, no heavy contrast or shadows. No new text, no labels, no frame. This is an edit of the original furniture, not a new independently designed furniture piece."
+    },
+    {
+      "id": "FGT_04",
+      "label": "原图前侧雅座桌椅",
+      "room": "teashop",
+      "input": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\13_Figma原图拆分与景深调整\\逐件重制输入\\FGT_04_原图位置输入.png",
+      "sourceCrop": [
+        686,
+        542,
+        241,
+        179
+      ],
+      "path": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-1427768f-cb15-4293-a211-46a82af760da.png",
+      "prompt": "Use case: background-extraction / precise-object-edit. The attached crop is an exact Figma source position for a Chinese ink-watercolor game. Extract and refine ONLY the front tea table with its teaware and surrounding chairs only; exclude plants, railing and floor. Actual transparent background. Remove all floorboards, walls, architecture, other furniture, detached fragments, white edges and random speckles; open gaps between legs must be transparent. Preserve the target's original silhouette, tabletop slope, camera angle, visible legs, proportions, canvas registration and relative positions. DO NOT move, rotate, recenter, enlarge, rearrange or redesign the target; keep it in the same source canvas with the same margins. Do not invent missing parts or add objects. Make delicate brush edges slightly clearer and smooth out excess texture. Bright elegant restrained desaturated light-gray sage, pale warm wood and ivory palette, NOT brown-orange or saturated yellow/green. Thin gentle contours, clean smooth watercolor wash, greatly reduced grain and wood/bamboo texture, no muddiness, no heavy contrast or shadows. No new text, no labels, no frame. This is an edit of the original furniture, not a new independently designed furniture piece."
+    },
+    {
+      "id": "FGT_05",
+      "label": "原图遮阳伞",
+      "room": "teashop",
+      "input": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\13_Figma原图拆分与景深调整\\逐件重制输入\\FGT_05_原图位置输入.png",
+      "sourceCrop": [
+        237,
+        396,
+        176,
+        115
+      ],
+      "path": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-7156ea9d-9741-45f3-9e88-4b3e713ad6b8.png",
+      "prompt": "Use case: background-extraction / precise-object-edit. The attached crop is an exact Figma source position for a Chinese ink-watercolor game. Extract and refine ONLY the paper parasol and its slender pole only; exclude tables, chairs, floor and railing. Actual transparent background. Remove all floorboards, walls, architecture, other furniture, detached fragments, white edges and random speckles; open gaps between legs must be transparent. Preserve the target's original silhouette, tabletop slope, camera angle, visible legs, proportions, canvas registration and relative positions. DO NOT move, rotate, recenter, enlarge, rearrange or redesign the target; keep it in the same source canvas with the same margins. Do not invent missing parts or add objects. Make delicate brush edges slightly clearer and smooth out excess texture. Bright elegant restrained desaturated light-gray sage, pale warm wood and ivory palette, NOT brown-orange or saturated yellow/green. Thin gentle contours, clean smooth watercolor wash, greatly reduced grain and wood/bamboo texture, no muddiness, no heavy contrast or shadows. No new text, no labels, no frame. This is an edit of the original furniture, not a new independently designed furniture piece."
+    },
+    {
+      "id": "FGT_06",
+      "label": "原图前侧盆栽",
+      "room": "teashop",
+      "input": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\13_Figma原图拆分与景深调整\\逐件重制输入\\FGT_06_原图位置输入.png",
+      "sourceCrop": [
+        578,
+        570,
+        82,
+        109
+      ],
+      "path": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-dde2292e-c5b1-4f1e-96d6-b18ca3aa6720.png",
+      "prompt": "Use case: background-extraction / precise-object-edit. The attached crop is an exact Figma source position for a Chinese ink-watercolor game. Extract and refine ONLY the front potted plant only; exclude surrounding furniture and floor. Actual transparent background. Remove all floorboards, walls, architecture, other furniture, detached fragments, white edges and random speckles; open gaps between legs must be transparent. Preserve the target's original silhouette, tabletop slope, camera angle, visible legs, proportions, canvas registration and relative positions. DO NOT move, rotate, recenter, enlarge, rearrange or redesign the target; keep it in the same source canvas with the same margins. Do not invent missing parts or add objects. Make delicate brush edges slightly clearer and smooth out excess texture. Bright elegant restrained desaturated light-gray sage, pale warm wood and ivory palette, NOT brown-orange or saturated yellow/green. Thin gentle contours, clean smooth watercolor wash, greatly reduced grain and wood/bamboo texture, no muddiness, no heavy contrast or shadows. No new text, no labels, no frame. This is an edit of the original furniture, not a new independently designed furniture piece."
+    },
+    {
+      "id": "FGT_07",
+      "label": "原图柱旁盆栽",
+      "room": "teashop",
+      "input": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\13_Figma原图拆分与景深调整\\逐件重制输入\\FGT_07_原图位置输入.png",
+      "sourceCrop": [
+        680,
+        422,
+        60,
+        119
+      ],
+      "path": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-7f510523-7494-4f53-be94-3c58c004019a.png",
+      "prompt": "Use case: background-extraction / precise-object-edit. The attached crop is an exact Figma source position for a Chinese ink-watercolor game. Extract and refine ONLY the pillar-side potted plant and its low wooden plant stand only; exclude pillar and floor. Actual transparent background. Remove all floorboards, walls, architecture, other furniture, detached fragments, white edges and random speckles; open gaps between legs must be transparent. Preserve the target's original silhouette, tabletop slope, camera angle, visible legs, proportions, canvas registration and relative positions. DO NOT move, rotate, recenter, enlarge, rearrange or redesign the target; keep it in the same source canvas with the same margins. Do not invent missing parts or add objects. Make delicate brush edges slightly clearer and smooth out excess texture. Bright elegant restrained desaturated light-gray sage, pale warm wood and ivory palette, NOT brown-orange or saturated yellow/green. Thin gentle contours, clean smooth watercolor wash, greatly reduced grain and wood/bamboo texture, no muddiness, no heavy contrast or shadows. No new text, no labels, no frame. This is an edit of the original furniture, not a new independently designed furniture piece."
+    },
+    {
+      "id": "FGT_08",
+      "label": "原图柜后盆栽",
+      "room": "teashop",
+      "input": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\13_Figma原图拆分与景深调整\\逐件重制输入\\FGT_08_原图位置输入.png",
+      "sourceCrop": [
+        828,
+        300,
+        65,
+        100
+      ],
+      "path": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-fa19e6bf-5d5e-4c0f-a400-9df3ee348a33.png",
+      "prompt": "Use case: background-extraction / precise-object-edit. The attached crop is an exact Figma source position for a Chinese ink-watercolor game. Extract and refine ONLY the rear potted plant with its low support only; exclude wall, railing and floor. Actual transparent background. Remove all floorboards, walls, architecture, other furniture, detached fragments, white edges and random speckles; open gaps between legs must be transparent. Preserve the target's original silhouette, tabletop slope, camera angle, visible legs, proportions, canvas registration and relative positions. DO NOT move, rotate, recenter, enlarge, rearrange or redesign the target; keep it in the same source canvas with the same margins. Do not invent missing parts or add objects. Make delicate brush edges slightly clearer and smooth out excess texture. Bright elegant restrained desaturated light-gray sage, pale warm wood and ivory palette, NOT brown-orange or saturated yellow/green. Thin gentle contours, clean smooth watercolor wash, greatly reduced grain and wood/bamboo texture, no muddiness, no heavy contrast or shadows. No new text, no labels, no frame. This is an edit of the original furniture, not a new independently designed furniture piece."
+    }
+  ],
+  "ui": [
+    {
+      "id": "world_icon_atlas",
+      "prompt": "Asset type: a production UI icon atlas for a restrained Chinese ink-watercolor tea game. EXACTLY eight pictograms in a precise 4 columns x 2 rows grid, all eight square cells the same size, with large clear transparent gutters. Actual transparent background. Each is a small circular muted warm walnut-brown medallion, thin pale ivory/gold rim, and a crisp ivory silhouette centered inside. Row 1 from left to right: two tea leaves (spreading fresh leaves); three rising vapour wisps (drying); a shallow wok with small heat wisps (kill-green heating); two curving arrows around a tea leaf (rolling). Row 2: a circular tea sieve with a few small holes; a Chinese tea cup; a stack of three ancient square-holed coins; a small tea storage jar. Keep a simple elegant hand-painted line style, bright desaturated colours, readable symbols, flat front-view icon geometry. No tiny noisy textures, no heavy paper grain, no dirty shading, no extra elements, no texts, no letters, no numbers, no cell borders, no cast shadows. Eight icons only, centred in their own cells. Resolution high enough for individually extracting each icon.",
+      "path": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-8b45230b-24c5-4a88-895e-390a048466ee.png"
+    },
+    {
+      "id": "toolbar_icon_atlas",
+      "prompt": "Asset type: production transparent UI icon atlas for the same Chinese ink-watercolor tea game. Precisely 4 columns x 4 rows of equal square cells, transparent wide gutters. Fourteen distinct small hand-painted standalone pictograms. Row 1 left to right: a tiny bowl holding three tea seeds; a small pale cloth shoulder satchel; a woven tea picking basket; a tied small fertiliser cloth sack with a leaf. Row 2: a rolled instruction scroll; an open tea notebook; a simple muted wood cogwheel (settings); two crossed tea-working bamboo utensils. Row 3: small traditional wooden abacus; blank paper wall calendar (NO numerals); one tender tea sprig; a rolled record scroll with a downward arrow (save). Row 4: a rolled record scroll with an upward arrow (load); small traditional tea village pavilion (home); empty transparent cell; empty transparent cell. Actual transparent background. All icons centered individually, no circular backing and no enclosing frames. Elegant clean flat 2D Chinese ink-watercolor style, smooth colour washes and fine readable contours, pale desaturated sage #8e9b88, warm pale bamboo #c8b89b, ivory #f6f3e9, charcoal #727b72. Avoid brown-orange saturation, strong contrast, clutter, noise, paper grain, muddy surfaces, highly woven texture, gloss and heavy shadow. No text or letters anywhere. Keep all fourteen cell symbols easy to distinguish. High-resolution raster for splitting into independent PNGs.",
+      "path": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-c5c17e06-9fee-4eab-9738-a1cba163f463.png"
+    },
+    {
+      "id": "tag_plate",
+      "prompt": "Asset type: single blank vertical hanging tag for a Chinese ink-watercolor game UI, high resolution transparent PNG. Tall narrow proportions about 1:2.5. A round muted pale walnut-brown medallion at the top with a thin ivory and pale gold outline, the medallion is EMPTY with no symbol. Below it an ivory paper pennant with straight neat sides, gently pointed bottom and tiny pale gold diamond underneath. Warm pearl paper #faf7ed, muted brown #887b60 and pale fine gold contour #c9b992. Thin elegant hand-painted curves, extremely subtle smooth wash, crisp clean symmetrical silhouette. No texture grain, no noise, no dirty colour, no aged paper speckles, no oversaturation, no shadows. No text, no lettering, no symbol, no glyphs. Actual transparency all around the tag. This will be layered with separately generated pictograms and runtime Godot text.",
+      "path": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-c37a84f8-ed87-4080-972d-d7d8e5da0e53.png"
+    },
+    {
+      "id": "text_panel",
+      "prompt": "Asset type: large blank content window panel for a Chinese ink-watercolor tea game, transparent PNG. Horizontal proportions 1.4:1, straight rectangular sides with gently rounded stepped corners. Bright ivory solid paper interior #faf8ee, very thin muted sage and pale warm gold double border, tiny restrained Chinese cloud corner flourishes only at the four corners. Vast completely clean empty center with generous safe text margins. Consistent elegant pale ink-watercolor style, smooth colour wash and readable clean outline, no noise, no paper grain, no speckles, no dark shadow. No text, no heading, no icons, no objects, no decorative images inside. Actual transparent background outside frame. Frame must be uniform, continuous, symmetrical and fully visible, nothing clipped. It is a text page background, all content will be rendered by Godot.",
+      "path": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-bc2bd55b-739e-405e-9641-b11bc56b4fc6.png"
+    },
+    {
+      "id": "tooltip_panel",
+      "prompt": "Asset type: a single compact blank hover tooltip background for a Chinese ink-watercolor tea game. Wide horizontal soft rectangle about 3:1. Ivory paper #fffbed interior fully empty, thin muted gold #c8b68e outline, delicately rounded continuous clean corners, tiny restrained brush flourish only at ends. Light smooth desaturated wash, no grain, no muddiness, no clutter, no extra objects, no dark shadow, no text, no letters, no glyphs. Transparent outside panel. Crisp high-resolution PNG. Safe interior plain and bright for dark-green text rendered later by Godot.",
+      "path": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-27db4921-0e28-4b16-bd3e-81b78dc1a52b.png"
+    },
+    {
+      "id": "toolbar_panel",
+      "prompt": "Asset type: single long blank HUD and bottom toolbar panel for a Chinese ink-watercolor tea game. Very wide horizontal 7:1 banner, bright ivory #faf7ee center, continuous thin muted warm gold double outline with elegant stepped rounded corners and tiny cloud curls at the ends. Uniform clean transparent outer silhouette, no large opaque rectangle outside the panel. The interior must be completely blank, no vertical dividers, no titles, no text, no icons, no objects. Bright elegant desaturated smooth watercolor, no paper texture, no grain, no shadows, no dirty wash, no oversaturated colour. High resolution transparent PNG, all edges fully present without clipping.",
+      "path": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-269b02cd-5cff-4caa-a2e4-500036e63254.png"
+    },
+    {
+      "id": "brown_button",
+      "prompt": "Asset type: a single blank Chinese ink-watercolor game button. Wide horizontal 4:1 pill-shaped stepped cloud plaque, muted warm walnut #9a896e interior, thin bright ivory and pale gold double border. Clean smooth restrained brush colour wash, no grain, no wood texture, no noise, no gloss or heavy shadow. Symmetrical carefully finished edges, generous empty center for runtime text. No text, no letters, no symbols. High-resolution transparent PNG with full complete outline, no outer rectangular background.",
+      "path": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-a2c33999-f088-4aec-8dab-3ff1a77c0fc4.png"
+    },
+    {
+      "id": "green_button",
+      "prompt": "Asset type: single blank Chinese ink-watercolor game button. Wide horizontal 4:1 stepped cloud plaque, pale desaturated sage #9fae95 interior, thin ivory and pale gold double border, bright clean elegant smooth wash and tiny restrained cloud curls at ends. No texture, no grain, no noise, no muddy colour, no dark shadows. Symmetrical crisp continuous full silhouette. Empty center for runtime Godot text. No words, no icons, no glyphs. Actual transparent PNG. It must visually match a muted pale walnut button with the same border style.",
+      "path": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-e3a2c98b-bc92-45c9-88c4-a3673d57f2d3.png"
+    },
+    {
+      "id": "circle_plate",
+      "prompt": "Asset type: single blank circular icon backing for a Chinese ink-watercolor tea game. Perfectly circular bright ivory #faf7ed flat paper medallion, thin pale gold double outline, slightly hand-drawn elegant line. Completely empty clean center. Muted sage-grey and pale bamboo palette accents only in border, no grain, no noise, no dirt, no extra objects, no lettering or icons, no shadows. All outline fully visible. High resolution actual transparent PNG outside circle.",
+      "path": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-32b25c8d-2adf-4d79-af94-fb1dd0542932.png"
+    }
+  ],
+  "rooms": [
+    {
+      "room": "workshop",
+      "id": "workshop_seamless_ui_removed",
+      "prompt": "Use case: precise-object-edit. This reference is the canonical camera and furniture layout of a Chinese ink-watercolor 2D game. Edit ONLY the interface overlays and backdrop cleanliness; keep ALL original furniture, architecture, object silhouettes, tabletop angles, positions and scales unchanged. Remove ALL UI: left vertical title and nearby slogans, all five/three circular hanging process markers and their white text ribbons, all upper-right small interface circles, whole bottom horizontal UI toolbar and the bottom-right action button, any speech bubbles. Remove any remaining human fragments. Reconstruct only the tiny surfaces underneath these overlays using matching original floorboard directions, wall and landscape. Seamless clean room image, no rectangular patches or mismatched colour. The landscape should be pale ivory mist with less contrast in distant mountains, NOT gaussian blur. Keep foreground objects clear in restrained muted sage, pale warm wood, charcoal-grey tiles, bright ivory. Reduce excess grain and dirty speckles but keep original delicate linework. No added furniture, no added people, no new ornaments, no letters, no icons, no interface, no extra objects. Preserve the full original composition and exact 16:9 camera angle; do not change perspective or move any furniture. Output opaque full scene.",
+      "reference": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\13_Figma原图拆分与景深调整\\原始Figma素材\\workshop_people_removed_local_patch.png",
+      "path": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-c4399d2c-0d9b-4a44-aa33-7033e2b5a398.png"
+    },
+    {
+      "room": "teashop",
+      "id": "teashop_seamless_ui_removed",
+      "prompt": "Use case: precise-object-edit. This reference is the canonical camera and furniture layout of a Chinese ink-watercolor 2D game. Edit ONLY the interface overlays and backdrop cleanliness; keep ALL original furniture, architecture, object silhouettes, tabletop angles, positions and scales unchanged. Remove ALL UI: left vertical title and nearby slogans, all five/three circular hanging process markers and their white text ribbons, all upper-right small interface circles, whole bottom horizontal UI toolbar and the bottom-right action button, any speech bubbles. Remove any remaining human fragments. Reconstruct only the tiny surfaces underneath these overlays using matching original floorboard directions, wall and landscape. Seamless clean room image, no rectangular patches or mismatched colour. The landscape should be pale ivory mist with less contrast in distant mountains, NOT gaussian blur. Keep foreground objects clear in restrained muted sage, pale warm wood, charcoal-grey tiles, bright ivory. Reduce excess grain and dirty speckles but keep original delicate linework. No added furniture, no added people, no new ornaments, no letters, no icons, no interface, no extra objects. Preserve the full original composition and exact 16:9 camera angle; do not change perspective or move any furniture. Output opaque full scene.",
+      "reference": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\13_Figma原图拆分与景深调整\\原始Figma素材\\teashop_people_removed_local_patch.png",
+      "path": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-bfbf76fa-c899-42fe-a4b2-17e6258fe365.png"
+    }
+  ]
+}

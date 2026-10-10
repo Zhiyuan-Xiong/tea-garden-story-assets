@@ -1,0 +1,23 @@
+{
+  "id": "BLD_101",
+  "category": "03_建筑与场景",
+  "functionArea": "场景分层",
+  "label": "主地图工坊建筑",
+  "plannedFile": "bld_workshop_exterior_v001.png",
+  "batch": "06_场景与装饰",
+  "targetSize": "1536×1024",
+  "status": "待生成",
+  "actualSize": "",
+  "relativePath": "03_建筑与场景/bld_workshop_exterior_v001.png",
+  "remarks": "独立建筑，无人物和导航文字",
+  "prompt": "Use case: stylized-concept. Asset type: one independent transparent PNG for the 2D/2.5D Chinese tea-village game 茶园物语.\nStyle: clean Chinese ink outline with pale hand-painted watercolor fills, harmonizing with the approved references. Simple large clear shapes, controlled sparse brush marks, thin charcoal/brown linework; avoid dense texture or paper grain. Restrained ivory #EEE5D5, sage #83957E, tea green #526C62, charcoal #5C6261, pale timber #967653, bamboo #C5A36F, occasional dusty coral #B76651.\nFor constructed objects use elevated parallel dimetric 2:1 ground axes, diagonal edges slope about ±26.565 degrees, verticals remain vertical, near and far edges stay parallel, no lens perspective. Soft even light, modest internal shading, no cast ground shadow.\nOutput actual RGBA transparency outside the subject. Full silhouette, visible generous transparent margin on ALL four sides; never crop. No background fill, checkerboard, paper sheet, black background, white background, vignette, glow, halo, text, calligraphy, numerals, UI, labels, borders, watermark. No extra props, people, scenery, repeated objects or decorative clutter. Avoid oversaturation, muddy gradients, noise, excessive fiber or woodgrain, photorealism, heavy black outline and strong reflections. Preserve clear edges at small gameplay sizes.\nPrimary request: redraw the workshop in Input1, keeping its compact three-bay Jiangnan architecture, charcoal gable roof, pale timber, central open doorway and two lattice windows. Correct ONLY the ground-plane camera and simplify texturing.\nCamera is essential: match Input2 square table's two equal-angle horizontal plane directions, and Input3 road direction. ALL horizontal ground-plane building edges must be parallel to ONE of two screen directions: (2,1) and (2,-1). Both directions have slope magnitude 0.5, both 26.565 degrees to horizontal. Verticals exactly vertical. Front foundation and lintel run downward toward screen-right at +26.565°; the short right-side foundation goes upward toward screen-right at -26.565°. Do not use the flatter 15-degree front-axis of Input1. Rectangular building can be longer across front but camera axis angles must be equal. Roof pitched surfaces naturally have a different slope, but the roof ridge follows the long ground axis. No perspective convergence.\nEntire building alone on real transparent RGBA. No extra subject, no road/table from references, no furniture or signs or surrounding land. Uniform clean hand-painted pale-watercolor, very light controlled texture. Landscape target1536×1024, leave 5% transparency around all sides.",
+  "references": [
+    "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-565eff9d-1d73-4a6f-bd7a-9d829bde8e90.png",
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\06_道具与图标\\prp_tea_table_empty_v001.png",
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\02_地形与植物\\ter_path_earth_straight_v001.png"
+  ],
+  "mode": "built-in image_gen",
+  "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-edb0067f-de01-4765-894f-433fa55c8b0f.png",
+  "savedPath": "03_建筑与场景/bld_workshop_exterior_v001.png",
+  "destination": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\03_建筑与场景\\bld_workshop_exterior_v001.png"
+}

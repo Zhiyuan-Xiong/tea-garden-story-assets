@@ -1,0 +1,21 @@
+{
+  "id": "DEC_103",
+  "category": "03_建筑与场景",
+  "functionArea": "场景分层",
+  "label": "临水荷花",
+  "plannedFile": "dec_lotus_v001.png",
+  "batch": "06_场景与装饰",
+  "targetSize": "1024×1024",
+  "status": "待生成",
+  "actualSize": "",
+  "relativePath": "03_建筑与场景/dec_lotus_v001.png",
+  "remarks": "无水面底",
+  "prompt": "Use case: stylized-concept. Asset type: one independent transparent PNG for the 2D/2.5D Chinese tea-village game 茶园物语.\nStyle: clean Chinese ink outline with pale hand-painted watercolor fills, harmonizing with the approved references. Simple large clear shapes, controlled sparse brush marks, thin charcoal/brown linework; avoid dense texture or paper grain. Restrained ivory #EEE5D5, sage #83957E, tea green #526C62, charcoal #5C6261, pale timber #967653, bamboo #C5A36F, occasional dusty coral #B76651.\nFor constructed objects use elevated parallel dimetric 2:1 ground axes, diagonal edges slope about ±26.565 degrees, verticals remain vertical, near and far edges stay parallel, no lens perspective. Soft even light, modest internal shading, no cast ground shadow.\nOutput actual RGBA transparency outside the subject. Full silhouette, visible generous transparent margin on ALL four sides; never crop. No background fill, checkerboard, paper sheet, black background, white background, vignette, glow, halo, text, calligraphy, numerals, UI, labels, borders, watermark. No extra props, people, scenery, repeated objects or decorative clutter. Avoid oversaturation, muddy gradients, noise, excessive fiber or woodgrain, photorealism, heavy black outline and strong reflections. Preserve clear edges at small gameplay sizes.\nPrimary request: ONLY one small clean lotus plant cluster for independent overlay onto the water layer. Input1 references the pale lotus flowers and muted sage leaves at the tea-house water edge, but no other content from the input.\nSubject: THREE broad round lotus leaves at different low heights, one subtly cupped leaf, one OPEN soft ivory-pink lotus flower and one small closed bud on simple thin stems, all arranged as a compact single connected plant cluster. Leaves muted tea/sage green with a few understated radial veins, petals mostly ivory with faint dusty pink tips and small bamboo yellow center. Whole stems visible down to a shared low planting baseline; no exposed tangled roots. Elevated three-quarter game view, low leaves foreshortened cleanly at approx2:1 horizontal ellipse, no dramatic perspective.\nSquare target1024×1024, plant cluster centered occupying at most75% canvas width/height. Leaf edges, petals, stems fully intact, generous transparent padding. NO water surface at all, ripple, shoreline, pot, soil, rocks, grass, surrounding other plants, insects, animals, people or text. No floating extra separate petals. Smooth clean watercolor fills with very few brush strokes, gentle thin outlines, no paper grain or excessive leaf texture. Actual RGBA transparent exterior.",
+  "references": [
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\01_Figma参考\\figma_teashop_20261008.png"
+  ],
+  "mode": "built-in image_gen",
+  "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-a711c763-b95e-4a19-a550-1e3595893701.png",
+  "savedPath": "03_建筑与场景/dec_lotus_v001.png",
+  "destination": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\03_建筑与场景\\dec_lotus_v001.png"
+}

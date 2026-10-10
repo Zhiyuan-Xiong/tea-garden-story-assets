@@ -1,0 +1,540 @@
+{
+  "date": "2026-10-08",
+  "batch": "02_茶园素材",
+  "count": 18,
+  "passed": 18,
+  "method": "原始PNG检查，不修改图像；可见包围盒阈值alpha>=16；根部为末尾5行alpha>=128像素平均，仅作建议锚点",
+  "assets": [
+    {
+      "id": "PLT_102",
+      "file": "02_地形与植物/plt_tea_bush_seedling_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "format": "png",
+      "hasAlpha": true,
+      "cornersAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparentPixels": 1418267,
+      "partialAlphaPixels": 153803,
+      "visiblePixels": 130975,
+      "transparentRatio": 0.9019,
+      "borderNonzeroPixels": 0,
+      "visibleBBoxAlpha16": [
+        312,
+        430,
+        992,
+        1025
+      ],
+      "rootApproxAlpha128": [
+        642,
+        1025
+      ],
+      "maxAlpha": 255,
+      "sha256": "7eead7325ab81223ba8cfbc59cced7fc47d3a06790ce968be2927c60774d7cd5",
+      "pass": true
+    },
+    {
+      "id": "PLT_103",
+      "file": "02_地形与植物/plt_tea_bush_growing_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "format": "png",
+      "hasAlpha": true,
+      "cornersAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparentPixels": 1040413,
+      "partialAlphaPixels": 531474,
+      "visiblePixels": 512358,
+      "transparentRatio": 0.6616,
+      "borderNonzeroPixels": 0,
+      "visibleBBoxAlpha16": [
+        30,
+        280,
+        1242,
+        1031
+      ],
+      "rootApproxAlpha128": [
+        634,
+        1031
+      ],
+      "maxAlpha": 255,
+      "sha256": "ddac8ce4ca6ca25aa99a21ffd665c26f18197455449185213eff7f1692271ef2",
+      "pass": true
+    },
+    {
+      "id": "PLT_104",
+      "file": "02_地形与植物/plt_tea_bush_harvested_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "format": "png",
+      "hasAlpha": true,
+      "cornersAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparentPixels": 1041019,
+      "partialAlphaPixels": 530934,
+      "visiblePixels": 512674,
+      "transparentRatio": 0.662,
+      "borderNonzeroPixels": 5,
+      "visibleBBoxAlpha16": [
+        31,
+        301,
+        1244,
+        1030
+      ],
+      "rootApproxAlpha128": [
+        635,
+        1030
+      ],
+      "maxAlpha": 255,
+      "sha256": "92b37589499eee1cd5b295f443b2a1fcf1a2abab475dd3797268d08103e76a45",
+      "pass": true
+    },
+    {
+      "id": "TER_102",
+      "file": "02_地形与植物/ter_path_earth_straight_v001.png",
+      "width": 1536,
+      "height": 1024,
+      "format": "png",
+      "hasAlpha": true,
+      "cornersAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparentPixels": 1206033,
+      "partialAlphaPixels": 366831,
+      "visiblePixels": 356016,
+      "transparentRatio": 0.7668,
+      "borderNonzeroPixels": 10,
+      "visibleBBoxAlpha16": [
+        84,
+        204,
+        1452,
+        887
+      ],
+      "rootApproxAlpha128": null,
+      "maxAlpha": 254,
+      "sha256": "3a82395916c142ef7eb01ccfb62b20afbf225b689dce186301f4297233637104",
+      "pass": true
+    },
+    {
+      "id": "TER_103",
+      "file": "02_地形与植物/ter_path_stone_straight_v001.png",
+      "width": 1536,
+      "height": 1024,
+      "format": "png",
+      "hasAlpha": true,
+      "cornersAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparentPixels": 1133444,
+      "partialAlphaPixels": 439420,
+      "visiblePixels": 430705,
+      "transparentRatio": 0.7206,
+      "borderNonzeroPixels": 2,
+      "visibleBBoxAlpha16": [
+        24,
+        158,
+        1514,
+        940
+      ],
+      "rootApproxAlpha128": null,
+      "maxAlpha": 254,
+      "sha256": "2f134c6a0c25f5a81439341b10bc731dc3866d2cc0b5e0082890b50de17921f9",
+      "pass": true
+    },
+    {
+      "id": "TER_104",
+      "file": "02_地形与植物/ter_retaining_wall_v001.png",
+      "width": 1536,
+      "height": 1024,
+      "format": "png",
+      "hasAlpha": true,
+      "cornersAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparentPixels": 1083661,
+      "partialAlphaPixels": 489203,
+      "visiblePixels": 478944,
+      "transparentRatio": 0.689,
+      "borderNonzeroPixels": 0,
+      "visibleBBoxAlpha16": [
+        114,
+        172,
+        1453,
+        909
+      ],
+      "rootApproxAlpha128": null,
+      "maxAlpha": 254,
+      "sha256": "0e00cdf3b5a60656b34637ebd25a64e93ceaee5f99c6a1c92bac482eb7b9a712",
+      "pass": true
+    },
+    {
+      "id": "TER_105",
+      "file": "02_地形与植物/ter_rock_sage_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "format": "png",
+      "hasAlpha": true,
+      "cornersAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparentPixels": 1136018,
+      "partialAlphaPixels": 435837,
+      "visiblePixels": 429293,
+      "transparentRatio": 0.7224,
+      "borderNonzeroPixels": 0,
+      "visibleBBoxAlpha16": [
+        84,
+        368,
+        1192,
+        954
+      ],
+      "rootApproxAlpha128": null,
+      "maxAlpha": 255,
+      "sha256": "5b864f63eafa9023808f0a1fdfb04a92d413a1e894105cc773a33eb8a0f01544",
+      "pass": true
+    },
+    {
+      "id": "PLT_105",
+      "file": "02_地形与植物/plt_bamboo_cluster_v001.png",
+      "width": 1024,
+      "height": 1536,
+      "format": "png",
+      "hasAlpha": true,
+      "cornersAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparentPixels": 1115019,
+      "partialAlphaPixels": 457845,
+      "visiblePixels": 333464,
+      "transparentRatio": 0.7089,
+      "borderNonzeroPixels": 3,
+      "visibleBBoxAlpha16": [
+        60,
+        59,
+        985,
+        1434
+      ],
+      "rootApproxAlpha128": null,
+      "maxAlpha": 254,
+      "sha256": "d8483e8a00d68b2871301a59a89e853f955b8500d3dc23271b4ac2ce901ecb90",
+      "pass": true
+    },
+    {
+      "id": "PRP_102",
+      "file": "06_道具与图标/prp_seed_bag_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "format": "png",
+      "hasAlpha": true,
+      "cornersAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparentPixels": 946907,
+      "partialAlphaPixels": 625479,
+      "visiblePixels": 617142,
+      "transparentRatio": 0.6022,
+      "borderNonzeroPixels": 72,
+      "visibleBBoxAlpha16": [
+        219,
+        179,
+        1052,
+        1101
+      ],
+      "rootApproxAlpha128": null,
+      "maxAlpha": 255,
+      "sha256": "4f7518215a86143d0316cfcdadf1041326a23f914ea06ee048527e7e554e42e9",
+      "pass": true
+    },
+    {
+      "id": "PRP_103",
+      "file": "06_道具与图标/prp_fresh_tea_leaves_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "format": "png",
+      "hasAlpha": true,
+      "cornersAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparentPixels": 1192381,
+      "partialAlphaPixels": 379317,
+      "visiblePixels": 343606,
+      "transparentRatio": 0.7583,
+      "borderNonzeroPixels": 0,
+      "visibleBBoxAlpha16": [
+        33,
+        150,
+        1221,
+        1103
+      ],
+      "rootApproxAlpha128": null,
+      "maxAlpha": 255,
+      "sha256": "0c1110257e3d8c1906da15be2bbfef3be2ddf5aa069dcb0d1c9d1572de34ab5e",
+      "pass": true
+    },
+    {
+      "id": "PRP_104",
+      "file": "06_道具与图标/prp_fertilizer_bag_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "format": "png",
+      "hasAlpha": true,
+      "cornersAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparentPixels": 936988,
+      "partialAlphaPixels": 635178,
+      "visiblePixels": 625334,
+      "transparentRatio": 0.5959,
+      "borderNonzeroPixels": 9,
+      "visibleBBoxAlpha16": [
+        119,
+        169,
+        1136,
+        1118
+      ],
+      "rootApproxAlpha128": null,
+      "maxAlpha": 255,
+      "sha256": "9c0baef919d2bb52d243d38873b1fb1085ad630b6c18750a782c0ae9ca8afb3d",
+      "pass": true
+    },
+    {
+      "id": "PRP_105",
+      "file": "06_道具与图标/prp_picking_manual_closed_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "format": "png",
+      "hasAlpha": true,
+      "cornersAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparentPixels": 1079820,
+      "partialAlphaPixels": 492268,
+      "visiblePixels": 484170,
+      "transparentRatio": 0.6867,
+      "borderNonzeroPixels": 27,
+      "visibleBBoxAlpha16": [
+        157,
+        201,
+        1110,
+        1060
+      ],
+      "rootApproxAlpha128": null,
+      "maxAlpha": 255,
+      "sha256": "814db969d9bec4f65df58874503266aa3b9e9f6908b5c5ee00dc36a62406081b",
+      "pass": true
+    },
+    {
+      "id": "PRP_106",
+      "file": "06_道具与图标/prp_satchel_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "format": "png",
+      "hasAlpha": true,
+      "cornersAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparentPixels": 994617,
+      "partialAlphaPixels": 576608,
+      "visiblePixels": 564137,
+      "transparentRatio": 0.6325,
+      "borderNonzeroPixels": 5,
+      "visibleBBoxAlpha16": [
+        243,
+        72,
+        1115,
+        1184
+      ],
+      "rootApproxAlpha128": null,
+      "maxAlpha": 255,
+      "sha256": "336f0b904301738449a35f2be433805c952a4825c46a10ad1e32d1dac5f14212",
+      "pass": true
+    },
+    {
+      "id": "ICO_101",
+      "file": "06_道具与图标/ico_seeds_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "format": "png",
+      "hasAlpha": true,
+      "cornersAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparentPixels": 1179091,
+      "partialAlphaPixels": 393015,
+      "visiblePixels": 387053,
+      "transparentRatio": 0.7498,
+      "borderNonzeroPixels": 0,
+      "visibleBBoxAlpha16": [
+        269,
+        306,
+        1013,
+        1008
+      ],
+      "rootApproxAlpha128": null,
+      "maxAlpha": 255,
+      "sha256": "c2236c6c4d26e2839cc993e8d3412ef4f324663c19d7116753c2dc12eb4b2bd4",
+      "pass": true
+    },
+    {
+      "id": "ICO_102",
+      "file": "06_道具与图标/ico_inventory_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "format": "png",
+      "hasAlpha": true,
+      "cornersAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparentPixels": 1080335,
+      "partialAlphaPixels": 491211,
+      "visiblePixels": 481715,
+      "transparentRatio": 0.687,
+      "borderNonzeroPixels": 1,
+      "visibleBBoxAlpha16": [
+        260,
+        163,
+        1055,
+        1141
+      ],
+      "rootApproxAlpha128": null,
+      "maxAlpha": 255,
+      "sha256": "d0a8f32520c568b9d73d2562bbc61efc4c9e98f1348dac55a0e52efef30ddd13",
+      "pass": true
+    },
+    {
+      "id": "ICO_103",
+      "file": "06_道具与图标/ico_basket_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "format": "png",
+      "hasAlpha": true,
+      "cornersAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparentPixels": 963030,
+      "partialAlphaPixels": 609023,
+      "visiblePixels": 598444,
+      "transparentRatio": 0.6124,
+      "borderNonzeroPixels": 22,
+      "visibleBBoxAlpha16": [
+        138,
+        255,
+        1120,
+        1067
+      ],
+      "rootApproxAlpha128": null,
+      "maxAlpha": 255,
+      "sha256": "03461542c805bcc0a28d27d69d64e1779e9498dab42854e104ad8379d4b1591e",
+      "pass": true
+    },
+    {
+      "id": "ICO_104",
+      "file": "06_道具与图标/ico_fertilizer_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "format": "png",
+      "hasAlpha": true,
+      "cornersAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparentPixels": 934135,
+      "partialAlphaPixels": 637892,
+      "visiblePixels": 630043,
+      "transparentRatio": 0.594,
+      "borderNonzeroPixels": 15,
+      "visibleBBoxAlpha16": [
+        129,
+        175,
+        1124,
+        1132
+      ],
+      "rootApproxAlpha128": null,
+      "maxAlpha": 255,
+      "sha256": "dc06efc65a566693c6127d558c892d9b1f03c93c17e5adbf6a3a347ed4a4f284",
+      "pass": true
+    },
+    {
+      "id": "ICO_105",
+      "file": "06_道具与图标/ico_picking_manual_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "format": "png",
+      "hasAlpha": true,
+      "cornersAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparentPixels": 1193009,
+      "partialAlphaPixels": 378980,
+      "visiblePixels": 374040,
+      "transparentRatio": 0.7587,
+      "borderNonzeroPixels": 0,
+      "visibleBBoxAlpha16": [
+        233,
+        269,
+        1061,
+        1020
+      ],
+      "rootApproxAlpha128": null,
+      "maxAlpha": 255,
+      "sha256": "b0bbeae9933e302e14b79c153f415859aa3e36fd119402e75f9df7392372e6aa",
+      "pass": true
+    }
+  ]
+}

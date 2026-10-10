@@ -1,0 +1,314 @@
+{
+  "project": "茶园物语",
+  "date": "2026-10-08",
+  "batch": "08_背景场景与UI补充",
+  "notes": [
+    "原始PNG未裁切、重采样或清除alpha，真实尺寸如下。BG_201为标题页满幅山水画层，左右山体延伸至画布边缘属于背景构图；其他分件应保留透明边距。",
+    "参考点依据可见范围和底部实像素估算，不能替代Godot中的地面、遮挡与对位验收。",
+    "本批补齐后侧屋檐、石阶、茶园入口及另一轴向栏杆；分件实际对位需要在后续场景摆放时调整。",
+    "远山、水面和云纹各自独立；植物无土块岩石或花盆，灯笼无墙面与支架。",
+    "所有组合预览均为浏览器中的静态素材摆放示意；未搭建Godot。"
+  ],
+  "assets": [
+    {
+      "id": "BG_201",
+      "file": "03_建筑与场景/bg_title_landscape_layer_v001.png",
+      "canvas": [
+        1672,
+        941
+      ],
+      "visibleBBoxAlpha16": [
+        0,
+        222,
+        1671,
+        880
+      ],
+      "solidBBoxAlpha128": [
+        0,
+        223,
+        1671,
+        852
+      ],
+      "approxAnchor": [
+        835.5,
+        551
+      ],
+      "anchorMeaning": "图层可见范围中心"
+    },
+    {
+      "id": "BG_202",
+      "file": "03_建筑与场景/bg_village_ground_base_v001.png",
+      "canvas": [
+        1672,
+        941
+      ],
+      "visibleBBoxAlpha16": [
+        110,
+        176,
+        1562,
+        824
+      ],
+      "solidBBoxAlpha128": [
+        111,
+        177,
+        1561,
+        823
+      ],
+      "approxAnchor": [
+        836,
+        500
+      ],
+      "anchorMeaning": "图层可见范围中心"
+    },
+    {
+      "id": "BG_203",
+      "file": "03_建筑与场景/bg_garden_terraces_base_v001.png",
+      "canvas": [
+        1672,
+        941
+      ],
+      "visibleBBoxAlpha16": [
+        121,
+        161,
+        1550,
+        834
+      ],
+      "solidBBoxAlpha128": [
+        122,
+        162,
+        1549,
+        833
+      ],
+      "approxAnchor": [
+        835.5,
+        497.5
+      ],
+      "anchorMeaning": "图层可见范围中心"
+    },
+    {
+      "id": "BLD_201",
+      "file": "03_建筑与场景/bld_workshop_rear_eaves_v001.png",
+      "canvas": [
+        1672,
+        941
+      ],
+      "visibleBBoxAlpha16": [
+        159,
+        223,
+        1514,
+        644
+      ],
+      "solidBBoxAlpha128": [
+        160,
+        224,
+        1513,
+        643
+      ],
+      "approxAnchor": [
+        836.5,
+        433.5
+      ],
+      "anchorMeaning": "图层可见范围中心"
+    },
+    {
+      "id": "BLD_202",
+      "file": "03_建筑与场景/bld_teashop_rear_eaves_v001.png",
+      "canvas": [
+        1671,
+        941
+      ],
+      "visibleBBoxAlpha16": [
+        78,
+        212,
+        1593,
+        732
+      ],
+      "solidBBoxAlpha128": [
+        78,
+        213,
+        1592,
+        732
+      ],
+      "approxAnchor": [
+        835.5,
+        472
+      ],
+      "anchorMeaning": "图层可见范围中心"
+    },
+    {
+      "id": "BLD_203",
+      "file": "03_建筑与场景/bld_garden_gate_v001.png",
+      "canvas": [
+        1536,
+        1024
+      ],
+      "visibleBBoxAlpha16": [
+        264,
+        73,
+        1279,
+        972
+      ],
+      "solidBBoxAlpha128": [
+        264,
+        74,
+        1278,
+        971
+      ],
+      "approxAnchor": [
+        939,
+        971
+      ],
+      "anchorMeaning": "底部接地点近似位置"
+    },
+    {
+      "id": "DEC_201",
+      "file": "03_建筑与场景/dec_fence_wood_axis_b_v001.png",
+      "canvas": [
+        1536,
+        1024
+      ],
+      "visibleBBoxAlpha16": [
+        198,
+        157,
+        1337,
+        925
+      ],
+      "solidBBoxAlpha128": [
+        199,
+        158,
+        1336,
+        925
+      ],
+      "approxAnchor": [
+        1276,
+        925
+      ],
+      "anchorMeaning": "底部接地点近似位置"
+    },
+    {
+      "id": "ICO_108",
+      "file": "04_UI组件/ico_day_calendar_v001.png",
+      "canvas": [
+        1254,
+        1254
+      ],
+      "visibleBBoxAlpha16": [
+        304,
+        282,
+        949,
+        971
+      ],
+      "solidBBoxAlpha128": [
+        305,
+        283,
+        949,
+        970
+      ],
+      "approxAnchor": [
+        626.5,
+        626.5
+      ],
+      "anchorMeaning": "图层可见范围中心"
+    },
+    {
+      "id": "TER_201",
+      "file": "02_地形与植物/ter_steps_stone_v001.png",
+      "canvas": [
+        1536,
+        1024
+      ],
+      "visibleBBoxAlpha16": [
+        274,
+        80,
+        1380,
+        934
+      ],
+      "solidBBoxAlpha128": [
+        275,
+        81,
+        1379,
+        933
+      ],
+      "approxAnchor": [
+        707,
+        933
+      ],
+      "anchorMeaning": "底部接地点近似位置"
+    },
+    {
+      "id": "UI_033",
+      "file": "04_UI组件/ui_slider_thumb_v001.png",
+      "canvas": [
+        1254,
+        1254
+      ],
+      "visibleBBoxAlpha16": [
+        251,
+        251,
+        1000,
+        997
+      ],
+      "solidBBoxAlpha128": [
+        252,
+        252,
+        1000,
+        996
+      ],
+      "approxAnchor": [
+        625.5,
+        624
+      ],
+      "anchorMeaning": "图层可见范围中心"
+    },
+    {
+      "id": "UI_034",
+      "file": "04_UI组件/ui_checkbox_base_v001.png",
+      "canvas": [
+        1254,
+        1254
+      ],
+      "visibleBBoxAlpha16": [
+        362,
+        376,
+        890,
+        886
+      ],
+      "solidBBoxAlpha128": [
+        363,
+        377,
+        889,
+        885
+      ],
+      "approxAnchor": [
+        626,
+        631
+      ],
+      "anchorMeaning": "图层可见范围中心"
+    },
+    {
+      "id": "UI_035",
+      "file": "04_UI组件/ui_checkbox_check_v001.png",
+      "canvas": [
+        1254,
+        1254
+      ],
+      "visibleBBoxAlpha16": [
+        347,
+        405,
+        935,
+        901
+      ],
+      "solidBBoxAlpha128": [
+        348,
+        406,
+        934,
+        900
+      ],
+      "approxAnchor": [
+        641,
+        653
+      ],
+      "anchorMeaning": "图层可见范围中心"
+    }
+  ]
+}

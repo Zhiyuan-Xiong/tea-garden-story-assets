@@ -1,0 +1,1169 @@
+{
+  "project": "茶园物语",
+  "mode": "built-in image_gen",
+  "total": 33,
+  "passed": 33,
+  "assets": [
+    {
+      "id": "ICO_106",
+      "file": "04_UI组件/ico_journal_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 757350,
+        "borderNonzeroPixels": 21,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 253,
+        "centralNonzeroPixels": 251001,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        49,
+        240,
+        1204,
+        1015
+      ],
+      "solidBBoxAlpha128": [
+        50,
+        241,
+        1204,
+        1014
+      ],
+      "sha256": "52ce2b512d922a2af74a997bd78bc2b37fabc8ec017346626e39e66a41ca2db7"
+    },
+    {
+      "id": "ICO_107",
+      "file": "04_UI组件/ico_settings_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1086738,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 0,
+        "centralNonzeroPixels": 153841,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        160,
+        177,
+        1091,
+        1081
+      ],
+      "solidBBoxAlpha128": [
+        161,
+        178,
+        1090,
+        1081
+      ],
+      "sha256": "e965096aa1ef4269cd91466fa835ba8b43e73af14aa63d71e115aace66174f24"
+    },
+    {
+      "id": "UI_002",
+      "file": "04_UI组件/ui_title_plaque_v001.png",
+      "width": 1536,
+      "height": 1024,
+      "hasAlpha": true,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1206132,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 254,
+        "centralNonzeroPixels": 179061,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        85,
+        365,
+        1450,
+        651
+      ],
+      "solidBBoxAlpha128": [
+        85,
+        366,
+        1450,
+        651
+      ],
+      "sha256": "61c481183e855b4755d3610c01400f6253a92df8866f588d29b786023b531c91"
+    },
+    {
+      "id": "UI_003",
+      "file": "04_UI组件/ui_item_card_v001.png",
+      "width": 1024,
+      "height": 1536,
+      "hasAlpha": true,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 328338,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 253,
+        "centralNonzeroPixels": 251535,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        64,
+        67,
+        959,
+        1467
+      ],
+      "solidBBoxAlpha128": [
+        64,
+        68,
+        959,
+        1467
+      ],
+      "sha256": "a892ef57eafa2a37e1de4c28b0cdfa33be568c471ef26dcd23067512a45e45d5"
+    },
+    {
+      "id": "UI_004",
+      "file": "04_UI组件/ui_item_selection_v001.png",
+      "width": 1024,
+      "height": 1536,
+      "hasAlpha": true,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          1,
+          0
+        ],
+        "transparentPixels": 1484127,
+        "borderNonzeroPixels": 2,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 0,
+        "centralNonzeroPixels": 0,
+        "warning": "角落存在alpha=1的极低透明度像素，保留原始生成文件。"
+      },
+      "visibleBBoxAlpha16": [
+        65,
+        67,
+        958,
+        1467
+      ],
+      "solidBBoxAlpha128": [
+        66,
+        68,
+        958,
+        1467
+      ],
+      "sha256": "8be487fc4531d4d9e13412bdfb8d4997ec3f6b5fa8c642f2ab4ce7565c0016f1"
+    },
+    {
+      "id": "UI_005",
+      "file": "04_UI组件/ui_toolbar_base_v001.png",
+      "width": 1536,
+      "height": 1024,
+      "hasAlpha": true,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1256707,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 254,
+        "centralNonzeroPixels": 139925,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        68,
+        391,
+        1468,
+        613
+      ],
+      "solidBBoxAlpha128": [
+        69,
+        392,
+        1467,
+        613
+      ],
+      "sha256": "ae5f7b0a2374d2fc37a50b0417403f4a26dafe1ff8ba3c4291b11a22736b73dd"
+    },
+    {
+      "id": "UI_006",
+      "file": "04_UI组件/ui_resource_base_v001.png",
+      "width": 1536,
+      "height": 1024,
+      "hasAlpha": true,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1256544,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 254,
+        "centralNonzeroPixels": 140042,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        68,
+        392,
+        1468,
+        614
+      ],
+      "solidBBoxAlpha128": [
+        69,
+        392,
+        1467,
+        613
+      ],
+      "sha256": "18e6a71c330ea256b6d0ef4d824dc36cb7374fa166bb4fbc1c786de2c71687c6"
+    },
+    {
+      "id": "UI_007",
+      "file": "04_UI组件/ui_tooltip_base_v001.png",
+      "width": 1942,
+      "height": 809,
+      "hasAlpha": true,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 957164,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 254,
+        "centralNonzeroPixels": 251748,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        203,
+        176,
+        1738,
+        632
+      ],
+      "solidBBoxAlpha128": [
+        204,
+        176,
+        1737,
+        631
+      ],
+      "sha256": "087430b4947edfcafae966359b1aaf02beaebb1b254e12efebf23ee0ccd98c76"
+    },
+    {
+      "id": "UI_008",
+      "file": "04_UI组件/ui_dialogue_base_v001.png",
+      "width": 1536,
+      "height": 1024,
+      "hasAlpha": true,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1258418,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 254,
+        "centralNonzeroPixels": 139120,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        69,
+        392,
+        1467,
+        614
+      ],
+      "solidBBoxAlpha128": [
+        69,
+        393,
+        1466,
+        613
+      ],
+      "sha256": "d0e1ea0087805c57e7ff268a624dbc06cfb095644ee7047d072f7c2e6ff2e46e"
+    },
+    {
+      "id": "UI_009",
+      "file": "04_UI组件/ui_quantity_base_v001.png",
+      "width": 2172,
+      "height": 724,
+      "hasAlpha": true,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1013216,
+        "borderNonzeroPixels": 473,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 254,
+        "centralNonzeroPixels": 250709,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        119,
+        219,
+        2053,
+        503
+      ],
+      "solidBBoxAlpha128": [
+        119,
+        220,
+        2052,
+        502
+      ],
+      "sha256": "ef28f0a82b6cb4ef6845fcb25bea79388f7228898cdd48218a739ddc377eeb9b"
+    },
+    {
+      "id": "UI_010",
+      "file": "04_UI组件/ui_button_normal_v001.png",
+      "width": 1536,
+      "height": 1024,
+      "hasAlpha": true,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1291032,
+        "borderNonzeroPixels": 6,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 253,
+        "centralNonzeroPixels": 151460,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        162,
+        388,
+        1372,
+        627
+      ],
+      "solidBBoxAlpha128": [
+        163,
+        389,
+        1372,
+        627
+      ],
+      "sha256": "84388a08e87d0433b981e963da65ec8af10ace26d2102758e50be0ab2e0ca36f"
+    },
+    {
+      "id": "UI_011",
+      "file": "04_UI组件/ui_button_hover_v001.png",
+      "width": 1536,
+      "height": 1024,
+      "hasAlpha": true,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1268936,
+        "borderNonzeroPixels": 4,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 253,
+        "centralNonzeroPixels": 150205,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        112,
+        388,
+        1423,
+        627
+      ],
+      "solidBBoxAlpha128": [
+        113,
+        389,
+        1422,
+        627
+      ],
+      "sha256": "ebda47663db54cca891fe94f3cecd19f9ec7d67c20a5d1e606fba48f1622959f"
+    },
+    {
+      "id": "UI_012",
+      "file": "04_UI组件/ui_button_pressed_v001.png",
+      "width": 1536,
+      "height": 1024,
+      "hasAlpha": true,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1289188,
+        "borderNonzeroPixels": 10,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 253,
+        "centralNonzeroPixels": 152541,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        163,
+        388,
+        1372,
+        628
+      ],
+      "solidBBoxAlpha128": [
+        164,
+        389,
+        1371,
+        627
+      ],
+      "sha256": "8dac93f447533f1a9768fd632452e42708db708613b96b8d6563545e151d8693"
+    },
+    {
+      "id": "UI_013",
+      "file": "04_UI组件/ui_button_disabled_v001.png",
+      "width": 1536,
+      "height": 1024,
+      "hasAlpha": true,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1277415,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 254,
+        "centralNonzeroPixels": 151476,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        134,
+        386,
+        1401,
+        627
+      ],
+      "solidBBoxAlpha128": [
+        135,
+        387,
+        1401,
+        626
+      ],
+      "sha256": "d718dd7b603aab78dbccc6dfc0fbf43ae8a19cd50db2c35ce4cfae6cb6e58b7c"
+    },
+    {
+      "id": "UI_014",
+      "file": "04_UI组件/ui_icon_circle_base_v002.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 693975,
+        "borderNonzeroPixels": 9,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 254,
+        "centerRGBA": [
+          244,
+          236,
+          219,
+          254
+        ],
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        96,
+        97,
+        1156,
+        1147
+      ],
+      "solidBBoxAlpha128": [
+        96,
+        98,
+        1156,
+        1146
+      ],
+      "sha256": "95c077959dcf1da313a92866ebe4f5055eb6ca2b8495bef987bf148810acb08d"
+    },
+    {
+      "id": "UI_015",
+      "file": "04_UI组件/ui_close_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          1,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1436873,
+        "borderNonzeroPixels": 1,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 254,
+        "centralNonzeroPixels": 112278,
+        "warning": "角落存在alpha=1的极低透明度像素，保留原始生成文件。"
+      },
+      "visibleBBoxAlpha16": [
+        330,
+        345,
+        924,
+        912
+      ],
+      "solidBBoxAlpha128": [
+        331,
+        346,
+        923,
+        911
+      ],
+      "sha256": "f9491ee6c23e246d2c959abf793fad8df47428cc415506c35bb4b9ee876c13ae"
+    },
+    {
+      "id": "UI_016",
+      "file": "04_UI组件/ui_back_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1483257,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 253,
+        "centralNonzeroPixels": 68996,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        263,
+        389,
+        990,
+        890
+      ],
+      "solidBBoxAlpha128": [
+        264,
+        390,
+        989,
+        890
+      ],
+      "sha256": "00cbac22f3a53bac7248d39949409ba1bb68015682052984a9c7ce18f999df7b"
+    },
+    {
+      "id": "UI_017",
+      "file": "04_UI组件/ui_confirm_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1474848,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 0,
+        "centralNonzeroPixels": 78354,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        321,
+        386,
+        993,
+        918
+      ],
+      "solidBBoxAlpha128": [
+        322,
+        386,
+        993,
+        917
+      ],
+      "sha256": "bb11bfbc437ddfd552f295a51fe11b7e82249c3213fe4099fd39876f5b8ad10e"
+    },
+    {
+      "id": "UI_018",
+      "file": "04_UI组件/ui_plus_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1493936,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 254,
+        "centralNonzeroPixels": 76512,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        361,
+        371,
+        893,
+        882
+      ],
+      "solidBBoxAlpha128": [
+        362,
+        372,
+        892,
+        881
+      ],
+      "sha256": "c6f81d2a04952c3a775de4372a90ced575e7d300800e1f7ff810e928db0130a9"
+    },
+    {
+      "id": "UI_019",
+      "file": "04_UI组件/ui_minus_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1529433,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 253,
+        "centralNonzeroPixels": 40955,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        356,
+        578,
+        897,
+        666
+      ],
+      "solidBBoxAlpha128": [
+        357,
+        579,
+        896,
+        665
+      ],
+      "sha256": "0653ee9903b71d47311127f8b18761dff85feb89f5f9496ca161d71ea4379ddc"
+    },
+    {
+      "id": "UI_020",
+      "file": "04_UI组件/ui_tab_inactive_v001.png",
+      "width": 1874,
+      "height": 839,
+      "hasAlpha": true,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 975694,
+        "borderNonzeroPixels": 29,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 254,
+        "centralNonzeroPixels": 251664,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        204,
+        211,
+        1670,
+        620
+      ],
+      "solidBBoxAlpha128": [
+        205,
+        212,
+        1669,
+        619
+      ],
+      "sha256": "b08f7c36dc61f615bab693880d105430fbcb9ff7f28f4dbe2fd7bdca5a8940cb"
+    },
+    {
+      "id": "UI_021",
+      "file": "04_UI组件/ui_tab_active_v001.png",
+      "width": 1875,
+      "height": 839,
+      "hasAlpha": true,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 981001,
+        "borderNonzeroPixels": 18,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 254,
+        "centralNonzeroPixels": 252000,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        203,
+        207,
+        1672,
+        613
+      ],
+      "solidBBoxAlpha128": [
+        203,
+        208,
+        1672,
+        612
+      ],
+      "sha256": "d158d388736779b68d5e183c9149565c8d3bba38298961db1de136c9ec3023d0"
+    },
+    {
+      "id": "UI_022",
+      "file": "04_UI组件/ui_progress_track_v001.png",
+      "width": 1536,
+      "height": 1024,
+      "hasAlpha": true,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1448682,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 254,
+        "centralNonzeroPixels": 58583,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        109,
+        465,
+        1427,
+        557
+      ],
+      "solidBBoxAlpha128": [
+        109,
+        466,
+        1426,
+        556
+      ],
+      "sha256": "46f0f94ea37d9d6ce3c27b06171a8605f62c187461f95aed68f90da1b52aef5e"
+    },
+    {
+      "id": "UI_023",
+      "file": "04_UI组件/ui_progress_fill_v001.png",
+      "width": 1536,
+      "height": 1024,
+      "hasAlpha": true,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1455024,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 254,
+        "centralNonzeroPixels": 55836,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        111,
+        468,
+        1424,
+        554
+      ],
+      "solidBBoxAlpha128": [
+        112,
+        469,
+        1423,
+        554
+      ],
+      "sha256": "a5c07c93bb13a22091ba8a5d678c1c3daa9ec34ab238560833b69a011269cde6"
+    },
+    {
+      "id": "UI_024",
+      "file": "04_UI组件/ui_state_ready_v001.png",
+      "width": 1024,
+      "height": 1536,
+      "hasAlpha": true,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1211771,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 253,
+        "centralNonzeroPixels": 155686,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        36,
+        133,
+        987,
+        1341
+      ],
+      "solidBBoxAlpha128": [
+        37,
+        134,
+        986,
+        1340
+      ],
+      "sha256": "a729a7b4f11ffe19d5ffa2e6e239c8ae297c1a7d331c16a3ca09ae4763451ac0"
+    },
+    {
+      "id": "UI_025",
+      "file": "04_UI组件/ui_state_finished_v001.png",
+      "width": 1024,
+      "height": 1536,
+      "hasAlpha": true,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1178528,
+        "borderNonzeroPixels": 5,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 253,
+        "centralNonzeroPixels": 245461,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        171,
+        393,
+        853,
+        1161
+      ],
+      "solidBBoxAlpha128": [
+        171,
+        394,
+        852,
+        1160
+      ],
+      "sha256": "9ec53a5f4ea2bc76441a2b2dc13fed60e1f5cc8e8cd33b5157606336282d7265"
+    },
+    {
+      "id": "UI_026",
+      "file": "04_UI组件/ui_order_bubble_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 599536,
+        "borderNonzeroPixels": 23,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 253,
+        "centralNonzeroPixels": 251001,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        76,
+        132,
+        1177,
+        1121
+      ],
+      "solidBBoxAlpha128": [
+        77,
+        133,
+        1176,
+        1120
+      ],
+      "sha256": "f870a3e984d8004ed7f28e20b3d6da785ed8d0967f06d06604027a483463c7ff"
+    },
+    {
+      "id": "UI_027",
+      "file": "04_UI组件/ui_quality_normal_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 841511,
+        "borderNonzeroPixels": 50,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 253,
+        "centralNonzeroPixels": 251001,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        147,
+        145,
+        1107,
+        1102
+      ],
+      "solidBBoxAlpha128": [
+        148,
+        146,
+        1106,
+        1101
+      ],
+      "sha256": "500c0fd8b18114900c824435d077d6d5b50bed0fc7cf295e50cd0e93b9f12fda"
+    },
+    {
+      "id": "UI_028",
+      "file": "04_UI组件/ui_quality_good_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          1,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 765490,
+        "borderNonzeroPixels": 7,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 253,
+        "centralNonzeroPixels": 251001,
+        "warning": "角落存在alpha=1的极低透明度像素，保留原始生成文件。"
+      },
+      "visibleBBoxAlpha16": [
+        35,
+        48,
+        1215,
+        1207
+      ],
+      "solidBBoxAlpha128": [
+        36,
+        48,
+        1214,
+        1206
+      ],
+      "sha256": "ee2cb03f1cca6756699f5a3d009d711d8c6def6232ecc567157135330b1b69b8"
+    },
+    {
+      "id": "UI_029",
+      "file": "04_UI组件/ui_quality_best_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 757025,
+        "borderNonzeroPixels": 1,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 253,
+        "centralNonzeroPixels": 251001,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        89,
+        96,
+        1164,
+        1140
+      ],
+      "solidBBoxAlpha128": [
+        89,
+        97,
+        1163,
+        1139
+      ],
+      "sha256": "fd02228b5377538ad80c72edd197bd0c6c87bf091ec6b269409e786dcee6117d"
+    },
+    {
+      "id": "UI_030",
+      "file": "04_UI组件/ui_popup_plain_v001.png",
+      "width": 1536,
+      "height": 1024,
+      "hasAlpha": true,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 424494,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 254,
+        "centralNonzeroPixels": 251535,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        74,
+        99,
+        1461,
+        920
+      ],
+      "solidBBoxAlpha128": [
+        75,
+        100,
+        1461,
+        919
+      ],
+      "sha256": "53a2bb8a20b32f50c2c34e4dbaf79e835bff1ef971e6355724ff5f2836a10041"
+    },
+    {
+      "id": "UI_031",
+      "file": "04_UI组件/ui_ornament_bamboo_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1357554,
+        "borderNonzeroPixels": 7,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 3,
+        "centralNonzeroPixels": 63770,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        41,
+        17,
+        1237,
+        1196
+      ],
+      "solidBBoxAlpha128": [
+        44,
+        17,
+        1237,
+        1189
+      ],
+      "sha256": "b4fc44074ddb2a7f4c945d708003b9578bbed01de5698ebe591dbf8c53edfe81"
+    },
+    {
+      "id": "UI_032",
+      "file": "04_UI组件/ui_ornament_mountain_v001.png",
+      "width": 1536,
+      "height": 1024,
+      "hasAlpha": true,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1197772,
+        "borderNonzeroPixels": 6,
+        "borderPixelsAlpha16": 0,
+        "centerAlpha": 253,
+        "centralNonzeroPixels": 177254,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        33,
+        211,
+        1508,
+        726
+      ],
+      "solidBBoxAlpha128": [
+        44,
+        212,
+        1490,
+        713
+      ],
+      "sha256": "e5ae4c8a889f31748bfddef8bdd19351da442daac7db6af4b394ca0cef50d72b"
+    }
+  ],
+  "policy": "主体透明检查：PNG包含alpha与透明像素；四角alpha<=1；画布外框无alpha>=16的主体像素；空心描边中央区域alpha必须为0。保留生成原始alpha，不以代码修改正式图像。"
+}

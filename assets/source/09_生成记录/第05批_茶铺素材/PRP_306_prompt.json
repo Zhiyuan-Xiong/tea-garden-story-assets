@@ -1,0 +1,23 @@
+{
+  "id": "PRP_306",
+  "category": "06_道具与图标",
+  "functionArea": "临水茶铺",
+  "label": "柜台",
+  "plannedFile": "prp_shop_counter_empty_v001.png",
+  "batch": "05_茶铺素材",
+  "targetSize": "1536×1024",
+  "status": "待生成",
+  "actualSize": "",
+  "relativePath": "",
+  "remarks": "无器具角色",
+  "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-d6440ea0-0323-4b44-8966-43ccfc915c03.png",
+  "prompt": "Create one independent production-ready 2D sprite for Chinese healing management game 茶园物语. Chinese ink and pale watercolor handpainting matching the supplied approved game assets. Clean broad quiet washes, thin warm grey/brown hand-drawn edges, very few material lines; no grain/no noisy dense texture/no muddy haze/no oversaturation/no harsh black outline/no glossy photographic material. Ivory, muted sage celadon, bamboo beige, warm pale wood brown, charcoal. Use parallel axonometric elevated camera, rectangular long ground edges slope up-right26degrees, short edges down-right30degrees, verticals stayvertical. No converging camera. True alpha transparent outside object, no checkerboard drawing, ground, shadow plate or glow. Complete isolated subject centered with transparent margins. No room, landscape, characters, baked labels, Chinese writing, numbers, watermarks, UI backplate or extra unrelated objects. Figma reference is only brush/palette and the requested object's design; never recreate whole screen. Refer to approved jar/table for controlled drawing and color. Formal sprite must be separable for Godot.\nSUBJECT: ONE EMPTY traditional wood teashop counter, waist-high long rectangular block, thick broad flat wooden top, front paneled in only three broad simple rectangular wood panels, closed plain side, simple plinth feet. Pale muted warm-brown wood matching worktable, very few broad plank seams, no distressed grain, no carving. Entire long top EMPTY, no pots, cups, cash register, abacus, cloth, books, person or room. Elevated parallel axonometry especially align to road long edge26degrees up-right and short30degrees down-right, keep opposite edges parallel. Requested1536x1024canvas with safe margins.",
+  "mode": "built-in image_gen",
+  "references": [
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\01_Figma参考\\figma_teashop_20261008.png",
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\06_道具与图标\\prp_rolling_table_v001.png",
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\02_地形与植物\\ter_path_stone_straight_v001.png"
+  ],
+  "savedPath": "06_道具与图标/prp_shop_counter_empty_v001.png",
+  "destination": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\06_道具与图标\\prp_shop_counter_empty_v001.png"
+}

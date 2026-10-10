@@ -1,0 +1,18 @@
+{
+  "id": "UI_029",
+  "category": "04_UI组件",
+  "functionArea": "通用UI",
+  "label": "上佳品质印记",
+  "plannedFile": "ui_quality_best_v001.png",
+  "batch": "03_UI组件",
+  "targetSize": "512×512",
+  "status": "待生成",
+  "actualSize": "",
+  "relativePath": "",
+  "remarks": "形状有差异",
+  "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-7edd4987-aeaf-44d9-b9cd-ee199a4cb732.png",
+  "prompt": "Use case: ui-mockup. ONE independent QUALITY EMBLEM for Chinese ink/light-watercolor tea game 茶园物语. Square1024x1024transparentcanvas, centered front-view flat emblem occupying60%width/height. Clean ivory interior, thin softly hand-painted double rim, subdued muted colors, extremely sparse broad watercolor washes, simple large silhouette clear at small size. A symbolic quality badge only; NO written grade, words, numbers, Chinese characters, seal script, calligraphy, star, ribbon, tassel, 3D shine, metal texture, noisy grain, saturation, shadow or glow. Alpha transparent outside badge, not backdrop or checkerboard. BEST quality: an EIGHT-LOBED flower-seal ivory medallion with thin desaturated russet-red double outline; THREE clearly visible tea leaves joined atshortcentralstem, simple sage-green silhouettes. Eight-lobed shape must differ fromcircleanddiamond. Russet rim restrained, not scarlet.",
+  "mode": "built-in image_gen",
+  "refs": [],
+  "savedPath": "04_UI组件/ui_quality_best_v001.png"
+}

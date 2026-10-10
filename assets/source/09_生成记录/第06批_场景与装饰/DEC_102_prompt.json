@@ -1,0 +1,22 @@
+{
+  "id": "DEC_102",
+  "category": "03_建筑与场景",
+  "functionArea": "场景分层",
+  "label": "木栏杆段",
+  "plannedFile": "dec_fence_wood_v001.png",
+  "batch": "06_场景与装饰",
+  "targetSize": "1536×1024",
+  "status": "待生成",
+  "actualSize": "",
+  "relativePath": "03_建筑与场景/dec_fence_wood_v001.png",
+  "remarks": "同轴测",
+  "prompt": "Use case: stylized-concept. Asset type: one independent transparent PNG for the 2D/2.5D Chinese tea-village game 茶园物语.\nStyle: clean Chinese ink outline with pale hand-painted watercolor fills, harmonizing with the approved references. Simple large clear shapes, controlled sparse brush marks, thin charcoal/brown linework; avoid dense texture or paper grain. Restrained ivory #EEE5D5, sage #83957E, tea green #526C62, charcoal #5C6261, pale timber #967653, bamboo #C5A36F, occasional dusty coral #B76651.\nFor constructed objects use elevated parallel dimetric 2:1 ground axes, diagonal edges slope about ±26.565 degrees, verticals remain vertical, near and far edges stay parallel, no lens perspective. Soft even light, modest internal shading, no cast ground shadow.\nOutput actual RGBA transparency outside the subject. Full silhouette, visible generous transparent margin on ALL four sides; never crop. No background fill, checkerboard, paper sheet, black background, white background, vignette, glow, halo, text, calligraphy, numerals, UI, labels, borders, watermark. No extra props, people, scenery, repeated objects or decorative clutter. Avoid oversaturation, muddy gradients, noise, excessive fiber or woodgrain, photorealism, heavy black outline and strong reflections. Preserve clear edges at small gameplay sizes.\nPrimary request: ONLY one straight wooden railing section as a transparent standalone reusable asset. Input1 defines timber joinery and pale brown paint, Input2 defines same long direction and ground camera. Do NOT include bridge, wall or their foundations.\nSubject: THREE simple upright square timber posts, small flat square caps, TWO continuous straight horizontal timber rails linking all three posts in a single straight line. Same post/rail heights and thickness at both ends. Slightly weathered pale wooden wash with minimal broad texture; thin brown linework, clearly readable silhouette. Post bottoms flat, no stone sockets, soil, platform, decking, plants, leaves, lights, flags, people or shadows.\nLong axis bottom-left to top-right exactly like the retaining wall, projected rise about1 for every2 horizontal units. Vertical posts vertical, short crossbeam thickness uses other 2:1 diagonal, no convergence. Entire section landscape1536×1024, centered less than80% canvas width, generous actual transparent padding. This is a SINGLE two-bay railing section, no second duplicate, no multi-angle sheet.",
+  "references": [
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\03_建筑与场景\\bld_bridge_v001.png",
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\02_地形与植物\\ter_retaining_wall_v002.png"
+  ],
+  "mode": "built-in image_gen",
+  "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-39307764-f70f-4edd-91c1-2665663a91a7.png",
+  "savedPath": "03_建筑与场景/dec_fence_wood_v001.png",
+  "destination": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\03_建筑与场景\\dec_fence_wood_v001.png"
+}

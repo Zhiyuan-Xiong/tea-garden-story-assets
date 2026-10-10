@@ -1,0 +1,227 @@
+[
+  {
+    "id": "BG_311",
+    "path": "res://assets/12_第一轮场景调整/bg_home_soft_bright_v005.png",
+    "width": 1672,
+    "height": 941,
+    "bbox": [
+      0,
+      0,
+      1671,
+      940
+    ],
+    "label": "BG_311",
+    "transparent": false,
+    "transparentFraction": 0
+  },
+  {
+    "id": "BG_312",
+    "path": "res://assets/12_第一轮场景调整/bg_loading_soft_bright_v005.png",
+    "width": 1672,
+    "height": 941,
+    "bbox": [
+      0,
+      0,
+      1671,
+      940
+    ],
+    "label": "BG_312",
+    "transparent": false,
+    "transparentFraction": 0
+  },
+  {
+    "id": "PRP_411",
+    "path": "res://assets/12_第一轮场景调整/prp_loading_reference_still_life_v001.png",
+    "width": 1435,
+    "height": 1096,
+    "bbox": [
+      2,
+      84,
+      1407,
+      929
+    ],
+    "label": "PRP_411",
+    "transparent": true,
+    "transparentFraction": 0.6776488466135965
+  },
+  {
+    "id": "PRP_421",
+    "path": "res://assets/12_第一轮场景调整/prp_shop_counter_dimetric_v002.png",
+    "width": 1536,
+    "height": 1024,
+    "bbox": [
+      64,
+      119,
+      1470,
+      982
+    ],
+    "label": "PRP_421",
+    "transparent": true,
+    "transparentFraction": 0.5672626495361328
+  },
+  {
+    "id": "PRP_422",
+    "path": "res://assets/12_第一轮场景调整/prp_shop_shelf_dimetric_v002.png",
+    "width": 1200,
+    "height": 1311,
+    "bbox": [
+      251,
+      94,
+      974,
+      1238
+    ],
+    "label": "PRP_422",
+    "transparent": true,
+    "transparentFraction": 0.5807131960335622
+  },
+  {
+    "id": "PRP_423",
+    "path": "res://assets/12_第一轮场景调整/prp_tea_table_dimetric_v002.png",
+    "width": 1536,
+    "height": 1024,
+    "bbox": [
+      300,
+      116,
+      1236,
+      920
+    ],
+    "label": "PRP_423",
+    "transparent": true,
+    "transparentFraction": 0.7664737701416016
+  },
+  {
+    "id": "PRP_424",
+    "path": "res://assets/12_第一轮场景调整/prp_tea_chair_front_dimetric_v002.png",
+    "width": 1536,
+    "height": 1024,
+    "bbox": [
+      452,
+      40,
+      1094,
+      954
+    ],
+    "label": "PRP_424",
+    "transparent": true,
+    "transparentFraction": 0.7988370259602865
+  },
+  {
+    "id": "PRP_425",
+    "path": "res://assets/12_第一轮场景调整/prp_tea_chair_back_dimetric_v003.png",
+    "width": 1536,
+    "height": 1024,
+    "bbox": [
+      409,
+      35,
+      1123,
+      988
+    ],
+    "label": "PRP_425",
+    "transparent": true,
+    "transparentFraction": 0.7553030649820963
+  },
+  {
+    "id": "PRP_431",
+    "path": "res://assets/12_第一轮场景调整/prp_rolling_table_dimetric_v002.png",
+    "width": 1536,
+    "height": 1024,
+    "bbox": [
+      145,
+      87,
+      1382,
+      968
+    ],
+    "label": "PRP_431",
+    "transparent": true,
+    "transparentFraction": 0.6821734110514323
+  },
+  {
+    "id": "PRP_432",
+    "path": "res://assets/12_第一轮场景调整/prp_killgreen_stove_wok_dimetric_v002.png",
+    "width": 1376,
+    "height": 1143,
+    "bbox": [
+      138,
+      129,
+      1273,
+      1085
+    ],
+    "label": "PRP_432",
+    "transparent": true,
+    "transparentFraction": 0.49809444240981504
+  },
+  {
+    "id": "PRP_433",
+    "path": "res://assets/12_第一轮场景调整/prp_drying_rack_dimetric_v002.png",
+    "width": 1230,
+    "height": 1278,
+    "bbox": [
+      263,
+      132,
+      965,
+      1157
+    ],
+    "label": "PRP_433",
+    "transparent": true,
+    "transparentFraction": 0.6865357456391465
+  },
+  {
+    "id": "PRP_434",
+    "path": "res://assets/12_第一轮场景调整/prp_work_stool_dimetric_v002.png",
+    "width": 1374,
+    "height": 1145,
+    "bbox": [
+      296,
+      244,
+      1081,
+      992
+    ],
+    "label": "PRP_434",
+    "transparent": true,
+    "transparentFraction": 0.7725551890060576
+  },
+  {
+    "id": "PRP_435",
+    "path": "res://assets/12_第一轮场景调整/prp_fresh_leaf_tray_dimetric_v002.png",
+    "width": 1536,
+    "height": 1024,
+    "bbox": [
+      107,
+      199,
+      1429,
+      830
+    ],
+    "label": "PRP_435",
+    "transparent": true,
+    "transparentFraction": 0.5692621866861979
+  },
+  {
+    "id": "BLD_111",
+    "path": "res://assets/12_第一轮场景调整/bld_map_workshop_soft_perspective_v002.png",
+    "width": 1672,
+    "height": 941,
+    "bbox": [
+      135,
+      197,
+      1587,
+      792
+    ],
+    "label": "BLD_111",
+    "transparent": true,
+    "transparentFraction": 0.6223585059160315
+  },
+  {
+    "id": "BLD_112",
+    "path": "res://assets/12_第一轮场景调整/bld_map_teashop_soft_perspective_v002.png",
+    "width": 1536,
+    "height": 1024,
+    "bbox": [
+      35,
+      196,
+      1503,
+      883
+    ],
+    "label": "BLD_112",
+    "transparent": true,
+    "transparentFraction": 0.5526447296142578
+  }
+]

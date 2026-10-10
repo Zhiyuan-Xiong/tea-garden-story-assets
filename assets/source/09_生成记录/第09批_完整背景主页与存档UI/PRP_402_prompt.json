@@ -1,0 +1,23 @@
+{
+  "id": "PRP_402",
+  "category": "06_道具与图标",
+  "label": "载入长竹托盘",
+  "plannedFile": "prp_loading_bamboo_tray_v001.png",
+  "functionArea": "载入插画分件",
+  "transparent": true,
+  "targetSize": "1536×1024",
+  "batch": "09_完整背景主页与存档UI",
+  "status": "待生成",
+  "actualSize": "",
+  "relativePath": "06_道具与图标/prp_loading_bamboo_tray_v001.png",
+  "remarks": "独立透明PNG，界面文字与数值另设",
+  "prompt": "Use case: stylized-concept. One independent game bitmap component for 茶园物语. CLEAN Chinese hand-painted pale watercolor with sparse fine warm-gray/brown ink outlines, light ivory-gray #EEECE5, pale gray-jade #BCC6BE, muted gray tea green #98A38F, ash bamboo taupe #C7B69E. Smooth broad color fields, minimal two-tone shading, restrained brushwork. NO speckle, paper grain, wood grain, drybrush scratches, dense texture, muddiness, excessive saturation, photorealism or thick black lines.\nTrue RGBA TRANSPARENT background. Only requested subject; generous transparent margins on all four sides, entire silhouette uncut. No white/paper/black backdrop, checkerboard, halo, glow, cast shadow, vignette, labels, words, numbers, watermarks or extra objects. All decorative form restrained. Preserve clarity at small game size. Palette follows the supplied final game scene: elegant pale ivory, restrained gray sage green and ash honey taupe. Enough gentle color to avoid looking desaturated; approximately 25% more color strength than the earlier overly gray palette. High luminance. No vivid cyan or candy colors.\nSubject: exactly ONE EMPTY LONG RECTANGULAR bamboo tea tray, elevated gentle parallel isometric view with 2:1 diagonal edges, same furniture perspective as the reference. Entire tray fits centered in wide landscape canvas with generous margins. About 3.5 times longer than wide, shallow low rim, four quiet rounded corners, five broad lengthwise slats. Clean pale ash honey taupe bamboo, sparse thin warm gray contours, only broad simple shading. No bamboo grain, woven texture, compartments, holes, utensils, cups, leaves, branches or cast shadows. Reference scenes are PALETTE ONLY, do not include any background.",
+  "references": [
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\03_建筑与场景\\bg_home_panorama_rich_v004.png",
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\06_道具与图标\\prp_loading_gaiwan_v001.png"
+  ],
+  "mode": "built-in image_gen transparent component",
+  "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-af8912c2-788f-4f10-a5a7-656fc703678b.png",
+  "savedPath": "06_道具与图标/prp_loading_bamboo_tray_v001.png",
+  "destination": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\06_道具与图标\\prp_loading_bamboo_tray_v001.png"
+}

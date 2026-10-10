@@ -1,0 +1,20 @@
+[gd_scene load_steps=3 format=3]
+[ext_resource type="Texture2D" path="res://assets/12_第一轮场景调整/prp_shop_shelf_dimetric_v002.png" id="1"]
+[sub_resource type="AtlasTexture" id="Atlas"]
+atlas = ExtResource("1")
+region = Rect2(251,94,724,1145)
+filter_clip = true
+[node name="PRP_422_GroundCenter" type="Node2D"]
+transform = Transform2D(1,0.1309438,0,0.6737711,0,0)
+metadata/asset_id = "PRP_422"
+metadata/reference_room = "teashop"
+[node name="Image" type="TextureRect" parent="."]
+offset_left = -126.320442
+offset_top = -344.1325967
+offset_right = 129.679558
+offset_bottom = 60.7292818
+mouse_filter = 2
+texture_filter = 4
+texture = SubResource("Atlas")
+expand_mode = 1
+stretch_mode = 0

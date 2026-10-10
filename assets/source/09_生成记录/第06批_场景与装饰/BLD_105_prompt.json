@@ -1,0 +1,21 @@
+{
+  "id": "BLD_105",
+  "category": "03_建筑与场景",
+  "functionArea": "场景分层",
+  "label": "工坊建筑壳",
+  "plannedFile": "bld_workshop_shell_v001.png",
+  "batch": "06_场景与装饰",
+  "targetSize": "1920×1080",
+  "status": "待生成",
+  "actualSize": "",
+  "relativePath": "03_建筑与场景/bld_workshop_shell_v001.png",
+  "remarks": "屋顶/前遮挡分层另补，不烘焙器具",
+  "prompt": "Use case: stylized-concept. Asset type: one independent transparent PNG for the 2D/2.5D Chinese tea-village game 茶园物语.\nStyle: clean Chinese ink outline with pale hand-painted watercolor fills, harmonizing with the approved references. Simple large clear shapes, controlled sparse brush marks, thin charcoal/brown linework; avoid dense texture or paper grain. Restrained ivory #EEE5D5, sage #83957E, tea green #526C62, charcoal #5C6261, pale timber #967653, bamboo #C5A36F, occasional dusty coral #B76651.\nFor constructed objects use elevated parallel dimetric 2:1 ground axes, diagonal edges slope about ±26.565 degrees, verticals remain vertical, near and far edges stay parallel, no lens perspective. Soft even light, modest internal shading, no cast ground shadow.\nOutput actual RGBA transparency outside the subject. Full silhouette, visible generous transparent margin on ALL four sides; never crop. No background fill, checkerboard, paper sheet, black background, white background, vignette, glow, halo, text, calligraphy, numerals, UI, labels, borders, watermark. No extra props, people, scenery, repeated objects or decorative clutter. Avoid oversaturation, muddy gradients, noise, excessive fiber or woodgrain, photorealism, heavy black outline and strong reflections. Preserve clear edges at small gameplay sizes.\nEdit target Input1: this EMPTY roofless workshop floor and two back walls. Keep its structural design, camera, timber/stone relationship and complete emptiness. Improve framing: draw the ENTIRE shell noticeably SMALLER, occupying only about75% of canvas WIDTH and75% of canvas HEIGHT, centered. Add very generous real transparent margin on ALL sides. Reconstruct the full front foundation corner if needed so the very lowest stone edge is complete and at least80 pixels above bottom on a target1920×1080 canvas. Absolutely no structural element touches the boundary. No opaque canvas outside.\nSimplify plank surface to smooth pale wash with a few soft low-contrast strokes rather than dense fine parallel woodgrain. Keep all architectural edges thin and clear. No roof, front wall, foreground rail, furniture, tools, people, UI or any new objects. Output an independent actual transparent PNG architectural shell, wide1920×1080 composition.",
+  "references": [
+    "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-01384204-fcce-4758-8e47-30bc3d941fae.png"
+  ],
+  "mode": "built-in image_gen",
+  "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-89501ecb-20f2-4333-b3d5-b89d8f838bec.png",
+  "savedPath": "03_建筑与场景/bld_workshop_shell_v001.png",
+  "destination": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\03_建筑与场景\\bld_workshop_shell_v001.png"
+}

@@ -1,0 +1,385 @@
+{
+  "project": "茶园物语",
+  "unit": "原始PNG像素",
+  "note": "正式PNG保留原始画布。生成结果的留白和火焰底部略有差异，不能直接按整张画布同位叠加。按下列主体范围映射，并将火源底部对到同一锚点。这里仅做浏览器分层预览，尚未在Godot中验收。",
+  "regions": [
+    {
+      "id": "FX_201",
+      "file": "06_道具与图标/fx_fire_low_v001.png",
+      "canvas": [
+        1024,
+        1536
+      ],
+      "sourceRegion": {
+        "x": 309,
+        "y": 876,
+        "width": 447,
+        "height": 427
+      },
+      "bottomCenterAnchor": [
+        532,
+        1302
+      ]
+    },
+    {
+      "id": "FX_202",
+      "file": "06_道具与图标/fx_fire_medium_v001.png",
+      "canvas": [
+        1024,
+        1536
+      ],
+      "sourceRegion": {
+        "x": 122,
+        "y": 325,
+        "width": 817,
+        "height": 1011
+      },
+      "bottomCenterAnchor": [
+        530,
+        1335
+      ]
+    },
+    {
+      "id": "FX_203",
+      "file": "06_道具与图标/fx_fire_high_v001.png",
+      "canvas": [
+        1024,
+        1536
+      ],
+      "sourceRegion": {
+        "x": 107,
+        "y": 42,
+        "width": 848,
+        "height": 1420
+      },
+      "bottomCenterAnchor": [
+        530.5,
+        1461
+      ]
+    },
+    {
+      "id": "ICO_201",
+      "file": "06_道具与图标/ico_tools_v001.png",
+      "canvas": [
+        1254,
+        1254
+      ],
+      "sourceRegion": {
+        "x": 240,
+        "y": 274,
+        "width": 819,
+        "height": 746
+      },
+      "bottomCenterAnchor": [
+        649,
+        1019
+      ]
+    },
+    {
+      "id": "PRP_201",
+      "file": "06_道具与图标/prp_bamboo_tray_empty_v001.png",
+      "canvas": [
+        1254,
+        1254
+      ],
+      "sourceRegion": {
+        "x": 120,
+        "y": 363,
+        "width": 1024,
+        "height": 541
+      },
+      "bottomCenterAnchor": [
+        631.5,
+        903
+      ]
+    },
+    {
+      "id": "PRP_202",
+      "file": "06_道具与图标/prp_leaves_spread_v001.png",
+      "canvas": [
+        1254,
+        1254
+      ],
+      "sourceRegion": {
+        "x": 116,
+        "y": 371,
+        "width": 1042,
+        "height": 516
+      },
+      "bottomCenterAnchor": [
+        636.5,
+        886
+      ]
+    },
+    {
+      "id": "PRP_203",
+      "file": "06_道具与图标/prp_iron_wok_empty_v001.png",
+      "canvas": [
+        1254,
+        1254
+      ],
+      "sourceRegion": {
+        "x": 57,
+        "y": 355,
+        "width": 1147,
+        "height": 629
+      },
+      "bottomCenterAnchor": [
+        630,
+        983
+      ]
+    },
+    {
+      "id": "PRP_204",
+      "file": "06_道具与图标/prp_stove_base_v001.png",
+      "canvas": [
+        1254,
+        1254
+      ],
+      "sourceRegion": {
+        "x": 88,
+        "y": 266,
+        "width": 1096,
+        "height": 861
+      },
+      "bottomCenterAnchor": [
+        635.5,
+        1126
+      ]
+    },
+    {
+      "id": "PRP_205",
+      "file": "06_道具与图标/prp_rolling_table_v001.png",
+      "canvas": [
+        1536,
+        1024
+      ],
+      "sourceRegion": {
+        "x": 74,
+        "y": 82,
+        "width": 1416,
+        "height": 894
+      },
+      "bottomCenterAnchor": [
+        781.5,
+        975
+      ]
+    },
+    {
+      "id": "PRP_206",
+      "file": "06_道具与图标/prp_leaves_rolled_v001.png",
+      "canvas": [
+        1254,
+        1254
+      ],
+      "sourceRegion": {
+        "x": 100,
+        "y": 415,
+        "width": 1057,
+        "height": 459
+      },
+      "bottomCenterAnchor": [
+        628,
+        873
+      ]
+    },
+    {
+      "id": "PRP_207",
+      "file": "06_道具与图标/prp_drying_rack_empty_v001.png",
+      "canvas": [
+        1024,
+        1536
+      ],
+      "sourceRegion": {
+        "x": 120,
+        "y": 120,
+        "width": 797,
+        "height": 1312
+      },
+      "bottomCenterAnchor": [
+        518,
+        1431
+      ]
+    },
+    {
+      "id": "PRP_208",
+      "file": "06_道具与图标/prp_leaves_dried_v001.png",
+      "canvas": [
+        1254,
+        1254
+      ],
+      "sourceRegion": {
+        "x": 71,
+        "y": 444,
+        "width": 1117,
+        "height": 415
+      },
+      "bottomCenterAnchor": [
+        629,
+        858
+      ]
+    },
+    {
+      "id": "PRP_209",
+      "file": "06_道具与图标/prp_tea_jar_v001.png",
+      "canvas": [
+        1254,
+        1254
+      ],
+      "sourceRegion": {
+        "x": 307,
+        "y": 294,
+        "width": 639,
+        "height": 671
+      },
+      "bottomCenterAnchor": [
+        626,
+        964
+      ]
+    },
+    {
+      "id": "PRP_210",
+      "file": "06_道具与图标/prp_workshop_stool_v001.png",
+      "canvas": [
+        1254,
+        1254
+      ],
+      "sourceRegion": {
+        "x": 209,
+        "y": 223,
+        "width": 863,
+        "height": 851
+      },
+      "bottomCenterAnchor": [
+        640,
+        1073
+      ]
+    }
+  ],
+  "layering": [
+    {
+      "base": "PRP_201",
+      "overlay": "PRP_202",
+      "overlayVisibleRectOnBaseCanvas": [
+        245,
+        465,
+        760,
+        325
+      ],
+      "order": [
+        "PRP_201",
+        "PRP_202"
+      ],
+      "note": "叶层位于竹匾内圈，原始叶层画布不能直接同位套用。"
+    },
+    {
+      "base": "PRP_204",
+      "overlay": "PRP_203",
+      "overlayVisibleRectOnBaseCanvas": [
+        395,
+        345,
+        480,
+        260
+      ],
+      "order": [
+        "PRP_204",
+        "FX_201/202/203",
+        "PRP_203"
+      ],
+      "fireBottomCenterOnBaseCanvas": [
+        800,
+        957
+      ],
+      "fireDisplaySizes": {
+        "FX_201": [
+          74,
+          68
+        ],
+        "FX_202": [
+          106,
+          108
+        ],
+        "FX_203": [
+          122,
+          158
+        ]
+      },
+      "note": "火焰按底部锚点切换状态；显示范围限制在炉口内。"
+    },
+    {
+      "base": "PRP_205",
+      "overlay": "PRP_206",
+      "overlayVisibleRectOnBaseCanvas": [
+        575,
+        278,
+        450,
+        192
+      ],
+      "order": [
+        "PRP_205",
+        "PRP_206"
+      ],
+      "note": "叶层只放台面中央；不可盖住前沿。"
+    },
+    {
+      "base": "PRP_207",
+      "overlay": "PRP_208",
+      "overlayVisibleRectsOnBaseCanvas": [
+        [
+          266,
+          322,
+          458,
+          152
+        ],
+        [
+          266,
+          699,
+          458,
+          152
+        ],
+        [
+          266,
+          1076,
+          458,
+          152
+        ]
+      ],
+      "order": [
+        "PRP_207",
+        "PRP_208"
+      ],
+      "note": "复用同一干茶层；只填各层中心内圈，避开立柱和边框。"
+    }
+  ],
+  "fireStates": {
+    "canvas": [
+      1024,
+      1536
+    ],
+    "commonAnchor": "主体底部中央",
+    "displaySizes": [
+      {
+        "id": "FX_201",
+        "size": [
+          74,
+          68
+        ]
+      },
+      {
+        "id": "FX_202",
+        "size": [
+          106,
+          108
+        ]
+      },
+      {
+        "id": "FX_203",
+        "size": [
+          122,
+          158
+        ]
+      }
+    ],
+    "note": "尺寸建议用于游戏火箱演示，三张是静态火力状态，不是逐帧动画。"
+  }
+}

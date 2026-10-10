@@ -1,0 +1,24 @@
+{
+  "id": "BG_306",
+  "category": "03_建筑与场景",
+  "label": "临水茶铺空背景",
+  "plannedFile": "bg_teashop_rich_empty_v004.png",
+  "functionArea": "完整背景",
+  "transparent": false,
+  "targetSize": "1920×1080",
+  "batch": "09_完整背景主页与存档UI",
+  "status": "待生成",
+  "actualSize": "",
+  "relativePath": "03_建筑与场景/bg_teashop_rich_empty_v004.png",
+  "remarks": "完整静态背景PNG；无UI、人物及可操作物；预留独立素材摆放区域；按用户最新要求提亮、去颗粒、减少表面纹理与细碎描线；颜色以用户提供的亮灰雅致参考为准，避免薄荷绿、亮青蓝和粉橙；最新校色：在亮灰版基础上饱和度约提高25%，明度与低纹理不变",
+  "prompt": "Use case: precise-object-edit. Image 1 is the tea-shop empty-room background to correct; preserve its architecture, floor, waterfront, steps, walls and open usable areas. Images 2 and 3 are FINAL approved palette anchors: high brightness, quiet sage foliage, muted gray teal river, ivory gray walls, ash honey taupe wood. Match the color strength of images 2 and 3, reflecting the user's latest instruction for approximately 25% greater saturation than the overly gray version. Reduce vivid cyan water and yellow-brown wood of image 1 to the elegant gentle palette of the references. Fine warm gray outlines, smooth clean color areas. Do not darken or wash out the image. Keep room floor completely empty for independent props. No new objects, people, tables, cups, UI, text, logo, markings, borders or watermark. No grain, paper speckle, noisy texture or excessive woodgrain. Full opaque 16:9 background.",
+  "references": [
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\03_建筑与场景\\bg_teashop_rich_empty_v002.png",
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\03_建筑与场景\\bg_home_panorama_rich_v004.png",
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\03_建筑与场景\\bg_workshop_rich_empty_v004.png"
+  ],
+  "mode": "built-in image_gen palette edit",
+  "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-2f7e177e-3a2e-4321-837f-039b218bbf46.png",
+  "savedPath": "03_建筑与场景/bg_teashop_rich_empty_v004.png",
+  "destination": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\03_建筑与场景\\bg_teashop_rich_empty_v004.png"
+}

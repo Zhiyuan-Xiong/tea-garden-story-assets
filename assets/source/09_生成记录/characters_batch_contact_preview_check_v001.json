@@ -1,0 +1,16 @@
+{
+  "checks": [
+    {
+      "name": "00_人物批12项总览_v001",
+      "images": 12,
+      "overflow": false
+    },
+    {
+      "name": "01_立绘与场景小人对照_v001",
+      "images": 18,
+      "overflow": false
+    }
+  ],
+  "errors": [],
+  "pass": true
+}

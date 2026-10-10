@@ -1,0 +1,24 @@
+{
+  "checks": [
+    {
+      "name": "00_第06批素材总览_v001",
+      "images": 14,
+      "overflow": false,
+      "missingImages": []
+    },
+    {
+      "name": "01_场景分层组合预览_v001",
+      "images": 29,
+      "overflow": false,
+      "missingImages": []
+    },
+    {
+      "name": "02_浅深底透明检查_v001",
+      "images": 28,
+      "overflow": false,
+      "missingImages": []
+    }
+  ],
+  "errors": [],
+  "pass": true
+}

@@ -1,0 +1,646 @@
+[
+  {
+    "id": "FGW_01",
+    "path": "res://assets/13_Figma原图拆分/FGW_01_image2透明重制_v003.png",
+    "method": "source-feature similarity registration",
+    "inliers": 290,
+    "canvas_to_source_matrix": [
+      [
+        0.41108329563379564,
+        0.0002229599654479691,
+        711.0471938137938
+      ],
+      [
+        -0.0002229599654479691,
+        0.41108329563379564,
+        604.3878816731211
+      ]
+    ],
+    "sourceCrop": [
+      364.0,
+      307.0,
+      353.0,
+      179.0
+    ],
+    "uniformViewportScale": 1.1483253588516746,
+    "rotationInGodot": 0,
+    "alphaTransparentPixels": 152678,
+    "sha256": "a794be7e1fae187439886e9274eac7283146c9a819e8f2215be15cdc31edc4d5"
+  },
+  {
+    "id": "FGW_02",
+    "path": "res://assets/13_Figma原图拆分/FGW_02_image2透明重制_v003.png",
+    "method": "source-feature similarity registration",
+    "inliers": 415,
+    "canvas_to_source_matrix": [
+      [
+        0.35698305311119494,
+        0.000599189998166778,
+        1254.4512155474413
+      ],
+      [
+        -0.000599189998166778,
+        0.35698305311119494,
+        285.39547986345633
+      ]
+    ],
+    "sourceCrop": [
+      629.0,
+      143.0,
+      209.0,
+      234.0
+    ],
+    "uniformViewportScale": 1.1483253588516746,
+    "rotationInGodot": 0,
+    "alphaTransparentPixels": 64210,
+    "sha256": "431c5676257832eaeee8bd2a5b4d9f1573515dff6d63881c66709dbc371b41f7"
+  },
+  {
+    "id": "FGW_03",
+    "path": "res://assets/13_Figma原图拆分/FGW_03_image2透明重制_v003.png",
+    "method": "source-feature similarity registration",
+    "inliers": 182,
+    "canvas_to_source_matrix": [
+      [
+        0.3275383410289765,
+        0.0020456795157568703,
+        1471.2189079465072
+      ],
+      [
+        -0.0020456795157568703,
+        0.3275383410289765,
+        743.8820732964741
+      ]
+    ],
+    "sourceCrop": [
+      753.0,
+      444.0,
+      168.0,
+      157.0
+    ],
+    "uniformViewportScale": 1.1483253588516746,
+    "rotationInGodot": 0,
+    "alphaTransparentPixels": 25210,
+    "sha256": "2af62073ccaecdf98dc7f6bcb8f77a842fa4c978430b7eb2193ed8a1d110aa8b"
+  },
+  {
+    "id": "FGW_04",
+    "path": "res://assets/13_Figma原图拆分/FGW_04_image2透明重制_v003.png",
+    "method": "source-feature similarity registration",
+    "inliers": 170,
+    "canvas_to_source_matrix": [
+      [
+        0.43855433841852953,
+        0.0017317215006943548,
+        1914.683265393239
+      ],
+      [
+        -0.0017317215006943548,
+        0.43855433841852953,
+        994.1308997893428
+      ]
+    ],
+    "sourceCrop": [
+      978.0,
+      528.0,
+      297.0,
+      204.0
+    ],
+    "uniformViewportScale": 1.1483253588516746,
+    "rotationInGodot": 0,
+    "alphaTransparentPixels": 121853,
+    "sha256": "5e0d0e561043f4414a3e1ed5883d5f1b126dabe18355591f1eb6bef4bfb82b20"
+  },
+  {
+    "id": "FGW_05",
+    "path": "res://assets/13_Figma原图拆分/FGW_05_image2透明重制_v003.png",
+    "method": "source-feature similarity registration",
+    "inliers": 26,
+    "canvas_to_source_matrix": [
+      [
+        0.32958844560648226,
+        0.006128634331355872,
+        2432.561901523642
+      ],
+      [
+        -0.006128634331355872,
+        0.32958844560648226,
+        682.2379496215419
+      ]
+    ],
+    "sourceCrop": [
+      1227.0,
+      338.0,
+      179.0,
+      231.0
+    ],
+    "uniformViewportScale": 1.1483253588516746,
+    "rotationInGodot": 0,
+    "alphaTransparentPixels": 70178,
+    "sha256": "d72a62d16621087ea637cf248d45820614811fd311ab6093d5bdc7cff6c71d7b"
+  },
+  {
+    "id": "FGW_06",
+    "path": "res://assets/13_Figma原图拆分/FGW_06_image2透明重制_v003.png",
+    "method": "source-feature similarity registration",
+    "inliers": 74,
+    "canvas_to_source_matrix": [
+      [
+        0.2723161211866051,
+        0.0008703041641289138,
+        2829.4828569809206
+      ],
+      [
+        -0.0008703041641289138,
+        0.2723161211866051,
+        929.9038701776446
+      ]
+    ],
+    "sourceCrop": [
+      1417.0,
+      464.0,
+      146.0,
+      198.0
+    ],
+    "uniformViewportScale": 1.1483253588516746,
+    "rotationInGodot": 0,
+    "alphaTransparentPixels": 75297,
+    "sha256": "9001d19e436596d96bfc238a6bf1ab84a64d0c40fd66b75cbc735a312ec6eb45"
+  },
+  {
+    "id": "FGW_07",
+    "path": "res://assets/13_Figma原图拆分/FGW_07_image2透明重制_v003.png",
+    "method": "source-feature similarity registration",
+    "inliers": 40,
+    "canvas_to_source_matrix": [
+      [
+        0.5173494872360639,
+        0.000480418245460795,
+        1759.471255971296
+      ],
+      [
+        -0.000480418245460795,
+        0.5173494872360639,
+        452.14020939780187
+      ]
+    ],
+    "sourceCrop": [
+      941.0,
+      252.0,
+      324.0,
+      218.0
+    ],
+    "uniformViewportScale": 1.1483253588516746,
+    "rotationInGodot": 0,
+    "alphaTransparentPixels": 144201,
+    "sha256": "cae589bbdeece07c542576ea11e29d778e51fc81ca6ef284b08b8ef7590c3ff6"
+  },
+  {
+    "id": "FGW_08",
+    "path": "res://assets/13_Figma原图拆分/FGW_08_image2透明重制_v003.png",
+    "method": "manual-source-envelope uniform fit",
+    "inliers": 5,
+    "canvas_to_source_matrix": [
+      [
+        0.23694267515923564,
+        0.0,
+        646.9184713375796
+      ],
+      [
+        0.0,
+        0.23694267515923564,
+        674.1656050955414
+      ]
+    ],
+    "sourceCrop": [
+      330.0,
+      358.0,
+      117.0,
+      95.0
+    ],
+    "uniformViewportScale": 1.1483253588516746,
+    "rotationInGodot": 0,
+    "alphaTransparentPixels": 16843,
+    "sha256": "709a7742d8d972e278ff33aef6fcb8bdfd2613ba96dd68cf4be8bc0701af57ff"
+  },
+  {
+    "id": "FGW_09",
+    "path": "res://assets/13_Figma原图拆分/FGW_09_image2透明重制_v003.png",
+    "method": "source-feature similarity registration",
+    "inliers": 13,
+    "canvas_to_source_matrix": [
+      [
+        0.11932111087757827,
+        0.00026326781088062325,
+        923.4483639982373
+      ],
+      [
+        -0.00026326781088062325,
+        0.11932111087757827,
+        882.0957546015703
+      ]
+    ],
+    "sourceCrop": [
+      464.0,
+      441.0,
+      79.0,
+      67.0
+    ],
+    "uniformViewportScale": 1.1483253588516746,
+    "rotationInGodot": 0,
+    "alphaTransparentPixels": 3916,
+    "sha256": "4e1d1e97c482531a4ad6b7d453574b6b26a7ab5bececb778b043db6989bcf538"
+  },
+  {
+    "id": "FGW_10",
+    "path": "res://assets/13_Figma原图拆分/FGW_10_image2透明重制_v003.png",
+    "method": "manual-source-envelope uniform fit",
+    "inliers": 19,
+    "canvas_to_source_matrix": [
+      [
+        0.10121012101210121,
+        0.0,
+        1174.915291529153
+      ],
+      [
+        0.0,
+        0.10121012101210121,
+        848.4312431243125
+      ]
+    ],
+    "sourceCrop": [
+      590.0,
+      428.0,
+      48.0,
+      67.0
+    ],
+    "uniformViewportScale": 1.1483253588516746,
+    "rotationInGodot": 0,
+    "alphaTransparentPixels": 6326,
+    "sha256": "a632aac4f41d9bed2d96507aa5a750b464ad95dd26d6c6ba20db6e3d00146b77"
+  },
+  {
+    "id": "FGW_11",
+    "path": "res://assets/13_Figma原图拆分/FGW_11_image2透明重制_v003.png",
+    "method": "source-feature similarity registration",
+    "inliers": 57,
+    "canvas_to_source_matrix": [
+      [
+        0.11751470897986162,
+        7.92916701662246e-05,
+        1395.403782075246
+      ],
+      [
+        -7.92916701662246e-05,
+        0.11751470897986162,
+        1028.879844403814
+      ]
+    ],
+    "sourceCrop": [
+      699.0,
+      516.0,
+      66.0,
+      76.0
+    ],
+    "uniformViewportScale": 1.1483253588516746,
+    "rotationInGodot": 0,
+    "alphaTransparentPixels": 2918,
+    "sha256": "642f72bd2a0e0f229d3462e469412c0e8ae53af9a3402a24e15386c1cf050a2f"
+  },
+  {
+    "id": "FGW_12",
+    "path": "res://assets/13_Figma原图拆分/FGW_12_image2透明重制_v003.png",
+    "method": "source-feature similarity registration",
+    "inliers": 114,
+    "canvas_to_source_matrix": [
+      [
+        0.23218690690445645,
+        0.0013207069546197383,
+        2294.2685785778017
+      ],
+      [
+        -0.0013207069546197383,
+        0.23218690690445645,
+        1255.2790193933815
+      ]
+    ],
+    "sourceCrop": [
+      1149.0,
+      628.0,
+      168.0,
+      122.0
+    ],
+    "uniformViewportScale": 1.1483253588516746,
+    "rotationInGodot": 0,
+    "alphaTransparentPixels": 34652,
+    "sha256": "476995156f90a33b6b447fd67f6246ec735774bbe08ba24041ce6739070987fa"
+  },
+  {
+    "id": "FGW_13",
+    "path": "res://assets/13_Figma原图拆分/FGW_13_image2透明重制_v003.png",
+    "method": "source-feature similarity registration",
+    "inliers": 84,
+    "canvas_to_source_matrix": [
+      [
+        0.1813900017692748,
+        0.0009718477272299044,
+        1808.958032814151
+      ],
+      [
+        -0.0009718477272299044,
+        0.1813900017692748,
+        184.38345048009282
+      ]
+    ],
+    "sourceCrop": [
+      907.0,
+      93.0,
+      75.0,
+      166.0
+    ],
+    "uniformViewportScale": 1.1483253588516746,
+    "rotationInGodot": 0,
+    "alphaTransparentPixels": 14650,
+    "sha256": "235bc6a0f55630ac4428e2118334270126d43807c09d590c411e3d946bbb323c"
+  },
+  {
+    "id": "FGW_14",
+    "path": "res://assets/13_Figma原图拆分/FGW_14_image2透明重制_v003.png",
+    "method": "source-feature similarity registration",
+    "inliers": 71,
+    "canvas_to_source_matrix": [
+      [
+        0.18057025014874517,
+        0.00043436666280825993,
+        2062.16500410075
+      ],
+      [
+        -0.00043436666280825993,
+        0.18057025014874517,
+        320.6672400387566
+      ]
+    ],
+    "sourceCrop": [
+      1038.0,
+      160.0,
+      89.0,
+      123.0
+    ],
+    "uniformViewportScale": 1.1483253588516746,
+    "rotationInGodot": 0,
+    "alphaTransparentPixels": 15307,
+    "sha256": "03afe3488568a1768a0f12cfe73271ff58623426b7b8bcb23a6d23e2f432440b"
+  },
+  {
+    "id": "FGW_15",
+    "path": "res://assets/13_Figma原图拆分/FGW_15_image2透明重制_v003.png",
+    "method": "manual-source-envelope uniform fit",
+    "inliers": 14,
+    "canvas_to_source_matrix": [
+      [
+        0.15131086142322098,
+        0.0,
+        2297.660674157303
+      ],
+      [
+        0.0,
+        0.15131086142322098,
+        437.5460674157303
+      ]
+    ],
+    "sourceCrop": [
+      1148.0,
+      218.0,
+      87.0,
+      103.0
+    ],
+    "uniformViewportScale": 1.1483253588516746,
+    "rotationInGodot": 0,
+    "alphaTransparentPixels": 10817,
+    "sha256": "2089d65301314ffff137391ff4e9d8f6057bd2d3feffa12e0c1850788f97aa52"
+  },
+  {
+    "id": "FGT_01",
+    "path": "res://assets/13_Figma原图拆分/FGT_01_image2透明重制_v003.png",
+    "method": "source-feature similarity registration",
+    "inliers": 120,
+    "canvas_to_source_matrix": [
+      [
+        0.5518534988640542,
+        -0.00042662920596700624,
+        1547.0209381361683
+      ],
+      [
+        0.00042662920596700624,
+        0.5518534988640542,
+        695.9726423362654
+      ]
+    ],
+    "sourceCrop": [
+      777.0,
+      388.0,
+      420.0,
+      238.0
+    ],
+    "uniformViewportScale": 1.1483253588516746,
+    "rotationInGodot": 0,
+    "alphaTransparentPixels": 204186,
+    "sha256": "e2d05bd9266966f6d52045f058af000dbcceae5d1fcc69a1893e425761b422fd"
+  },
+  {
+    "id": "FGT_02",
+    "path": "res://assets/13_Figma原图拆分/FGT_02_image2透明重制_v003.png",
+    "method": "source-feature similarity registration",
+    "inliers": 134,
+    "canvas_to_source_matrix": [
+      [
+        0.5160378246950454,
+        0.0018145681394611919,
+        2232.623662589797
+      ],
+      [
+        -0.0018145681394611919,
+        0.5160378246950454,
+        552.8380005171964
+      ]
+    ],
+    "sourceCrop": [
+      1146.0,
+      277.0,
+      278.0,
+      295.0
+    ],
+    "uniformViewportScale": 1.1483253588516746,
+    "rotationInGodot": 0,
+    "alphaTransparentPixels": 94081,
+    "sha256": "4b7da861c52e9d3db01a769f078cd71ab24ca289fe2f1b75f93e97538f1bb9d4"
+  },
+  {
+    "id": "FGT_03",
+    "path": "res://assets/13_Figma原图拆分/FGT_03_image2透明重制_v003.png",
+    "method": "source-feature similarity registration",
+    "inliers": 44,
+    "canvas_to_source_matrix": [
+      [
+        0.2747705590552224,
+        0.0021811756665958693,
+        691.7338312803831
+      ],
+      [
+        -0.0021811756665958693,
+        0.2747705590552224,
+        964.6422451516378
+      ]
+    ],
+    "sourceCrop": [
+      348.0,
+      497.0,
+      202.0,
+      129.0
+    ],
+    "uniformViewportScale": 1.1483253588516746,
+    "rotationInGodot": 0,
+    "alphaTransparentPixels": 49102,
+    "sha256": "f669a96f3b70745fcc6eee4541394d15fbc592c17a872dfc63f5258458d17fc8"
+  },
+  {
+    "id": "FGT_04",
+    "path": "res://assets/13_Figma原图拆分/FGT_04_image2透明重制_v003.png",
+    "method": "source-feature similarity registration",
+    "inliers": 61,
+    "canvas_to_source_matrix": [
+      [
+        0.33954911857066283,
+        -9.541625769132062e-05,
+        1363.9061828652546
+      ],
+      [
+        9.541625769132062e-05,
+        0.33954911857066283,
+        1079.690011077965
+      ]
+    ],
+    "sourceCrop": [
+      690.0,
+      564.0,
+      234.0,
+      155.0
+    ],
+    "uniformViewportScale": 1.1483253588516746,
+    "rotationInGodot": 0,
+    "alphaTransparentPixels": 71690,
+    "sha256": "4e927533fbcfe4dd61aa4c09ccf1805d2aa2c14bdb2685f40cf32e5f8327fa0b"
+  },
+  {
+    "id": "FGT_05",
+    "path": "res://assets/13_Figma原图拆分/FGT_05_image2透明重制_v003.png",
+    "method": "manual-source-envelope uniform fit",
+    "inliers": 75,
+    "canvas_to_source_matrix": [
+      [
+        0.22792607802874743,
+        0.0,
+        471.7618069815195
+      ],
+      [
+        0.0,
+        0.22792607802874743,
+        790.7577002053388
+      ]
+    ],
+    "sourceCrop": [
+      239.0,
+      397.0,
+      173.0,
+      113.0
+    ],
+    "uniformViewportScale": 1.1483253588516746,
+    "rotationInGodot": 0,
+    "alphaTransparentPixels": 45196,
+    "sha256": "f5357d58f50cc8b213f486930e2c25bff1fd0e7473374eaa6d428d340b36bea7"
+  },
+  {
+    "id": "FGT_06",
+    "path": "res://assets/13_Figma原图拆分/FGT_06_image2透明重制_v003.png",
+    "method": "manual-source-envelope uniform fit",
+    "inliers": 8,
+    "canvas_to_source_matrix": [
+      [
+        0.15032211882605584,
+        0.0,
+        1151.715103793844
+      ],
+      [
+        0.0,
+        0.15032211882605584,
+        1144.0
+      ]
+    ],
+    "sourceCrop": [
+      580.0,
+      571.0,
+      79.0,
+      107.0
+    ],
+    "uniformViewportScale": 1.1483253588516746,
+    "rotationInGodot": 0,
+    "alphaTransparentPixels": 20388,
+    "sha256": "06cf7b252fc5bae629de93d75a1802c30f0113220db3cdf05612174fdb4130a8"
+  },
+  {
+    "id": "FGT_07",
+    "path": "res://assets/13_Figma原图拆分/FGT_07_image2透明重制_v003.png",
+    "method": "manual-source-envelope uniform fit",
+    "inliers": 71,
+    "canvas_to_source_matrix": [
+      [
+        0.13593380614657208,
+        0.0,
+        1354.7517730496454
+      ],
+      [
+        0.0,
+        0.13593380614657208,
+        845.6891252955082
+      ]
+    ],
+    "sourceCrop": [
+      681.0,
+      423.0,
+      58.0,
+      117.0
+    ],
+    "uniformViewportScale": 1.1483253588516746,
+    "rotationInGodot": 0,
+    "alphaTransparentPixels": 14131,
+    "sha256": "05242976fb0c8912eb684a13cc53ec90505b729e84e4437e160d02558efa96ed"
+  },
+  {
+    "id": "FGT_08",
+    "path": "res://assets/13_Figma原图拆分/FGT_08_image2透明重制_v003.png",
+    "method": "manual-source-envelope uniform fit",
+    "inliers": 14,
+    "canvas_to_source_matrix": [
+      [
+        0.1345093715545755,
+        0.0,
+        1653.1400220507167
+      ],
+      [
+        0.0,
+        0.1345093715545755,
+        602.710033076075
+      ]
+    ],
+    "sourceCrop": [
+      829.0,
+      307.0,
+      63.0,
+      92.0
+    ],
+    "uniformViewportScale": 1.1483253588516746,
+    "rotationInGodot": 0,
+    "alphaTransparentPixels": 11046,
+    "sha256": "d288ce4a2089924c99730bd22540191f4bdfb5aa8bf236292ba5119e0002bbdf"
+  }
+]

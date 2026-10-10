@@ -1,0 +1,4 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+OpenGL API 3.3.0 NVIDIA 592.01 - Compatibility - Using Device: NVIDIA - NVIDIA GeForce RTX 5070 Ti Laptop GPU
+
+BAKED_VIDEO_VERIFICATION: {"encoded_fps":30,"failed":[],"loop_seconds":8,"measurements":[{"max_frame_ms":4.524,"p95_frame_ms":4.264,"render_fps":242.447262669385,"room":"home"},{"max_frame_ms":5.038,"p95_frame_ms":4.27,"render_fps":242.220190263959,"room":"loading"},{"max_frame_ms":4.347,"p95_frame_ms":4.251,"render_fps":242.209923340559,"room":"village"},{"max_frame_ms":4.297,"p95_frame_ms":4.266,"render_fps":242.090695244128,"room":"garden"},{"max_frame_ms":4.86,"p95_frame_ms":4.262,"render_fps":242.038447807434,"room":"workshop"},{"max_frame_ms":4.594,"p95_frame_ms":4.294,"render_fps":242.012576586897,"room":"teashop"}],"passed":97,"playback_format":"Ogg Theora","renderer":"NVIDIA GeForce RTX 5070 Ti Laptop GPU","resolution":[1920,1080]}

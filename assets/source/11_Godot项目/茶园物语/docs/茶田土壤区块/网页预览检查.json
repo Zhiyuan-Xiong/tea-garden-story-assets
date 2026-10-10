@@ -1,0 +1,55 @@
+{
+  "indexed_assets_checked": 209,
+  "growth_stages": 4,
+  "soil_slots": 13,
+  "per_terrace": [
+    4,
+    4,
+    5
+  ],
+  "controls": "Stage views, old/new comparison, transparent light/dark, existing placement views and narrow layout passed",
+  "pages": [
+    {
+      "filename": "茶田种植分区调整预览.html",
+      "page_errors": [],
+      "broken_images": [],
+      "missing_links": []
+    },
+    {
+      "filename": "茶树生长阶段调整预览.html",
+      "page_errors": [],
+      "broken_images": [],
+      "missing_links": []
+    },
+    {
+      "filename": "茶村自由布置预览.html",
+      "page_errors": [],
+      "broken_images": [],
+      "missing_links": []
+    },
+    {
+      "filename": "素材库预览.html",
+      "page_errors": [],
+      "broken_images": [],
+      "missing_links": []
+    },
+    {
+      "filename": "游戏内调整预览.html",
+      "page_errors": [],
+      "broken_images": [],
+      "missing_links": []
+    },
+    {
+      "filename": "茶村配景调整预览.html",
+      "page_errors": [],
+      "broken_images": [],
+      "missing_links": []
+    },
+    {
+      "filename": "动效预览.html",
+      "page_errors": [],
+      "broken_images": [],
+      "missing_links": []
+    }
+  ]
+}

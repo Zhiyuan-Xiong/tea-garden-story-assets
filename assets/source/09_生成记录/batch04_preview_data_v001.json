@@ -1,0 +1,548 @@
+[
+  {
+    "id": "PRP_201",
+    "name": "prp_bamboo_tray_empty_v001",
+    "label": "空竹匾",
+    "category": "06_道具与图标",
+    "batch": "04_工坊素材",
+    "relativePath": "06_道具与图标/prp_bamboo_tray_empty_v001.png",
+    "status": "已生成v001",
+    "width": 1254,
+    "height": 1254,
+    "alphaCheck": {
+      "pass": true,
+      "cornersAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparentPixels": 1129894,
+      "borderNonzeroPixels": 0,
+      "borderPixelsAlpha16": 0,
+      "warning": ""
+    },
+    "visibleBBoxAlpha16": [
+      120,
+      363,
+      1143,
+      903
+    ],
+    "solidBBoxAlpha128": [
+      121,
+      364,
+      1142,
+      902
+    ],
+    "sha256": "2851407060748ee14f0e5cfdea5a6f9696ea0440a2de31d5d2296bb240bcda03",
+    "reviewNotes": "独立透明PNG；空器具、原料层与火焰分别保存。已检查浏览器透明预览；主体位置参考另存，尚未进入Godot。",
+    "positionReference": "00_规范与清单/工坊素材叠放与锚点参考_v001.json"
+  },
+  {
+    "id": "PRP_202",
+    "name": "prp_leaves_spread_v001",
+    "label": "摊放鲜叶层",
+    "category": "06_道具与图标",
+    "batch": "04_工坊素材",
+    "relativePath": "06_道具与图标/prp_leaves_spread_v001.png",
+    "status": "已生成v001",
+    "width": 1254,
+    "height": 1254,
+    "alphaCheck": {
+      "pass": true,
+      "cornersAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparentPixels": 1346424,
+      "borderNonzeroPixels": 0,
+      "borderPixelsAlpha16": 0,
+      "warning": ""
+    },
+    "visibleBBoxAlpha16": [
+      116,
+      371,
+      1157,
+      886
+    ],
+    "solidBBoxAlpha128": [
+      117,
+      372,
+      1156,
+      885
+    ],
+    "sha256": "a20ec9e91920ea9590dbe090880d44f5a5b5e2e9858237d6f217a517f2c761b6",
+    "reviewNotes": "独立透明PNG；空器具、原料层与火焰分别保存。已检查浏览器透明预览；主体位置参考另存，尚未进入Godot。",
+    "positionReference": "00_规范与清单/工坊素材叠放与锚点参考_v001.json"
+  },
+  {
+    "id": "PRP_203",
+    "name": "prp_iron_wok_empty_v001",
+    "label": "空炒锅",
+    "category": "06_道具与图标",
+    "batch": "04_工坊素材",
+    "relativePath": "06_道具与图标/prp_iron_wok_empty_v001.png",
+    "status": "已生成v001",
+    "width": 1254,
+    "height": 1254,
+    "alphaCheck": {
+      "pass": true,
+      "cornersAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparentPixels": 1049345,
+      "borderNonzeroPixels": 2,
+      "borderPixelsAlpha16": 0,
+      "warning": ""
+    },
+    "visibleBBoxAlpha16": [
+      57,
+      355,
+      1203,
+      983
+    ],
+    "solidBBoxAlpha128": [
+      57,
+      355,
+      1202,
+      983
+    ],
+    "sha256": "78ca388014d64a930b4b9571b86605048749889e38112666b68d6351095d4c36",
+    "reviewNotes": "独立透明PNG；空器具、原料层与火焰分别保存。已检查浏览器透明预览；主体位置参考另存，尚未进入Godot。",
+    "positionReference": "00_规范与清单/工坊素材叠放与锚点参考_v001.json"
+  },
+  {
+    "id": "PRP_204",
+    "name": "prp_stove_base_v001",
+    "label": "炉台",
+    "category": "06_道具与图标",
+    "batch": "04_工坊素材",
+    "relativePath": "06_道具与图标/prp_stove_base_v001.png",
+    "status": "已生成v001",
+    "width": 1254,
+    "height": 1254,
+    "alphaCheck": {
+      "pass": true,
+      "cornersAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparentPixels": 929683,
+      "borderNonzeroPixels": 15,
+      "borderPixelsAlpha16": 0,
+      "warning": ""
+    },
+    "visibleBBoxAlpha16": [
+      88,
+      266,
+      1183,
+      1126
+    ],
+    "solidBBoxAlpha128": [
+      88,
+      267,
+      1183,
+      1125
+    ],
+    "sha256": "2922ef73ee0011add4ed389e4ad745df0249ca3956f1703c8da4d80852537fa0",
+    "reviewNotes": "独立透明PNG；空器具、原料层与火焰分别保存。已检查浏览器透明预览；主体位置参考另存，尚未进入Godot。",
+    "positionReference": "00_规范与清单/工坊素材叠放与锚点参考_v001.json"
+  },
+  {
+    "id": "PRP_205",
+    "name": "prp_rolling_table_v001",
+    "label": "揉捻工作台",
+    "category": "06_道具与图标",
+    "batch": "04_工坊素材",
+    "relativePath": "06_道具与图标/prp_rolling_table_v001.png",
+    "status": "已生成v001",
+    "width": 1536,
+    "height": 1024,
+    "alphaCheck": {
+      "pass": true,
+      "cornersAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparentPixels": 931196,
+      "borderNonzeroPixels": 5,
+      "borderPixelsAlpha16": 0,
+      "warning": ""
+    },
+    "visibleBBoxAlpha16": [
+      74,
+      82,
+      1489,
+      975
+    ],
+    "solidBBoxAlpha128": [
+      75,
+      83,
+      1489,
+      974
+    ],
+    "sha256": "21d8ea0695a0046872c56f14a9ac4e3ec07883c6fcfd287f709a04f3b97b93dd",
+    "reviewNotes": "独立透明PNG；空器具、原料层与火焰分别保存。已检查浏览器透明预览；主体位置参考另存，尚未进入Godot。",
+    "positionReference": "00_规范与清单/工坊素材叠放与锚点参考_v001.json"
+  },
+  {
+    "id": "PRP_206",
+    "name": "prp_leaves_rolled_v001",
+    "label": "揉捻叶层",
+    "category": "06_道具与图标",
+    "batch": "04_工坊素材",
+    "relativePath": "06_道具与图标/prp_leaves_rolled_v001.png",
+    "status": "已生成v001",
+    "width": 1254,
+    "height": 1254,
+    "alphaCheck": {
+      "pass": true,
+      "cornersAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparentPixels": 1237025,
+      "borderNonzeroPixels": 4,
+      "borderPixelsAlpha16": 0,
+      "warning": ""
+    },
+    "visibleBBoxAlpha16": [
+      100,
+      415,
+      1156,
+      873
+    ],
+    "solidBBoxAlpha128": [
+      101,
+      416,
+      1155,
+      872
+    ],
+    "sha256": "dd3823756544f370e8c1cb6b45d804e81e24d5503b20c82a81d607c97e068aeb",
+    "reviewNotes": "独立透明PNG；空器具、原料层与火焰分别保存。已检查浏览器透明预览；主体位置参考另存，尚未进入Godot。",
+    "positionReference": "00_规范与清单/工坊素材叠放与锚点参考_v001.json"
+  },
+  {
+    "id": "PRP_207",
+    "name": "prp_drying_rack_empty_v001",
+    "label": "空晾架",
+    "category": "06_道具与图标",
+    "batch": "04_工坊素材",
+    "relativePath": "06_道具与图标/prp_drying_rack_empty_v001.png",
+    "status": "已生成v001",
+    "width": 1024,
+    "height": 1536,
+    "alphaCheck": {
+      "pass": true,
+      "cornersAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparentPixels": 778636,
+      "borderNonzeroPixels": 0,
+      "borderPixelsAlpha16": 0,
+      "warning": ""
+    },
+    "visibleBBoxAlpha16": [
+      120,
+      120,
+      916,
+      1431
+    ],
+    "solidBBoxAlpha128": [
+      120,
+      121,
+      916,
+      1431
+    ],
+    "sha256": "5e89964cb1b75b4062debffa4ff013d69860ee9b788276cdcbc6781e21ca80fc",
+    "reviewNotes": "独立透明PNG；空器具、原料层与火焰分别保存。已检查浏览器透明预览；主体位置参考另存，尚未进入Godot。",
+    "positionReference": "00_规范与清单/工坊素材叠放与锚点参考_v001.json"
+  },
+  {
+    "id": "PRP_208",
+    "name": "prp_leaves_dried_v001",
+    "label": "干茶叶层",
+    "category": "06_道具与图标",
+    "batch": "04_工坊素材",
+    "relativePath": "06_道具与图标/prp_leaves_dried_v001.png",
+    "status": "已生成v001",
+    "width": 1254,
+    "height": 1254,
+    "alphaCheck": {
+      "pass": true,
+      "cornersAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparentPixels": 1254025,
+      "borderNonzeroPixels": 0,
+      "borderPixelsAlpha16": 0,
+      "warning": ""
+    },
+    "visibleBBoxAlpha16": [
+      71,
+      444,
+      1187,
+      858
+    ],
+    "solidBBoxAlpha128": [
+      72,
+      445,
+      1186,
+      857
+    ],
+    "sha256": "2e8804114ef943cae147c969f6089d6338a20586352e8217d7eeaaff8850a682",
+    "reviewNotes": "独立透明PNG；空器具、原料层与火焰分别保存。已检查浏览器透明预览；主体位置参考另存，尚未进入Godot。",
+    "positionReference": "00_规范与清单/工坊素材叠放与锚点参考_v001.json"
+  },
+  {
+    "id": "PRP_209",
+    "name": "prp_tea_jar_v001",
+    "label": "成品茶罐",
+    "category": "06_道具与图标",
+    "batch": "04_工坊素材",
+    "relativePath": "06_道具与图标/prp_tea_jar_v001.png",
+    "status": "已生成v001",
+    "width": 1254,
+    "height": 1254,
+    "alphaCheck": {
+      "pass": true,
+      "cornersAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparentPixels": 1237704,
+      "borderNonzeroPixels": 0,
+      "borderPixelsAlpha16": 0,
+      "warning": ""
+    },
+    "visibleBBoxAlpha16": [
+      307,
+      294,
+      945,
+      964
+    ],
+    "solidBBoxAlpha128": [
+      308,
+      295,
+      945,
+      963
+    ],
+    "sha256": "b896ccef28adb10fad4b32e15bfd8168530418897dd5e4a5a810db6de66e2ff1",
+    "reviewNotes": "独立透明PNG；空器具、原料层与火焰分别保存。已检查浏览器透明预览；主体位置参考另存，尚未进入Godot。",
+    "positionReference": "00_规范与清单/工坊素材叠放与锚点参考_v001.json"
+  },
+  {
+    "id": "PRP_210",
+    "name": "prp_workshop_stool_v001",
+    "label": "木凳",
+    "category": "06_道具与图标",
+    "batch": "04_工坊素材",
+    "relativePath": "06_道具与图标/prp_workshop_stool_v001.png",
+    "status": "已生成v001",
+    "width": 1254,
+    "height": 1254,
+    "alphaCheck": {
+      "pass": true,
+      "cornersAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparentPixels": 1160907,
+      "borderNonzeroPixels": 38,
+      "borderPixelsAlpha16": 0,
+      "warning": ""
+    },
+    "visibleBBoxAlpha16": [
+      209,
+      223,
+      1071,
+      1073
+    ],
+    "solidBBoxAlpha128": [
+      209,
+      223,
+      1070,
+      1073
+    ],
+    "sha256": "e2614eaf56eec0d5e11a623afcb149b5347a6ca6319a6c50982b5798482bdc82",
+    "reviewNotes": "独立透明PNG；空器具、原料层与火焰分别保存。已检查浏览器透明预览；主体位置参考另存，尚未进入Godot。",
+    "positionReference": "00_规范与清单/工坊素材叠放与锚点参考_v001.json"
+  },
+  {
+    "id": "ICO_201",
+    "name": "ico_tools_v001",
+    "label": "器具入口图标",
+    "category": "06_道具与图标",
+    "batch": "04_工坊素材",
+    "relativePath": "06_道具与图标/ico_tools_v001.png",
+    "status": "已生成v001",
+    "width": 1254,
+    "height": 1254,
+    "alphaCheck": {
+      "pass": true,
+      "cornersAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparentPixels": 1278921,
+      "borderNonzeroPixels": 4,
+      "borderPixelsAlpha16": 0,
+      "warning": ""
+    },
+    "visibleBBoxAlpha16": [
+      240,
+      274,
+      1058,
+      1019
+    ],
+    "solidBBoxAlpha128": [
+      241,
+      275,
+      1057,
+      1019
+    ],
+    "sha256": "f2cfb374dad155378b19c9d41798c154e6b5bab4b54a95ac4b0ed88f81c338bc",
+    "reviewNotes": "独立透明PNG；空器具、原料层与火焰分别保存。已检查浏览器透明预览；主体位置参考另存，尚未进入Godot。",
+    "positionReference": "00_规范与清单/工坊素材叠放与锚点参考_v001.json"
+  },
+  {
+    "id": "FX_201",
+    "name": "fx_fire_low_v001",
+    "label": "炉火低档",
+    "category": "06_道具与图标",
+    "batch": "04_工坊素材",
+    "relativePath": "06_道具与图标/fx_fire_low_v001.png",
+    "status": "已生成v001",
+    "width": 1024,
+    "height": 1536,
+    "alphaCheck": {
+      "pass": true,
+      "cornersAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparentPixels": 1471321,
+      "borderNonzeroPixels": 0,
+      "borderPixelsAlpha16": 0,
+      "warning": ""
+    },
+    "visibleBBoxAlpha16": [
+      309,
+      876,
+      755,
+      1302
+    ],
+    "solidBBoxAlpha128": [
+      310,
+      877,
+      754,
+      1301
+    ],
+    "sha256": "fc9ac386e3feca8320f9d64ef63c40b95788dced80e7358e0767ea369512308b",
+    "reviewNotes": "独立透明PNG；空器具、原料层与火焰分别保存。已检查浏览器透明预览；主体位置参考另存，尚未进入Godot。",
+    "positionReference": "00_规范与清单/工坊素材叠放与锚点参考_v001.json"
+  },
+  {
+    "id": "FX_202",
+    "name": "fx_fire_medium_v001",
+    "label": "炉火中档",
+    "category": "06_道具与图标",
+    "batch": "04_工坊素材",
+    "relativePath": "06_道具与图标/fx_fire_medium_v001.png",
+    "status": "已生成v001",
+    "width": 1024,
+    "height": 1536,
+    "alphaCheck": {
+      "pass": true,
+      "cornersAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparentPixels": 1175086,
+      "borderNonzeroPixels": 0,
+      "borderPixelsAlpha16": 0,
+      "warning": ""
+    },
+    "visibleBBoxAlpha16": [
+      122,
+      325,
+      938,
+      1335
+    ],
+    "solidBBoxAlpha128": [
+      122,
+      325,
+      937,
+      1335
+    ],
+    "sha256": "2d97ce6a6a3f46f81b1a380aeb2d51f240b8e0745d21052b65a6f01b7af853bc",
+    "reviewNotes": "独立透明PNG；空器具、原料层与火焰分别保存。已检查浏览器透明预览；主体位置参考另存，尚未进入Godot。",
+    "positionReference": "00_规范与清单/工坊素材叠放与锚点参考_v001.json"
+  },
+  {
+    "id": "FX_203",
+    "name": "fx_fire_high_v001",
+    "label": "炉火高档",
+    "category": "06_道具与图标",
+    "batch": "04_工坊素材",
+    "relativePath": "06_道具与图标/fx_fire_high_v001.png",
+    "status": "已生成v001",
+    "width": 1024,
+    "height": 1536,
+    "alphaCheck": {
+      "pass": true,
+      "cornersAlpha": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "transparentPixels": 966463,
+      "borderNonzeroPixels": 7,
+      "borderPixelsAlpha16": 0,
+      "warning": "保留原始alpha；角落存在极低透明度像素。"
+    },
+    "visibleBBoxAlpha16": [
+      107,
+      42,
+      954,
+      1461
+    ],
+    "solidBBoxAlpha128": [
+      108,
+      42,
+      954,
+      1461
+    ],
+    "sha256": "f441c06e8668eeba1a5a58106122a64464bbcb479799c621d1540017537f3949",
+    "reviewNotes": "独立透明PNG；空器具、原料层与火焰分别保存。已检查浏览器透明预览；主体位置参考另存，尚未进入Godot。",
+    "positionReference": "00_规范与清单/工坊素材叠放与锚点参考_v001.json"
+  }
+]

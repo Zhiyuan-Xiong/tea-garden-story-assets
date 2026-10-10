@@ -1,0 +1,21 @@
+{
+  "id": "FX_201",
+  "category": "06_道具与图标",
+  "functionArea": "制茶工坊",
+  "label": "炉火低档",
+  "plannedFile": "fx_fire_low_v001.png",
+  "batch": "04_工坊素材",
+  "targetSize": "512×768",
+  "status": "待生成",
+  "actualSize": "",
+  "relativePath": "",
+  "remarks": "单独透明火焰，低亮度",
+  "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-7dc536d9-da56-456f-bad9-34c17ed5def8.png",
+  "prompt": "Create one isolated production-ready 2D game sprite for 茶园物语. Chinese ink and pale watercolor hand-painted style, restrained thin warm-grey brush outlines, clean broad washes, very sparse material marks. Match the approved reference palette: ivory, muted bamboo beige, pale brown, sage/tea green, charcoal grey. No noise, no paper grain, no dense texture, no muddy wash, no photographic surface, no oversaturation. Parallel axonometric camera, elevated view; long horizontal ground axis slopes up-right about 26 degrees, perpendicular short axis down-right about 30 degrees; verticals remain vertical, no vanishing points. Soft material shading only, no ground/shadow plate. TRUE transparent alpha background; no background color, no checkerboard drawn in image. One complete centered object with generous transparent margin. No scene, people, text, labels, UI, decorations or unrelated objects. Figma image is only palette/brush and workshop object inspiration; never reproduce its whole room, baked UI or people. Basket reference is palette and controlled brushwork only. Requested canvas is 1024x1024 unless stated otherwise.\nSUBJECT: A LOW heat stylized traditional stove fire effect ONLY. Vertical512x768transparentcanvas. Fire source/bottom midpoint stays at(256,650); draw ONE tiny connected cluster of three short soft flame tongues, width about210pixels, height about180pixels, from y470to650. Muted warm amber outer flame with pale ivory-yellow inner shapes, subtle Chinese watercolor contour, clean broad simple forms. Flat front-facing effect for placement inside firebox. NO stove, NO black opening, NO logs, NO charcoal, NO sparks, NO smoke, NO embers, NO circular base and NO glow beyond actual flame shapes. Large empty transparent margin above is intentional. No orange/brown haze in alpha. Need low flame only, two higher states will be separate assets.",
+  "mode": "built-in image_gen",
+  "references": [
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\06_道具与图标\\prp_stove_base_v001.png"
+  ],
+  "savedPath": "06_道具与图标/fx_fire_low_v001.png",
+  "destination": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\06_道具与图标\\fx_fire_low_v001.png"
+}

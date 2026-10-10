@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-08",
+  "builtInMode": "image_gen",
+  "batch": "人物批_12项",
+  "newAssets": 12,
+  "activeAssets": 92,
+  "uniqueIds": 92,
+  "planTotal": 112,
+  "pendingTotal": 20,
+  "pendingByBatch": {
+    "06_场景与装饰": 14,
+    "07_手记插画": 6
+  },
+  "physicalAssetPNGs": 98,
+  "retainedPreviousPNGVersions": 6,
+  "missingActiveFiles": [],
+  "allNewAlphaPassed": true,
+  "staticPeopleOnly": true,
+  "godotBuilt": false,
+  "pass": true
+}

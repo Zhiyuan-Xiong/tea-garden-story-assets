@@ -1,0 +1,20 @@
+{
+  "checks": [
+    {
+      "file": "00_第04批素材总览_v001",
+      "images": 14
+    },
+    {
+      "file": "01_工坊分层组合预览_v001",
+      "images": 11
+    }
+  ],
+  "library": {
+    "all": 70,
+    "batch04": 14,
+    "batch03": 33,
+    "fireSearch": 3
+  },
+  "errors": [],
+  "pass": true
+}

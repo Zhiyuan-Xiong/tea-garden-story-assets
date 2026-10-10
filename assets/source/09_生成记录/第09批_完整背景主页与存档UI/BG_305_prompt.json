@@ -1,0 +1,23 @@
+{
+  "id": "BG_305",
+  "category": "03_建筑与场景",
+  "label": "制茶工坊空背景",
+  "plannedFile": "bg_workshop_rich_empty_v004.png",
+  "functionArea": "完整背景",
+  "transparent": false,
+  "targetSize": "1920×1080",
+  "batch": "09_完整背景主页与存档UI",
+  "status": "待生成",
+  "actualSize": "",
+  "relativePath": "03_建筑与场景/bg_workshop_rich_empty_v004.png",
+  "remarks": "完整静态背景PNG；无UI、人物及可操作物；预留独立素材摆放区域；按用户最新要求提亮、去颗粒、减少表面纹理与细碎描线；颜色以用户提供的亮灰雅致参考为准，避免薄荷绿、亮青蓝和粉橙；最新校色：在亮灰版基础上饱和度约提高25%，明度与低纹理不变",
+  "prompt": "Use case: precise-object-edit. Image1 is the EMPTY WORKSHOP background edit target. Image2 is the FINAL COLOR REFERENCE after user requested a light-gray palette with about25% more saturation than the previous gray version.\nKeep image1 architecture, empty floor, windows, roof and landscape layout unchanged. Match image2's quiet colored gray-sage, light gray-teal river, warm ivory-gray and LIGHT ASH-TAUPE wood. Reduce target's yellow/golden timber to subtle light honey-gray; keep enough gentle color to feel alive, brightness stays high. Rear brick wall pale slate-gray. Vegetation outside restrained gray sage with dusty apricot accents, no vivid mint, bright blue or orange.\nKeep surfaces smooth and clean, sparse fine ink lines. No added noise, fibers, grain, small woodgrain, scratchy mottling, muddy brown or fog overlay. Architectural edges readable, luminous room. NO furniture, workstations, people, tea tools, labels, poster, UI or text. Full opaque16:9 image, no borders.",
+  "references": [
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\03_建筑与场景\\bg_workshop_rich_empty_v002.png",
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\03_建筑与场景\\bg_home_panorama_rich_v004.png"
+  ],
+  "mode": "built-in image_gen final user palette match",
+  "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-c0a5dec2-df23-41c2-84b0-0b6c60660911.png",
+  "savedPath": "03_建筑与场景/bg_workshop_rich_empty_v004.png",
+  "destination": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\03_建筑与场景\\bg_workshop_rich_empty_v004.png"
+}

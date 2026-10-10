@@ -1,0 +1,170 @@
+[
+  {
+    "id": "PRP_421",
+    "room": "teashop",
+    "path": "res://scenes/props_calibrated/PRP_421_teashop.tscn",
+    "sourceAxes": [
+      20,
+      -24
+    ],
+    "targetAxes": [
+      21.957568914059767,
+      -10.383727671533693
+    ],
+    "transform": [
+      1,
+      0.13940508685216185,
+      0,
+      0.7246744987009177
+    ]
+  },
+  {
+    "id": "PRP_422",
+    "room": "teashop",
+    "path": "res://scenes/props_calibrated/PRP_422_teashop.tscn",
+    "sourceAxes": [
+      22,
+      -25
+    ],
+    "targetAxes": [
+      21.957568914059767,
+      -10.383727671533693
+    ],
+    "transform": [
+      1,
+      0.13094383790451786,
+      0,
+      0.6737711034570968
+    ]
+  },
+  {
+    "id": "PRP_423",
+    "room": "teashop",
+    "path": "res://scenes/props_calibrated/PRP_423_teashop.tscn",
+    "sourceAxes": [
+      20,
+      -24
+    ],
+    "targetAxes": [
+      21.957568914059767,
+      -10.383727671533693
+    ],
+    "transform": [
+      1,
+      0.13940508685216185,
+      0,
+      0.7246744987009177
+    ]
+  },
+  {
+    "id": "PRP_424",
+    "room": "teashop",
+    "path": "res://scenes/props_calibrated/PRP_424_teashop.tscn",
+    "sourceAxes": [
+      25,
+      -25
+    ],
+    "targetAxes": [
+      21.957568914059767,
+      -10.383727671533693
+    ],
+    "transform": [
+      1,
+      0.1099621232150037,
+      0,
+      0.6287756711012766
+    ]
+  },
+  {
+    "id": "PRP_425",
+    "room": "teashop",
+    "path": "res://scenes/props_calibrated/PRP_425_teashop.tscn",
+    "sourceAxes": [
+      25,
+      -25
+    ],
+    "targetAxes": [
+      21.957568914059767,
+      -10.383727671533693
+    ],
+    "transform": [
+      1,
+      0.1099621232150037,
+      0,
+      0.6287756711012766
+    ]
+  },
+  {
+    "id": "PRP_431",
+    "room": "workshop",
+    "path": "res://scenes/props_calibrated/PRP_431_workshop.tscn",
+    "sourceAxes": [
+      20.7,
+      -30.8
+    ],
+    "targetAxes": [
+      23.515887025867666,
+      -14.155000493919658
+    ],
+    "transform": [
+      1,
+      0.168479507138865,
+      0,
+      0.7057021249825329
+    ]
+  },
+  {
+    "id": "PRP_432",
+    "room": "workshop",
+    "path": "res://scenes/props_calibrated/PRP_432_workshop.tscn",
+    "sourceAxes": [
+      30.7,
+      -22
+    ],
+    "targetAxes": [
+      23.515887025867666,
+      -14.155000493919658
+    ],
+    "transform": [
+      1,
+      0.026119325866022225,
+      0,
+      0.6888728946276045
+    ]
+  },
+  {
+    "id": "PRP_433",
+    "room": "workshop",
+    "path": "res://scenes/props_calibrated/PRP_433_workshop.tscn",
+    "sourceAxes": null,
+    "targetAxes": [
+      23.515887025867666,
+      -14.155000493919658
+    ],
+    "transform": [
+      1,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "id": "PRP_434",
+    "room": "workshop",
+    "path": "res://scenes/props_calibrated/PRP_434_workshop.tscn",
+    "sourceAxes": [
+      27,
+      -25
+    ],
+    "targetAxes": [
+      23.515887025867666,
+      -14.155000493919658
+    ],
+    "transform": [
+      1,
+      0.07624875223126237,
+      0,
+      0.7043678917076563
+    ]
+  }
+]

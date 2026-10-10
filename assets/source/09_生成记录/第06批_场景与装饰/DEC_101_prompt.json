@@ -1,0 +1,22 @@
+{
+  "id": "DEC_101",
+  "category": "03_建筑与场景",
+  "functionArea": "场景分层",
+  "label": "灯笼",
+  "plannedFile": "dec_lantern_v001.png",
+  "batch": "06_场景与装饰",
+  "targetSize": "768×1024",
+  "status": "待生成",
+  "actualSize": "",
+  "relativePath": "03_建筑与场景/dec_lantern_v001.png",
+  "remarks": "透明装饰单体",
+  "prompt": "Use case: stylized-concept. Asset type: one independent transparent PNG for the 2D/2.5D Chinese tea-village game 茶园物语.\nStyle: clean Chinese ink outline with pale hand-painted watercolor fills, harmonizing with the approved references. Simple large clear shapes, controlled sparse brush marks, thin charcoal/brown linework; avoid dense texture or paper grain. Restrained ivory #EEE5D5, sage #83957E, tea green #526C62, charcoal #5C6261, pale timber #967653, bamboo #C5A36F, occasional dusty coral #B76651.\nFor constructed objects use elevated parallel dimetric 2:1 ground axes, diagonal edges slope about ±26.565 degrees, verticals remain vertical, near and far edges stay parallel, no lens perspective. Soft even light, modest internal shading, no cast ground shadow.\nOutput actual RGBA transparency outside the subject. Full silhouette, visible generous transparent margin on ALL four sides; never crop. No background fill, checkerboard, paper sheet, black background, white background, vignette, glow, halo, text, calligraphy, numerals, UI, labels, borders, watermark. No extra props, people, scenery, repeated objects or decorative clutter. Avoid oversaturation, muddy gradients, noise, excessive fiber or woodgrain, photorealism, heavy black outline and strong reflections. Preserve clear edges at small gameplay sizes.\nPrimary request: ONLY one simple hanging Jiangnan paper lantern, independent actual transparent PNG. Input1 references tea-shop lantern form and gentle restrained color, Input2 defines pale timber tone and elevated parallel 2:1 camera.\nSubject: a tall modest octagonal/cylindrical off-white paper lantern with pale brown timber top and bottom circular/octagonal frames, four or six sparse thin straight vertical ribs, short single small hanging loop and cord at top, one very short cream knot/tassel at bottom. Paper solid softly warm ivory with a few very soft brush washes, matte clean finish, no lettering or symbols or embroidery. Unlit lantern, no radiating glow. View slight three-quarter elevated angle, visible top cap follows same parallel game camera. Thin brown linework.\nPortrait target768×1024, the ONE whole lantern centered, occupies around65% width and75% height, cord tip and bottom tassel complete with ample transparent margins. NO beam, pole, bracket, wall, building, floor, other lantern, flames, wires spreading outside, foliage, sign or people. No halo or shadow.",
+  "references": [
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\01_Figma参考\\figma_teashop_20261008.png",
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\06_道具与图标\\prp_tea_table_empty_v001.png"
+  ],
+  "mode": "built-in image_gen",
+  "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-a4be1b87-6bda-4eeb-aba0-18a8463c7b31.png",
+  "savedPath": "03_建筑与场景/dec_lantern_v001.png",
+  "destination": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\03_建筑与场景\\dec_lantern_v001.png"
+}

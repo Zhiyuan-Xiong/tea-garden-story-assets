@@ -1,0 +1,22 @@
+{
+  "id": "BLD_203",
+  "category": "03_建筑与场景",
+  "label": "茶园入口木门",
+  "plannedFile": "bld_garden_gate_v001.png",
+  "targetSize": "1536×1024",
+  "functionArea": "场景分件",
+  "remarks": "空题板供引擎另设茶园名称",
+  "batch": "08_背景场景与UI补充",
+  "status": "待生成",
+  "actualSize": "",
+  "relativePath": "03_建筑与场景/bld_garden_gate_v001.png",
+  "prompt": "Use case: stylized-concept. Asset type: one independent transparent PNG for the 2D/2.5D Chinese tea-village game 茶园物语.\nStyle: clean Chinese ink outline with pale hand-painted watercolor fills, harmonizing with the approved references. Simple large clear shapes, controlled sparse brush marks, thin charcoal/brown linework; avoid dense texture or paper grain. Restrained ivory #EEE5D5, sage #83957E, tea green #526C62, charcoal #5C6261, pale timber #967653, bamboo #C5A36F, occasional dusty coral #B76651.\nFor constructed objects use elevated parallel dimetric 2:1 ground axes, diagonal edges slope about ±26.565 degrees, verticals remain vertical, near and far edges stay parallel, no lens perspective. Soft even light, modest internal shading, no cast ground shadow.\nOutput actual RGBA transparency outside the subject. Full silhouette, visible generous transparent margin on ALL four sides; never crop. No background fill, checkerboard, paper sheet, black background, white background, vignette, glow, halo, text, calligraphy, numerals, UI, labels, borders, watermark. No extra props, people, scenery, repeated objects or decorative clutter. Avoid oversaturation, muddy gradients, noise, excessive fiber or woodgrain, photorealism, heavy black outline and strong reflections. Preserve clear edges at small gameplay sizes.\nOne modest Jiangnan tea garden entrance wooden gate, standalone isolated game prop. Two simple pale timber square posts support a small charcoal-gray tiled gable canopy, with a plain BLANK warm ivory horizontal name plaque under the lintel. No letters, strokes, seal or carvings on the plaque. Clear open passage between posts. The opening faces the near-left direction, the lintel follows one 2:1 diagonal axis, equal near/far scale, vertical posts.\nMatch muted thin ink lines, pale wood and charcoal roofs in reference one, ground-angle reference two. Calm simple utility structure, roof only a few broad tile courses, no ornamental upturned elaborate wings. No doors, fence, lanterns, ground base, stones, plants, people or scenery. Full gate isolated with generous alpha margins, horizontal canvas 1536x1024 intent.",
+  "references": [
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\03_建筑与场景\\bld_workshop_exterior_v001.png",
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\02_地形与植物\\ter_soil_plot_empty_v001.png"
+  ],
+  "mode": "built-in image_gen",
+  "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-33aac861-c0b0-467e-8fec-bb86bb4defcf.png",
+  "savedPath": "03_建筑与场景/bld_garden_gate_v001.png",
+  "destination": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\03_建筑与场景\\bld_garden_gate_v001.png"
+}

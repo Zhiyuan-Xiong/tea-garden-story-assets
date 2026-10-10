@@ -1,0 +1,14 @@
+{
+  "audio_mixing_verified": true,
+  "checks": 47,
+  "failures": [],
+  "isolated_settings_and_saves": "user://music_integration_tests_only",
+  "passed": true,
+  "routes": [
+    "home",
+    "village",
+    "garden",
+    "workshop",
+    "teashop"
+  ]
+}

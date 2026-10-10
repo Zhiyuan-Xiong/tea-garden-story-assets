@@ -1,0 +1,22 @@
+{
+  "id": "LOG_301",
+  "category": "04_UI组件",
+  "label": "原版茶园物语Logo清晰版",
+  "plannedFile": "logo_teagarden_original_clear_v001.png",
+  "functionArea": "Logo",
+  "transparent": true,
+  "targetSize": "1536×1024",
+  "batch": "09_完整背景主页与存档UI",
+  "status": "待生成",
+  "actualSize": "",
+  "relativePath": "04_UI组件/logo_teagarden_original_clear_v001.png",
+  "remarks": "仅清晰化原Logo；保留原字体、茶杯、云纹、印章与布局，不重新设计",
+  "source": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\01_Figma参考\\figma_logo_raw_1.png",
+  "savedPath": "04_UI组件/logo_teagarden_original_clear_v001.png",
+  "destination": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\04_UI组件\\logo_teagarden_original_clear_v001.png",
+  "mode": "Figma original high-resolution PNG extraction; no redraw",
+  "prompt": "按用户要求直接沿用原Logo。采用Figma中最高分辨率的透明原始PNG，相比440×320界面显示尺寸更清晰；保留全部原始笔画、茶杯、云纹和红印章。未采用image_gen清晰化重绘样稿，因其改变了笔画。",
+  "references": [
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\01_Figma参考\\figma_logo_raw_1.png"
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "tool": "built-in image_gen",
+  "transparent_background": true,
+  "references": [
+    "assets/15_茶村配景与入口/DEC_455_连贯低矮叶团_v002.png",
+    "docs/茶村配景与入口调整/village.png"
+  ],
+  "assets": [
+    {
+      "id": "DEC_461",
+      "label": "圆叶矮灌木",
+      "subject": "ONE compact broad rounded-leaf shrub, gently asymmetric domed silhouette, 10–16 overlapping large celadon and olive leaf clusters. Low oval mound about 1.8 times wider than tall. No flowers or visible root branches.",
+      "prompt": "Use case: stylized-concept. Asset type: one independent transparent plant sprite for a Chinese tea-garden game with free placement. Image 1 is the established plant painting and palette reference; image 2 is the scene style reference ONLY. Match their pale dusty grey-sage, chalk olive, celadon and warm-grey palette, thin restrained ink contours and broad clean watercolor washes. Coherent connected silhouette and compact rooted base. Keep shapes legible at 120–180 pixels wide in game. Use a small number of broad leaf masses, no fine twig networks or tiny scattered details. Gentle painted elegance with clean edges and quiet tonal layers, lower contrast than architecture. Genuine RGBA transparency outside the complete plant and through natural gaps. Full unclipped silhouette with ample transparent padding. No pot, soil slab, rocks, ground patch, buildings, furniture, people, text, watermark, halo, matte rectangle, unrelated objects, grain, speckles, noise, excessive texture, muddy image, saturated colors, photorealism, 3D or blur. One asset, never a sprite sheet. Subject: ONE compact broad rounded-leaf shrub, gently asymmetric domed silhouette, 10–16 overlapping large celadon and olive leaf clusters. Low oval mound about 1.8 times wider than tall. No flowers or visible root branches.",
+      "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-2a9c69bf-3827-49e9-8d57-534df34efc1d.png",
+      "width": 1672,
+      "height": 941,
+      "bbox": [
+        0,
+        22,
+        1612,
+        836
+      ],
+      "opaque_bbox": [
+        70,
+        215,
+        1609,
+        831
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "project_file": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\11_Godot项目\\茶园物语\\assets\\16_茶村自由布置植物\\DEC_461_圆叶矮灌木_v001.png",
+      "library_file": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\16_茶村自由布置植物\\DEC_461_圆叶矮灌木_v001.png",
+      "catalog_bbox": [
+        68,
+        213,
+        1610,
+        832
+      ],
+      "sha256": "05d2957006aef6422d362ebc69fc429ff75d217dca5e274df24de7360b683c21"
+    },
+    {
+      "id": "DEC_462",
+      "label": "舒展蕨草",
+      "subject": "ONE compact graceful fern clump, 5–7 gently arching broad fronds with only a few large simplified leaflets per frond. Connected leafy base, no long skinny isolated stalks, width about twice height.",
+      "prompt": "Use case: stylized-concept. Asset type: one independent transparent plant sprite for a Chinese tea-garden game with free placement. Image 1 is the established plant painting and palette reference; image 2 is the scene style reference ONLY. Match their pale dusty grey-sage, chalk olive, celadon and warm-grey palette, thin restrained ink contours and broad clean watercolor washes. Coherent connected silhouette and compact rooted base. Keep shapes legible at 120–180 pixels wide in game. Use a small number of broad leaf masses, no fine twig networks or tiny scattered details. Gentle painted elegance with clean edges and quiet tonal layers, lower contrast than architecture. Genuine RGBA transparency outside the complete plant and through natural gaps. Full unclipped silhouette with ample transparent padding. No pot, soil slab, rocks, ground patch, buildings, furniture, people, text, watermark, halo, matte rectangle, unrelated objects, grain, speckles, noise, excessive texture, muddy image, saturated colors, photorealism, 3D or blur. One asset, never a sprite sheet. Subject: ONE compact graceful fern clump, 5–7 gently arching broad fronds with only a few large simplified leaflets per frond. Connected leafy base, no long skinny isolated stalks, width about twice height.",
+      "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-ecd5e974-cb83-4fb5-ad8e-0dc38a05012a.png",
+      "width": 1774,
+      "height": 887,
+      "bbox": [
+        57,
+        13,
+        1760,
+        871
+      ],
+      "opaque_bbox": [
+        85,
+        108,
+        1687,
+        807
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "project_file": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\11_Godot项目\\茶园物语\\assets\\16_茶村自由布置植物\\DEC_462_舒展蕨草_v001.png",
+      "library_file": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\16_茶村自由布置植物\\DEC_462_舒展蕨草_v001.png",
+      "catalog_bbox": [
+        83,
+        106,
+        1688,
+        808
+      ],
+      "sha256": "de6343550faa969235a10e0a9d783dd6aa6b2327e49541692b34914f91ddab08"
+    },
+    {
+      "id": "DEC_463",
+      "label": "临水圆叶",
+      "subject": "ONE small waterside rounded-leaf plant group, 4–6 medium broad rounded leaves at different heights and a dense connected low foliage base. Slightly curved understated stems, broad calm pale grey-green leaves with minimal veins. No flowers, no water surface, no lotus pods. Width about 1.6 times height.",
+      "prompt": "Use case: stylized-concept. Asset type: one independent transparent plant sprite for a Chinese tea-garden game with free placement. Image 1 is the established plant painting and palette reference; image 2 is the scene style reference ONLY. Match their pale dusty grey-sage, chalk olive, celadon and warm-grey palette, thin restrained ink contours and broad clean watercolor washes. Coherent connected silhouette and compact rooted base. Keep shapes legible at 120–180 pixels wide in game. Use a small number of broad leaf masses, no fine twig networks or tiny scattered details. Gentle painted elegance with clean edges and quiet tonal layers, lower contrast than architecture. Genuine RGBA transparency outside the complete plant and through natural gaps. Full unclipped silhouette with ample transparent padding. No pot, soil slab, rocks, ground patch, buildings, furniture, people, text, watermark, halo, matte rectangle, unrelated objects, grain, speckles, noise, excessive texture, muddy image, saturated colors, photorealism, 3D or blur. One asset, never a sprite sheet. Subject: ONE small waterside rounded-leaf plant group, 4–6 medium broad rounded leaves at different heights and a dense connected low foliage base. Slightly curved understated stems, broad calm pale grey-green leaves with minimal veins. No flowers, no water surface, no lotus pods. Width about 1.6 times height.",
+      "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-87ba58e3-b9ba-4601-aac4-de24950fc077.png",
+      "width": 1586,
+      "height": 992,
+      "bbox": [
+        91,
+        21,
+        1514,
+        896
+      ],
+      "opaque_bbox": [
+        130,
+        194,
+        1458,
+        888
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "project_file": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\11_Godot项目\\茶园物语\\assets\\16_茶村自由布置植物\\DEC_463_临水圆叶_v001.png",
+      "library_file": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\16_茶村自由布置植物\\DEC_463_临水圆叶_v001.png",
+      "catalog_bbox": [
+        128,
+        192,
+        1459,
+        889
+      ],
+      "sha256": "686bf2ba7e36e2f1ebcb93ff86d10c2568f647dcd2e96787d3f4bd660f86f821"
+    },
+    {
+      "id": "DEC_464",
+      "label": "淡墨疏竹",
+      "subject": "ONE airy young bamboo stand with 3–4 slender warm grey olive stalks and a few clean broad sage-green leaf sprays. Full grounded base, elegant restrained tall silhouette, no roots sprawled out, no chopped stems. Portrait composition. Leaves grouped into simple broad shapes, no hundreds of needle leaves.",
+      "prompt": "Use case: stylized-concept. Asset type: one independent transparent plant sprite for a Chinese tea-garden game with free placement. Image 1 is the established plant painting and palette reference; image 2 is the scene style reference ONLY. Match their pale dusty grey-sage, chalk olive, celadon and warm-grey palette, thin restrained ink contours and broad clean watercolor washes. Coherent connected silhouette and compact rooted base. Keep shapes legible at 120–180 pixels wide in game. Use a small number of broad leaf masses, no fine twig networks or tiny scattered details. Gentle painted elegance with clean edges and quiet tonal layers, lower contrast than architecture. Genuine RGBA transparency outside the complete plant and through natural gaps. Full unclipped silhouette with ample transparent padding. No pot, soil slab, rocks, ground patch, buildings, furniture, people, text, watermark, halo, matte rectangle, unrelated objects, grain, speckles, noise, excessive texture, muddy image, saturated colors, photorealism, 3D or blur. One asset, never a sprite sheet. Subject: ONE airy young bamboo stand with 3–4 slender warm grey olive stalks and a few clean broad sage-green leaf sprays. Full grounded base, elegant restrained tall silhouette, no roots sprawled out, no chopped stems. Portrait composition. Leaves grouped into simple broad shapes, no hundreds of needle leaves.",
+      "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-3869da67-78a1-433b-a72c-2e995f335c31.png",
+      "width": 1024,
+      "height": 1536,
+      "bbox": [
+        0,
+        19,
+        990,
+        1536
+      ],
+      "opaque_bbox": [
+        101,
+        72,
+        940,
+        1425
+      ],
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "project_file": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\11_Godot项目\\茶园物语\\assets\\16_茶村自由布置植物\\DEC_464_淡墨疏竹_v001.png",
+      "library_file": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\16_茶村自由布置植物\\DEC_464_淡墨疏竹_v001.png",
+      "catalog_bbox": [
+        99,
+        70,
+        941,
+        1426
+      ],
+      "sha256": "5765b5c5dd206ac9ac5c394112767775c68b0caeea9e086053028a15715bfde8"
+    },
+    {
+      "id": "DEC_465",
+      "label": "白花叶团",
+      "subject": "ONE low connected grey-sage flowering shrub mound, 10–14 large broad leaf clusters with only THREE simple modest ivory blossoms clearly visible, subtle warm pale centers. Quiet asymmetrical silhouette, about 2.4 times wider than tall. No tiny scattered petals or twig networks.",
+      "prompt": "Use case: stylized-concept. Asset type: one independent transparent plant sprite for a Chinese tea-garden game with free placement. Image 1 is the established plant painting and palette reference; image 2 is the scene style reference ONLY. Match their pale dusty grey-sage, chalk olive, celadon and warm-grey palette, thin restrained ink contours and broad clean watercolor washes. Coherent connected silhouette and compact rooted base. Keep shapes legible at 120–180 pixels wide in game. Use a small number of broad leaf masses, no fine twig networks or tiny scattered details. Gentle painted elegance with clean edges and quiet tonal layers, lower contrast than architecture. Genuine RGBA transparency outside the complete plant and through natural gaps. Full unclipped silhouette with ample transparent padding. No pot, soil slab, rocks, ground patch, buildings, furniture, people, text, watermark, halo, matte rectangle, unrelated objects, grain, speckles, noise, excessive texture, muddy image, saturated colors, photorealism, 3D or blur. One asset, never a sprite sheet. Subject: ONE low connected grey-sage flowering shrub mound, 10–14 large broad leaf clusters with only THREE simple modest ivory blossoms clearly visible, subtle warm pale centers. Quiet asymmetrical silhouette, about 2.4 times wider than tall. No tiny scattered petals or twig networks.",
+      "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-6f012adb-286a-4c4c-8690-c61e9f654d16.png",
+      "width": 1942,
+      "height": 809,
+      "bbox": [
+        70,
+        25,
+        1876,
+        744
+      ],
+      "opaque_bbox": [
+        73,
+        126,
+        1871,
+        724
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "project_file": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\11_Godot项目\\茶园物语\\assets\\16_茶村自由布置植物\\DEC_465_白花叶团_v001.png",
+      "library_file": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\16_茶村自由布置植物\\DEC_465_白花叶团_v001.png",
+      "catalog_bbox": [
+        71,
+        124,
+        1872,
+        725
+      ],
+      "sha256": "2f02a6c015a1c974eb6d2aa52a9e4aabef42f149ecb277ac194de17e5328b0bd"
+    },
+    {
+      "id": "DEC_466",
+      "label": "柔叶草丛",
+      "subject": "ONE soft waterside grass tuft, 8–12 broad gently bending olive grey leaves, with a dense connected rounded leafy base. Clean flowing silhouette, low and about twice wider than tall, no hair-thin blades, seed heads or needle texture.",
+      "prompt": "Use case: stylized-concept. Asset type: one independent transparent plant sprite for a Chinese tea-garden game with free placement. Image 1 is the established plant painting and palette reference; image 2 is the scene style reference ONLY. Match their pale dusty grey-sage, chalk olive, celadon and warm-grey palette, thin restrained ink contours and broad clean watercolor washes. Coherent connected silhouette and compact rooted base. Keep shapes legible at 120–180 pixels wide in game. Use a small number of broad leaf masses, no fine twig networks or tiny scattered details. Gentle painted elegance with clean edges and quiet tonal layers, lower contrast than architecture. Genuine RGBA transparency outside the complete plant and through natural gaps. Full unclipped silhouette with ample transparent padding. No pot, soil slab, rocks, ground patch, buildings, furniture, people, text, watermark, halo, matte rectangle, unrelated objects, grain, speckles, noise, excessive texture, muddy image, saturated colors, photorealism, 3D or blur. One asset, never a sprite sheet. Subject: ONE soft waterside grass tuft, 8–12 broad gently bending olive grey leaves, with a dense connected rounded leafy base. Clean flowing silhouette, low and about twice wider than tall, no hair-thin blades, seed heads or needle texture.",
+      "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-5f79f054-906f-429e-a19d-49026b289293.png",
+      "width": 1774,
+      "height": 887,
+      "bbox": [
+        25,
+        49,
+        1692,
+        887
+      ],
+      "opaque_bbox": [
+        149,
+        157,
+        1688,
+        766
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "project_file": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\11_Godot项目\\茶园物语\\assets\\16_茶村自由布置植物\\DEC_466_柔叶草丛_v001.png",
+      "library_file": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\16_茶村自由布置植物\\DEC_466_柔叶草丛_v001.png",
+      "catalog_bbox": [
+        147,
+        155,
+        1689,
+        767
+      ],
+      "sha256": "53b24e49c4b710f1b0b0d3108451332d8167ccfaf6356917eae79998ddd4991b"
+    }
+  ]
+}

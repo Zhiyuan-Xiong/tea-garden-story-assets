@@ -1,0 +1,20 @@
+{
+  "id": "UI_023",
+  "category": "04_UI组件",
+  "functionArea": "通用UI",
+  "label": "成长进度填充",
+  "plannedFile": "ui_progress_fill_v001.png",
+  "batch": "03_UI组件",
+  "targetSize": "1024×512",
+  "status": "待生成",
+  "actualSize": "",
+  "relativePath": "",
+  "remarks": "后续裁切显示，未经引擎验收",
+  "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-17a7caad-b8cf-4168-9ed6-c08586902904.png",
+  "prompt": "Use case: precise-object-edit. Image1 is the EMPTY progress-track geometry reference. Generate ONLY the independent FILL layer fitting inside its frame. Preserve1536x1024canvas and center(768,512). Remove BOTH border outlines and the ivory empty-track backing COMPLETELY. Keep ONLY a single solid muted sage-green rounded capsule, roughly x125..1410 and y477..548; this is full100%fill which Godot will clip by progress later. All other pixels true alpha transparent. NO frame, brown rim, white well, text, numbers, ticks, gradients, glow or shadow. One green flat strip, sparse clean watercolor wash INSIDE strip, not noisy.",
+  "mode": "built-in image_gen",
+  "refs": [
+    "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-4f874f6f-b848-40c0-91a6-6f437a03664f.png"
+  ],
+  "savedPath": "04_UI组件/ui_progress_fill_v001.png"
+}

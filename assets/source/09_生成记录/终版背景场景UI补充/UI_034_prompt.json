@@ -1,0 +1,22 @@
+{
+  "id": "UI_034",
+  "category": "04_UI组件",
+  "label": "复选框空底板",
+  "plannedFile": "ui_checkbox_base_v001.png",
+  "targetSize": "1024×1024",
+  "functionArea": "UI补充",
+  "remarks": "选中勾与文字独立",
+  "batch": "08_背景场景与UI补充",
+  "status": "待生成",
+  "actualSize": "",
+  "relativePath": "04_UI组件/ui_checkbox_base_v001.png",
+  "prompt": "Use case: stylized-concept. One independent true-alpha PNG UI checkbox empty base for 茶园物语. Match approved reference ivory fill and thin bamboo-brown double rim. Flat front-facing small rounded SQUARE, equal width and height, mild corner radius. EMPTY clean ivory center, no tick, text, icons, numbers or decorative corners. Quiet pale watercolor, no grain noise, muddy mottling, saturation, 3D bevel, perspective, extruded sides, ground shadow or halo. Square object centered around 55% of a square1024x1024 intent canvas, generous alpha margins. Only one checkbox, transparent outside.",
+  "references": [
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\04_UI组件\\ui_button_normal_v001.png",
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\04_UI组件\\ui_slider_thumb_v001.png"
+  ],
+  "mode": "built-in image_gen",
+  "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-5272dd5e-1c87-45a5-9ac8-08f86dd350ce.png",
+  "savedPath": "04_UI组件/ui_checkbox_base_v001.png",
+  "destination": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\04_UI组件\\ui_checkbox_base_v001.png"
+}

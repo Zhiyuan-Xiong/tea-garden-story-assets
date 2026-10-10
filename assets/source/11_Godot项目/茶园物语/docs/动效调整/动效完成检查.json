@@ -1,0 +1,87 @@
+{
+  "native_motion_checks_passed": 96,
+  "base_checks_passed": 84,
+  "furniture_thought_checks_passed": 116,
+  "total_checks_passed": 296,
+  "runtime_errors": {
+    "motion_gpu.log": [],
+    "motion_base_checks.log": [],
+    "motion_furniture_regression.log": []
+  },
+  "background_loop_seconds": 8,
+  "background_keyframe_count": 12,
+  "closure_extra_frame": "frame_12.png",
+  "pixel_validation": {
+    "loop_closure_pixel_identical": true,
+    "regions": {
+      "plant_left_crown": {
+        "max_channel_difference": 101,
+        "changed_pixels": 70414,
+        "mean_difference": 4.866
+      },
+      "plant_right_leaves": {
+        "max_channel_difference": 78,
+        "changed_pixels": 31971,
+        "mean_difference": 5.2486
+      },
+      "cloud_upper_left": {
+        "max_channel_difference": 45,
+        "changed_pixels": 45873,
+        "mean_difference": 3.0492
+      },
+      "workshop_building_stays_still": {
+        "max_channel_difference": 0,
+        "changed_pixels": 0,
+        "mean_difference": 0.0
+      },
+      "teashop_building_stays_still": {
+        "max_channel_difference": 0,
+        "changed_pixels": 0,
+        "mean_difference": 0.0
+      },
+      "mountain_center_stays_still": {
+        "max_channel_difference": 0,
+        "changed_pixels": 0,
+        "mean_difference": 0.0
+      },
+      "plant_root_stays_still": {
+        "max_channel_difference": 0,
+        "changed_pixels": 0,
+        "mean_difference": 0.0
+      }
+    },
+    "source_images": "unchanged original game background; frames rendered by Godot"
+  },
+  "title_reveal_seconds": 1.8,
+  "title_reveal_delay_seconds": 0.15,
+  "subtitle_reveal_seconds": 1.6,
+  "subtitle_delay_seconds": 0.65,
+  "original_background_images_unchanged": true,
+  "invideo_called": false,
+  "method": "Godot AnimationPlayer + spatial plant and cloud masks + independent logo cloud; no repaint or paid video generation",
+  "captures": [
+    "res://docs/动效调整/标题渐显/reveal_0.png",
+    "res://docs/动效调整/标题渐显/reveal_1.png",
+    "res://docs/动效调整/标题渐显/reveal_2.png",
+    "res://docs/动效调整/标题渐显/reveal_3.png",
+    "res://docs/动效调整/背景关键帧/home/frame_00.png",
+    "res://docs/动效调整/背景关键帧/home/frame_01.png",
+    "res://docs/动效调整/背景关键帧/home/frame_02.png",
+    "res://docs/动效调整/背景关键帧/home/frame_03.png",
+    "res://docs/动效调整/背景关键帧/home/frame_04.png",
+    "res://docs/动效调整/背景关键帧/home/frame_05.png",
+    "res://docs/动效调整/背景关键帧/home/frame_06.png",
+    "res://docs/动效调整/背景关键帧/home/frame_07.png",
+    "res://docs/动效调整/背景关键帧/home/frame_08.png",
+    "res://docs/动效调整/背景关键帧/home/frame_09.png",
+    "res://docs/动效调整/背景关键帧/home/frame_10.png",
+    "res://docs/动效调整/背景关键帧/home/frame_11.png",
+    "res://docs/动效调整/背景关键帧/home/frame_12.png",
+    "res://docs/动效调整/home_motion.png",
+    "res://docs/动效调整/loading_motion.png",
+    "res://docs/动效调整/village_motion.png",
+    "res://docs/动效调整/garden_motion.png",
+    "res://docs/动效调整/workshop_motion.png",
+    "res://docs/动效调整/teashop_motion.png"
+  ]
+}

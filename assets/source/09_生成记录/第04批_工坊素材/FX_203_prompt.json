@@ -1,0 +1,21 @@
+{
+  "id": "FX_203",
+  "category": "06_道具与图标",
+  "functionArea": "制茶工坊",
+  "label": "炉火高档",
+  "plannedFile": "fx_fire_high_v001.png",
+  "batch": "04_工坊素材",
+  "targetSize": "512×768",
+  "status": "待生成",
+  "actualSize": "",
+  "relativePath": "",
+  "remarks": "不使用大范围光晕",
+  "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-f15da97e-50e3-4103-944f-676fc3856174.png",
+  "prompt": "Create one isolated production-ready 2D game sprite for 茶园物语. Chinese ink and pale watercolor hand-painted style, restrained thin warm-grey brush outlines, clean broad washes, very sparse material marks. Match the approved reference palette: ivory, muted bamboo beige, pale brown, sage/tea green, charcoal grey. No noise, no paper grain, no dense texture, no muddy wash, no photographic surface, no oversaturation. Parallel axonometric camera, elevated view; long horizontal ground axis slopes up-right about 26 degrees, perpendicular short axis down-right about 30 degrees; verticals remain vertical, no vanishing points. Soft material shading only, no ground/shadow plate. TRUE transparent alpha background; no background color, no checkerboard drawn in image. One complete centered object with generous transparent margin. No scene, people, text, labels, UI, decorations or unrelated objects. Figma image is only palette/brush and workshop object inspiration; never reproduce its whole room, baked UI or people. Basket reference is palette and controlled brushwork only. Requested canvas is 1024x1024 unless stated otherwise.\nSUBJECT: Edit the supplied LOW flame sprite into HIGH heat. Preserve EXACT input portrait canvas1024x1536 and flame source anchor(512,1300). ONLY change flame silhouette: a connected energetic cluster about1000pixels tall, highest tipy300, widthabout700pixels, bottomy1300. FIVE tall flowing tongues, center very tall, outer tongues curl inward. Clearly much taller and wider than low and medium states, not merely more saturated. Warm restrained amber/orange with ivory inner core, clean Chinese pale watercolor, no neon. No detached sparks, smoke, logs, charcoal, stove, embers, black opening, extra particles or broad glow/haze. Outside actual flame shapes alpha0.",
+  "mode": "built-in image_gen",
+  "references": [
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\06_道具与图标\\fx_fire_low_v001.png"
+  ],
+  "savedPath": "06_道具与图标/fx_fire_high_v001.png",
+  "destination": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\06_道具与图标\\fx_fire_high_v001.png"
+}

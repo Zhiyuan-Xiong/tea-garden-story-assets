@@ -1,0 +1,21 @@
+{
+  "id": "ICO_201",
+  "category": "06_道具与图标",
+  "functionArea": "制茶工坊",
+  "label": "器具入口图标",
+  "plannedFile": "ico_tools_v001.png",
+  "batch": "04_工坊素材",
+  "targetSize": "512×512",
+  "status": "待生成",
+  "actualSize": "",
+  "relativePath": "",
+  "remarks": "不包含标题",
+  "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-e4755cdb-cb20-4fd3-9634-3f411ae5f77b.png",
+  "prompt": "Create one isolated production-ready 2D game sprite for 茶园物语. Chinese ink and pale watercolor hand-painted style, restrained thin warm-grey brush outlines, clean broad washes, very sparse material marks. Match the approved reference palette: ivory, muted bamboo beige, pale brown, sage/tea green, charcoal grey. No noise, no paper grain, no dense texture, no muddy wash, no photographic surface, no oversaturation. Parallel axonometric camera, elevated view; long horizontal ground axis slopes up-right about 26 degrees, perpendicular short axis down-right about 30 degrees; verticals remain vertical, no vanishing points. Soft material shading only, no ground/shadow plate. TRUE transparent alpha background; no background color, no checkerboard drawn in image. One complete centered object with generous transparent margin. No scene, people, text, labels, UI, decorations or unrelated objects. Figma image is only palette/brush and workshop object inspiration; never reproduce its whole room, baked UI or people. Basket reference is palette and controlled brushwork only. Requested canvas is 1024x1024 unless stated otherwise.\nSUBJECT: One simple workshop TOOLS navigation icon, same pale bamboo handpainting as approved basket icon. A single broad traditional bamboo tea-turning spatula/paddle, flat rounded wooden head with short handle, with ONE small tied bamboo whisk/brush behind it, forming a clear compact crossed silhouette. Two tools form one intended icon; no unrelated objects. Viewed almost face-on for readability at64pixels; simple shapes and very few material lines. Muted bamboo beige/brown, no intense outline, no circular button backing, no seal, no label or Chinese text. Requested512x512squarecanvas, generous transparent margin. This is a tools symbol, not a scene object group.",
+  "mode": "built-in image_gen",
+  "references": [
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\06_道具与图标\\ico_basket_v001.png"
+  ],
+  "savedPath": "06_道具与图标/ico_tools_v001.png",
+  "destination": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\06_道具与图标\\ico_tools_v001.png"
+}

@@ -1,0 +1,82 @@
+{
+	"encoded_fps": 30,
+	"failed": [],
+	"loop_seconds": 8,
+	"measurements": [
+		{
+			"max_frame_ms": 5.395,
+			"p95_frame_ms": 4.278,
+			"render_fps": 246.146272422387,
+			"room": "home"
+		},
+		{
+			"max_frame_ms": 14.995,
+			"p95_frame_ms": 7.747,
+			"render_fps": 228.689475900894,
+			"room": "loading"
+		},
+		{
+			"max_frame_ms": 5.201,
+			"p95_frame_ms": 4.325,
+			"render_fps": 247.294189410863,
+			"room": "village"
+		},
+		{
+			"max_frame_ms": 5.109,
+			"p95_frame_ms": 4.38,
+			"render_fps": 247.462988816735,
+			"room": "garden"
+		},
+		{
+			"max_frame_ms": 5.564,
+			"p95_frame_ms": 4.308,
+			"render_fps": 246.614699469162,
+			"room": "workshop"
+		},
+		{
+			"max_frame_ms": 5.165,
+			"p95_frame_ms": 4.294,
+			"render_fps": 246.849582207082,
+			"room": "teashop"
+		}
+	],
+	"native_decoded_captures": [
+		{
+			"path": "res://docs/动效调整/视频实际解码/home.png",
+			"room": "home",
+			"seconds": 0.306161
+		},
+		{
+			"path": "res://docs/动效调整/视频实际解码/loading.png",
+			"room": "loading",
+			"seconds": 0.312959848484849
+		},
+		{
+			"path": "res://docs/动效调整/视频实际解码/village.png",
+			"room": "village",
+			"seconds": 0.307555
+		},
+		{
+			"path": "res://docs/动效调整/视频实际解码/garden.png",
+			"room": "garden",
+			"seconds": 0.316163
+		},
+		{
+			"path": "res://docs/动效调整/视频实际解码/workshop.png",
+			"room": "workshop",
+			"seconds": 0.296715666666667
+		},
+		{
+			"path": "res://docs/动效调整/视频实际解码/teashop.png",
+			"room": "teashop",
+			"seconds": 0.303411666666667
+		}
+	],
+	"passed": 103,
+	"playback_format": "Ogg Theora",
+	"renderer": "NVIDIA GeForce RTX 5070 Ti Laptop GPU",
+	"resolution": [
+		1920,
+		1080
+	]
+}

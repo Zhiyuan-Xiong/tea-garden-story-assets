@@ -1,0 +1,22 @@
+{
+  "id": "PRP_208",
+  "category": "06_道具与图标",
+  "functionArea": "制茶工坊",
+  "label": "干茶叶层",
+  "plannedFile": "prp_leaves_dried_v001.png",
+  "batch": "04_工坊素材",
+  "targetSize": "1024×1024",
+  "status": "待生成",
+  "actualSize": "",
+  "relativePath": "",
+  "remarks": "不是以不同颜色种子表示茶类",
+  "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-8841ec30-6a0a-45f4-bfbf-56699ac9387d.png",
+  "prompt": "Create one isolated production-ready 2D game sprite for 茶园物语. Chinese ink and pale watercolor hand-painted style, restrained thin warm-grey brush outlines, clean broad washes, very sparse material marks. Match the approved reference palette: ivory, muted bamboo beige, pale brown, sage/tea green, charcoal grey. No noise, no paper grain, no dense texture, no muddy wash, no photographic surface, no oversaturation. Parallel axonometric camera, elevated view; long horizontal ground axis slopes up-right about 26 degrees, perpendicular short axis down-right about 30 degrees; verticals remain vertical, no vanishing points. Soft material shading only, no ground/shadow plate. TRUE transparent alpha background; no background color, no checkerboard drawn in image. One complete centered object with generous transparent margin. No scene, people, text, labels, UI, decorations or unrelated objects. Figma image is only palette/brush and workshop object inspiration; never reproduce its whole room, baked UI or people. Basket reference is palette and controlled brushwork only. Requested canvas is 1024x1024 unless stated otherwise.\nSUBJECT: ONLY a thin removable layer of finished DRY GREEN TEA. One low loose oval scattering of slender small twisted needle-like dry tea strips; considerably THINNER and SMALLER than input rolled large ribbons. Muted deep grey olive-green with a few pale straw-green edges. No red tea coloring. About65 clean short thin recognizable curved strips, sparse transparent gaps, avoid random noise or tiny dust. Same elevated flat tray-plane perspective and pale ink-watercolor brush style. Output contains no tray, no rim, no bowl, no bag, no container, no shadow. Square1024canvas with loose low oval about750x320 centered.",
+  "mode": "built-in image_gen",
+  "references": [
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\06_道具与图标\\prp_leaves_rolled_v001.png",
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\06_道具与图标\\prp_bamboo_tray_empty_v001.png"
+  ],
+  "savedPath": "06_道具与图标/prp_leaves_dried_v001.png",
+  "destination": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\06_道具与图标\\prp_leaves_dried_v001.png"
+}

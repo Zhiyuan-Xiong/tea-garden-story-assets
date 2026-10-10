@@ -1,0 +1,18 @@
+{
+  "id": "UI_015",
+  "category": "04_UI组件",
+  "functionArea": "通用UI",
+  "label": "关闭图标",
+  "plannedFile": "ui_close_v001.png",
+  "batch": "03_UI组件",
+  "targetSize": "512×512",
+  "status": "待生成",
+  "actualSize": "",
+  "relativePath": "",
+  "remarks": "独立交叉图形",
+  "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-293fba43-7c62-46a7-ae77-4f773c0aa2f6.png",
+  "prompt": "Use case: ui-mockup. Asset: ONE standalone hand-painted UI glyph for Chinese ink/light-watercolor tea game 茶园物语. Flat front view, subtle variation in painted stroke width with smooth clean silhouette and nearly solid color, no noisy texture. Muted bamboo-brown #8d7554 or subdued sage #7d8d6c as specified. Square1024x1024canvas with centered symbol occupying roughly55%width/height, safe transparent margins. True alpha transparent outside all strokes, no circular backing, no border plaque, no outer glow, no drop shadow, no fog, no 3D bevel, no grain, no saturation, no scenery, no decorative leaves, no extra objects, no words/numbers. Readable at small UI size. One CLOSE glyph: two diagonal bamboo-brown painted strokes intersect as a clean centered X, same weight and length. Not calligraphy text. Only this cross.",
+  "mode": "built-in image_gen",
+  "refs": [],
+  "savedPath": "04_UI组件/ui_close_v001.png"
+}

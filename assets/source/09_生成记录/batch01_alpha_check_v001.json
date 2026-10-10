@@ -1,0 +1,117 @@
+[
+  {
+    "file": "02_地形与植物\\ter_soil_plot_empty_v001.png",
+    "width": 1536,
+    "height": 1024,
+    "transparentPixels": 1065529,
+    "opaquePixels": 0,
+    "partialPixels": 507335,
+    "borderNonzeroPixels": 9,
+    "nonzeroBounds": [
+      0,
+      23,
+      1477,
+      989
+    ],
+    "visibleBounds": [
+      81,
+      214,
+      1455,
+      834
+    ],
+    "cornersTransparent": true,
+    "sha256": "6FA4AE7B5A9D8F16E815E882A3D450E4D7D42F8AA59E7982927E4861B8DA8F88"
+  },
+  {
+    "file": "02_地形与植物\\plt_tea_bush_mature_v001.png",
+    "width": 1254,
+    "height": 1254,
+    "transparentPixels": 1043223,
+    "opaquePixels": 352,
+    "partialPixels": 528941,
+    "borderNonzeroPixels": 15,
+    "nonzeroBounds": [
+      0,
+      19,
+      1242,
+      1153
+    ],
+    "visibleBounds": [
+      32,
+      283,
+      1239,
+      1029
+    ],
+    "cornersTransparent": true,
+    "sha256": "48F32B751209860261CD942A84A919511C84A601159CF26C0B9DFDFED9EC8175"
+  },
+  {
+    "file": "04_UI组件\\ui_popup_base_v001.png",
+    "width": 1536,
+    "height": 1024,
+    "transparentPixels": 456674,
+    "opaquePixels": 0,
+    "partialPixels": 1116190,
+    "borderNonzeroPixels": 0,
+    "nonzeroBounds": [
+      17,
+      109,
+      1519,
+      990
+    ],
+    "visibleBounds": [
+      19,
+      111,
+      1516,
+      885
+    ],
+    "cornersTransparent": true,
+    "sha256": "A9486DB109870A769EF3DC71E49AF6AA8B63D4575AF5B827DC3CCB41152FDB96"
+  },
+  {
+    "file": "05_人物\\chr_protagonist_portrait_neutral_v001.png",
+    "width": 1024,
+    "height": 1536,
+    "transparentPixels": 1040476,
+    "opaquePixels": 0,
+    "partialPixels": 532388,
+    "borderNonzeroPixels": 0,
+    "nonzeroBounds": [
+      25,
+      14,
+      1001,
+      1517
+    ],
+    "visibleBounds": [
+      261,
+      16,
+      781,
+      1513
+    ],
+    "cornersTransparent": true,
+    "sha256": "9C12E7054C9DF5AEA8981DEB107660CEE5DD3EC7276F3045A7F52CF669AE7911"
+  },
+  {
+    "file": "06_道具与图标\\prp_bamboo_basket_empty_v001.png",
+    "width": 1254,
+    "height": 1254,
+    "transparentPixels": 936920,
+    "opaquePixels": 312,
+    "partialPixels": 635284,
+    "borderNonzeroPixels": 22,
+    "nonzeroBounds": [
+      103,
+      21,
+      1153,
+      1253
+    ],
+    "visibleBounds": [
+      161,
+      202,
+      1092,
+      1059
+    ],
+    "cornersTransparent": true,
+    "sha256": "8FBDEC08719CC4838B205F1221A42BD848F7231EA0F384208E7433CD723F9D6B"
+  }
+]

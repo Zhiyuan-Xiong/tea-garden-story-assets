@@ -1,0 +1,350 @@
+{
+  "project": "茶园物语",
+  "batch": "05_茶铺素材",
+  "mode": "built-in image_gen",
+  "total": 10,
+  "passed": 10,
+  "policy": "保留原始PNG与alpha；有透明像素，四角alpha<=1，外框没有alpha>=16主体像素。",
+  "assets": [
+    {
+      "id": "ICO_301",
+      "file": "06_道具与图标/ico_shop_manage_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "alphaCheck": {
+        "pass": true,
+        "centerAlpha": 253,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1120458,
+        "borderNonzeroPixels": 72,
+        "borderPixelsAlpha16": 0,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        186,
+        356,
+        1068,
+        965
+      ],
+      "solidBBoxAlpha128": [
+        187,
+        357,
+        1067,
+        964
+      ],
+      "sha256": "0416a26d8f278bed52e387268088a50ba528c700d35b5c4f43a5d52beacb3450"
+    },
+    {
+      "id": "PRP_301",
+      "file": "06_道具与图标/prp_teapot_celadon_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "alphaCheck": {
+        "pass": true,
+        "centerAlpha": 253,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1276524,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        198,
+        363,
+        1077,
+        930
+      ],
+      "solidBBoxAlpha128": [
+        199,
+        364,
+        1076,
+        929
+      ],
+      "sha256": "45d680c492aaf49809ce37d369dbbf86e041527fcd03f6f49af30c235cb16888"
+    },
+    {
+      "id": "PRP_302",
+      "file": "06_道具与图标/prp_teacup_empty_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "alphaCheck": {
+        "pass": true,
+        "centerAlpha": 253,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1138103,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        219,
+        293,
+        1036,
+        1011
+      ],
+      "solidBBoxAlpha128": [
+        220,
+        294,
+        1035,
+        1011
+      ],
+      "sha256": "76e8f7378afa135752a322d4976ec327e5f17b56686c3daca220248ccc12750d"
+    },
+    {
+      "id": "PRP_303",
+      "file": "06_道具与图标/prp_tea_liquid_overlay_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "alphaCheck": {
+        "pass": true,
+        "centerAlpha": 253,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1322643,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        208,
+        484,
+        1047,
+        850
+      ],
+      "solidBBoxAlpha128": [
+        209,
+        485,
+        1046,
+        849
+      ],
+      "sha256": "db7063c860f6d4af9616a7915dc64c2da1af92a16dee0c92268837ebc8856d8a"
+    },
+    {
+      "id": "PRP_304",
+      "file": "06_道具与图标/prp_tea_table_empty_v001.png",
+      "width": 1536,
+      "height": 1024,
+      "hasAlpha": true,
+      "alphaCheck": {
+        "pass": true,
+        "centerAlpha": 253,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1048518,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        228,
+        63,
+        1310,
+        969
+      ],
+      "solidBBoxAlpha128": [
+        229,
+        63,
+        1309,
+        969
+      ],
+      "sha256": "130c7260db39dadb4d5500ad70dc51d7953f16c66e44850c11e83cb2fb55df51"
+    },
+    {
+      "id": "PRP_305",
+      "file": "06_道具与图标/prp_tea_chair_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "alphaCheck": {
+        "pass": true,
+        "centerAlpha": 253,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1220724,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        309,
+        117,
+        966,
+        1160
+      ],
+      "solidBBoxAlpha128": [
+        309,
+        118,
+        965,
+        1159
+      ],
+      "sha256": "650f927af9539e321cc21cac5edb7f46b9f6f2b0713910df9efe0b3808cf2c2f"
+    },
+    {
+      "id": "PRP_306",
+      "file": "06_道具与图标/prp_shop_counter_empty_v001.png",
+      "width": 1536,
+      "height": 1024,
+      "hasAlpha": true,
+      "alphaCheck": {
+        "pass": true,
+        "centerAlpha": 253,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 884452,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        80,
+        81,
+        1484,
+        971
+      ],
+      "solidBBoxAlpha128": [
+        81,
+        82,
+        1484,
+        970
+      ],
+      "sha256": "cd233097c61465a275ac44717fd34e98d6475b80652d3b197f671805727b1a40"
+    },
+    {
+      "id": "PRP_307",
+      "file": "06_道具与图标/prp_shop_cabinet_empty_v001.png",
+      "width": 1024,
+      "height": 1536,
+      "hasAlpha": true,
+      "alphaCheck": {
+        "pass": true,
+        "centerAlpha": 253,
+        "cornersAlpha": [
+          0,
+          0,
+          1,
+          0
+        ],
+        "transparentPixels": 546626,
+        "borderNonzeroPixels": 2,
+        "borderPixelsAlpha16": 0,
+        "warning": "保留原始alpha；角落存在极低透明度像素。"
+      },
+      "visibleBBoxAlpha16": [
+        78,
+        62,
+        966,
+        1489
+      ],
+      "solidBBoxAlpha128": [
+        79,
+        62,
+        965,
+        1488
+      ],
+      "sha256": "c8377fd54eaab22d258d8e51ceeb03d36258c205fe203502bb5187eb20eed246"
+    },
+    {
+      "id": "PRP_308",
+      "file": "06_道具与图标/prp_copper_coin_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "alphaCheck": {
+        "pass": true,
+        "centerAlpha": 0,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1205693,
+        "borderNonzeroPixels": 11,
+        "borderPixelsAlpha16": 0,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        280,
+        279,
+        971,
+        962
+      ],
+      "solidBBoxAlpha128": [
+        281,
+        280,
+        970,
+        962
+      ],
+      "sha256": "fb984920db7812d02af5f151e8875b923513bdc3719b625b374f4edcb2c622ea"
+    },
+    {
+      "id": "PRP_309",
+      "file": "06_道具与图标/prp_account_book_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "alphaCheck": {
+        "pass": true,
+        "centerAlpha": 253,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1034403,
+        "borderNonzeroPixels": 1,
+        "borderPixelsAlpha16": 0,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        138,
+        163,
+        1125,
+        1080
+      ],
+      "solidBBoxAlpha128": [
+        139,
+        164,
+        1124,
+        1080
+      ],
+      "sha256": "e808c5e09aa2918820e22d7dcaf26b99aa82b7c244787cb22dc8323170bf8ed5"
+    }
+  ]
+}

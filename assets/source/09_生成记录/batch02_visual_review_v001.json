@@ -1,0 +1,13 @@
+{
+  "date": "2026-10-08",
+  "batch": "02_茶园素材",
+  "assets": 18,
+  "review": "逐项查看生成图，并检查3张透明棋盘格预览；主体符合清单，底板/标签未烘焙，无额外场景；原始PNG保存。",
+  "previews": [
+    "01_茶树与地形_v001.png",
+    "02_茶园道具_v001.png",
+    "03_功能入口图标_v001.png"
+  ],
+  "alphaPassed": 18,
+  "enginePlacementVerified": false
+}

@@ -1,0 +1,131 @@
+{
+  "soil_slots": 13,
+  "per_terrace": [
+    4,
+    4,
+    5
+  ],
+  "required_ground_margin_px": 8,
+  "visible_alpha_threshold": 8,
+  "soil_overlap": false,
+  "failures": [],
+  "beds": [
+    {
+      "terrace": 1,
+      "slot": 1,
+      "root": [
+        205,
+        292
+      ],
+      "minimum_ground_margin_px": 12.49
+    },
+    {
+      "terrace": 1,
+      "slot": 2,
+      "root": [
+        375,
+        306
+      ],
+      "minimum_ground_margin_px": 15.78
+    },
+    {
+      "terrace": 1,
+      "slot": 3,
+      "root": [
+        545,
+        302
+      ],
+      "minimum_ground_margin_px": 12.07
+    },
+    {
+      "terrace": 1,
+      "slot": 4,
+      "root": [
+        690,
+        286
+      ],
+      "minimum_ground_margin_px": 9.77
+    },
+    {
+      "terrace": 2,
+      "slot": 1,
+      "root": [
+        750,
+        439
+      ],
+      "minimum_ground_margin_px": 22.99
+    },
+    {
+      "terrace": 2,
+      "slot": 2,
+      "root": [
+        425,
+        482
+      ],
+      "minimum_ground_margin_px": 22.51
+    },
+    {
+      "terrace": 2,
+      "slot": 3,
+      "root": [
+        655,
+        498
+      ],
+      "minimum_ground_margin_px": 14.36
+    },
+    {
+      "terrace": 2,
+      "slot": 4,
+      "root": [
+        898,
+        471
+      ],
+      "minimum_ground_margin_px": 20.79
+    },
+    {
+      "terrace": 3,
+      "slot": 1,
+      "root": [
+        620,
+        675
+      ],
+      "minimum_ground_margin_px": 20.14
+    },
+    {
+      "terrace": 3,
+      "slot": 2,
+      "root": [
+        1025,
+        675
+      ],
+      "minimum_ground_margin_px": 30.05
+    },
+    {
+      "terrace": 3,
+      "slot": 3,
+      "root": [
+        485,
+        750
+      ],
+      "minimum_ground_margin_px": 19.36
+    },
+    {
+      "terrace": 3,
+      "slot": 4,
+      "root": [
+        883,
+        775
+      ],
+      "minimum_ground_margin_px": 21.47
+    },
+    {
+      "terrace": 3,
+      "slot": 5,
+      "root": [
+        1160,
+        748
+      ],
+      "minimum_ground_margin_px": 13.07
+    }
+  ]
+}

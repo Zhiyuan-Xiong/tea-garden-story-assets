@@ -1,0 +1,18 @@
+{
+  "id": "ICO_106",
+  "category": "04_UI组件",
+  "functionArea": "通用UI",
+  "label": "制茶手记图标",
+  "plannedFile": "ico_journal_v001.png",
+  "batch": "03_UI组件",
+  "targetSize": "512×512",
+  "status": "待生成",
+  "actualSize": "",
+  "relativePath": "",
+  "remarks": "无文字",
+  "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-afe98599-51d9-4fa5-a871-8803e164a49f.png",
+  "prompt": "Use case: stylized-concept. ONE standalone simplified TEA JOURNAL icon for Chinese ink-and-light-watercolor game 茶园物语. A small OPEN traditional stitched paper book, symmetrical two blank ivory pages, muted sage-green cover peeking behind page edges, thin bamboo-beige binding near center, one small simple sage tea-leaf drawing on left page, right page completely blank. Slight shallow overhead view, compact smooth outline, restrained charcoal-gray strokes, sparse broad paper wash, no grain, thick black borders, shine or saturation. Square1024x1024transparentcanvas, centerediconwithsafe margin. No written words, symbols resembling handwriting, bookmarks sticking out, loose leaves, cup, background disk, UI plate, ground, shadow or glow. True alpha outside book.",
+  "mode": "built-in image_gen",
+  "refs": [],
+  "savedPath": "04_UI组件/ico_journal_v001.png"
+}

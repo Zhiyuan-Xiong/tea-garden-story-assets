@@ -1,0 +1,21 @@
+{
+  "id": "PRP_303",
+  "category": "06_道具与图标",
+  "functionArea": "临水茶铺",
+  "label": "茶汤叠加层",
+  "plannedFile": "prp_tea_liquid_overlay_v001.png",
+  "batch": "05_茶铺素材",
+  "targetSize": "1024×1024",
+  "status": "待生成",
+  "actualSize": "",
+  "relativePath": "",
+  "remarks": "匹配杯口位置，透明外缘",
+  "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-c42683b7-a375-42a2-af05-ae14772e62f1.png",
+  "prompt": "Create one independent production-ready 2D sprite for Chinese healing management game 茶园物语. Chinese ink and pale watercolor handpainting matching the supplied approved game assets. Clean broad quiet washes, thin warm grey/brown hand-drawn edges, very few material lines; no grain/no noisy dense texture/no muddy haze/no oversaturation/no harsh black outline/no glossy photographic material. Ivory, muted sage celadon, bamboo beige, warm pale wood brown, charcoal. Use parallel axonometric elevated camera, rectangular long ground edges slope up-right26degrees, short edges down-right30degrees, verticals stayvertical. No converging camera. True alpha transparent outside object, no checkerboard drawing, ground, shadow plate or glow. Complete isolated subject centered with transparent margins. No room, landscape, characters, baked labels, Chinese writing, numbers, watermarks, UI backplate or extra unrelated objects. Figma reference is only brush/palette and the requested object's design; never recreate whole screen. Refer to approved jar/table for controlled drawing and color. Formal sprite must be separable for Godot.\nSUBJECT: Generate ONLY a removable tea LIQUID SURFACE overlay for supplied empty cup. Cup is GEOMETRY guide only: output ZERO cup, rim, ceramic body, foot, saucer, steam or background. Output one clean horizontal elliptical tea surface in pale transparent golden-green straw amber, softly watercolor-painted but clear, a single broad ivory curved reflection. This is basic green tea, light low-saturation yellow/green liquor, not dark orange or brown. No leaf floating, no bubbles, particles or noise. Keep square1254canvas; center liquid oval around(625,555), about665wide280high, with fully alpha-transparent outer space. Ellipse perspective must match cup mouth. Just liquid, no oval ceramic border or outline stroke.",
+  "mode": "built-in image_gen",
+  "references": [
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\06_道具与图标\\prp_teacup_empty_v001.png"
+  ],
+  "savedPath": "06_道具与图标/prp_tea_liquid_overlay_v001.png",
+  "destination": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\06_道具与图标\\prp_tea_liquid_overlay_v001.png"
+}

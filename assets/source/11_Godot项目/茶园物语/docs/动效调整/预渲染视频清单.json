@@ -1,0 +1,146 @@
+[
+  {
+    "room": "home",
+    "ogv": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\11_Godot项目\\茶园物语\\assets\\14_预渲染动效\\home_loop.ogv",
+    "mp4": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\14_循环动效\\home_loop.mp4",
+    "rendered_frames": 240,
+    "seconds_to_bake": 16.8,
+    "metadata": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "theora",
+          "width": 1920,
+          "height": 1080,
+          "r_frame_rate": "30/1",
+          "nb_read_frames": "240"
+        }
+      ],
+      "format": {
+        "duration": "8.000000",
+        "size": "1592315"
+      }
+    }
+  },
+  {
+    "room": "loading",
+    "ogv": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\11_Godot项目\\茶园物语\\assets\\14_预渲染动效\\loading_loop.ogv",
+    "mp4": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\14_循环动效\\loading_loop.mp4",
+    "rendered_frames": 240,
+    "seconds_to_bake": 17.46,
+    "metadata": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "theora",
+          "width": 1920,
+          "height": 1080,
+          "r_frame_rate": "30/1",
+          "nb_read_frames": "240"
+        }
+      ],
+      "format": {
+        "duration": "8.000000",
+        "size": "1454593"
+      }
+    }
+  },
+  {
+    "room": "village",
+    "ogv": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\11_Godot项目\\茶园物语\\assets\\14_预渲染动效\\village_loop.ogv",
+    "mp4": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\14_循环动效\\village_loop.mp4",
+    "rendered_frames": 240,
+    "seconds_to_bake": 18.26,
+    "metadata": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "theora",
+          "width": 1920,
+          "height": 1080,
+          "r_frame_rate": "30/1",
+          "nb_read_frames": "227"
+        }
+      ],
+      "format": {
+        "duration": "8.000000",
+        "size": "1861206"
+      }
+    }
+  },
+  {
+    "room": "garden",
+    "ogv": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\11_Godot项目\\茶园物语\\assets\\14_预渲染动效\\garden_loop.ogv",
+    "mp4": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\14_循环动效\\garden_loop.mp4",
+    "rendered_frames": 240,
+    "seconds_to_bake": 18.26,
+    "metadata": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "theora",
+          "width": 1920,
+          "height": 1080,
+          "r_frame_rate": "30/1",
+          "nb_read_frames": "228"
+        }
+      ],
+      "format": {
+        "duration": "8.000000",
+        "size": "1568030"
+      }
+    }
+  },
+  {
+    "room": "workshop",
+    "ogv": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\11_Godot项目\\茶园物语\\assets\\14_预渲染动效\\workshop_loop.ogv",
+    "mp4": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\14_循环动效\\workshop_loop.mp4",
+    "rendered_frames": 240,
+    "seconds_to_bake": 15.64,
+    "metadata": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "theora",
+          "width": 1920,
+          "height": 1080,
+          "r_frame_rate": "30/1",
+          "nb_read_frames": "236"
+        }
+      ],
+      "format": {
+        "duration": "8.000000",
+        "size": "1808965"
+      }
+    }
+  },
+  {
+    "room": "teashop",
+    "ogv": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\11_Godot项目\\茶园物语\\assets\\14_预渲染动效\\teashop_loop.ogv",
+    "mp4": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\14_循环动效\\teashop_loop.mp4",
+    "rendered_frames": 240,
+    "seconds_to_bake": 15.42,
+    "metadata": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "theora",
+          "width": 1920,
+          "height": 1080,
+          "r_frame_rate": "30/1",
+          "nb_read_frames": "240"
+        }
+      ],
+      "format": {
+        "duration": "8.000000",
+        "size": "1594957"
+      }
+    }
+  }
+]

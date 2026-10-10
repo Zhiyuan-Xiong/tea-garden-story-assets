@@ -1,0 +1,23 @@
+{
+  "id": "PRP_401",
+  "category": "06_道具与图标",
+  "label": "载入盖碗",
+  "plannedFile": "prp_loading_gaiwan_v001.png",
+  "functionArea": "载入插画分件",
+  "transparent": true,
+  "targetSize": "1024×1024",
+  "batch": "09_完整背景主页与存档UI",
+  "status": "待生成",
+  "actualSize": "",
+  "relativePath": "06_道具与图标/prp_loading_gaiwan_v001.png",
+  "remarks": "独立透明PNG，界面文字与数值另设",
+  "prompt": "Use case: stylized-concept. One independent game bitmap component for 茶园物语. CLEAN Chinese hand-painted pale watercolor with sparse fine warm-gray/brown ink outlines, bright ivory #F7F0E3, pale jade #ABC8B8, fresh muted tea green #748F75, bamboo honey #C9AE80. Smooth broad color fields, minimal two-tone shading, restrained brushwork. NO speckle, paper grain, wood grain, drybrush scratches, dense texture, muddiness, excessive saturation, photorealism or thick black lines.\nTrue RGBA TRANSPARENT background. Only requested subject; generous transparent margins on all four sides, entire silhouette uncut. No white/paper/black backdrop, checkerboard, halo, glow, cast shadow, vignette, labels, words, numbers, watermarks or extra objects. All decorative form restrained. Preserve clarity at small game size.\nOne celadon porcelain GAIWAN: matching lidded tea bowl on a shallow saucer, viewed slightly from above/front like the central loading illustration in reference1. Reference1 for gaiwan shape; reference2 for clean bright palette and texture restraint. Pale jade ivory glaze, simple thin warm gold-gray rims, one very small muted bamboo-leaf motif on bowl side, no text. Lid rests on bowl, small round lid knob. Saucer under bowl is part of this coherent object.\nNO bamboo tray, dried leaves, flowers, loose leaves, table, teapot handle/spout, steam or setting. One centered complete lidded bowl-and-saucer object with generous alpha margins, square1024 intent.",
+  "references": [
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\01_Figma参考\\figma_loading_20261008_v002.png",
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\03_建筑与场景\\bg_loading_landscape_rich_v002.png"
+  ],
+  "mode": "built-in image_gen",
+  "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-3764709c-4bea-4a2a-91dd-d3da6597aac5.png",
+  "savedPath": "06_道具与图标/prp_loading_gaiwan_v001.png",
+  "destination": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\06_道具与图标\\prp_loading_gaiwan_v001.png"
+}

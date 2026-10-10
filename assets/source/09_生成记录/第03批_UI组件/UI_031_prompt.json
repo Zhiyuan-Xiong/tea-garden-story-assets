@@ -1,0 +1,18 @@
+{
+  "id": "UI_031",
+  "category": "04_UI组件",
+  "functionArea": "通用UI",
+  "label": "竹叶角饰",
+  "plannedFile": "ui_ornament_bamboo_v001.png",
+  "batch": "03_UI组件",
+  "targetSize": "768×768",
+  "status": "待生成",
+  "actualSize": "",
+  "relativePath": "",
+  "remarks": "独立装饰层",
+  "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-dcae5a26-2c1e-47c0-93aa-64f137324618.png",
+  "prompt": "Use case: stylized-concept. ONE separate Chinese ink-and-light-watercolor BAMBOO CORNER ORNAMENT, transparent PNG. A single slender gently bent bamboo twig branching into two fine stems with about9longlanceolate leaves, several different simple leaf silhouettes, restrained sagegray-green and muted charcoal fine painted strokes. Branch arcs diagonally from upperright toward lowerleft so it can sit at a UI panel corner. Sparse and airy, uncluttered, full branch visible with safe margins on1024x1024canvas. Broad clean leaf wash, minimal vein/detail, no grain, blotchy texture, dense twigs, saturated colors or haze. NO paper, frame, badge, soil, ground, other plants, scene, text, symbols, glow, shadow or background. True alpha outside paintedtwig.",
+  "mode": "built-in image_gen",
+  "refs": [],
+  "savedPath": "04_UI组件/ui_ornament_bamboo_v001.png"
+}

@@ -1,0 +1,652 @@
+{
+  "added": [
+    {
+      "id": "BG_101",
+      "name": "bg_mountains_layer_v001",
+      "label": "远山透明层",
+      "category": "03_建筑与场景",
+      "batch": "06_场景与装饰",
+      "relativePath": "03_建筑与场景/bg_mountains_layer_v001.png",
+      "status": "已生成v001",
+      "width": 1672,
+      "height": 941,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1272988,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        85,
+        333,
+        1574,
+        673
+      ],
+      "solidBBoxAlpha128": [
+        107,
+        334,
+        1546,
+        646
+      ],
+      "approxAnchor": [
+        829.5,
+        503
+      ],
+      "anchorMeaning": "图层可见范围中心",
+      "sha256": "c796c620148136abaa7544bd75d5b4e0d0bd9bcba8daa0477456fbe8ce1e3a7a",
+      "assetKind": "山水透明层",
+      "positionReference": "00_规范与清单/场景素材分层与锚点参考_v001.json",
+      "reviewNotes": "独立透明PNG，按既有素材统一笔触与低饱和配色；保留原始alpha。建筑壳为空结构，独立屋顶与前遮挡另补。仅静态摆放预览，尚未进入Godot。"
+    },
+    {
+      "id": "BG_102",
+      "name": "bg_water_layer_v001",
+      "label": "水面透明层",
+      "category": "03_建筑与场景",
+      "batch": "06_场景与装饰",
+      "relativePath": "03_建筑与场景/bg_water_layer_v001.png",
+      "status": "已生成v001",
+      "width": 1672,
+      "height": 941,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1076015,
+        "borderNonzeroPixels": 73,
+        "borderPixelsAlpha16": 0,
+        "warning": "保留原始alpha；边缘存在少量alpha小于16的像素。"
+      },
+      "visibleBBoxAlpha16": [
+        46,
+        230,
+        1632,
+        757
+      ],
+      "solidBBoxAlpha128": [
+        47,
+        231,
+        1631,
+        756
+      ],
+      "approxAnchor": [
+        839,
+        493.5
+      ],
+      "anchorMeaning": "图层可见范围中心",
+      "sha256": "84408278a60e131970a0d4e48dc16e9a02786ea86ab94f51151180ca58a7fb9f",
+      "assetKind": "山水透明层",
+      "positionReference": "00_规范与清单/场景素材分层与锚点参考_v001.json",
+      "reviewNotes": "独立透明PNG，按既有素材统一笔触与低饱和配色；保留原始alpha。建筑壳为空结构，独立屋顶与前遮挡另补。仅静态摆放预览，尚未进入Godot。"
+    },
+    {
+      "id": "BG_103",
+      "name": "bg_cloud_layer_v001",
+      "label": "云纹透明层",
+      "category": "03_建筑与场景",
+      "batch": "06_场景与装饰",
+      "relativePath": "03_建筑与场景/bg_cloud_layer_v001.png",
+      "status": "已生成v001",
+      "width": 1672,
+      "height": 941,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1466042,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        120,
+        372,
+        1599,
+        570
+      ],
+      "solidBBoxAlpha128": [
+        121,
+        373,
+        1598,
+        569
+      ],
+      "approxAnchor": [
+        859.5,
+        471
+      ],
+      "anchorMeaning": "图层可见范围中心",
+      "sha256": "a57bc525ec4a9efc5294cdb63d609fbd0538ec9e69bc9e6c28246eb50f723c0f",
+      "assetKind": "山水透明层",
+      "positionReference": "00_规范与清单/场景素材分层与锚点参考_v001.json",
+      "reviewNotes": "独立透明PNG，按既有素材统一笔触与低饱和配色；保留原始alpha。建筑壳为空结构，独立屋顶与前遮挡另补。仅静态摆放预览，尚未进入Godot。"
+    },
+    {
+      "id": "BLD_101",
+      "name": "bld_workshop_exterior_v001",
+      "label": "主地图工坊建筑",
+      "category": "03_建筑与场景",
+      "batch": "06_场景与装饰",
+      "relativePath": "03_建筑与场景/bld_workshop_exterior_v001.png",
+      "status": "已生成v001",
+      "width": 1536,
+      "height": 1024,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 882413,
+        "borderNonzeroPixels": 2,
+        "borderPixelsAlpha16": 0,
+        "warning": "保留原始alpha；边缘存在少量alpha小于16的像素。"
+      },
+      "visibleBBoxAlpha16": [
+        151,
+        75,
+        1446,
+        973
+      ],
+      "solidBBoxAlpha128": [
+        152,
+        75,
+        1445,
+        972
+      ],
+      "approxAnchor": [
+        1046.5,
+        972
+      ],
+      "anchorMeaning": "底部接地点近似位置",
+      "sha256": "e2a531d9e761786616dadaad81817f0a3b77eca953e827d4dd4d13a2a87ae240",
+      "assetKind": "地图建筑单体",
+      "positionReference": "00_规范与清单/场景素材分层与锚点参考_v001.json",
+      "reviewNotes": "独立透明PNG，按既有素材统一笔触与低饱和配色；保留原始alpha。建筑壳为空结构，独立屋顶与前遮挡另补。仅静态摆放预览，尚未进入Godot。"
+    },
+    {
+      "id": "BLD_102",
+      "name": "bld_teashop_exterior_v001",
+      "label": "主地图茶铺建筑",
+      "category": "03_建筑与场景",
+      "batch": "06_场景与装饰",
+      "relativePath": "03_建筑与场景/bld_teashop_exterior_v001.png",
+      "status": "已生成v001",
+      "width": 1536,
+      "height": 1024,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 820764,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        133,
+        63,
+        1444,
+        999
+      ],
+      "solidBBoxAlpha128": [
+        134,
+        63,
+        1444,
+        998
+      ],
+      "approxAnchor": [
+        848.5,
+        998
+      ],
+      "anchorMeaning": "底部接地点近似位置",
+      "sha256": "5b68119ce7be5fcbe2f8b67a85ea59aaf913130a8284a11992c7dda0f5218756",
+      "assetKind": "地图建筑单体",
+      "positionReference": "00_规范与清单/场景素材分层与锚点参考_v001.json",
+      "reviewNotes": "独立透明PNG，按既有素材统一笔触与低饱和配色；保留原始alpha。建筑壳为空结构，独立屋顶与前遮挡另补。仅静态摆放预览，尚未进入Godot。"
+    },
+    {
+      "id": "BLD_103",
+      "name": "bld_pavilion_v001",
+      "label": "休憩亭",
+      "category": "03_建筑与场景",
+      "batch": "06_场景与装饰",
+      "relativePath": "03_建筑与场景/bld_pavilion_v001.png",
+      "status": "已生成v001",
+      "width": 1536,
+      "height": 1024,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1142957,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        270,
+        70,
+        1264,
+        926
+      ],
+      "solidBBoxAlpha128": [
+        271,
+        71,
+        1264,
+        926
+      ],
+      "approxAnchor": [
+        740,
+        926
+      ],
+      "anchorMeaning": "底部接地点近似位置",
+      "sha256": "1a436f268d53b7a3cc1e594311a779a422c7b2d1a3f91804a46ae4f382aceac4",
+      "assetKind": "地图建筑单体",
+      "positionReference": "00_规范与清单/场景素材分层与锚点参考_v001.json",
+      "reviewNotes": "独立透明PNG，按既有素材统一笔触与低饱和配色；保留原始alpha。建筑壳为空结构，独立屋顶与前遮挡另补。仅静态摆放预览，尚未进入Godot。"
+    },
+    {
+      "id": "BLD_104",
+      "name": "bld_bridge_v001",
+      "label": "木桥",
+      "category": "03_建筑与场景",
+      "batch": "06_场景与装饰",
+      "relativePath": "03_建筑与场景/bld_bridge_v001.png",
+      "status": "已生成v001",
+      "width": 1536,
+      "height": 1024,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1256907,
+        "borderNonzeroPixels": 25,
+        "borderPixelsAlpha16": 0,
+        "warning": "保留原始alpha；边缘存在少量alpha小于16的像素。"
+      },
+      "visibleBBoxAlpha16": [
+        302,
+        175,
+        1306,
+        848
+      ],
+      "solidBBoxAlpha128": [
+        302,
+        176,
+        1305,
+        848
+      ],
+      "approxAnchor": [
+        605,
+        848
+      ],
+      "anchorMeaning": "底部接地点近似位置",
+      "sha256": "925b3c59d1facbdbb2aff95b8f670ef92392977cbc726d5241fec4b435c6081b",
+      "assetKind": "地图建筑单体",
+      "positionReference": "00_规范与清单/场景素材分层与锚点参考_v001.json",
+      "reviewNotes": "独立透明PNG，按既有素材统一笔触与低饱和配色；保留原始alpha。建筑壳为空结构，独立屋顶与前遮挡另补。仅静态摆放预览，尚未进入Godot。"
+    },
+    {
+      "id": "BLD_105",
+      "name": "bld_workshop_shell_v001",
+      "label": "工坊建筑壳",
+      "category": "03_建筑与场景",
+      "batch": "06_场景与装饰",
+      "relativePath": "03_建筑与场景/bld_workshop_shell_v001.png",
+      "status": "已生成v001",
+      "width": 1672,
+      "height": 941,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1090432,
+        "borderNonzeroPixels": 6,
+        "borderPixelsAlpha16": 0,
+        "warning": "保留原始alpha；边缘存在少量alpha小于16的像素。"
+      },
+      "visibleBBoxAlpha16": [
+        270,
+        119,
+        1404,
+        824
+      ],
+      "solidBBoxAlpha128": [
+        271,
+        120,
+        1404,
+        824
+      ],
+      "approxAnchor": [
+        835,
+        824
+      ],
+      "anchorMeaning": "底部接地点近似位置",
+      "sha256": "5449358e8da49fe547e929d50506b91ae3e44369fbaa5c0ca96cef864f19e533",
+      "assetKind": "空建筑结构壳",
+      "positionReference": "00_规范与清单/场景素材分层与锚点参考_v001.json",
+      "reviewNotes": "独立透明PNG，按既有素材统一笔触与低饱和配色；保留原始alpha。建筑壳为空结构，独立屋顶与前遮挡另补。仅静态摆放预览，尚未进入Godot。"
+    },
+    {
+      "id": "BLD_106",
+      "name": "bld_teashop_shell_v001",
+      "label": "茶铺建筑壳",
+      "category": "03_建筑与场景",
+      "batch": "06_场景与装饰",
+      "relativePath": "03_建筑与场景/bld_teashop_shell_v001.png",
+      "status": "已生成v001",
+      "width": 1672,
+      "height": 941,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1025016,
+        "borderNonzeroPixels": 11,
+        "borderPixelsAlpha16": 0,
+        "warning": "保留原始alpha；边缘存在少量alpha小于16的像素。"
+      },
+      "visibleBBoxAlpha16": [
+        265,
+        61,
+        1414,
+        886
+      ],
+      "solidBBoxAlpha128": [
+        266,
+        62,
+        1414,
+        885
+      ],
+      "approxAnchor": [
+        836,
+        885
+      ],
+      "anchorMeaning": "底部接地点近似位置",
+      "sha256": "9fb997c3c562364b891a21b58496e3aba924a8e231dcc2092de8b7ccbcb81ff5",
+      "assetKind": "空建筑结构壳",
+      "positionReference": "00_规范与清单/场景素材分层与锚点参考_v001.json",
+      "reviewNotes": "独立透明PNG，按既有素材统一笔触与低饱和配色；保留原始alpha。建筑壳为空结构，独立屋顶与前遮挡另补。仅静态摆放预览，尚未进入Godot。"
+    },
+    {
+      "id": "DEC_101",
+      "name": "dec_lantern_v001",
+      "label": "灯笼",
+      "category": "03_建筑与场景",
+      "batch": "06_场景与装饰",
+      "relativePath": "03_建筑与场景/dec_lantern_v001.png",
+      "status": "已生成v001",
+      "width": 1086,
+      "height": 1448,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1252503,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        336,
+        86,
+        749,
+        1359
+      ],
+      "solidBBoxAlpha128": [
+        337,
+        87,
+        748,
+        1358
+      ],
+      "approxAnchor": [
+        542.5,
+        87
+      ],
+      "anchorMeaning": "悬挂点近似位置",
+      "sha256": "aaee1b27ddd871134e6e11ec85f181df18adca9b87eaf94b07201b1db623eb4a",
+      "assetKind": "独立装饰单体",
+      "positionReference": "00_规范与清单/场景素材分层与锚点参考_v001.json",
+      "reviewNotes": "独立透明PNG，按既有素材统一笔触与低饱和配色；保留原始alpha。建筑壳为空结构，独立屋顶与前遮挡另补。仅静态摆放预览，尚未进入Godot。"
+    },
+    {
+      "id": "DEC_102",
+      "name": "dec_fence_wood_v001",
+      "label": "木栏杆段",
+      "category": "03_建筑与场景",
+      "batch": "06_场景与装饰",
+      "relativePath": "03_建筑与场景/dec_fence_wood_v001.png",
+      "status": "已生成v001",
+      "width": 1536,
+      "height": 1024,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1378487,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        312,
+        173,
+        1281,
+        830
+      ],
+      "solidBBoxAlpha128": [
+        312,
+        173,
+        1280,
+        829
+      ],
+      "approxAnchor": [
+        360,
+        829
+      ],
+      "anchorMeaning": "底部接地点近似位置",
+      "sha256": "e0465d4e59a5762dad6da6a255a33147a14a83c4c75d7a3a5ce5afa4462f20bf",
+      "assetKind": "独立装饰单体",
+      "positionReference": "00_规范与清单/场景素材分层与锚点参考_v001.json",
+      "reviewNotes": "独立透明PNG，按既有素材统一笔触与低饱和配色；保留原始alpha。建筑壳为空结构，独立屋顶与前遮挡另补。仅静态摆放预览，尚未进入Godot。"
+    },
+    {
+      "id": "DEC_103",
+      "name": "dec_lotus_v001",
+      "label": "临水荷花",
+      "category": "03_建筑与场景",
+      "batch": "06_场景与装饰",
+      "relativePath": "03_建筑与场景/dec_lotus_v001.png",
+      "status": "已生成v001",
+      "width": 1254,
+      "height": 1254,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1176444,
+        "borderNonzeroPixels": 2,
+        "borderPixelsAlpha16": 0,
+        "warning": "保留原始alpha；边缘存在少量alpha小于16的像素。"
+      },
+      "visibleBBoxAlpha16": [
+        152,
+        210,
+        1104,
+        1083
+      ],
+      "solidBBoxAlpha128": [
+        153,
+        211,
+        1103,
+        1082
+      ],
+      "approxAnchor": [
+        625,
+        1082
+      ],
+      "anchorMeaning": "根部近似位置",
+      "sha256": "ac366b83414309854944ce4885fcb363ad8fe7031d73485fdba8ed2b89450012",
+      "assetKind": "独立装饰单体",
+      "positionReference": "00_规范与清单/场景素材分层与锚点参考_v001.json",
+      "reviewNotes": "独立透明PNG，按既有素材统一笔触与低饱和配色；保留原始alpha。建筑壳为空结构，独立屋顶与前遮挡另补。仅静态摆放预览，尚未进入Godot。"
+    },
+    {
+      "id": "PLT_106",
+      "name": "plt_pine_tree_v001",
+      "label": "景观松树",
+      "category": "03_建筑与场景",
+      "batch": "06_场景与装饰",
+      "relativePath": "03_建筑与场景/plt_pine_tree_v001.png",
+      "status": "已生成v001",
+      "width": 1024,
+      "height": 1536,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1115881,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        50,
+        207,
+        988,
+        1391
+      ],
+      "solidBBoxAlpha128": [
+        51,
+        208,
+        987,
+        1390
+      ],
+      "approxAnchor": [
+        540,
+        1390
+      ],
+      "anchorMeaning": "根部近似位置",
+      "sha256": "12a7bf7d5e823affc4ff6b48b62a6c7b949e9f03183dd52d8fb479853126e206",
+      "assetKind": "独立景观植物",
+      "positionReference": "00_规范与清单/场景素材分层与锚点参考_v001.json",
+      "reviewNotes": "独立透明PNG，按既有素材统一笔触与低饱和配色；保留原始alpha。建筑壳为空结构，独立屋顶与前遮挡另补。仅静态摆放预览，尚未进入Godot。"
+    },
+    {
+      "id": "PLT_107",
+      "name": "plt_red_tree_v001",
+      "label": "淡红树",
+      "category": "03_建筑与场景",
+      "batch": "06_场景与装饰",
+      "relativePath": "03_建筑与场景/plt_red_tree_v001.png",
+      "status": "已生成v001",
+      "width": 1024,
+      "height": 1536,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1192024,
+        "borderNonzeroPixels": 34,
+        "borderPixelsAlpha16": 0,
+        "warning": "保留原始alpha；边缘存在少量alpha小于16的像素。"
+      },
+      "visibleBBoxAlpha16": [
+        141,
+        233,
+        919,
+        1331
+      ],
+      "solidBBoxAlpha128": [
+        142,
+        234,
+        918,
+        1331
+      ],
+      "approxAnchor": [
+        588.5,
+        1331
+      ],
+      "anchorMeaning": "根部近似位置",
+      "sha256": "f09f409fe4844f72fd927e6162ad215ab8d6ac81e15dc9641dda97cd3668d5ff",
+      "assetKind": "独立景观植物",
+      "positionReference": "00_规范与清单/场景素材分层与锚点参考_v001.json",
+      "reviewNotes": "独立透明PNG，按既有素材统一笔触与低饱和配色；保留原始alpha。建筑壳为空结构，独立屋顶与前遮挡另补。仅静态摆放预览，尚未进入Godot。"
+    }
+  ],
+  "previewOnlyReferences": [
+    "TER_102",
+    "PRP_207",
+    "CHR_004",
+    "PRP_205",
+    "PRP_201",
+    "PRP_204",
+    "PRP_203",
+    "PRP_210",
+    "PRP_307",
+    "CHR_102",
+    "PRP_306",
+    "PRP_305",
+    "CHR_202",
+    "PRP_304",
+    "PRP_301",
+    "PRP_302"
+  ]
+}

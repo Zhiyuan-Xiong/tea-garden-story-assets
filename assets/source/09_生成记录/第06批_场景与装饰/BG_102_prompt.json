@@ -1,0 +1,22 @@
+{
+  "id": "BG_102",
+  "category": "03_建筑与场景",
+  "functionArea": "场景分层",
+  "label": "水面透明层",
+  "plannedFile": "bg_water_layer_v001.png",
+  "batch": "06_场景与装饰",
+  "targetSize": "1920×1080",
+  "status": "待生成",
+  "actualSize": "",
+  "relativePath": "03_建筑与场景/bg_water_layer_v001.png",
+  "remarks": "无舟桥建筑",
+  "prompt": "Use case: stylized-concept. Asset type: one independent transparent PNG for the 2D/2.5D Chinese tea-village game 茶园物语.\nStyle: clean Chinese ink outline with pale hand-painted watercolor fills, harmonizing with the approved references. Simple large clear shapes, controlled sparse brush marks, thin charcoal/brown linework; avoid dense texture or paper grain. Restrained ivory #EEE5D5, sage #83957E, tea green #526C62, charcoal #5C6261, pale timber #967653, bamboo #C5A36F, occasional dusty coral #B76651.\nFor constructed objects use elevated parallel dimetric 2:1 ground axes, diagonal edges slope about ±26.565 degrees, verticals remain vertical, near and far edges stay parallel, no lens perspective. Soft even light, modest internal shading, no cast ground shadow.\nOutput actual RGBA transparency outside the subject. Full silhouette, visible generous transparent margin on ALL four sides; never crop. No background fill, checkerboard, paper sheet, black background, white background, vignette, glow, halo, text, calligraphy, numerals, UI, labels, borders, watermark. No extra props, people, scenery, repeated objects or decorative clutter. Avoid oversaturation, muddy gradients, noise, excessive fiber or woodgrain, photorealism, heavy black outline and strong reflections. Preserve clear edges at small gameplay sizes.\nPrimary request: ONLY one calm pale sage-blue water-surface patch, isolated on genuinely transparent RGBA. Input1 is water color and sparse ripples reference ONLY; absolutely remove every object and all words/UI. Input2 defines elevated parallel view.\nSubject: gently curving elongated pool/river WATER shape, overall flattened broad elliptical patch oriented from bottom-left to top-right. Entire shape fills central70% width and40% height on wide1920×1080 target. Flat smooth muted blue-grey/sage translucent watercolor fill, a few widely spaced subtle ivory ripple arcs and short flowing curved lines; maximum about12 distinct ripple strokes. Water body readable on an ivory scene background. Its irregular soft shoreline-shaped edge fades only a little via alpha and is fully inside canvas. No rim or bank surrounding it. Rounded ends, no crop at edges.\nNO sky, mountain, bank, ground, island, rocks, plants, lotus, boat, pier, bridge, building, people, reflection of objects, sun, border or text. No busy ocean waves, froth, glitter, noise, grain, muddy blooms or strong dark shading. No surrounding fog or glow. Single water layer only, not a full landscape or seamless texture.",
+  "references": [
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\01_Figma参考\\figma_teashop_20261008.png",
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\06_道具与图标\\prp_tea_table_empty_v001.png"
+  ],
+  "mode": "built-in image_gen",
+  "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-72c146fe-ea1a-4684-a255-fc46d99e9c75.png",
+  "savedPath": "03_建筑与场景/bg_water_layer_v001.png",
+  "destination": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\03_建筑与场景\\bg_water_layer_v001.png"
+}

@@ -1,0 +1,88 @@
+{
+  "date": "2026-10-08",
+  "version": "v002",
+  "coordinateSystem": "原始PNG左上角起算；各图画布可能不同。按rootPx对齐相同的场景点。",
+  "note": "根部为可见主体末尾5行的近似位置；没有修改原PNG像素，未进行引擎摆放验收。",
+  "assets": [
+    {
+      "id": "PLT_102",
+      "file": "02_地形与植物/plt_tea_bush_seedling_v002.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "rootPx": [
+        654,
+        1130
+      ],
+      "rootNormalized": [
+        0.52153,
+        0.90112
+      ],
+      "suggestedSpriteOffset": [
+        -27,
+        -503
+      ]
+    },
+    {
+      "id": "PLT_103",
+      "file": "02_地形与植物/plt_tea_bush_growing_v002.png",
+      "size": [
+        1349,
+        1166
+      ],
+      "rootPx": [
+        720,
+        1032
+      ],
+      "rootNormalized": [
+        0.53373,
+        0.88508
+      ],
+      "suggestedSpriteOffset": [
+        -45,
+        -449
+      ]
+    },
+    {
+      "id": "PLT_101",
+      "file": "02_地形与植物/plt_tea_bush_mature_v002.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "rootPx": [
+        642,
+        1061
+      ],
+      "rootNormalized": [
+        0.51196,
+        0.84609
+      ],
+      "suggestedSpriteOffset": [
+        -15,
+        -434
+      ]
+    },
+    {
+      "id": "PLT_104",
+      "file": "02_地形与植物/plt_tea_bush_harvested_v002.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "rootPx": [
+        643,
+        1062
+      ],
+      "rootNormalized": [
+        0.51276,
+        0.84689
+      ],
+      "suggestedSpriteOffset": [
+        -16,
+        -435
+      ]
+    }
+  ]
+}

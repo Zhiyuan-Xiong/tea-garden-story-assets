@@ -1,0 +1,16 @@
+{
+  "checks": 36,
+  "failures": [],
+  "hidden_ui_input_blocked": true,
+  "passed": true,
+  "task_refresh_during_loading": true,
+  "tested_routes": [
+    "village → garden",
+    "garden → workshop",
+    "workshop → teashop",
+    "teashop → village",
+    "village → home",
+    "reduced motion transitions",
+    "direct route"
+  ]
+}

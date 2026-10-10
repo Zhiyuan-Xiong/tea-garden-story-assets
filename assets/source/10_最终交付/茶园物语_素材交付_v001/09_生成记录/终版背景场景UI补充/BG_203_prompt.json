@@ -1,0 +1,22 @@
+{
+  "id": "BG_203",
+  "category": "03_建筑与场景",
+  "label": "茶园台地底层",
+  "plannedFile": "bg_garden_terraces_base_v001.png",
+  "targetSize": "1920×1080",
+  "functionArea": "背景",
+  "remarks": "空台地，不烘焙茶树、土块与挡土墙",
+  "batch": "08_背景场景与UI补充",
+  "status": "待生成",
+  "actualSize": "",
+  "relativePath": "03_建筑与场景/bg_garden_terraces_base_v001.png",
+  "prompt": "Use case: stylized-concept. Asset type: one independent transparent PNG for the 2D/2.5D Chinese tea-village game 茶园物语.\nStyle: clean Chinese ink outline with pale hand-painted watercolor fills, harmonizing with the approved references. Simple large clear shapes, controlled sparse brush marks, thin charcoal/brown linework; avoid dense texture or paper grain. Restrained ivory #EEE5D5, sage #83957E, tea green #526C62, charcoal #5C6261, pale timber #967653, bamboo #C5A36F, occasional dusty coral #B76651.\nFor constructed objects use elevated parallel dimetric 2:1 ground axes, diagonal edges slope about ±26.565 degrees, verticals remain vertical, near and far edges stay parallel, no lens perspective. Soft even light, modest internal shading, no cast ground shadow.\nOutput actual RGBA transparency outside the subject. Full silhouette, visible generous transparent margin on ALL four sides; never crop. No background fill, checkerboard, paper sheet, black background, white background, vignette, glow, halo, text, calligraphy, numerals, UI, labels, borders, watermark. No extra props, people, scenery, repeated objects or decorative clutter. Avoid oversaturation, muddy gradients, noise, excessive fiber or woodgrain, photorealism, heavy black outline and strong reflections. Preserve clear edges at small gameplay sizes.\nPrimary request: ONLY one three-level EMPTY tea-garden terraced-earth ground base. Input1 defines quiet beige/sage ground material and camera; Input2 defines the independent soil plot which will be placed later, do NOT draw soil plots into this base.\nSubject: one connected low hillside with exactly THREE broad gently rounded rectangular land terraces stepping upward toward the rear center. Lowest terrace widest and open at front; middle terrace slightly narrower behind; top terrace narrower at rear. Each tier has a wide empty ivory-beige flat top large enough for a separate tea plot, subtle pale sage washes only near outer edges, and a SHORT modest warm-earth front riser. Very shallow elevation increments, no towering cliff faces. Side earth itself minimal clean wash, no baked stone walls.\nEntire three-tier base elevated parallel2:1 camera, both horizontal directions±26.6°, matching Input1. Wide1920×1080, whole terrain occupies at most75% width and65% height, CENTERED with at least8% true transparent margin on ALL sides, no cropped bottom or upper terrace.\nNo tea bushes, planted rows, individual soil plot panels, trees, grass blades, rocks, retaining stone walls, fence, gate, stairs, paths, tools, labels, icons, people, water, buildings or mountains. Ground only. Very restrained texture, smooth broad pale color masses, thin charcoal/brown outline, no external shadow or halo.",
+  "references": [
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\03_建筑与场景\\bg_village_ground_base_v001.png",
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\02_地形与植物\\ter_soil_plot_empty_v001.png"
+  ],
+  "mode": "built-in image_gen",
+  "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-6c896d92-ac22-4818-9e35-7599c030bab9.png",
+  "savedPath": "03_建筑与场景/bg_garden_terraces_base_v001.png",
+  "destination": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\03_建筑与场景\\bg_garden_terraces_base_v001.png"
+}

@@ -1,0 +1,200 @@
+{
+  "date": "2026-10-08",
+  "checks": [
+    {
+      "file": "00_素材库样稿总览_v001.png",
+      "width": 1920,
+      "height": 1903,
+      "rows": [],
+      "images": [
+        {
+          "name": "空土地底块",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "name": "成熟茶树",
+          "width": 1254,
+          "height": 1254
+        },
+        {
+          "name": "通用弹窗底板",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "name": "主角对话立绘",
+          "width": 1024,
+          "height": 1536
+        },
+        {
+          "name": "空竹篓",
+          "width": 1254,
+          "height": 1254
+        }
+      ],
+      "textOverflow": []
+    },
+    {
+      "file": "01_茶园制作清单_v001.png",
+      "width": 1920,
+      "height": 2299,
+      "rows": [
+        "PLT_102",
+        "PLT_103",
+        "PLT_104",
+        "TER_102",
+        "TER_103",
+        "TER_104",
+        "TER_105",
+        "PLT_105",
+        "PRP_102",
+        "PRP_103",
+        "PRP_104",
+        "PRP_105",
+        "PRP_106",
+        "ICO_101",
+        "ICO_102",
+        "ICO_103",
+        "ICO_104",
+        "ICO_105"
+      ],
+      "images": [],
+      "textOverflow": []
+    },
+    {
+      "file": "02_UI制作清单_v001.png",
+      "width": 1920,
+      "height": 3860,
+      "rows": [
+        "UI_002",
+        "UI_003",
+        "UI_004",
+        "UI_005",
+        "UI_006",
+        "UI_007",
+        "UI_008",
+        "UI_009",
+        "UI_010",
+        "UI_011",
+        "UI_012",
+        "UI_013",
+        "UI_014",
+        "UI_015",
+        "UI_016",
+        "UI_017",
+        "UI_018",
+        "UI_019",
+        "UI_020",
+        "UI_021",
+        "UI_022",
+        "UI_023",
+        "UI_024",
+        "UI_025",
+        "UI_026",
+        "UI_027",
+        "UI_028",
+        "UI_029",
+        "UI_030",
+        "UI_031",
+        "UI_032",
+        "ICO_106",
+        "ICO_107"
+      ],
+      "images": [],
+      "textOverflow": []
+    },
+    {
+      "file": "03_工坊制作清单_v001.png",
+      "width": 1920,
+      "height": 1909,
+      "rows": [
+        "PRP_201",
+        "PRP_202",
+        "PRP_203",
+        "PRP_204",
+        "FX_201",
+        "FX_202",
+        "FX_203",
+        "PRP_205",
+        "PRP_206",
+        "PRP_207",
+        "PRP_208",
+        "PRP_209",
+        "PRP_210",
+        "ICO_201"
+      ],
+      "images": [],
+      "textOverflow": []
+    },
+    {
+      "file": "04_茶铺与人物制作清单_v001.png",
+      "width": 1920,
+      "height": 2947,
+      "rows": [
+        "PRP_301",
+        "PRP_302",
+        "PRP_303",
+        "PRP_304",
+        "PRP_305",
+        "PRP_306",
+        "PRP_307",
+        "PRP_308",
+        "PRP_309",
+        "ICO_301",
+        "CHR_002",
+        "CHR_003",
+        "CHR_004",
+        "CHR_005",
+        "CHR_101",
+        "CHR_102",
+        "CHR_201",
+        "CHR_202",
+        "CHR_203",
+        "CHR_204",
+        "CHR_205",
+        "CHR_206"
+      ],
+      "images": [],
+      "textOverflow": []
+    },
+    {
+      "file": "05_场景制作清单_v001.png",
+      "width": 1920,
+      "height": 1909,
+      "rows": [
+        "BG_101",
+        "BG_102",
+        "BG_103",
+        "BLD_101",
+        "BLD_102",
+        "BLD_103",
+        "BLD_104",
+        "BLD_105",
+        "BLD_106",
+        "DEC_101",
+        "DEC_102",
+        "DEC_103",
+        "PLT_106",
+        "PLT_107"
+      ],
+      "images": [],
+      "textOverflow": []
+    },
+    {
+      "file": "06_手记制作清单_v001.png",
+      "width": 1920,
+      "height": 1129,
+      "rows": [
+        "JRN_101",
+        "JRN_102",
+        "JRN_103",
+        "JRN_104",
+        "JRN_105",
+        "JRN_106"
+      ],
+      "images": [],
+      "textOverflow": []
+    }
+  ]
+}

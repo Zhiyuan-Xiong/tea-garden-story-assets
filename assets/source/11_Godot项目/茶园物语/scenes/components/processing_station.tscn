@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3]
+[ext_resource type="Script" path="res://scripts/components/processing_station.gd" id="1"]
+[node name="ProcessingStation" type="Control"]
+offset_right = 1050.0
+offset_bottom = 640.0
+script = ExtResource("1")

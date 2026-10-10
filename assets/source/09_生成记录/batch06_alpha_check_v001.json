@@ -1,0 +1,542 @@
+{
+  "date": "2026-10-08",
+  "batch": "06_场景与装饰",
+  "total": 14,
+  "passed": 14,
+  "failures": [],
+  "assets": [
+    {
+      "id": "BLD_101",
+      "file": "03_建筑与场景/bld_workshop_exterior_v001.png",
+      "width": 1536,
+      "height": 1024,
+      "hasAlpha": true,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 882413,
+        "borderNonzeroPixels": 2,
+        "borderPixelsAlpha16": 0,
+        "warning": "保留原始alpha；边缘存在少量alpha小于16的像素。"
+      },
+      "visibleBBoxAlpha16": [
+        151,
+        75,
+        1446,
+        973
+      ],
+      "solidBBoxAlpha128": [
+        152,
+        75,
+        1445,
+        972
+      ],
+      "approxAnchor": [
+        1046.5,
+        972
+      ],
+      "anchorMeaning": "底部接地点近似位置",
+      "sha256": "e2a531d9e761786616dadaad81817f0a3b77eca953e827d4dd4d13a2a87ae240"
+    },
+    {
+      "id": "BLD_102",
+      "file": "03_建筑与场景/bld_teashop_exterior_v001.png",
+      "width": 1536,
+      "height": 1024,
+      "hasAlpha": true,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 820764,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        133,
+        63,
+        1444,
+        999
+      ],
+      "solidBBoxAlpha128": [
+        134,
+        63,
+        1444,
+        998
+      ],
+      "approxAnchor": [
+        848.5,
+        998
+      ],
+      "anchorMeaning": "底部接地点近似位置",
+      "sha256": "5b68119ce7be5fcbe2f8b67a85ea59aaf913130a8284a11992c7dda0f5218756"
+    },
+    {
+      "id": "BLD_105",
+      "file": "03_建筑与场景/bld_workshop_shell_v001.png",
+      "width": 1672,
+      "height": 941,
+      "hasAlpha": true,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1090432,
+        "borderNonzeroPixels": 6,
+        "borderPixelsAlpha16": 0,
+        "warning": "保留原始alpha；边缘存在少量alpha小于16的像素。"
+      },
+      "visibleBBoxAlpha16": [
+        270,
+        119,
+        1404,
+        824
+      ],
+      "solidBBoxAlpha128": [
+        271,
+        120,
+        1404,
+        824
+      ],
+      "approxAnchor": [
+        835,
+        824
+      ],
+      "anchorMeaning": "底部接地点近似位置",
+      "sha256": "5449358e8da49fe547e929d50506b91ae3e44369fbaa5c0ca96cef864f19e533"
+    },
+    {
+      "id": "BLD_106",
+      "file": "03_建筑与场景/bld_teashop_shell_v001.png",
+      "width": 1672,
+      "height": 941,
+      "hasAlpha": true,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1025016,
+        "borderNonzeroPixels": 11,
+        "borderPixelsAlpha16": 0,
+        "warning": "保留原始alpha；边缘存在少量alpha小于16的像素。"
+      },
+      "visibleBBoxAlpha16": [
+        265,
+        61,
+        1414,
+        886
+      ],
+      "solidBBoxAlpha128": [
+        266,
+        62,
+        1414,
+        885
+      ],
+      "approxAnchor": [
+        836,
+        885
+      ],
+      "anchorMeaning": "底部接地点近似位置",
+      "sha256": "9fb997c3c562364b891a21b58496e3aba924a8e231dcc2092de8b7ccbcb81ff5"
+    },
+    {
+      "id": "BLD_103",
+      "file": "03_建筑与场景/bld_pavilion_v001.png",
+      "width": 1536,
+      "height": 1024,
+      "hasAlpha": true,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1142957,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        270,
+        70,
+        1264,
+        926
+      ],
+      "solidBBoxAlpha128": [
+        271,
+        71,
+        1264,
+        926
+      ],
+      "approxAnchor": [
+        740,
+        926
+      ],
+      "anchorMeaning": "底部接地点近似位置",
+      "sha256": "1a436f268d53b7a3cc1e594311a779a422c7b2d1a3f91804a46ae4f382aceac4"
+    },
+    {
+      "id": "BLD_104",
+      "file": "03_建筑与场景/bld_bridge_v001.png",
+      "width": 1536,
+      "height": 1024,
+      "hasAlpha": true,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1256907,
+        "borderNonzeroPixels": 25,
+        "borderPixelsAlpha16": 0,
+        "warning": "保留原始alpha；边缘存在少量alpha小于16的像素。"
+      },
+      "visibleBBoxAlpha16": [
+        302,
+        175,
+        1306,
+        848
+      ],
+      "solidBBoxAlpha128": [
+        302,
+        176,
+        1305,
+        848
+      ],
+      "approxAnchor": [
+        605,
+        848
+      ],
+      "anchorMeaning": "底部接地点近似位置",
+      "sha256": "925b3c59d1facbdbb2aff95b8f670ef92392977cbc726d5241fec4b435c6081b"
+    },
+    {
+      "id": "DEC_102",
+      "file": "03_建筑与场景/dec_fence_wood_v001.png",
+      "width": 1536,
+      "height": 1024,
+      "hasAlpha": true,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1378487,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        312,
+        173,
+        1281,
+        830
+      ],
+      "solidBBoxAlpha128": [
+        312,
+        173,
+        1280,
+        829
+      ],
+      "approxAnchor": [
+        360,
+        829
+      ],
+      "anchorMeaning": "底部接地点近似位置",
+      "sha256": "e0465d4e59a5762dad6da6a255a33147a14a83c4c75d7a3a5ce5afa4462f20bf"
+    },
+    {
+      "id": "BG_101",
+      "file": "03_建筑与场景/bg_mountains_layer_v001.png",
+      "width": 1672,
+      "height": 941,
+      "hasAlpha": true,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1272988,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        85,
+        333,
+        1574,
+        673
+      ],
+      "solidBBoxAlpha128": [
+        107,
+        334,
+        1546,
+        646
+      ],
+      "approxAnchor": [
+        829.5,
+        503
+      ],
+      "anchorMeaning": "图层可见范围中心",
+      "sha256": "c796c620148136abaa7544bd75d5b4e0d0bd9bcba8daa0477456fbe8ce1e3a7a"
+    },
+    {
+      "id": "BG_102",
+      "file": "03_建筑与场景/bg_water_layer_v001.png",
+      "width": 1672,
+      "height": 941,
+      "hasAlpha": true,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1076015,
+        "borderNonzeroPixels": 73,
+        "borderPixelsAlpha16": 0,
+        "warning": "保留原始alpha；边缘存在少量alpha小于16的像素。"
+      },
+      "visibleBBoxAlpha16": [
+        46,
+        230,
+        1632,
+        757
+      ],
+      "solidBBoxAlpha128": [
+        47,
+        231,
+        1631,
+        756
+      ],
+      "approxAnchor": [
+        839,
+        493.5
+      ],
+      "anchorMeaning": "图层可见范围中心",
+      "sha256": "84408278a60e131970a0d4e48dc16e9a02786ea86ab94f51151180ca58a7fb9f"
+    },
+    {
+      "id": "BG_103",
+      "file": "03_建筑与场景/bg_cloud_layer_v001.png",
+      "width": 1672,
+      "height": 941,
+      "hasAlpha": true,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1466042,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        120,
+        372,
+        1599,
+        570
+      ],
+      "solidBBoxAlpha128": [
+        121,
+        373,
+        1598,
+        569
+      ],
+      "approxAnchor": [
+        859.5,
+        471
+      ],
+      "anchorMeaning": "图层可见范围中心",
+      "sha256": "a57bc525ec4a9efc5294cdb63d609fbd0538ec9e69bc9e6c28246eb50f723c0f"
+    },
+    {
+      "id": "DEC_101",
+      "file": "03_建筑与场景/dec_lantern_v001.png",
+      "width": 1086,
+      "height": 1448,
+      "hasAlpha": true,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1252503,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        336,
+        86,
+        749,
+        1359
+      ],
+      "solidBBoxAlpha128": [
+        337,
+        87,
+        748,
+        1358
+      ],
+      "approxAnchor": [
+        542.5,
+        87
+      ],
+      "anchorMeaning": "悬挂点近似位置",
+      "sha256": "aaee1b27ddd871134e6e11ec85f181df18adca9b87eaf94b07201b1db623eb4a"
+    },
+    {
+      "id": "DEC_103",
+      "file": "03_建筑与场景/dec_lotus_v001.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1176444,
+        "borderNonzeroPixels": 2,
+        "borderPixelsAlpha16": 0,
+        "warning": "保留原始alpha；边缘存在少量alpha小于16的像素。"
+      },
+      "visibleBBoxAlpha16": [
+        152,
+        210,
+        1104,
+        1083
+      ],
+      "solidBBoxAlpha128": [
+        153,
+        211,
+        1103,
+        1082
+      ],
+      "approxAnchor": [
+        625,
+        1082
+      ],
+      "anchorMeaning": "根部近似位置",
+      "sha256": "ac366b83414309854944ce4885fcb363ad8fe7031d73485fdba8ed2b89450012"
+    },
+    {
+      "id": "PLT_106",
+      "file": "03_建筑与场景/plt_pine_tree_v001.png",
+      "width": 1024,
+      "height": 1536,
+      "hasAlpha": true,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1115881,
+        "borderNonzeroPixels": 0,
+        "borderPixelsAlpha16": 0,
+        "warning": ""
+      },
+      "visibleBBoxAlpha16": [
+        50,
+        207,
+        988,
+        1391
+      ],
+      "solidBBoxAlpha128": [
+        51,
+        208,
+        987,
+        1390
+      ],
+      "approxAnchor": [
+        540,
+        1390
+      ],
+      "anchorMeaning": "根部近似位置",
+      "sha256": "12a7bf7d5e823affc4ff6b48b62a6c7b949e9f03183dd52d8fb479853126e206"
+    },
+    {
+      "id": "PLT_107",
+      "file": "03_建筑与场景/plt_red_tree_v001.png",
+      "width": 1024,
+      "height": 1536,
+      "hasAlpha": true,
+      "alphaCheck": {
+        "pass": true,
+        "cornersAlpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "transparentPixels": 1192024,
+        "borderNonzeroPixels": 34,
+        "borderPixelsAlpha16": 0,
+        "warning": "保留原始alpha；边缘存在少量alpha小于16的像素。"
+      },
+      "visibleBBoxAlpha16": [
+        141,
+        233,
+        919,
+        1331
+      ],
+      "solidBBoxAlpha128": [
+        142,
+        234,
+        918,
+        1331
+      ],
+      "approxAnchor": [
+        588.5,
+        1331
+      ],
+      "anchorMeaning": "根部近似位置",
+      "sha256": "f09f409fe4844f72fd927e6162ad215ab8d6ac81e15dc9641dda97cd3668d5ff"
+    }
+  ],
+  "pass": true
+}

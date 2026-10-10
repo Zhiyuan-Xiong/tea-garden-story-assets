@@ -1,0 +1,20 @@
+背景音乐 / Music credits
+
+"River Flute" Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 4.0 License
+https://creativecommons.org/licenses/by/4.0/
+
+Original work:
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1900005
+Official licensing information:
+https://incompetech.com/music/royalty-free/licenses/
+ISRC: USUAN1900005
+
+Changes for 茶园物语: opening/closing fades trimmed; eight-second tail/head
+crossfade prepared offline; gentle gain and soft peak control; Ogg Vorbis encoding.
+The composer does not endorse this game. No additional restrictions are imposed
+on the music. The game's other assets retain their respective terms.
+
+游戏内：设置 → 声音与氛围可调节音量、静音，并查看音乐来源与授权链接。
+运行时只播放一个持续存在的 AudioStreamPlayer；场景与过渡页不会重启音乐。
+本次接入没有使用 InVideo 或付费生成服务。

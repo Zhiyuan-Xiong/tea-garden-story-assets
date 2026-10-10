@@ -1,0 +1,391 @@
+{
+	"captures": [
+		"res://docs/第二轮调整/实际画面/home.png",
+		"res://docs/第二轮调整/实际画面/loading.png",
+		"res://docs/第二轮调整/实际画面/village.png",
+		"res://docs/第二轮调整/实际画面/workshop.png",
+		"res://docs/第二轮调整/实际画面/teashop.png",
+		"res://docs/第二轮调整/实际画面/garden.png",
+		"res://docs/第二轮调整/实际画面/guide_spread.png",
+		"res://docs/第二轮调整/实际画面/guide_fixation.png",
+		"res://docs/第二轮调整/实际画面/guide_rolling.png",
+		"res://docs/第二轮调整/实际画面/guide_drying.png",
+		"res://docs/第二轮调整/实际画面/guide_sorting.png",
+		"res://docs/第二轮调整/实际画面/panel_welcome.png",
+		"res://docs/第二轮调整/实际画面/panel_plant.png",
+		"res://docs/第二轮调整/实际画面/panel_seeds.png",
+		"res://docs/第二轮调整/实际画面/panel_inventory.png",
+		"res://docs/第二轮调整/实际画面/panel_basket.png",
+		"res://docs/第二轮调整/实际画面/panel_fertilizer.png",
+		"res://docs/第二轮调整/实际画面/panel_manual.png",
+		"res://docs/第二轮调整/实际画面/panel_recipe.png",
+		"res://docs/第二轮调整/实际画面/panel_tools.png",
+		"res://docs/第二轮调整/实际画面/panel_order.png",
+		"res://docs/第二轮调整/实际画面/panel_shop.png",
+		"res://docs/第二轮调整/实际画面/panel_journal.png",
+		"res://docs/第二轮调整/实际画面/panel_settings.png",
+		"res://docs/第二轮调整/实际画面/panel_saves.png",
+		"res://docs/第二轮调整/实际画面/panel_confirm.png",
+		"res://docs/第二轮调整/实际画面/panel_info.png",
+		"res://docs/第二轮调整/实际画面/processing_0.png",
+		"res://docs/第二轮调整/实际画面/processing_1.png",
+		"res://docs/第二轮调整/实际画面/processing_2.png",
+		"res://docs/第二轮调整/实际画面/processing_3.png",
+		"res://docs/第二轮调整/实际画面/processing_4.png",
+		"res://docs/第二轮调整/实际画面/tooltip.png"
+	],
+	"issues": [],
+	"renderer": "NVIDIA GeForce RTX 5070 Ti Laptop GPU",
+	"rendering_method": "gl_compatibility",
+	"resolution": [
+		1920,
+		1080
+	],
+	"source_registration": [
+		{
+			"matches_source_registration": true,
+			"rect": [
+				387.990417480469,
+				367.535888671875,
+				405.358825683594,
+				205.550231933594
+			],
+			"room": "workshop",
+			"scale": [
+				0.574162662029266,
+				0.574162662029266
+			],
+			"source_id": "FGW_01"
+		},
+		{
+			"matches_source_registration": true,
+			"rect": [
+				802.296630859375,
+				179.210525512695,
+				240.0,
+				268.708129882813
+			],
+			"room": "workshop",
+			"scale": [
+				0.574162662029266,
+				0.574162662029266
+			],
+			"source_id": "FGW_02"
+		},
+		{
+			"matches_source_registration": true,
+			"rect": [
+				864.68896484375,
+				509.856414794922,
+				192.918701171875,
+				180.287109375
+			],
+			"room": "workshop",
+			"scale": [
+				0.574162781238556,
+				0.574162781238556
+			],
+			"source_id": "FGW_03"
+		},
+		{
+			"matches_source_registration": true,
+			"rect": [
+				1123.06225585938,
+				606.315795898438,
+				341.052612304688,
+				234.258361816406
+			],
+			"room": "workshop",
+			"scale": [
+				0.574162662029266,
+				0.574162662029266
+			],
+			"source_id": "FGW_04"
+		},
+		{
+			"matches_source_registration": true,
+			"rect": [
+				1385.99523925781,
+				400.134002685547,
+				205.550170898438,
+				265.263122558594
+			],
+			"room": "workshop",
+			"scale": [
+				0.574162483215332,
+				0.574162602424622
+			],
+			"source_id": "FGW_05"
+		},
+		{
+			"matches_source_registration": true,
+			"rect": [
+				1595.17700195313,
+				504.822998046875,
+				167.655517578125,
+				227.368438720703
+			],
+			"room": "workshop",
+			"scale": [
+				0.574162721633911,
+				0.574162721633911
+			],
+			"source_id": "FGW_06"
+		},
+		{
+			"matches_source_registration": true,
+			"rect": [
+				1065.57421875,
+				309.377990722656,
+				372.057373046875,
+				250.334899902344
+			],
+			"room": "workshop",
+			"scale": [
+				0.574162602424622,
+				0.574162602424622
+			],
+			"source_id": "FGW_07"
+		},
+		{
+			"matches_source_registration": true,
+			"rect": [
+				1488.94738769531,
+				636.100463867188,
+				134.354125976563,
+				109.090942382813
+			],
+			"room": "workshop",
+			"scale": [
+				0.57416296005249,
+				0.574162840843201
+			],
+			"source_id": "FGW_08"
+		},
+		{
+			"matches_source_registration": true,
+			"rect": [
+				570.822875976563,
+				494.411468505859,
+				90.7177124023438,
+				76.9377746582031
+			],
+			"room": "workshop",
+			"scale": [
+				0.574162721633911,
+				0.574162483215332
+			],
+			"source_id": "FGW_09"
+		},
+		{
+			"matches_source_registration": true,
+			"rect": [
+				692.511962890625,
+				479.483245849609,
+				55.11962890625,
+				76.9377746582031
+			],
+			"room": "workshop",
+			"scale": [
+				0.574162781238556,
+				0.574162483215332
+			],
+			"source_id": "FGW_10"
+		},
+		{
+			"matches_source_registration": true,
+			"rect": [
+				810.679443359375,
+				582.535888671875,
+				75.7894897460938,
+				87.272705078125
+			],
+			"room": "workshop",
+			"scale": [
+				0.574162781238556,
+				0.574162542819977
+			],
+			"source_id": "FGW_11"
+		},
+		{
+			"matches_source_registration": true,
+			"rect": [
+				1301.42578125,
+				697.148315429688,
+				192.918701171875,
+				140.095703125
+			],
+			"room": "workshop",
+			"scale": [
+				0.574162781238556,
+				0.574162721633911
+			],
+			"source_id": "FGW_12"
+		},
+		{
+			"matches_source_registration": true,
+			"rect": [
+				1041.53112792969,
+				106.794258117676,
+				86.1243896484375,
+				190.622009277344
+			],
+			"room": "workshop",
+			"scale": [
+				0.574162602424622,
+				0.574162662029266
+			],
+			"source_id": "FGW_13"
+		},
+		{
+			"matches_source_registration": true,
+			"rect": [
+				1191.96166992188,
+				183.732055664063,
+				102.200927734375,
+				141.244018554688
+			],
+			"room": "workshop",
+			"scale": [
+				0.574162542819977,
+				0.574162662029266
+			],
+			"source_id": "FGW_14"
+		},
+		{
+			"matches_source_registration": true,
+			"rect": [
+				1318.27746582031,
+				250.334930419922,
+				99.904296875,
+				118.277496337891
+			],
+			"room": "workshop",
+			"scale": [
+				0.574162602424622,
+				0.574162602424622
+			],
+			"source_id": "FGW_15"
+		},
+		{
+			"matches_source_registration": true,
+			"rect": [
+				882.248779296875,
+				455.550231933594,
+				482.296630859375,
+				273.301452636719
+			],
+			"room": "teashop",
+			"scale": [
+				0.574162662029266,
+				0.574162721633911
+			],
+			"source_id": "FGT_01"
+		},
+		{
+			"matches_source_registration": true,
+			"rect": [
+				1260.98083496094,
+				313.086120605469,
+				319.234497070313,
+				338.755981445313
+			],
+			"room": "teashop",
+			"scale": [
+				0.574162781238556,
+				0.574162662029266
+			],
+			"source_id": "FGT_02"
+		},
+		{
+			"matches_source_registration": true,
+			"rect": [
+				489.617218017578,
+				505.717742919922,
+				231.961700439453,
+				148.133972167969
+			],
+			"room": "teashop",
+			"scale": [
+				0.574162602424622,
+				0.574162662029266
+			],
+			"source_id": "FGT_03"
+		},
+		{
+			"matches_source_registration": true,
+			"rect": [
+				812.344482421875,
+				622.655517578125,
+				268.708129882813,
+				177.990417480469
+			],
+			"room": "teashop",
+			"scale": [
+				0.574162662029266,
+				0.574162662029266
+			],
+			"source_id": "FGT_04"
+		},
+		{
+			"matches_source_registration": true,
+			"rect": [
+				349.449768066406,
+				490.885162353516,
+				198.660278320313,
+				129.760772705078
+			],
+			"room": "teashop",
+			"scale": [
+				0.574162662029266,
+				0.574162721633911
+			],
+			"source_id": "FGT_05"
+		},
+		{
+			"matches_source_registration": true,
+			"rect": [
+				701.028686523438,
+				610.693786621094,
+				90.7177124023438,
+				122.870788574219
+			],
+			"room": "teashop",
+			"scale": [
+				0.574162721633911,
+				0.574162542819977
+			],
+			"source_id": "FGT_06"
+		},
+		{
+			"matches_source_registration": true,
+			"rect": [
+				787.009582519531,
+				473.741668701172,
+				66.6028442382813,
+				134.354064941406
+			],
+			"room": "teashop",
+			"scale": [
+				0.574162423610687,
+				0.574162662029266
+			],
+			"source_id": "FGT_07"
+		},
+		{
+			"matches_source_registration": true,
+			"rect": [
+				949.961730957031,
+				392.535888671875,
+				72.344482421875,
+				105.645935058594
+			],
+			"room": "teashop",
+			"scale": [
+				0.574162542819977,
+				0.574162662029266
+			],
+			"source_id": "FGT_08"
+		}
+	]
+}

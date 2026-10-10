@@ -1,0 +1,110 @@
+{
+  "furniture": {
+    "FGW_01": [
+      -30,
+      0
+    ],
+    "FGW_02": [
+      80,
+      0
+    ],
+    "FGU_W1": [
+      -30,
+      0
+    ],
+    "FGU_W2": [
+      80,
+      0
+    ]
+  },
+  "characters": {
+    "coordinateSpace": [
+      1920,
+      1080
+    ],
+    "anchor": "bottom centre of cropped visible silhouette",
+    "people": [
+      {
+        "name": "GardenCompanion",
+        "room": "garden",
+        "id": "CHR_102",
+        "foot": [
+          783,
+          517
+        ],
+        "width": 45,
+        "layer": "front"
+      },
+      {
+        "name": "GardenPicker",
+        "room": "garden",
+        "id": "CHR_003",
+        "foot": [
+          717,
+          785
+        ],
+        "width": 74,
+        "layer": "front"
+      },
+      {
+        "name": "WorkshopCompanion",
+        "room": "workshop",
+        "id": "CHR_102",
+        "foot": [
+          780,
+          665
+        ],
+        "width": 45,
+        "layer": "front"
+      },
+      {
+        "name": "WorkshopMaker",
+        "room": "workshop",
+        "id": "CHR_004",
+        "foot": [
+          1087,
+          724
+        ],
+        "width": 70,
+        "layer": "front"
+      },
+      {
+        "name": "TeashopServer",
+        "room": "teashop",
+        "id": "CHR_005",
+        "foot": [
+          1184,
+          555
+        ],
+        "width": 66,
+        "layer": "behind_counter"
+      },
+      {
+        "name": "TeashopGuest",
+        "room": "teashop",
+        "id": "CHR_202",
+        "foot": [
+          1413,
+          704
+        ],
+        "width": 64,
+        "layer": "front",
+        "dynamicCustomer": true
+      }
+    ],
+    "props": [
+      {
+        "name": "GardenBasket",
+        "room": "garden",
+        "id": "PRP_101",
+        "foot": [
+          757,
+          808
+        ],
+        "width": 50,
+        "layer": "front"
+      }
+    ]
+  },
+  "animation": "paused by user; no further InVideo calls"
+}

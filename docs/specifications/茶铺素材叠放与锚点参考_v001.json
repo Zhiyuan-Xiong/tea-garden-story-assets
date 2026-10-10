@@ -1,0 +1,263 @@
+{
+  "project": "茶园物语",
+  "unit": "原始PNG像素",
+  "note": "正式PNG保留原始画布。茶杯和茶汤层留白不同；先映射主体范围，再按杯口区域叠加。此处只做浏览器分层预览，尚未在Godot中验收。",
+  "regions": [
+    {
+      "id": "ICO_301",
+      "file": "06_道具与图标/ico_shop_manage_v001.png",
+      "canvas": [
+        1254,
+        1254
+      ],
+      "sourceRegion": {
+        "x": 186,
+        "y": 356,
+        "width": 883,
+        "height": 610
+      },
+      "bottomCenterAnchor": [
+        627,
+        965
+      ]
+    },
+    {
+      "id": "PRP_301",
+      "file": "06_道具与图标/prp_teapot_celadon_v001.png",
+      "canvas": [
+        1254,
+        1254
+      ],
+      "sourceRegion": {
+        "x": 198,
+        "y": 363,
+        "width": 880,
+        "height": 568
+      },
+      "bottomCenterAnchor": [
+        637.5,
+        930
+      ]
+    },
+    {
+      "id": "PRP_302",
+      "file": "06_道具与图标/prp_teacup_empty_v001.png",
+      "canvas": [
+        1254,
+        1254
+      ],
+      "sourceRegion": {
+        "x": 219,
+        "y": 293,
+        "width": 818,
+        "height": 719
+      },
+      "bottomCenterAnchor": [
+        627.5,
+        1011
+      ]
+    },
+    {
+      "id": "PRP_303",
+      "file": "06_道具与图标/prp_tea_liquid_overlay_v001.png",
+      "canvas": [
+        1254,
+        1254
+      ],
+      "sourceRegion": {
+        "x": 208,
+        "y": 484,
+        "width": 840,
+        "height": 367
+      },
+      "bottomCenterAnchor": [
+        627.5,
+        850
+      ]
+    },
+    {
+      "id": "PRP_304",
+      "file": "06_道具与图标/prp_tea_table_empty_v001.png",
+      "canvas": [
+        1536,
+        1024
+      ],
+      "sourceRegion": {
+        "x": 228,
+        "y": 63,
+        "width": 1083,
+        "height": 907
+      },
+      "bottomCenterAnchor": [
+        769,
+        969
+      ]
+    },
+    {
+      "id": "PRP_305",
+      "file": "06_道具与图标/prp_tea_chair_v001.png",
+      "canvas": [
+        1254,
+        1254
+      ],
+      "sourceRegion": {
+        "x": 309,
+        "y": 117,
+        "width": 658,
+        "height": 1044
+      },
+      "bottomCenterAnchor": [
+        637.5,
+        1160
+      ]
+    },
+    {
+      "id": "PRP_306",
+      "file": "06_道具与图标/prp_shop_counter_empty_v001.png",
+      "canvas": [
+        1536,
+        1024
+      ],
+      "sourceRegion": {
+        "x": 80,
+        "y": 81,
+        "width": 1405,
+        "height": 891
+      },
+      "bottomCenterAnchor": [
+        782,
+        971
+      ]
+    },
+    {
+      "id": "PRP_307",
+      "file": "06_道具与图标/prp_shop_cabinet_empty_v001.png",
+      "canvas": [
+        1024,
+        1536
+      ],
+      "sourceRegion": {
+        "x": 78,
+        "y": 62,
+        "width": 889,
+        "height": 1428
+      },
+      "bottomCenterAnchor": [
+        522,
+        1489
+      ]
+    },
+    {
+      "id": "PRP_308",
+      "file": "06_道具与图标/prp_copper_coin_v001.png",
+      "canvas": [
+        1254,
+        1254
+      ],
+      "sourceRegion": {
+        "x": 280,
+        "y": 279,
+        "width": 692,
+        "height": 684
+      },
+      "bottomCenterAnchor": [
+        625.5,
+        962
+      ]
+    },
+    {
+      "id": "PRP_309",
+      "file": "06_道具与图标/prp_account_book_v001.png",
+      "canvas": [
+        1254,
+        1254
+      ],
+      "sourceRegion": {
+        "x": 138,
+        "y": 163,
+        "width": 988,
+        "height": 918
+      },
+      "bottomCenterAnchor": [
+        631.5,
+        1080
+      ]
+    }
+  ],
+  "layering": [
+    {
+      "base": "PRP_302",
+      "overlay": "PRP_303",
+      "overlayVisibleRectOnBaseCanvas": [
+        275,
+        415,
+        685,
+        285
+      ],
+      "order": [
+        "PRP_302",
+        "PRP_303"
+      ],
+      "note": "液面位于杯内，留出内壁及前缘；不把杯身合并进茶汤素材。"
+    },
+    {
+      "base": "PRP_304",
+      "order": [
+        "PRP_304",
+        "PRP_301",
+        "PRP_302",
+        "PRP_303"
+      ],
+      "overlayVisibleRectsOnBaseCanvas": {
+        "PRP_301": [
+          650,
+          130,
+          220,
+          145
+        ],
+        "PRP_302": [
+          895,
+          270,
+          120,
+          104
+        ]
+      },
+      "note": "茶桌留空，壶杯均为独立道具；杯具缩小展示时茶汤随杯口位置一起变换。"
+    },
+    {
+      "base": "PRP_307",
+      "overlay": "PRP_209",
+      "overlayVisibleRectsOnBaseCanvas": [
+        [
+          365,
+          490,
+          150,
+          168
+        ],
+        [
+          660,
+          385,
+          150,
+          168
+        ],
+        [
+          365,
+          810,
+          150,
+          168
+        ],
+        [
+          660,
+          705,
+          150,
+          168
+        ]
+      ],
+      "order": [
+        "PRP_307",
+        "PRP_209"
+      ],
+      "note": "跨批次复用工坊成品茶罐。仅放在格子内侧，不盖立柱；物品数量来自后续游戏数据。"
+    }
+  ]
+}

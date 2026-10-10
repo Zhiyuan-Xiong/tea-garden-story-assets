@@ -1,0 +1,22 @@
+{
+  "id": "UI_043",
+  "category": "04_UI组件",
+  "label": "主页绿按钮禁用",
+  "plannedFile": "ui_home_button_disabled_v001.png",
+  "functionArea": "主页按钮",
+  "transparent": true,
+  "targetSize": "1536×1024",
+  "batch": "09_完整背景主页与存档UI",
+  "status": "待生成",
+  "actualSize": "",
+  "relativePath": "04_UI组件/ui_home_button_disabled_v001.png",
+  "remarks": "独立透明PNG，界面文字与数值另设",
+  "prompt": "Use case: stylized-concept. One independent game bitmap component for 茶园物语. CLEAN Chinese hand-painted pale watercolor with sparse fine warm-gray/brown ink outlines, light ivory-gray #EEECE5, pale gray-jade #BCC6BE, muted gray tea green #98A38F, ash bamboo taupe #C7B69E. Smooth broad color fields, minimal two-tone shading, restrained brushwork. NO speckle, paper grain, wood grain, drybrush scratches, dense texture, muddiness, excessive saturation, photorealism or thick black lines.\nTrue RGBA TRANSPARENT background. Only requested subject; generous transparent margins on all four sides, entire silhouette uncut. No white/paper/black backdrop, checkerboard, halo, glow, cast shadow, vignette, labels, words, numbers, watermarks or extra objects. All decorative form restrained. Preserve clarity at small game size. Palette follows the supplied final game scene: elegant pale ivory, restrained gray sage green and ash honey taupe. Enough gentle color to avoid looking desaturated; approximately 25% more color strength than the earlier overly gray palette. High luminance. No vivid cyan or candy colors.\nUse case: precise-object-edit. Image 1 is the DEFAULT blank home button. Produce its DISABLED state. Preserve exactly the canvas, placement, cloud-lobed outer silhouette, double border, corners and proportions. Change only colors: very pale neutral gray-sage fill #CBCFC6, quiet ivory-gray rim and low-emphasis taupe inner line. Smooth broad light shading. Clear visual difference from normal, hover and pressed, but no diagonal stripes or crossed symbol. No text, icon, glow, grain, shadow or new ornament. True transparent surroundings. Do not alter outer footprint.",
+  "references": [
+    "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\04_UI组件\\ui_home_button_normal_v001.png"
+  ],
+  "mode": "built-in image_gen transparent component",
+  "source": "C:\\Users\\24586\\.codex\\generated_images\\01a11cae-e24d-7041-a410-2288c7c54b91\\exec-8031c3b2-13f1-4133-b429-fbbc99cfb288.png",
+  "savedPath": "04_UI组件/ui_home_button_disabled_v001.png",
+  "destination": "D:\\AAA找到工作\\素材们\\项目3-中国传统制茶技艺数字展示策略研究\\茶园物语-制作素材\\04_UI组件\\ui_home_button_disabled_v001.png"
+}
